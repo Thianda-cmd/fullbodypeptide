@@ -1,0 +1,250 @@
+{
+  "slug": "thymosin-alpha-1",
+  "name": "Thymosin alpha-1",
+  "zone": "immune",
+  "category": "wellness",
+  "aliases": [
+    "Tα1",
+    "Thymalfasin",
+    "Zadaxin (brand used outside the US)"
+  ],
+  "brands": [],
+  "class": "Immunomodulatory thymic peptide",
+  "route": "Injection under the skin (in studies and where approved abroad)",
+  "status": "Not FDA-approved; approved in some other countries; FDA advisers voted against compounding use in Dec 2024",
+  "evidence": 3,
+  "mechanism": "A 28-amino-acid thymic peptide thought to nudge T cells and dendritic cells toward a stronger, better-regulated immune response",
+  "uses": [
+    "Hepatitis B and C (approved abroad)",
+    "Sepsis, vaccine response, cancer (studied)"
+  ],
+  "popular": 14,
+  "related": [
+    "thymosin-beta-4",
+    "thymulin",
+    "ll-37",
+    "nangibotide"
+  ],
+  "article": {
+    "summary": "Thymosin alpha-1 is a thymus-derived peptide approved as a drug in some countries, not the US. Trials in sepsis and infections are mixed, and FDA advisers rejected compounding use in 2024.",
+    "takeaway": "Thymosin alpha-1 is a 28-amino-acid peptide first isolated from the thymus, the gland where T cells mature.[^1] A synthetic version, thymalfasin (Zadaxin), is approved in more than 35 countries for hepatitis B and C and as an immune enhancer, but not in the United States.[^1] Its best-tested use is sepsis, where results are mixed: a 361-patient trial suggested lower 28-day mortality (26% vs 35%, P=0.062),[^2] but the larger 1,106-patient phase 3 TESTS trial found **no difference** (23.4% vs 24.1%).[^3] In December 2024 an FDA advisory committee voted 17 to 4 against allowing compounding pharmacies to use it, citing a lack of convincing effectiveness data.[^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; FDA advisers voted against compounding use (Dec 2024)"
+      ],
+      [
+        "Main uses",
+        "Hepatitis B/C and immune support abroad; studied in sepsis, vaccines and cancer"
+      ],
+      [
+        "How it's given",
+        "Subcutaneous injection in trials and where approved"
+      ],
+      [
+        "Drug class",
+        "Immunomodulatory thymic peptide"
+      ],
+      [
+        "Research",
+        "Randomized trials in sepsis, hepatitis and cancer; mixed results"
+      ],
+      [
+        "Related",
+        "[Thymulin](/peptides/thymulin), [thymosin beta-4](/peptides/thymosin-beta-4)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The thymus trains T cells, the coordinators of the immune system. Thymosin alpha-1 was first isolated from a bovine thymus preparation called thymosin fraction 5, and the synthetic copy is a 28-amino-acid peptide.[^1] In lab and animal work it is reported to promote T-cell maturation, activate dendritic and natural killer cells and tune cytokine signaling.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "In sepsis the aim is to restore immune function in patients whose defenses are exhausted, a state marked by low HLA-DR on monocytes. In the ETASS trial that marker recovered more with the peptide.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Result"
+              ],
+              [
+                "ETASS (2013)",
+                "361 adults with severe sepsis, China",
+                "28-day mortality 26.0% vs 35.0% (P=0.062; relative risk 0.74, 0.54-1.02); better monocyte HLA-DR recovery[^2]"
+              ],
+              [
+                "TESTS phase 3 (2025)",
+                "1,106 adults with sepsis, 22 Chinese hospitals",
+                "28-day mortality 23.4% vs 24.1% (hazard ratio 0.99, 0.77-1.27): no difference; subgroup signals by age and diabetes were exploratory[^3]"
+              ],
+              [
+                "Meta-analysis (2025)",
+                "11 randomized sepsis trials, 1,927 patients",
+                "Overall odds ratio for death 0.73 (0.59-0.90), but not significant in high-quality or multicenter trials; sample size judged inadequate[^5]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "A 2020 review also describes use in hepatitis B and C, alone or with interferon, as well tolerated.[^1] Every trial above enrolled people who were ill; none of the sources reviewed tested thymosin alpha-1 for general immune support in healthy people."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**In trials:** it was generally well tolerated. ETASS recorded no serious drug-related adverse event, and TESTS found no significant differences in safety outcomes.[^2][^3]",
+              "**FDA concerns:** the agency says compounded thymosin alpha-1 may pose a significant risk of immunogenicity (an unwanted immune reaction to the peptide), may contain peptide-related impurities, and that the safety information is inadequate.[^6]",
+              "**Unstudied groups:** effects in people with autoimmune disease or taking immunosuppressants are not well characterized.",
+              "**Gray-market products:** vials sold online as research peptides are unapproved. Identity, purity, sterility and the exact form (free base or acetate) are not guaranteed."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Thymosin alpha-1 is not FDA-approved for any use. The FDA had listed it among compounding substances raising significant safety concerns; the nominations were withdrawn, and the agency's page (current as of April 22, 2026) now lists it as 'nominated but withdrawn' while repeating its safety concerns.[^6]"
+          },
+          {
+            "type": "p",
+            "text": "At a December 4, 2024 meeting, the FDA's compounding advisory committee reviewed uses including hepatitis, HIV, COVID-19, vaccine response, cancers and sepsis. It voted 4 yes to 17 no on adding either the free base or the acetate form to the 503A bulks list, citing a lack of compelling evidence of effectiveness and safety.[^4] Thymosin alpha-1 appears on none of the FDA category lists updated May 14, 2026,[^7] and it was not on the agenda of the July 23-24, 2026 advisory meeting.[^8]"
+          },
+          {
+            "type": "p",
+            "text": "Anti-doping: WADA's 2026 Prohibited List names thymosin-beta-4 and its derivatives (TB-500), a different peptide, but not thymosin alpha-1. Because thymalfasin is approved as a drug elsewhere, the ban on unapproved substances (S0) would not obviously apply, but athletes should confirm with their anti-doping organization."
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Thymosin alpha-1 is one of the better-studied wellness peptides, with real randomized trials and approvals abroad. But the largest trial in its flagship use, sepsis, was negative, US advisers did not find the effectiveness data convincing, and nothing supports using it for general immune support. Gray-market vials add quality risks on top of that uncertainty."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Mixed: many trials in illness, largest sepsis trial negative",
+      "text": "Many studies exist, including randomized trials in sepsis, hepatitis and cancer, but the largest sepsis trial was negative[^3] and a meta-analysis found no benefit in high-quality trials.[^5] FDA advisers called the effectiveness data unconvincing,[^4] and there are no trials of use for general wellness."
+    },
+    "faq": [
+      {
+        "q": "Is thymosin alpha-1 the same as thymosin beta-4 (TB-500)?",
+        "a": "No. They are different thymus-related peptides. Thymosin beta-4 and its derivatives are named on WADA's prohibited list; thymosin alpha-1 is not. See [thymosin beta-4](/peptides/thymosin-beta-4)."
+      },
+      {
+        "q": "Is it approved anywhere?",
+        "a": "A synthetic version is approved in more than 35 countries, mainly for hepatitis B and C and as an immune enhancer, but not by the FDA.[^1]"
+      },
+      {
+        "q": "Can compounding pharmacies make it?",
+        "a": "Not under any FDA-recognized pathway in the sources reviewed. An advisory committee voted 17 to 4 against adding it to the 503A bulks list in December 2024,[^4] and it does not appear on FDA's current category lists.[^7]"
+      },
+      {
+        "q": "Does it boost immunity in healthy people?",
+        "a": "No trial reviewed tested that. The studies enroll people with illnesses such as sepsis or hepatitis."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Thymosin alpha 1: A comprehensive review of the literature.",
+        "source": "World J Virol",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33362999/",
+        "pmid": "33362999",
+        "doi": "10.5501/wjv.v9.i5.67",
+        "note": "Review: structure, uses and approvals in over 35 countries"
+      },
+      {
+        "n": 2,
+        "title": "The efficacy of thymosin alpha 1 for severe sepsis (ETASS): a multicenter, single-blind, randomized and controlled trial.",
+        "source": "Crit Care",
+        "year": 2013,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23327199/",
+        "pmid": "23327199",
+        "doi": "10.1186/cc11932",
+        "note": "361-patient sepsis trial"
+      },
+      {
+        "n": 3,
+        "title": "The efficacy and safety of thymosin α1 for sepsis (TESTS): multicentre, double blinded, randomised, placebo controlled, phase 3 trial.",
+        "source": "BMJ",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39814420/",
+        "pmid": "39814420",
+        "doi": "10.1136/bmj-2024-082583",
+        "note": "1,106-patient phase 3 sepsis trial"
+      },
+      {
+        "n": 4,
+        "title": "December 4, 2024 Pharmacy Compounding Advisory Committee Meeting: Summary Minutes",
+        "source": "U.S. FDA",
+        "year": 2024,
+        "url": "https://www.fda.gov/media/185642/download",
+        "note": "17-4 vote against adding thymosin alpha-1 to the 503A list"
+      },
+      {
+        "n": 5,
+        "title": "Efficacy of thymosin α1 for sepsis: a systematic review and meta-analysis of randomized controlled trials.",
+        "source": "Front Cell Infect Microbiol",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40969554/",
+        "pmid": "40969554",
+        "doi": "10.3389/fcimb.2025.1673959",
+        "note": "Pooled analysis of 11 sepsis trials"
+      },
+      {
+        "n": 6,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA safety concerns; content current as of April 22, 2026"
+      },
+      {
+        "n": 7,
+        "title": "Bulk Drug Substances Nominated for Use in Compounding Under Section 503A of the Federal Food, Drug, and Cosmetic Act",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/media/94155/download",
+        "note": "FDA category lists updated May 14, 2026"
+      },
+      {
+        "n": 8,
+        "title": "July 23-24, 2026 Meeting of the Pharmacy Compounding Advisory Committee",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+        "note": "Substances on the July 2026 agenda"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "slug": "igf-1-des",
+  "name": "IGF-1 DES",
+  "zone": "bones",
+  "category": "wellness",
+  "aliases": [
+    "DES(1-3) IGF-1",
+    "Des(1-3)IGF-I"
+  ],
+  "brands": [],
+  "class": "Truncated IGF-1 analog",
+  "route": "Injection in research and gray-market use",
+  "status": "Never approved for human use; sold as a research chemical and black-market product; banned in sport by WADA",
+  "evidence": 1,
+  "mechanism": "IGF-1 missing its first three amino acids, so it binds IGF-binding proteins poorly and acts about ten times more strongly in cell studies",
+  "uses": [
+    "Muscle growth (claimed)",
+    "Recovery (claimed)"
+  ],
+  "popular": null,
+  "related": [
+    "igf-1-lr3",
+    "mechano-growth-factor",
+    "mecasermin",
+    "somatropin-rhgh"
+  ],
+  "article": {
+    "summary": "IGF-1 DES is a truncated, more potent form of insulin-like growth factor 1 sold for muscle growth. It was never approved for people, can lower blood sugar strongly, and is banned in sport.",
+    "takeaway": "IGF-1 DES, or des(1-3)IGF-1, is a natural variant of insulin-like growth factor 1 (IGF-1) that lacks three amino acids at one end. That change lets it escape the binding proteins that normally restrain IGF-1, making it about ten times more potent than IGF-1 in cultured cells.[^1] It has never been approved for human use, yet it is sold on the black market to bodybuilders, and analyses of such products have found lower-quality, oxidized material.[^2] In animals, IGF-1 variants like this lowered blood sugar more strongly and for longer than IGF-1 itself.[^3] WADA prohibits IGF-1 and its analogues at all times.[^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Never approved for any use"
+      ],
+      [
+        "Main uses claimed",
+        "Muscle growth, recovery"
+      ],
+      [
+        "How it's taken",
+        "Injection in gray-market use; no approved dosing"
+      ],
+      [
+        "Drug class",
+        "Truncated IGF-1 analog"
+      ],
+      [
+        "Research",
+        "Cell and animal studies; no human trials found[^1]"
+      ],
+      [
+        "Sport",
+        "Prohibited at all times (WADA lists IGF-1 and its analogues)[^4]"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "IGF-1 is made mainly by the liver in response to growth hormone and drives growth in muscle, bone and other tissues. In blood, most IGF-1 is held by IGF-binding proteins, which limit how much is active. Des(1-3)IGF-1 lacks the first three amino acids (Gly-Pro-Glu) and has been isolated from human brain, bovine colostrum and porcine uterus. Without the glutamate at position 3 it binds those proteins poorly, so more of it reaches the IGF-1 receptor.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Research on des(1-3)IGF-1 is almost entirely in cultured cells and animals. It is roughly 10-fold more potent than IGF-1 at stimulating growth of cultured cells, and in animals the extra potency persists after injection, with selective effects on gut tissue.[^1] A 1996 review said its clinical uses had not been evaluated.[^1] The searches for this entry found no human trial of injected des(1-3)IGF-1, so muscle-building claims have no human evidence."
+          },
+          {
+            "type": "note",
+            "text": "The IGF-1 medicine approved for people is mecasermin, used for a rare growth disorder. See [mecasermin](/peptides/mecasermin)."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Low blood sugar:** in pigs and marmosets, IGF-1 variants that bind poorly to binding proteins lowered glucose 2- to 3-fold more potently than IGF-1 and for much longer, and des(1-3)IGF-1 was the strongest[^3]",
+              "**Cancer questions:** higher circulating IGF-1 is linked to higher risk of prostate and premenopausal breast cancer in pooled studies; whether analogs used by athletes carry the same risk is unknown[^5]",
+              "**Quality:** anti-doping labs found many oxidized, lower-quality peptide forms in black-market IGF-1 analog products[^2], and a related case found a laboratory version of IGF-1 LR3 carrying an extra purification tag in an injection vial[^6]",
+              "**No human safety or dosing data** exist"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Des(1-3)IGF-1 has never been approved for human use. WADA prohibits IGF-1 and its analogues at all times,[^4] and anti-doping laboratories have validated methods to detect it.[^2] It does not appear in any category of the FDA's May 2026 list of bulk substances nominated for pharmacy compounding.[^7]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "IGF-1 DES is a laboratory tool with strong effects in cells and animals. It has no human trials, a known tendency to lower blood sugar in animals, an unsettled cancer question and unreliable black-market supply. Athletes subject to testing should treat it as banned."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Preclinical: cell and animal studies only",
+      "text": "The evidence is cell culture and animal work.[^1][^3] No human trial of the compound was found."
+    },
+    "faq": [
+      {
+        "q": "Is IGF-1 DES the same as IGF-1 LR3?",
+        "a": "No. Both are engineered IGF-1 variants that bind IGF-binding proteins poorly, but they differ in structure. See [IGF-1 LR3](/peptides/igf-1-lr3)."
+      },
+      {
+        "q": "Why would it affect blood sugar?",
+        "a": "IGF-1 can lower blood glucose, and variants that escape binding proteins did so more strongly and for longer in animal tests.[^3]"
+      },
+      {
+        "q": "Is it banned in sport?",
+        "a": "Yes. WADA prohibits IGF-1 and its analogues at all times.[^4]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Des(1-3)IGF-I: a truncated form of insulin-like growth factor-I",
+        "source": "Int J Biochem Cell Biol",
+        "year": 1996,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8930132/",
+        "pmid": "8930132",
+        "doi": "10.1016/1357-2725(96)00056-8",
+        "note": "Review of structure, potency and binding-protein effects"
+      },
+      {
+        "n": 2,
+        "title": "Detection of LongR(3) -IGF-I, Des(1-3)-IGF-I, and R(3) -IGF-I using immunopurification and high resolution mass spectrometry for antidoping purposes",
+        "source": "Drug Test Anal",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33587816/",
+        "pmid": "33587816",
+        "doi": "10.1002/dta.3016",
+        "note": "Anti-doping detection; black-market products of lower quality"
+      },
+      {
+        "n": 3,
+        "title": "IGF-I variants which bind poorly to IGF-binding proteins show more potent and prolonged hypoglycaemic action than native IGF-I in pigs and marmoset monkeys",
+        "source": "J Endocrinol",
+        "year": 1997,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9415072/",
+        "pmid": "9415072",
+        "doi": "10.1677/joe.0.1550377",
+        "note": "Animal data on blood sugar lowering"
+      },
+      {
+        "n": 4,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "IGF-1 and its analogues are prohibited at all times"
+      },
+      {
+        "n": 5,
+        "title": "Insulin-like growth factor (IGF)-I, IGF binding protein-3, and cancer risk: systematic review and meta-regression analysis",
+        "source": "Lancet",
+        "year": 2004,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15110491/",
+        "pmid": "15110491",
+        "doi": "10.1016/S0140-6736(04)16044-3",
+        "note": "IGF-1 levels and cancer risk in pooled studies"
+      },
+      {
+        "n": 6,
+        "title": "Detection of His-tagged Long-R³-IGF-I in a black market product",
+        "source": "Growth Horm IGF Res",
+        "year": 2010,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20675162/",
+        "pmid": "20675162",
+        "doi": "10.1016/j.ghir.2010.07.001",
+        "note": "A laboratory-grade IGF-1 analog found in an injection vial"
+      },
+      {
+        "n": 7,
+        "title": "Bulk Drug Substances Nominated for Use in Compounding Under Section 503A of the Federal Food, Drug, and Cosmetic Act (updated May 14, 2026)",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/media/94155/download",
+        "note": "Current 503A categories; IGF-1 DES is not listed"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

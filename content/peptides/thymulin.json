@@ -1,0 +1,245 @@
+{
+  "slug": "thymulin",
+  "name": "Thymulin",
+  "zone": "immune",
+  "category": "wellness",
+  "aliases": [
+    "Serum thymic factor (FTS)",
+    "Zinc-thymulin"
+  ],
+  "brands": [],
+  "class": "Zinc-dependent thymic hormone peptide",
+  "route": "Research use only; no approved product",
+  "status": "Not FDA-approved; FDA lists thymulin acetate in category 3 (nominated without adequate support)",
+  "evidence": 1,
+  "mechanism": "A nine-amino-acid hormone made by thymus cells that needs zinc to be active; helps T cells mature and calms inflammation, mostly shown in animals",
+  "uses": [
+    "Immune and aging 'support' (research only)",
+    "Anti-inflammatory and pain research (animals)"
+  ],
+  "popular": null,
+  "related": [
+    "thymosin-alpha-1",
+    "thymosin-beta-4",
+    "epitalon"
+  ],
+  "article": {
+    "summary": "Thymulin is a nine-amino-acid thymus hormone that needs zinc to work. Research is mostly in animals, there is no approved use, and the FDA lists it as nominated for compounding without adequate support.",
+    "takeaway": "Thymulin is a nine-amino-acid hormone made by epithelial cells of the thymus, where T cells mature. Its activity depends on zinc: the zinc-bound form is active and the zinc-free form is not.[^1] A thymus-derived peptide that declines with age, thymulin has drawn interest as an anti-aging or 'immune support' peptide, including a 2026 mouse study in which it curbed age-related inflammation and improved responses to immunotherapy.[^2] Human data are limited to measurements of blood levels, such as low active thymulin in 15 young people with type 1 diabetes tied to poor zinc binding.[^3] **No approved product exists**, and no controlled human treatment trial was found.",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; FDA category 3 (no adequate support)"
+      ],
+      [
+        "Main uses",
+        "Research on immune aging, inflammation and pain; no approved use"
+      ],
+      [
+        "How it's given",
+        "Not available as an approved product"
+      ],
+      [
+        "Drug class",
+        "Zinc-dependent thymic hormone"
+      ],
+      [
+        "Research",
+        "Mostly cell and animal studies; small human blood-level studies"
+      ],
+      [
+        "Related",
+        "[Thymosin alpha-1](/peptides/thymosin-alpha-1), [thymosin beta-4](/peptides/thymosin-beta-4)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Thymulin (formerly serum thymic factor) is produced only by thymic epithelial cells. Its activity and antigenicity depend on zinc, and in animals the zinc-bound hormone induces T-cell differentiation and enhances several T-cell functions.[^4]"
+          },
+          {
+            "type": "p",
+            "text": "Reviews also describe links to the nervous and hormone systems: thymulin production is influenced by neuroendocrine signals, and thymulin and a synthetic analog show anti-inflammatory and pain-relieving effects in animals.[^5] Because the thymus shrinks with age and thymulin declines, the peptide is pitched for 'rejuvenation', a leap that human data do not support."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Source",
+                "Finding"
+              ],
+              [
+                "Biochemistry (1985, 1989)",
+                "Thymulin is strictly zinc-dependent, and it induces T-cell differentiation in animals[^1][^4]"
+              ],
+              [
+                "Type 1 diabetes, 15 young patients (1989)",
+                "Active thymulin was strongly reduced and the inactive form elevated, attributed to poor zinc saturation rather than thymic failure[^3]"
+              ],
+              [
+                "Mouse study (2026)",
+                "Thymulin suppressed pro-inflammatory myeloid cells by inhibiting NF-kB and improved tumor control with anti-PD-L1 therapy in an age-dependent manner[^2]"
+              ],
+              [
+                "Review of therapeutic potential (2014)",
+                "Anti-inflammatory and analgesic effects in animals; gene-therapy work in thymus-deficient mice[^5]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "No controlled trial of thymulin treatment in people was found. The human data concern blood levels, not treatment effects."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Human safety is unknown:** with no controlled treatment trials, side effects, interactions and long-term risks have not been measured.",
+              "**Mixed effects on pain in animals:** in rats, very small injected amounts increased pain sensitivity and inflammatory mediators, whereas larger amounts, or an analog, reduced inflammatory pain.[^6]",
+              "**Zinc dependence:** how much of any product is the active zinc-bound form is hard to know, and a person's zinc status also matters.[^3]",
+              "**Unstudied groups:** effects in people with autoimmune disease, transplants or cancer are unstudied.",
+              "**Gray-market quality:** thymulin sold as a research peptide is unapproved. Identity, purity, zinc content and sterility are not verified."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Thymulin is not FDA-approved for any use. In the FDA's May 14, 2026 update of its 503A lists, 'thymulin acetate' appears in category 3, bulk substances nominated without adequate support for the agency to evaluate them.[^7] It is not in category 1 (under evaluation) and was not on the agenda of the July 23-24, 2026 advisory committee meeting.[^8]"
+          },
+          {
+            "type": "p",
+            "text": "Anti-doping: thymulin is not named on WADA's 2026 Prohibited List, but substances with no approval anywhere for human use fall under category S0 (non-approved substances), prohibited at all times. Thymulin appears to fit that description, so athletes should check before using any product."
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Thymulin is a real, well-characterized thymus hormone with interesting animal data, including new 2026 work on aging and cancer immunotherapy. As a supplement-style peptide it is unproven, unapproved and untested in controlled human trials, and gray-market products add uncertainty about what is in the vial."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Very limited: animal studies, no treatment trials",
+      "text": "Cell and animal work is substantial, including a 2026 mouse study,[^2] but human data are limited to blood-level measurements.[^3] No controlled treatment trial was found."
+    },
+    "faq": [
+      {
+        "q": "Is thymulin the same as thymosin alpha-1?",
+        "a": "No. Thymulin is a nine-amino-acid, zinc-dependent hormone made by thymic epithelial cells. Thymosin alpha-1 is a longer peptide first isolated from thymus extract. See [thymosin alpha-1](/peptides/thymosin-alpha-1)."
+      },
+      {
+        "q": "Does zinc raise thymulin?",
+        "a": "Thymulin needs zinc to be active, and in the diabetes study adding zinc to patients' plasma samples in the lab saturated the inactive hormone.[^3] Whether zinc supplements change thymulin or immunity in healthy people was not tested in the sources reviewed."
+      },
+      {
+        "q": "Is thymulin legal to buy?",
+        "a": "It is not an approved drug. The FDA lists thymulin acetate only in category 3 of its compounding lists, and vials sold as research peptides are unapproved products of unverified quality.[^7]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "A zinc-dependent epitope on the molecule of thymulin, a thymic hormone.",
+        "source": "Proc Natl Acad Sci U S A",
+        "year": 1985,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2413455/",
+        "pmid": "2413455",
+        "doi": "10.1073/pnas.82.20.7035",
+        "note": "Thymulin's biological activity depends on zinc"
+      },
+      {
+        "n": 2,
+        "title": "Thymulin restrains age-associated myeloid inflammation and enhances cancer immunotherapy.",
+        "source": "Nat Commun",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42481458/",
+        "pmid": "42481458",
+        "doi": "10.1038/s41467-026-75383-0",
+        "note": "2026 mouse study of aging, inflammation and immunotherapy"
+      },
+      {
+        "n": 3,
+        "title": "Zinc-dependent low thymic hormone level in type I diabetes.",
+        "source": "Diabetes",
+        "year": 1989,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2737365/",
+        "pmid": "2737365",
+        "doi": "10.2337/diab.38.7.932",
+        "note": "Blood levels of active thymulin in 15 young patients"
+      },
+      {
+        "n": 4,
+        "title": "Thymulin, a zinc-dependent hormone.",
+        "source": "Med Oncol Tumor Pharmacother",
+        "year": 1989,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2657247/",
+        "pmid": "2657247",
+        "doi": "10.1007/BF02985220",
+        "note": "Review of thymulin's structure and T-cell effects"
+      },
+      {
+        "n": 5,
+        "title": "Physiology and therapeutic potential of the thymic peptide thymulin.",
+        "source": "Curr Pharm Des",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24588820/",
+        "pmid": "24588820",
+        "doi": "10.2174/1381612820666140130211157",
+        "note": "Review of neuroendocrine and anti-inflammatory roles"
+      },
+      {
+        "n": 6,
+        "title": "Role of thymulin or its analogue as a new analgesic molecule.",
+        "source": "Ann N Y Acad Sci",
+        "year": 2006,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17192563/",
+        "pmid": "17192563",
+        "doi": "10.1196/annals.1366.006",
+        "note": "Dose-dependent pain effects in rodents"
+      },
+      {
+        "n": 7,
+        "title": "Bulk Drug Substances Nominated for Use in Compounding Under Section 503A of the Federal Food, Drug, and Cosmetic Act",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/media/94155/download",
+        "note": "FDA category lists updated May 14, 2026"
+      },
+      {
+        "n": 8,
+        "title": "July 23-24, 2026 Meeting of the Pharmacy Compounding Advisory Committee",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+        "note": "Substances on the July 2026 agenda"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

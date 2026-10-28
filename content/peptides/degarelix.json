@@ -1,0 +1,206 @@
+{
+  "slug": "degarelix",
+  "name": "Degarelix",
+  "zone": "sex",
+  "category": "fda",
+  "aliases": [],
+  "brands": [
+    "Firmagon"
+  ],
+  "class": "GnRH antagonist",
+  "route": "Monthly injection under the skin of the abdomen",
+  "status": "FDA-approved (2008) for advanced prostate cancer",
+  "evidence": 4,
+  "mechanism": "Blocks the pituitary's GnRH receptor directly, so LH and testosterone fall within days with no initial hormone surge",
+  "uses": [
+    "Advanced prostate cancer"
+  ],
+  "popular": null,
+  "related": [
+    "leuprolide",
+    "goserelin",
+    "triptorelin",
+    "cetrorelix",
+    "lutetium-lu-177-vipivotide-tetraxetan"
+  ],
+  "article": {
+    "summary": "Degarelix (Firmagon) is a GnRH antagonist injected monthly under the skin to lower testosterone quickly, without the initial surge, in men with advanced prostate cancer.",
+    "takeaway": "Degarelix is a peptide that blocks the receptor for GnRH, the brain hormone that tells the pituitary to drive testosterone production. Unlike GnRH agonists such as leuprolide, which first stimulate the receptor, it works at once and causes no testosterone flare. In a 12-month phase 3 trial of 610 men, testosterone fell to castrate level by day 3 in about **96%** of those on degarelix and in none on leuprolide, and long-term suppression was equivalent.[^1] The main drawback is injection-site reactions, which affected about 35% to 40% of men.[^1][^2] Whether it is safer for the heart than agonists remains unresolved.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved in 2008 (Firmagon)"
+      ],
+      [
+        "Main use",
+        "Advanced prostate cancer"
+      ],
+      [
+        "How it's given",
+        "Subcutaneous injection in the abdomen every 28 days after a 240 mg starting dose"
+      ],
+      [
+        "Drug class",
+        "GnRH receptor antagonist"
+      ],
+      [
+        "Research",
+        "A 610-man phase 3 trial against leuprolide and the PRONOUNCE heart safety trial"
+      ],
+      [
+        "Related",
+        "[Leuprolide](/peptides/leuprolide), [goserelin](/peptides/goserelin), [cetrorelix](/peptides/cetrorelix)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Prostate cancer cells often depend on testosterone. The testes make it when the pituitary releases LH, and the pituitary releases LH when GnRH from the hypothalamus binds its receptor. Degarelix is a modified ten-amino-acid peptide that occupies that receptor without activating it. LH falls within hours, and testosterone follows within days."
+          },
+          {
+            "type": "p",
+            "text": "GnRH agonists such as [leuprolide](/peptides/leuprolide) and [goserelin](/peptides/goserelin) work differently: they first overstimulate the receptor, so testosterone rises for one to two weeks before it falls. That flare can worsen bone pain or urinary symptoms. Degarelix avoids it.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Firmagon is approved for the treatment of advanced prostate cancer, using androgen deprivation to slow tumor growth.[^2] It is used for men who need fast testosterone control, such as those whose symptoms would be dangerous to flare, and for others who prefer or tolerate it better than agonist injections."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "CS21 (2008)",
+                "610 men with prostate cancer, randomized to degarelix or monthly leuprolide",
+                "Testosterone at or below 0.5 ng/mL from day 28 to 364 in 97.2% and 98.3% on degarelix vs 96.4% on leuprolide; at day 3, 96.1% vs none[^1]"
+              ],
+              [
+                "CS21 (2008)",
+                "Same trial",
+                "PSA lower with degarelix at 14 and 28 days; injection-site reactions 40% vs under 1%[^1]"
+              ],
+              [
+                "PRONOUNCE (2021)",
+                "545 men with prostate cancer and cardiovascular disease",
+                "Major cardiovascular events at 1 year in 5.5% on degarelix vs 4.1% on leuprolide (not significant); trial ended early[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "PRONOUNCE was stopped before reaching its planned 900 patients because of slow enrollment and too few events, so its authors concluded that the relative heart safety of antagonists and agonists remains unresolved.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A clinician injects degarelix under the skin of the abdomen only. Treatment starts with 240 mg as two 120 mg injections, followed by 80 mg once every 28 days.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Injection-site reactions** (pain, redness, swelling) occurred in 35% of men in the label trial, mostly after the first dose.[^2]",
+              "**Hormonal effects** typical of androgen deprivation, including hot flashes (26%), reduced libido, and bone loss with long use.[^1][^2]",
+              "**Liver tests:** transaminases and GGT rose in about 10%.[^2]",
+              "**Labeled warnings:** hypersensitivity reactions, QT interval prolongation and embryo-fetal toxicity. Severe hypersensitivity to the drug is the only contraindication.[^2]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The FDA approved Firmagon in 2008.[^2] Because degarelix lowers testosterone rather than stimulating it, it is not among the GnRH agonists named in the testosterone-stimulating peptides section of WADA's Prohibited List."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: randomized trial against leuprolide",
+      "text": "A 610-patient randomized trial showed noninferior long-term testosterone suppression and a faster onset than leuprolide.[^1] Evidence for heart safety advantages over agonists is inconclusive.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Why does degarelix not cause a testosterone flare?",
+        "a": "It blocks the GnRH receptor instead of stimulating it. Testosterone starts to fall straight away rather than rising first.[^1]"
+      },
+      {
+        "q": "Is it given less often than leuprolide?",
+        "a": "In the US, Firmagon is labeled for a 28-day schedule, so it is monthly, whereas leuprolide depots can last up to six months.[^2]"
+      },
+      {
+        "q": "Is degarelix safer for the heart?",
+        "a": "That is not established. PRONOUNCE found 5.5% vs 4.1% major cardiovascular events with degarelix vs leuprolide, a difference that could be chance, and the trial was stopped early.[^3]"
+      },
+      {
+        "q": "Is there a pill version?",
+        "a": "An oral GnRH antagonist, relugolix, has been compared with leuprolide in the HERO trial. See the [leuprolide](/peptides/leuprolide) entry for those results."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "The efficacy and safety of degarelix: a 12-month, comparative, randomized, open-label, parallel-group phase III study in patients with prostate cancer.",
+        "source": "BJU Int",
+        "year": 2008,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19035858/",
+        "pmid": "19035858",
+        "doi": "10.1111/j.1464-410X.2008.08183.x",
+        "note": "CS21: testosterone suppression versus leuprolide in 610 men"
+      },
+      {
+        "n": 2,
+        "title": "FIRMAGON (degarelix) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2024,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ab11dd8a-0fd9-4013-89ab-e114557c7e4b",
+        "note": "Indication, dosing, warnings and adverse reactions"
+      },
+      {
+        "n": 3,
+        "title": "Cardiovascular Safety of Degarelix Versus Leuprolide in Patients With Prostate Cancer: The Primary Results of the PRONOUNCE Randomized Trial.",
+        "source": "Circulation",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34459214/",
+        "pmid": "34459214",
+        "doi": "10.1161/CIRCULATIONAHA.121.056810",
+        "note": "Heart safety of degarelix versus leuprolide"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

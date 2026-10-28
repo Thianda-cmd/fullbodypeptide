@@ -1,0 +1,203 @@
+{
+  "slug": "mechano-growth-factor",
+  "name": "Mechano growth factor",
+  "zone": "bones",
+  "category": "wellness",
+  "aliases": [
+    "MGF",
+    "PEG-MGF",
+    "IGF-1Ec"
+  ],
+  "brands": [],
+  "class": "IGF-1 splice variant peptide",
+  "route": "Injection in research and gray-market use",
+  "status": "Not FDA-approved; FDA Category 3 (nominated without adequate support); banned in sport by WADA",
+  "evidence": 1,
+  "mechanism": "The tail (E domain) of a muscle IGF-1 splice variant that rises after exercise; proposed to activate muscle stem cells, but one replication attempt found no effect",
+  "uses": [
+    "Muscle repair and growth (claimed)"
+  ],
+  "popular": null,
+  "related": [
+    "igf-1-lr3",
+    "igf-1-des",
+    "follistatin-344",
+    "mecasermin"
+  ],
+  "article": {
+    "summary": "Mechano growth factor (MGF) is a muscle IGF-1 splice variant whose tail peptide is sold as PEG-MGF. One lab reported effects in cells; others could not reproduce them, and no human trials exist.",
+    "takeaway": "Mechano growth factor (MGF) is the name for a splice variant of the IGF-1 gene whose messenger RNA rose in young adults' muscle after hard resistance exercise.[^1] The name is also used for the 24-amino-acid peptide at its tail (the E domain) and for a pegylated version, PEG-MGF, sold online. One lab reported that the peptide boosted the proliferation of muscle precursor cells,[^2] but two pharmaceutical-company labs could not reproduce that effect in muscle cells or stem cells.[^3] No human trial of injected MGF turned up in the searches for this entry; the FDA says it found no human exposure data for PEG-MGF, and WADA bans mechano growth factors.[^4][^5]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; FDA Category 3 for compounding (nominated without adequate support)[^6]"
+      ],
+      [
+        "Main uses claimed",
+        "Muscle repair and growth after training"
+      ],
+      [
+        "How it's taken",
+        "Injection in research and gray-market use; no approved dosing"
+      ],
+      [
+        "Drug class",
+        "IGF-1 splice variant peptide (MGF, PEG-MGF)"
+      ],
+      [
+        "Research",
+        "Human muscle biopsies, cell studies and a failed replication; no human trials of the peptide[^1][^3]"
+      ],
+      [
+        "Sport",
+        "Prohibited at all times; WADA names mechano growth factors[^5]"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The IGF-1 gene gives rise to several protein versions by alternative splicing. In muscle biopsies taken 2.5 hours after a hard leg workout, the MGF messenger RNA rose in young adults but not in older adults, while the common IGF-1Ea form did not change.[^1] A 2002 cell study proposed that the peptide encoded by the variant's distinct E domain raises the proliferation of myoblasts, the muscle precursor cells, while delaying their maturation, and acts through a receptor other than the IGF-1 receptor.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Independent testing did not support the cell findings. Two pharmaceutical-company labs tried to reproduce them with the 24-amino-acid MGF peptide at up to 500 ng/ml. It did not increase the proliferation of mouse or human muscle precursor cells or primary mouse muscle stem cells, and it did not block their maturation, while mature IGF-1 and full-length IGF-1Eb did stimulate them.[^3]"
+          },
+          {
+            "type": "p",
+            "text": "No human study of injected MGF or PEG-MGF for muscle growth or repair turned up in the searches for this entry."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**FDA concern about PEG-MGF:** a possible significant risk of immunogenicity and difficulty characterizing the pegylated peptide and its impurities; the FDA found no human exposure data[^4]",
+              "**Unclear target:** the peptide's receptor and effects are not established, so its safety cannot be inferred from IGF-1 data[^2][^3]",
+              "**Unknown long term:** there are no human safety, dosing or tumor-risk data",
+              "**Quality:** illegally sold peptide drugs have shown highly variable amounts, low purity and toxic metals such as arsenic and lead[^7]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "MGF is not approved for any use. The FDA's May 2026 list places mechano growth factor in Category 3, nominated without adequate support, and its safety page describes PEG-MGF among nominated substances that were later withdrawn.[^6][^4] WADA lists mechano growth factors as prohibited at all times.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "MGF is a real muscle-specific IGF-1 variant, but the claim that its tail peptide repairs muscle rests on one lab's cell results that others could not reproduce. There are no human trials of the injected peptide. Athletes subject to testing should treat it as banned."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Preclinical: contested cell data, no human trials",
+      "text": "Human work shows that the MGF variant is switched on by exercise.[^1] The cell effects of the peptide were reported once and not reproduced.[^2][^3]"
+    },
+    "faq": [
+      {
+        "q": "What is PEG-MGF?",
+        "a": "A pegylated form of the MGF tail peptide, made to last longer in the body. The FDA says it has found no human exposure data for it and flags immunogenicity concerns.[^4]"
+      },
+      {
+        "q": "Does exercise make MGF naturally?",
+        "a": "Yes. MGF messenger RNA rose in young adults' muscle after hard resistance exercise, though not in older adults in that study.[^1]"
+      },
+      {
+        "q": "Is it banned in sport?",
+        "a": "Yes. WADA lists mechano growth factors as prohibited at all times.[^5]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Expression of IGF-I splice variants in young and old human skeletal muscle after high resistance exercise",
+        "source": "J Physiol",
+        "year": 2003,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12562960/",
+        "pmid": "12562960",
+        "doi": "10.1113/jphysiol.2002.032136",
+        "note": "Human muscle biopsies after resistance exercise"
+      },
+      {
+        "n": 2,
+        "title": "Different roles of the IGF-I Ec peptide (MGF) and mature IGF-I in myoblast proliferation and differentiation",
+        "source": "FEBS Lett",
+        "year": 2002,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12095637/",
+        "pmid": "12095637",
+        "doi": "10.1016/s0014-5793(02)02918-6",
+        "note": "Original cell study of the MGF peptide"
+      },
+      {
+        "n": 3,
+        "title": "Mechano-growth factor peptide, the COOH terminus of unprocessed insulin-like growth factor 1, has no apparent effect on myoblasts or primary muscle stem cells",
+        "source": "Am J Physiol Endocrinol Metab",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24253050/",
+        "pmid": "24253050",
+        "doi": "10.1152/ajpendo.00408.2013",
+        "note": "Failed replication in two pharmaceutical-company labs"
+      },
+      {
+        "n": 4,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA's stated concerns about PEG-MGF"
+      },
+      {
+        "n": 5,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "Mechano growth factors are prohibited at all times"
+      },
+      {
+        "n": 6,
+        "title": "Bulk Drug Substances Nominated for Use in Compounding Under Section 503A of the Federal Food, Drug, and Cosmetic Act (updated May 14, 2026)",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/media/94155/download",
+        "note": "Mechano growth factor listed in Category 3"
+      },
+      {
+        "n": 7,
+        "title": "Impurity profiling of the most frequently encountered falsified polypeptide drugs on the Belgian market",
+        "source": "Talanta",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30029448/",
+        "pmid": "30029448",
+        "doi": "10.1016/j.talanta.2018.06.023",
+        "note": "Purity and metal contamination in illegally sold peptides"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "slug": "ll-37",
+  "name": "LL-37",
+  "zone": "immune",
+  "category": "wellness",
+  "aliases": [
+    "Cathelicidin antimicrobial peptide (CAMP)",
+    "hCAP18 fragment"
+  ],
+  "brands": [],
+  "class": "Host-defense antimicrobial peptide",
+  "route": "Applied to ulcers in trials; unapproved injections sold online",
+  "status": "Not FDA-approved; FDA flagged immunogenicity, tumor-promotion and reproductive concerns",
+  "evidence": 2,
+  "mechanism": "The body's own antimicrobial peptide: disrupts microbial membranes and signals immune and repair cells; in excess it can drive skin inflammation",
+  "uses": [
+    "Wound healing (studied topically)",
+    "Infection defense (research)"
+  ],
+  "popular": 19,
+  "related": [
+    "thymosin-alpha-1",
+    "murepavadin",
+    "kpv",
+    "polymyxin-b-colistin"
+  ],
+  "article": {
+    "summary": "LL-37 is the human body's own cathelicidin antimicrobial peptide. Topical leg-ulcer trials gave mixed results, while injected use is unapproved and the FDA cites immunogenicity and tumor concerns.",
+    "takeaway": "LL-37 is the only cathelicidin made by humans, a 37-amino-acid peptide that kills microbes and signals to immune and repair cells.[^1] In chronic leg ulcers, topical LL-37 looked promising at lower strengths in a 34-patient first-in-human trial,[^2] but the larger 148-patient phase 2b trial found **no significant improvement overall**, with a possible benefit only in a post hoc subgroup of large ulcers.[^3] Excess LL-37 is also implicated in disease: it helps trigger the interferon surge in psoriasis[^4] and promotes inflammation in rosacea.[^5] The FDA says it lacks the safety information to judge compounded LL-37 and notes animal findings of possible tumor promotion and harm to male reproduction.[^6]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; no approved LL-37 product exists"
+      ],
+      [
+        "Main uses",
+        "Studied as a topical wound-healing drug; sold online as an immune peptide"
+      ],
+      [
+        "How it's given",
+        "Applied to ulcers in trials; unapproved injections online"
+      ],
+      [
+        "Drug class",
+        "Cathelicidin host-defense peptide"
+      ],
+      [
+        "Research",
+        "Two randomized topical trials; otherwise mostly lab and animal work"
+      ],
+      [
+        "Related",
+        "[Thymosin alpha-1](/peptides/thymosin-alpha-1), [KPV](/peptides/kpv)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The body stores LL-37 inside a larger precursor, hCAP18, and cuts out the active piece when needed. LL-37 folds into a helix with one water-loving and one fat-loving face, which lets it bind to and disrupt microbial membranes. It also acts as an 'alarmin': it helps orchestrate immune responses, can both raise and limit inflammation, promotes new blood vessels and wound healing, and may help clear abnormal cells.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "That wide repertoire is the problem for any 'immune-boosting' pitch. The same peptide that helps repair skin can also push inflammation."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Result"
+              ],
+              [
+                "First-in-human topical trial (2014)",
+                "34 people with hard-to-heal venous leg ulcers, 4-week treatment phase",
+                "Healing rate about 6-fold (0.5 mg/mL, significant) and 3-fold (1.6 mg/mL, not significant) that of placebo; no benefit at the highest strength; no safety concerns[^2]"
+              ],
+              [
+                "Phase 2b HEAL LL-37 (2021)",
+                "148 people with venous leg ulcers",
+                "No significant healing benefit overall; benefit in a post hoc subgroup with ulcers of 10 cm2 or more; well tolerated[^3]"
+              ],
+              [
+                "Disease biology (2007)",
+                "Psoriasis and rosacea skin",
+                "LL-37 binds self-DNA and triggers interferon production in psoriasis;[^4] rosacea skin has high, abnormally processed cathelicidin[^5]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "No controlled human trial of injected LL-37 for immune support, infection or any wellness goal was found. Claims for that use rest mainly on cell and animal studies."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Immunogenicity:** the FDA says compounded LL-37 may pose a risk of an unwanted immune reaction for certain routes of administration, along with peptide-related impurities and difficulty characterizing the ingredient.[^6]",
+              "**Tumors and fertility:** per the FDA, nonclinical research suggests detrimental effects on male reproduction and that LL-37 can be protumorigenic in some tissues. The agency lacks enough safety information to know whether it would harm humans.[^6]",
+              "**Inflammatory disease:** LL-37 drives skin inflammation in psoriasis and rosacea, so adding more is a theoretical concern for people with these or other autoimmune conditions.[^4][^5]",
+              "**More is not better:** in the first ulcer trial the highest strength did no better than placebo while lower strengths helped.[^2]",
+              "**Gray-market quality:** products sold as research peptides are unapproved. Identity, purity, sterility and endotoxin content are not verified."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "LL-37 is not FDA-approved. It had been listed among compounding substances raising significant safety concerns; the nominations were withdrawn, and the FDA's page (current as of April 22, 2026) now lists it as 'nominated but withdrawn' while repeating the concerns above.[^6] Withdrawal does not make compounding allowed: LL-37 appears on none of the FDA category lists updated May 14, 2026,[^7] and it was not on the agenda of the July 23-24, 2026 advisory meeting.[^8]"
+          },
+          {
+            "type": "p",
+            "text": "Anti-doping: LL-37 is not named on WADA's 2026 Prohibited List, but unapproved substances in development fall under category S0 (non-approved substances), prohibited at all times. LL-37 appears to fit that description, so athletes should check before using any product."
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "LL-37 is a fascinating natural peptide with double-edged biology. The only controlled human trials are topical ulcer studies with mixed results. Injected use is unproven, unapproved and flagged by the FDA for safety unknowns, and gray-market vials add quality risks."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Limited: mixed topical trials; injections untested",
+      "text": "Two randomized topical trials gave a promising small result and then a mostly negative larger one,[^2][^3] while injected use has no controlled human data and the FDA calls the safety information insufficient.[^6]"
+    },
+    "faq": [
+      {
+        "q": "Is LL-37 an antibiotic?",
+        "a": "It kills microbes in lab tests, but no LL-37 product is approved to treat infection. Antimicrobial action is only one of its many functions in the body.[^1]"
+      },
+      {
+        "q": "Can LL-37 help with wound healing?",
+        "a": "Topical LL-37 has been tested in leg ulcers, with a promising small trial and a larger one that missed its main goal.[^2][^3] That does not support injecting it."
+      },
+      {
+        "q": "Why does the FDA worry about it?",
+        "a": "The agency cites possible immune reactions, impurities that are hard to characterize, and animal findings of possible tumor promotion and harm to male reproduction, with too little human safety data.[^6]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "The human cathelicidin LL-37--A pore-forming antibacterial peptide and host-cell modulator.",
+        "source": "Biochim Biophys Acta",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26556394/",
+        "pmid": "26556394",
+        "doi": "10.1016/j.bbamem.2015.11.003",
+        "note": "Review of LL-37 structure and functions"
+      },
+      {
+        "n": 2,
+        "title": "Treatment with LL-37 is safe and effective in enhancing healing of hard-to-heal venous leg ulcers: a randomized, placebo-controlled clinical trial.",
+        "source": "Wound Repair Regen",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25041740/",
+        "pmid": "25041740",
+        "doi": "10.1111/wrr.12211",
+        "note": "First-in-human topical trial, 34 patients"
+      },
+      {
+        "n": 3,
+        "title": "Evaluation of LL-37 in healing of hard-to-heal venous leg ulcers: A multicentric prospective randomized placebo-controlled clinical trial.",
+        "source": "Wound Repair Regen",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34687253/",
+        "pmid": "34687253",
+        "doi": "10.1111/wrr.12977",
+        "note": "Phase 2b topical trial, 148 patients"
+      },
+      {
+        "n": 4,
+        "title": "Plasmacytoid dendritic cells sense self-DNA coupled with antimicrobial peptide.",
+        "source": "Nature",
+        "year": 2007,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17873860/",
+        "pmid": "17873860",
+        "doi": "10.1038/nature06116",
+        "note": "LL-37 and self-DNA drive interferon in psoriasis"
+      },
+      {
+        "n": 5,
+        "title": "Increased serine protease activity and cathelicidin promotes skin inflammation in rosacea.",
+        "source": "Nat Med",
+        "year": 2007,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17676051/",
+        "pmid": "17676051",
+        "doi": "10.1038/nm1616",
+        "note": "Abnormal cathelicidin in rosacea"
+      },
+      {
+        "n": 6,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA safety concerns; content current as of April 22, 2026"
+      },
+      {
+        "n": 7,
+        "title": "Bulk Drug Substances Nominated for Use in Compounding Under Section 503A of the Federal Food, Drug, and Cosmetic Act",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/media/94155/download",
+        "note": "FDA category lists updated May 14, 2026"
+      },
+      {
+        "n": 8,
+        "title": "July 23-24, 2026 Meeting of the Pharmacy Compounding Advisory Committee",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+        "note": "Substances on the July 2026 agenda"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}
