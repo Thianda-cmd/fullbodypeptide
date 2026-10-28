@@ -1,0 +1,225 @@
+{
+  "slug": "ganirelix",
+  "name": "Ganirelix",
+  "zone": "sex",
+  "category": "fda",
+  "aliases": [
+    "ganirelix acetate"
+  ],
+  "brands": [
+    "Fyremadel"
+  ],
+  "class": "GnRH antagonist",
+  "route": "Daily injection under the skin during ovarian stimulation for IVF",
+  "status": "FDA-approved (1999) to prevent premature LH surges in women undergoing controlled ovarian hyperstimulation; many generics",
+  "evidence": 4,
+  "mechanism": "Competitively blocks the pituitary's GnRH receptor, suppressing LH immediately so an early LH surge cannot release eggs before retrieval",
+  "uses": [
+    "Preventing premature LH surges during IVF stimulation"
+  ],
+  "popular": null,
+  "related": [
+    "cetrorelix",
+    "human-chorionic-gonadotropin",
+    "leuprolide",
+    "degarelix"
+  ],
+  "article": {
+    "summary": "Ganirelix is a GnRH antagonist injection used in IVF to stop the body from releasing eggs too early during ovarian stimulation. The FDA approved it in 1999, and generic versions are widely available.",
+    "takeaway": "Ganirelix is a ten-amino-acid peptide that blocks the receptor for GnRH, the brain hormone that sets off the LH surge leading to ovulation. During IVF, women take fertility drugs to grow several eggs at once, and an early LH surge could release them before they can be collected. Ganirelix, taken daily in the second half of stimulation, prevents that. In a 313-woman trial against the older leuprolide protocol, clinical pregnancy rates per attempt were **35.4%** with ganirelix and **38.4%** with leuprolide, and injection reactions were less common with ganirelix.[^1] A Cochrane review found similar live birth rates for antagonist protocols with less ovarian hyperstimulation syndrome (OHSS).[^2]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved July 29, 1999; Fyremadel and several other generics are on the market"
+      ],
+      [
+        "Main use",
+        "Preventing premature LH surges in women undergoing controlled ovarian hyperstimulation"
+      ],
+      [
+        "How it's given",
+        "250 mcg injection under the skin once a day through the day of the hCG trigger"
+      ],
+      [
+        "Drug class",
+        "GnRH receptor antagonist"
+      ],
+      [
+        "Research",
+        "Phase 3 trial against leuprolide; 73-trial Cochrane review of GnRH antagonists"
+      ],
+      [
+        "Related",
+        "[Cetrorelix](/peptides/cetrorelix), [leuprolide](/peptides/leuprolide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A rising estrogen level late in the first half of a cycle normally prompts the pituitary to release a burst of LH, and that burst triggers ovulation. In IVF, doctors stimulate the ovaries with FSH to grow many follicles and then trigger egg maturation at a planned time. If the body's own LH surge comes early, eggs can be released or matured at the wrong time and the cycle may be lost."
+          },
+          {
+            "type": "p",
+            "text": "Ganirelix occupies the GnRH receptor on the pituitary without activating it, so LH release stops quickly. Unlike GnRH agonists such as [leuprolide](/peptides/leuprolide), it does not first cause a surge, so it can be started partway through stimulation rather than weeks beforehand."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Ganirelix is approved for inhibiting premature LH surges in women undergoing controlled ovarian hyperstimulation.[^3] It is given with FSH-type fertility drugs and stopped after the hCG trigger shot."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Outcome per attempt",
+                "Ganirelix",
+                "Leuprolide long protocol"
+              ],
+              [
+                "Eggs retrieved (average)",
+                "11.6",
+                "14.1"
+              ],
+              [
+                "Fertilization rate",
+                "62.4%",
+                "61.9%"
+              ],
+              [
+                "Clinical pregnancy",
+                "35.4%",
+                "38.4%"
+              ],
+              [
+                "Ongoing pregnancy",
+                "30.8%",
+                "36.4%"
+              ],
+              [
+                "Moderate injection-site reactions",
+                "11.9%",
+                "24.4%"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Those figures come from a randomized trial in 313 women at North American IVF centers. Ganirelix produced fewer eggs and slightly lower pregnancy rates in this trial, with shorter treatment and fewer injection reactions.[^1] A 2016 Cochrane review of 73 trials (12,212 women) found no conclusive difference in live birth between antagonist and long agonist protocols (odds ratio 1.02) and less OHSS with antagonists (odds ratio 0.61).[^2]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Women inject 250 micrograms under the skin once a day during the mid-to-late follicular phase of stimulation and continue through the day the hCG trigger is given.[^3] It comes as a prefilled syringe, and patients are typically taught by their fertility clinic to give the injections at home."
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Most common reactions in label trials of 794 women:** abdominal pain (4.8%), headache (3.0%), ovarian hyperstimulation syndrome (2.4%), vaginal bleeding (1.8%), injection-site reaction (1.1%) and nausea (1.1%).[^3]",
+              "**Pregnancy loss** (reported as fetal death) occurred in 3.7% of the women in those trials.[^3]",
+              "**OHSS** can become serious, and it is also a risk of the stimulating drugs themselves.[^3]",
+              "**Contraindications:** allergy to ganirelix or its components, allergy to GnRH or its analogs, and known or suspected pregnancy.[^3]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The FDA approved Organon's ganirelix on July 29, 1999. Several generic versions followed, including the branded generic Fyremadel, and the agency lists a number of other approved ganirelix applications.[^4]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: randomized trials and a large review",
+      "text": "A phase 3 randomized trial and a 73-trial Cochrane review support ganirelix and other GnRH antagonists as effective at preventing early LH surges, with comparable live birth rates and less OHSS than long agonist protocols.[^1][^2]"
+    },
+    "faq": [
+      {
+        "q": "Is ganirelix the same as cetrorelix?",
+        "a": "They are two GnRH antagonists approved for the same purpose. [Cetrorelix](/peptides/cetrorelix) is dosed at 0.25 mg daily, ganirelix at 250 micrograms daily, and each comes with its own injection kit.[^3]"
+      },
+      {
+        "q": "Does it lower the chance of pregnancy?",
+        "a": "In one trial, pregnancy rates per attempt were slightly lower than with a leuprolide long protocol (35.4% vs 38.4%), but the Cochrane review found live birth rates were similar across many trials.[^1][^2]"
+      },
+      {
+        "q": "Why is it less likely to cause OHSS?",
+        "a": "The Cochrane review found antagonist protocols lowered the risk of OHSS compared with long agonist protocols (odds ratio 0.61), based on 36 trials.[^2]"
+      },
+      {
+        "q": "Are generic versions the same drug?",
+        "a": "Yes. FDA's database lists multiple approved ganirelix products, including Organon's original and several generics.[^4]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Efficacy and safety of ganirelix acetate versus leuprolide acetate in women undergoing controlled ovarian hyperstimulation.",
+        "source": "Fertil Steril",
+        "year": 2001,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11163814/",
+        "pmid": "11163814",
+        "doi": "10.1016/s0015-0282(00)01638-1",
+        "note": "Phase 3 trial in 313 women: ganirelix versus leuprolide"
+      },
+      {
+        "n": 2,
+        "title": "Gonadotrophin-releasing hormone antagonists for assisted reproductive technology.",
+        "source": "Cochrane Database Syst Rev",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27126581/",
+        "pmid": "27126581",
+        "doi": "10.1002/14651858.CD001750.pub4",
+        "note": "73 trials: live birth and OHSS with antagonists"
+      },
+      {
+        "n": 3,
+        "title": "Ganirelix acetate injection (Organon): prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=32fb74ff-993a-49fe-8943-e029372b863e",
+        "note": "Indication, dose, adverse reactions and contraindications"
+      },
+      {
+        "n": 4,
+        "title": "Drugs@FDA: ganirelix acetate injection, application 021057",
+        "source": "U.S. FDA (Drugs@FDA)",
+        "year": 2026,
+        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021057",
+        "note": "Approved July 29, 1999; lists generic applications including Fyremadel"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "slug": "oxytocin",
+  "name": "Oxytocin",
+  "zone": "sex",
+  "category": "fda",
+  "aliases": [],
+  "brands": [
+    "Pitocin"
+  ],
+  "class": "Oxytocin receptor agonist (uterotonic)",
+  "route": "IV infusion in a hospital; IM injection after delivery",
+  "status": "FDA-approved (Pitocin and generics) for medically indicated labor induction and postpartum bleeding; not for elective induction",
+  "evidence": 4,
+  "mechanism": "Synthetic copy of the pituitary hormone oxytocin that binds uterine receptors, raising calcium in muscle cells so the uterus contracts",
+  "uses": [
+    "Medically indicated induction of labor",
+    "Strengthening weak labor contractions",
+    "Controlling bleeding after delivery",
+    "Adjunct in incomplete or inevitable miscarriage"
+  ],
+  "popular": null,
+  "related": [
+    "vasopressin",
+    "desmopressin",
+    "kisspeptin-10"
+  ],
+  "article": {
+    "summary": "Oxytocin (Pitocin) is a hospital hormone drug that starts or strengthens labor for medical reasons and controls bleeding after birth. It is not approved for elective induction.",
+    "takeaway": "Oxytocin is the same nine-amino-acid hormone the pituitary gland releases during labor and breastfeeding. As the drug Pitocin it is given by IV drip in a hospital to start or strengthen contractions when delivery is medically needed, and after birth to help the uterus contract and control bleeding.[^1] In a Cochrane review, giving oxytocin right after birth roughly halved the risk of losing 500 mL or more of blood compared with no uterotonic or placebo (risk ratio 0.51), though the evidence was low quality.[^2] It needs close monitoring because overstimulation of the uterus and water intoxication can harm mother and baby, and it is **not approved for elective induction**.[^1]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved (Pitocin and generic oxytocin injection)"
+      ],
+      [
+        "Main uses",
+        "Medically indicated induction and augmentation of labor; control of bleeding after delivery"
+      ],
+      [
+        "How it's given",
+        "IV infusion with a pump during labor; IM injection or IV drip after delivery"
+      ],
+      [
+        "Drug class",
+        "Oxytocin receptor agonist (uterotonic)"
+      ],
+      [
+        "Research",
+        "Decades of use; Cochrane reviews of randomized trials"
+      ],
+      [
+        "Related",
+        "[Vasopressin](/peptides/vasopressin), [desmopressin](/peptides/desmopressin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Oxytocin is a nine-amino-acid hormone made in the hypothalamus and released by the pituitary gland. The uterus carries oxytocin receptors, and their number rises sharply during pregnancy, peaking in early labor at term. When oxytocin binds, calcium rises inside the uterine muscle cells and the muscle contracts.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "The drug is cleared fast: its plasma half-life is only 1 to 6 minutes. After an IV dose the uterine response is almost immediate and fades within an hour; after an IM injection it starts in 3 to 5 minutes and lasts 2 to 3 hours.[^1] Because oxytocin is chemically close to vasopressin, large doses can also raise blood pressure and reduce urine output, which is behind its water-retention risk.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Setting",
+                "Labeled use"
+              ],
+              [
+                "Before delivery",
+                "Starting or improving contractions when vaginal delivery is wanted for fetal or maternal reasons: induction for medical indications such as preeclampsia near term, maternal diabetes or ruptured membranes, and strengthening weak labor[^1]"
+              ],
+              [
+                "Early pregnancy loss",
+                "Adjunct in managing incomplete or inevitable miscarriage[^1]"
+              ],
+              [
+                "After delivery",
+                "Producing uterine contractions in the third stage of labor and controlling postpartum bleeding[^1]"
+              ]
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Pitocin is not indicated for elective induction of labor, because the available data are inadequate to weigh its benefits against its risks.[^1] Oxytocin is FDA-approved only as an injection; nasal sprays sold online or compounded are not approved products."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Result"
+              ],
+              [
+                "Cochrane review (2019)",
+                "24 trials of oxytocin after vaginal birth; 23 with data, 10,018 women",
+                "Versus no uterotonic or placebo, it may cut blood loss of 500 mL or more (risk ratio 0.51) and of 1,000 mL or more (0.59), and probably reduces the need for extra uterotonics (0.54); evidence low to moderate quality[^2]"
+              ],
+              [
+                "Cochrane review (2013)",
+                "4 trials, 644 women in delayed labor",
+                "Higher-dose regimens were linked to fewer cesareans (risk ratio 0.62) and more spontaneous vaginal births (1.35), but results were inconsistent and lost significance after removing one high-risk trial; routine high-dose use was not recommended[^3]"
+              ],
+              [
+                "Randomized trial (NEJM, 2021)",
+                "290 children and adolescents with autism, intranasal oxytocin for 24 weeks",
+                "No difference from placebo on the main social-withdrawal score (difference -0.2 points, 95% CI -1.5 to 1.0)[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The last row matters because oxytocin is popular as a 'bonding hormone'. The large, well-controlled autism trial was negative, so nasal oxytocin has not been shown to improve social function."
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Labor induction or augmentation:** IV drip only, by infusion pump, with continuous observation by trained staff. The label starts at 0.5-1 mU per minute and raises the rate gradually, every 30-60 minutes, until contractions are adequate; at term, rates above 9-10 mU per minute are rarely needed.[^1]",
+              "**After delivery:** 10 units IM after the placenta is delivered, or 10 to 40 units added to an IV bottle to control bleeding.[^1]",
+              "**Miscarriage adjunct:** the label says the total dose should not exceed 30 units in 12 hours because of the risk of water intoxication.[^1]",
+              "**Monitoring:** electronic fetal monitoring is recommended during IV use.[^1]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Uterine overstimulation:** too much can cause hypertonicity, spasm, tetanic contraction or rupture of the uterus, which can harm both mother and fetus.[^1]",
+              "**Water intoxication:** oxytocin's antidiuretic effect can lower blood sodium and cause convulsions; maternal deaths from oxytocin-induced water intoxication have been reported.[^1]",
+              "**Maternal reactions:** nausea, vomiting, abnormal heart rhythms, episodes of high blood pressure, anaphylaxis, postpartum hemorrhage, a clotting-factor problem called afibrinogenemia and, rarely, bleeding around the brain.[^1]",
+              "**The baby:** slow heart rate, low Apgar scores, jaundice and seizures, and in severe cases permanent brain damage or death.[^1]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "who-should-avoid-it",
+        "title": "Who should avoid it",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Before delivery, oxytocin is contraindicated with significant cephalopelvic disproportion (a baby too large for the pelvis), an unfavorable fetal position that cannot be delivered without correction, fetal distress when delivery is not imminent, an already overactive uterus, conditions that rule out vaginal delivery (such as total placenta previa, vasa previa, cord prolapse, active genital herpes or invasive cervical cancer), and hypersensitivity to the drug.[^1] The label notes that animal reproduction studies have not been done but that, used as indicated, it would not be expected to cause fetal abnormalities.[^1]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: decades of clinical use and randomized trials",
+      "text": "Oxytocin's uterine effects are well established, and randomized trials show it lowers blood loss after birth, although many trials had a high risk of bias and certainty is low to moderate.[^2] Evidence for dosing strategies in labor is mixed,[^3] and nasal oxytocin did not work for autism in a large trial.[^4]"
+    },
+    "faq": [
+      {
+        "q": "Is Pitocin the same as the natural hormone?",
+        "a": "Yes, it is a synthetic copy of the same peptide. At infusion rates up to about 6 mU per minute, blood levels match those of spontaneous labor, according to the label.[^1]"
+      },
+      {
+        "q": "Can oxytocin nasal spray improve social skills or bonding?",
+        "a": "A 24-week trial of 290 children with autism found no benefit over placebo.[^4] Oxytocin is FDA-approved only as an injection."
+      },
+      {
+        "q": "Why is oxytocin not used for elective induction?",
+        "a": "The label explains that the available data are inadequate to weigh benefits against risks for elective induction, so it is indicated only when induction is medically needed.[^1]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "PITOCIN (oxytocin) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e5a66fc-e507-497c-b5ce-44a8c95898ad",
+        "note": "Indications, dosing, contraindications and warnings"
+      },
+      {
+        "n": 2,
+        "title": "Prophylactic oxytocin for the third stage of labour to prevent postpartum haemorrhage.",
+        "source": "Cochrane Database Syst Rev",
+        "year": 2019,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31032882/",
+        "pmid": "31032882",
+        "doi": "10.1002/14651858.CD001808.pub3",
+        "note": "Review of oxytocin to prevent bleeding after birth"
+      },
+      {
+        "n": 3,
+        "title": "High-dose versus low-dose oxytocin for augmentation of delayed labour.",
+        "source": "Cochrane Database Syst Rev",
+        "year": 2013,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23853046/",
+        "pmid": "23853046",
+        "doi": "10.1002/14651858.CD007201.pub3",
+        "note": "Review comparing oxytocin dosing regimens in slow labor"
+      },
+      {
+        "n": 4,
+        "title": "Intranasal Oxytocin in Children and Adolescents with Autism Spectrum Disorder.",
+        "source": "N Engl J Med",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34644471/",
+        "pmid": "34644471",
+        "doi": "10.1056/NEJMoa2103583",
+        "note": "290-child placebo-controlled trial of nasal oxytocin"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

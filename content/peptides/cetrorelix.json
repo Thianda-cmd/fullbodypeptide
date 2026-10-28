@@ -1,0 +1,209 @@
+{
+  "slug": "cetrorelix",
+  "name": "Cetrorelix",
+  "zone": "sex",
+  "category": "fda",
+  "aliases": [
+    "cetrorelix acetate"
+  ],
+  "brands": [
+    "Cetrotide"
+  ],
+  "class": "GnRH antagonist",
+  "route": "Daily injection under the skin during ovarian stimulation for IVF",
+  "status": "FDA-approved (2000) to prevent premature LH surges in women undergoing controlled ovarian stimulation",
+  "evidence": 4,
+  "mechanism": "Blocks the pituitary's GnRH receptor at once, so LH cannot surge early and release eggs before they are retrieved",
+  "uses": [
+    "Preventing premature LH surges during IVF stimulation"
+  ],
+  "popular": null,
+  "related": [
+    "ganirelix",
+    "degarelix",
+    "leuprolide",
+    "human-chorionic-gonadotropin"
+  ],
+  "article": {
+    "summary": "Cetrorelix (Cetrotide) is a GnRH antagonist injection used in IVF to stop the body from releasing eggs too early during ovarian stimulation. The FDA approved it in 2000.",
+    "takeaway": "Cetrorelix is a peptide that blocks the receptor for GnRH, the brain hormone that triggers the LH surge leading to ovulation. During IVF, women take fertility drugs to grow several eggs at once, and an early LH surge could release them before they can be collected. Cetrorelix, started in the middle of stimulation, prevents that surge. A Cochrane review of 73 trials found that antagonist protocols gave live birth rates similar to the older long agonist protocol (odds ratio **1.02**) with less ovarian hyperstimulation syndrome (odds ratio **0.61**).[^1] The label lists ovarian hyperstimulation syndrome and injection-site reactions among the main effects.[^2]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved August 11, 2000 (Cetrotide)"
+      ],
+      [
+        "Main use",
+        "Preventing premature LH surges in women undergoing controlled ovarian stimulation"
+      ],
+      [
+        "How it's given",
+        "0.25 mg injection under the skin once daily, from about stimulation day 5 or 6 until the hCG trigger"
+      ],
+      [
+        "Drug class",
+        "GnRH receptor antagonist"
+      ],
+      [
+        "Research",
+        "Dose-finding studies and a 73-trial Cochrane review of GnRH antagonists"
+      ],
+      [
+        "Related",
+        "[Ganirelix](/peptides/ganirelix), [degarelix](/peptides/degarelix)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In a natural cycle, a rising estrogen level eventually causes a surge of LH from the pituitary, and that surge triggers ovulation. In IVF, doctors want to control the timing: they use gonadotropin injections to grow many follicles and then give a trigger shot to mature the eggs before retrieval. If the body's own LH surge arrives early, the cycle can fail."
+          },
+          {
+            "type": "p",
+            "text": "Cetrorelix is a ten-amino-acid peptide that competes with GnRH for its pituitary receptor. LH release drops immediately, with no initial rise. Because it is only needed in the second half of stimulation, antagonist protocols are shorter than the older long agonist protocols that suppress the pituitary for weeks."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Cetrotide is approved for inhibiting premature LH surges in women undergoing controlled ovarian stimulation.[^2] It is used together with gonadotropin injections, and treatment continues until the day the hCG trigger is given."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Evidence",
+                "Who",
+                "Main result"
+              ],
+              [
+                "Dose-finding study (1997)",
+                "69 women having ovarian stimulation",
+                "No premature LH surge on 0.25 mg or 0.5 mg daily; one of 7 women on 0.1 mg had a surge, so 0.25 mg was the minimal effective dose[^3]"
+              ],
+              [
+                "Cochrane review of GnRH antagonists (2016)",
+                "73 trials, 12,212 women, mostly comparing antagonists with the long agonist protocol",
+                "Live birth similar (OR 1.02); less ovarian hyperstimulation syndrome (OR 0.61); fewer cycles cancelled for OHSS risk (OR 0.47), more for poor response[^1]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The Cochrane authors rated the evidence as moderate quality, limited mainly by poor reporting of study methods.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The label dose is 0.25 mg injected under the skin once daily, starting on stimulation day 5 (morning or evening) or day 6 (morning), and continuing up to the day of hCG administration. A single 3 mg dose was studied for a different schedule, but the FDA's database lists that strength as discontinued.[^2][^4]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Ovarian hyperstimulation syndrome (OHSS)** occurred in 3.5% in label studies; it also results from the stimulation drugs themselves. Severe OHSS needs urgent care.[^2]",
+              "**Nausea (1.3%) and headache (1.1%)** were the next most common, along with injection-site reactions.[^2]",
+              "**Contraindications:** allergy to cetrorelix, to similar peptide hormones or to mannitol; allergy to GnRH or its analogs; known or suspected pregnancy; breastfeeding; and severe kidney impairment.[^2]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The FDA approved Cetrotide on August 11, 2000. The 0.25 mg strength remains on the prescription market, and the 3 mg strength is discontinued.[^4] A competing antagonist, [ganirelix](/peptides/ganirelix), is approved for the same purpose."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: dose-finding trials and a large Cochrane review",
+      "text": "The effective dose was defined in early studies,[^3] and a Cochrane review of 73 randomized trials supports GnRH antagonist protocols as effective with a lower OHSS rate than long agonist protocols.[^1] Most trials pool several antagonists, so cetrorelix-specific comparisons are fewer."
+    },
+    "faq": [
+      {
+        "q": "How is cetrorelix different from ganirelix?",
+        "a": "Both are GnRH antagonists used for the same purpose and with similar effects. They differ in manufacturer, injection devices and details of labeling. [Ganirelix](/peptides/ganirelix) is dosed at 250 micrograms daily, and the cetrorelix label dose is 0.25 mg daily.[^2]"
+      },
+      {
+        "q": "Why not just use an agonist like leuprolide?",
+        "a": "Agonist protocols also prevent early LH surges but start weeks earlier and cause an initial surge. The Cochrane review found similar live birth rates with antagonists and fewer cases of ovarian hyperstimulation.[^1]"
+      },
+      {
+        "q": "Does cetrorelix affect the eggs?",
+        "a": "It acts on the pituitary, not the eggs. The Cochrane review found no clear difference in live birth or miscarriage rates compared with the agonist protocol.[^1]"
+      },
+      {
+        "q": "Can men take cetrorelix?",
+        "a": "It is approved only for women's ovarian stimulation in IVF. Its close relative [degarelix](/peptides/degarelix) is the antagonist approved for prostate cancer."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Gonadotrophin-releasing hormone antagonists for assisted reproductive technology.",
+        "source": "Cochrane Database Syst Rev",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27126581/",
+        "pmid": "27126581",
+        "doi": "10.1002/14651858.CD001750.pub4",
+        "note": "73 trials, 12,212 women: antagonist versus long agonist protocols"
+      },
+      {
+        "n": 2,
+        "title": "CETROTIDE (cetrorelix acetate for injection): prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aca7768e-28a7-4027-b1d8-e66247665f79",
+        "note": "Indication, dose, adverse reactions and contraindications"
+      },
+      {
+        "n": 3,
+        "title": "Comparison of different doses of gonadotropin-releasing hormone antagonist Cetrorelix during controlled ovarian hyperstimulation.",
+        "source": "Fertil Steril",
+        "year": 1997,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9130900/",
+        "pmid": "9130900",
+        "doi": "10.1016/s0015-0282(97)81407-0",
+        "note": "Dose-finding study that identified 0.25 mg daily"
+      },
+      {
+        "n": 4,
+        "title": "Drugs@FDA: CETROTIDE (cetrorelix acetate), application 021197",
+        "source": "U.S. FDA (Drugs@FDA)",
+        "year": 2026,
+        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021197",
+        "note": "Approved August 11, 2000; 3 mg strength discontinued"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

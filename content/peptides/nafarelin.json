@@ -1,0 +1,219 @@
+{
+  "slug": "nafarelin",
+  "name": "Nafarelin",
+  "zone": "sex",
+  "category": "fda",
+  "aliases": [],
+  "brands": [
+    "Synarel"
+  ],
+  "class": "GnRH agonist",
+  "route": "Nasal spray, used daily",
+  "status": "FDA-approved for endometriosis (6-month course, adult women) and for central precocious puberty in children",
+  "evidence": 4,
+  "mechanism": "A long-lasting copy of GnRH that first stimulates, then shuts down, the pituitary's LH and FSH release, lowering estrogen and testosterone",
+  "uses": [
+    "Endometriosis pain and lesions",
+    "Central precocious puberty"
+  ],
+  "popular": null,
+  "related": [
+    "leuprolide",
+    "triptorelin",
+    "goserelin",
+    "histrelin",
+    "cetrorelix"
+  ],
+  "article": {
+    "summary": "Nafarelin (Synarel) is a nasal-spray GnRH agonist that lowers sex hormones. It is approved to manage endometriosis for six months and to treat central precocious puberty in children.",
+    "takeaway": "Nafarelin is a nasal-spray version of GnRH, the brain hormone that controls sex-hormone production. After a brief rise, repeated dosing switches off the pituitary's output, and estrogen and testosterone fall by about 4 weeks.[^1] It is approved for endometriosis pain and lesions in adult women treated for 6 months, and for central precocious puberty in children.[^1] In trials it relieved endometriosis about as well as danazol, but symptoms returned after treatment, and it causes menopause-like side effects and some bone loss.[^2][^1]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved (Synarel) for endometriosis and central precocious puberty[^1]"
+      ],
+      [
+        "Main uses",
+        "Endometriosis pain and lesions; early puberty in children"
+      ],
+      [
+        "How it's taken",
+        "Nasal spray used daily; endometriosis courses are limited to 6 months[^1]"
+      ],
+      [
+        "Drug class",
+        "GnRH agonist"
+      ],
+      [
+        "Research",
+        "Randomized endometriosis trials against danazol and by course length; pediatric puberty studies[^2][^3][^4]"
+      ],
+      [
+        "Sport",
+        "Prohibited in male athletes at all times (WADA)[^6]"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The hypothalamus releases GnRH in pulses, and each pulse tells the pituitary to release LH and FSH, which drive estrogen and testosterone production. Nafarelin is a potent GnRH agonist. At the start it stimulates LH and FSH, causing a temporary rise in sex hormones. Repeated dosing then abolishes that stimulation, and with twice-daily use sex-hormone secretion falls by about 4 weeks, so tissues that depend on those hormones become quiet.[^1] That is why endometrial implants shrink and puberty pauses."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Endometriosis:** management, including pain relief and reduction of endometriotic lesions; experience is limited to women 18 and older treated for 6 months[^1]",
+              "**Central precocious puberty:** treatment of children of both sexes whose puberty starts abnormally early, once the diagnosis is confirmed by hormone testing and exclusion of other causes[^1]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "European trial (NEET)",
+                "307 women, nafarelin vs danazol for 6 months",
+                "Equally effective at reducing endometriosis growth and symptoms; symptoms returned in both groups after treatment; more hot flushes with nafarelin[^2]"
+              ],
+              [
+                "US trial of 3 vs 6 months",
+                "179 women with endometriosis pelvic pain",
+                "Pain fell in both groups with no significant difference; 26% in each group were retreated for recurrence[^3]"
+              ],
+              [
+                "Early pediatric study",
+                "15 girls with precocious puberty",
+                "Hormone levels, vaginal cytology and growth rate came down over 6 months[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "For central precocious puberty, a consensus statement says the adult-height benefit of GnRH analogs is undisputed only in early-onset disease (girls under 6), and few controlled prospective studies exist in children.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Each spray delivers about 200 micrograms. For central precocious puberty the recommended dose is 1,600 micrograms a day, given as 4 sprays in the morning and 4 in the evening, and it can be raised to 1,800 micrograms if suppression is inadequate. Sneezing during or right after a dose should be avoided because it can reduce absorption. Retreatment of endometriosis is not recommended because safety data beyond 6 months are lacking.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** hot flashes, headache, emotional lability, decreased libido, vaginal dryness, acne, muscle aches and reduced breast size; nasal irritation occurred in about 10%[^1]",
+              "**Bone:** after 6 months, vertebral trabecular bone density fell by an average of 8.7%, with only partial recovery afterward[^1]",
+              "**Mood and nervous system:** psychiatric symptoms such as aggression and emotional lability, and convulsions, have been reported with this drug class[^1]",
+              "**Ovarian cysts** can appear in the first two months in women with endometriosis[^1]",
+              "**Pregnancy:** it can cause fetal harm; it is contraindicated in pregnancy, breast-feeding and undiagnosed abnormal vaginal bleeding[^1]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong for endometriosis and puberty suppression",
+      "text": "Randomized, double-blind trials support endometriosis symptom relief, though benefit fades after treatment ends.[^2][^3] Evidence for adult height in precocious puberty is strongest in early-onset girls.[^5]"
+    },
+    "faq": [
+      {
+        "q": "Why can it only be used for six months in endometriosis?",
+        "a": "The label says retreatment cannot be recommended because safety data beyond 6 months are not available, and bone density falls during treatment.[^1]"
+      },
+      {
+        "q": "Is nafarelin the same as leuprolide?",
+        "a": "Both are GnRH agonists with a similar effect, but they are given differently. The label cites a trial in which the nasal spray was clinically comparable to monthly [leuprolide](/peptides/leuprolide) depot injections for endometriosis symptoms.[^1]"
+      },
+      {
+        "q": "Is it banned in sport?",
+        "a": "WADA prohibits GnRH agonists, including nafarelin, in male athletes at all times as testosterone-stimulating peptides.[^6]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "SYNAREL (nafarelin acetate) nasal solution: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d0aa57cb-d2f4-46d7-af43-7c8b06aa81a6",
+        "note": "Indications, dosing, mechanism, bone loss and warnings"
+      },
+      {
+        "n": 2,
+        "title": "Nafarelin for endometriosis: a large-scale, danazol-controlled trial of efficacy and safety, with 1-year follow-up. The Nafarelin European Endometriosis Trial Group (NEET)",
+        "source": "Fertil Steril",
+        "year": 1992,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1531464/",
+        "pmid": "1531464",
+        "note": "Randomized trial against danazol in 307 women"
+      },
+      {
+        "n": 3,
+        "title": "Prospective randomized double-blind trial of 3 versus 6 months of nafarelin therapy for endometriosis associated pelvic pain",
+        "source": "Fertil Steril",
+        "year": 1995,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7720940/",
+        "pmid": "7720940",
+        "note": "Course length and recurrence in 179 women"
+      },
+      {
+        "n": 4,
+        "title": "Intranasal nafarelin: an LH-RH analogue treatment of gonadotropin-dependent precocious puberty",
+        "source": "J Pediatr",
+        "year": 1986,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2946840/",
+        "pmid": "2946840",
+        "doi": "10.1016/s0022-3476(86)80275-x",
+        "note": "Early study in 15 girls"
+      },
+      {
+        "n": 5,
+        "title": "Consensus statement on the use of gonadotropin-releasing hormone analogs in children",
+        "source": "Pediatrics",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19332438/",
+        "pmid": "19332438",
+        "doi": "10.1542/peds.2008-1783",
+        "note": "Expert consensus on GnRH analogs in precocious puberty"
+      },
+      {
+        "n": 6,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "GnRH agonists such as nafarelin are prohibited in males"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

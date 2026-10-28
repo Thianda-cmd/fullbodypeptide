@@ -1,0 +1,214 @@
+{
+  "slug": "lutetium-lu-177-vipivotide-tetraxetan",
+  "name": "Lutetium Lu-177 vipivotide tetraxetan",
+  "zone": "sex",
+  "category": "fda",
+  "aliases": [
+    "Lu-177-PSMA-617",
+    "177Lu-PSMA-617",
+    "PSMA-617"
+  ],
+  "brands": [
+    "Pluvicto"
+  ],
+  "class": "PSMA-targeted radioligand",
+  "route": "Intravenous injection every 6 weeks, up to 6 doses",
+  "status": "FDA-approved (2022) for PSMA-positive metastatic prostate cancer; label widened in July 2026 to hormone-sensitive disease",
+  "evidence": 4,
+  "mechanism": "Radioactive lutetium-177 attached to a PSMA-binding molecule, delivering radiation directly to prostate cancer cells and their neighbors",
+  "uses": [
+    "PSMA-positive castration-resistant prostate cancer",
+    "PSMA-positive hormone-sensitive prostate cancer, with ARPI"
+  ],
+  "popular": null,
+  "related": [
+    "lutetium-lu-177-dotatate",
+    "ga-68-dotatate",
+    "leuprolide",
+    "degarelix",
+    "goserelin"
+  ],
+  "article": {
+    "summary": "Pluvicto (lutetium Lu-177 vipivotide tetraxetan) delivers radiation to PSMA-positive prostate cancer cells. It extended survival in advanced disease and is now approved for earlier-stage disease too.",
+    "takeaway": "Pluvicto pairs radioactive lutetium-177 with a small molecule that sticks to PSMA, a protein expressed in prostate cancer. In the VISION trial of men with advanced castration-resistant disease, adding it to standard care extended median overall survival from 11.3 to 15.3 months.[^1] Later trials moved it earlier, and the August 2026 label covers PSMA-positive metastatic prostate cancer both before and after it stops responding to hormone-pathway drugs.[^2] Common problems are dry mouth, fatigue, nausea and low blood counts, and radiation-safety precautions apply.[^2]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved 2022 (Pluvicto); label expanded in July 2026[^2]"
+      ],
+      [
+        "Main uses",
+        "PSMA-positive metastatic prostate cancer, resistant or sensitive to hormone therapy"
+      ],
+      [
+        "How it's taken",
+        "Intravenous injection every 6 weeks for up to 6 doses[^2]"
+      ],
+      [
+        "Drug class",
+        "PSMA-targeted radioligand therapy"
+      ],
+      [
+        "Research",
+        "VISION (831 men), PSMAfore (468) and PSMAddition (1,144)[^1][^3][^4]"
+      ],
+      [
+        "Related",
+        "[Lutetium Lu-177 dotatate](/peptides/lutetium-lu-177-dotatate), [leuprolide](/peptides/leuprolide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "PSMA (prostate-specific membrane antigen) is a protein on the surface of prostate cancer cells. A PET scan with a PSMA tracer shows whether a man's tumors express enough of it, and the label requires patients to be selected that way.[^2]"
+          },
+          {
+            "type": "p",
+            "text": "Pluvicto links lutetium-177, a radioactive atom that emits beta radiation, to a small peptide-like molecule that binds PSMA. Once attached, the radiation reaches the PSMA-expressing cells and nearby cells and damages their DNA.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Earlier disease:** with androgen receptor pathway inhibitor (ARPI) therapy, for adults with PSMA-positive metastatic prostate cancer not yet treated with, or still responding to, androgen pathway drugs[^2]",
+              "**Resistant disease:** for adults with PSMA-positive metastatic cancer that has stopped responding, after ARPI treatment, when taxane chemotherapy can be delayed or has already been given[^2]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "VISION",
+                "831 men with advanced PSMA-positive castration-resistant cancer",
+                "Median survival 15.3 vs 11.3 months (hazard ratio 0.62); progression-free survival 8.7 vs 3.4 months[^1]"
+              ],
+              [
+                "PSMAfore",
+                "468 taxane-naive men whose cancer progressed on an ARPI",
+                "Progression-free survival 9.3 vs 5.6 months against switching ARPI (hazard ratio 0.41)[^3]"
+              ],
+              [
+                "PSMAddition",
+                "1,144 men with PSMA-positive hormone-sensitive disease",
+                "28% lower risk of progression or death when added to hormone therapy plus an ARPI (hazard ratio 0.72)[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In PSMAfore, 57% of men assigned to switch ARPI later crossed over to Pluvicto.[^3] In PSMAddition, median progression-free survival had not been reached in either arm at the interim analysis.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The label dose is 7.4 GBq (200 mCi) by intravenous injection every 6 weeks for up to 6 doses, or until the cancer progresses or side effects become unacceptable. Doses can be paused, reduced or stopped for toxicity. After each dose, patients follow radiation-safety steps: limit close contact with others for 2 days (7 days with children and pregnant women), refrain from sex for 7 days, drink extra fluids and urinate often.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Most common (20% or more):** low lymphocyte, hemoglobin, neutrophil and platelet counts, fatigue, dry mouth, nausea, lower kidney filtration, and changes in liver enzymes and electrolytes[^2]",
+              "**Myelosuppression:** can be severe or life-threatening, so blood counts are checked[^2]",
+              "**Kidney toxicity:** kidney function is monitored and patients stay well hydrated[^2]",
+              "**Radiation and fertility:** adds to cumulative radiation exposure, may cause temporary or permanent infertility, and can harm a fetus, so men with partners who could become pregnant should use effective contraception[^2]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Serious (grade 3 or higher) adverse events were more frequent than with control in VISION (52.7% vs 38.0%) and PSMAddition (51% vs 43%), but less frequent than with ARPI switching in PSMAfore (36% vs 48%).[^1][^4][^3] Dry mouth occurred in 46% in PSMAddition.[^4]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: three large randomized phase 3 trials",
+      "text": "VISION showed a survival gain in advanced disease.[^1] PSMAfore and PSMAddition showed longer time without radiographic progression in earlier settings, with survival data still maturing.[^3][^4]"
+    },
+    "faq": [
+      {
+        "q": "Who is a candidate?",
+        "a": "Men whose tumors show enough PSMA on a PET scan; the label requires selection with an approved PSMA PET product.[^2]"
+      },
+      {
+        "q": "Is this a peptide drug?",
+        "a": "It is a radioligand: a radioactive atom attached to a small, peptide-like molecule that targets PSMA. It is a different kind of agent from hormone peptides such as [leuprolide](/peptides/leuprolide), which lower testosterone."
+      },
+      {
+        "q": "Does it extend life?",
+        "a": "In VISION it did, in advanced castration-resistant disease (15.3 vs 11.3 months).[^1] In earlier settings the main result so far is longer time without radiographic progression.[^3][^4]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Lutetium-177-PSMA-617 for Metastatic Castration-Resistant Prostate Cancer",
+        "source": "N Engl J Med",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34161051/",
+        "pmid": "34161051",
+        "doi": "10.1056/NEJMoa2107322",
+        "note": "VISION: survival and progression results"
+      },
+      {
+        "n": 2,
+        "title": "PLUVICTO (lutetium Lu 177 vipivotide tetraxetan) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=14908037-2892-4d98-a053-253ce35afb1a",
+        "note": "Indications, dosing, radiation precautions and warnings"
+      },
+      {
+        "n": 3,
+        "title": "(177)Lu-PSMA-617 versus a change of androgen receptor pathway inhibitor therapy for taxane-naive patients with progressive metastatic castration-resistant prostate cancer (PSMAfore): a phase 3, randomised, controlled trial",
+        "source": "Lancet",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39293462/",
+        "pmid": "39293462",
+        "doi": "10.1016/S0140-6736(24)01653-2",
+        "note": "PSMAfore: use before taxane chemotherapy"
+      },
+      {
+        "n": 4,
+        "title": "[(177)Lu]Lu-PSMA-617 in patients with PSMA-positive metastatic androgen pathway modulator-naive/sensitive prostate cancer (PSMAddition): a phase 3 randomised, controlled trial",
+        "source": "Lancet",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42561994/",
+        "pmid": "42561994",
+        "doi": "10.1016/S0140-6736(26)01092-5",
+        "note": "PSMAddition: hormone-sensitive disease, interim analysis"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

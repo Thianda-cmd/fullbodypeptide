@@ -1,0 +1,247 @@
+{
+  "slug": "histrelin",
+  "name": "Histrelin",
+  "zone": "sex",
+  "category": "fda",
+  "aliases": [
+    "histrelin acetate"
+  ],
+  "brands": [
+    "Supprelin LA",
+    "Vantas"
+  ],
+  "class": "GnRH agonist (yearly implant)",
+  "route": "Small implant placed under the skin of the upper arm and replaced yearly",
+  "status": "FDA-approved: Supprelin LA (2007) for central precocious puberty; the prostate cancer implant Vantas (2004) is discontinued",
+  "evidence": 4,
+  "mechanism": "Releases a GnRH analog continuously for a year, which first stimulates and then silences the pituitary, shutting down puberty hormones or testosterone",
+  "uses": [
+    "Central precocious puberty",
+    "Advanced prostate cancer (Vantas, discontinued)"
+  ],
+  "popular": null,
+  "related": [
+    "leuprolide",
+    "triptorelin",
+    "nafarelin",
+    "goserelin"
+  ],
+  "article": {
+    "summary": "Histrelin (Supprelin LA) is a GnRH agonist implant placed in the upper arm that suppresses puberty hormones for a year in children with central precocious puberty. Its prostate cancer version, Vantas, is discontinued.",
+    "takeaway": "Histrelin is a synthetic GnRH analog delivered by a small rod-shaped implant under the skin of the upper arm. In children with central precocious puberty (CPP), puberty that starts abnormally early, one implant switches off the pituitary's puberty signal for about 12 months. In a phase 3 trial, hormone suppression held through the whole study, and bone age advance slowed in children who had not been treated before.[^1] The main complication is at the implant site, which affected about **51%** of children in label trials.[^2] A prostate cancer implant, Vantas, was approved in 2004 and is now discontinued.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Supprelin LA approved 2007 for CPP; Vantas (prostate cancer, 2004) discontinued"
+      ],
+      [
+        "Main use",
+        "Central precocious puberty in children (not recommended under age 2)"
+      ],
+      [
+        "How it's given",
+        "50 mg implant in the inner upper arm, removed and replaced every 12 months"
+      ],
+      [
+        "Drug class",
+        "GnRH (LHRH) agonist"
+      ],
+      [
+        "Research",
+        "Phase 3 trial in 36 children, with follow-up for up to 5 years"
+      ],
+      [
+        "Anti-doping",
+        "Prohibited at all times in males (WADA S2.2.1)"
+      ],
+      [
+        "Related",
+        "[Leuprolide](/peptides/leuprolide), [triptorelin](/peptides/triptorelin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Puberty starts when the hypothalamus begins sending GnRH in pulses, which tells the pituitary to release LH and FSH and the ovaries or testes to make sex hormones. Histrelin is a GnRH agonist, a stronger and longer-lasting copy of the natural signal. When it is supplied steadily instead of in pulses, the pituitary stops responding and puberty hormones fall."
+          },
+          {
+            "type": "p",
+            "text": "The implant is a 50 mg reservoir that delivers about 65 micrograms a day for a year.[^2] It offers an alternative to the standard routine of injections every 3 to 4 weeks, which are painful and need frequent clinic visits.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Supprelin LA is approved for children with central precocious puberty, in which puberty signs appear unusually early, typically before about age 8 in girls or 9 in boys. The label does not recommend it for children under 2.[^2]"
+          },
+          {
+            "type": "p",
+            "text": "A 2009 expert consensus found that GnRH agonists clearly raise adult height only in early-onset CPP (girls younger than 6), and it did not support routine use for other conditions.[^5] The 50 mg Vantas implant was approved in 2004 for advanced prostate cancer, but the FDA now lists it as discontinued.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "Hirsch (2005)",
+                "11 girls with CPP, switched from monthly depot injections",
+                "Breast development regressed, growth slowed and gonadotropins stayed suppressed for 9 to 15 months[^4]"
+              ],
+              [
+                "Phase 3 final report (2015)",
+                "36 children (16 previously treated, 20 treatment-naive)",
+                "Suppression maintained throughout; bone-age to chronological-age ratio fell from 1.417 to 1.18 at 48 months in treatment-naive children[^1]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In a small subgroup followed to month 60, predicted adult height in girls rose from 151.9 cm to 166.5 cm (6 girls). The authors saw no adverse effect on growth and no lasting impairment of the hormonal axis after treatment.[^1] The numbers are small, which limits how far the height results can be generalized."
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A clinician inserts one 50 mg implant under the skin on the inner side of the upper arm in a minor procedure. After 12 months the implant is removed, and a new one can be placed to continue treatment.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Implant-site reactions** were reported in 51.1% of children in the label trials, including problems with insertion or removal, scars, keloid and suture-related complications (each 6.4%).[^2]",
+              "**Initial agonistic action:** hormone levels can briefly rise before they fall, which may temporarily worsen puberty signs.[^2]",
+              "**Implant breakage** is a labeled warning.[^2]",
+              "**Psychiatric events, convulsions, severe skin reactions and pseudotumor cerebri** (raised pressure around the brain) are also labeled warnings.[^2]",
+              "**Contraindications:** allergy to GnRH or its analogs, and pregnancy.[^2]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status and anti-doping",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Supprelin LA was approved on May 3, 2007.[^6] Vantas was approved on October 12, 2004 and is listed as discontinued.[^3] The 2026 WADA Prohibited List names histrelin among the GnRH agonists banned at all times in male athletes (S2.2.1, testosterone-stimulating peptides).[^7]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong for hormone suppression; small long-term samples",
+      "text": "Phase 3 and earlier studies show reliable suppression of puberty hormones over a year,[^1][^4] while the data on adult height gains come from small subgroups.[^1]"
+    },
+    "faq": [
+      {
+        "q": "How long does the implant last?",
+        "a": "One year. It is removed after 12 months and may be replaced if treatment should continue.[^2]"
+      },
+      {
+        "q": "Does the implant stop puberty permanently?",
+        "a": "No. The effect is reversible. In the phase 3 trial the authors found no lasting impairment of the hormonal axis after treatment ended.[^1]"
+      },
+      {
+        "q": "Is Vantas still available?",
+        "a": "No. The FDA's database lists Vantas, the 50 mg prostate cancer implant, as discontinued.[^3]"
+      },
+      {
+        "q": "Is histrelin banned in sports?",
+        "a": "For male athletes, yes. WADA lists histrelin as prohibited at all times.[^7]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Long-Term Continuous Suppression With Once-Yearly Histrelin Subcutaneous Implants for the Treatment of Central Precocious Puberty: A Final Report of a Phase 3 Multicenter Trial.",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2015,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25803268/",
+        "pmid": "25803268",
+        "doi": "10.1210/jc.2014-3031",
+        "note": "Phase 3 trial: hormone suppression, bone age and height"
+      },
+      {
+        "n": 2,
+        "title": "SUPPRELIN LA (histrelin acetate) subcutaneous implant: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d8fb000e-3cc9-4803-b71d-2cc597661977",
+        "note": "Indication, dosing, implant-site reactions and warnings"
+      },
+      {
+        "n": 3,
+        "title": "Drugs@FDA: VANTAS (histrelin acetate), application 021732",
+        "source": "U.S. FDA (Drugs@FDA)",
+        "year": 2026,
+        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021732",
+        "note": "Approved October 12, 2004; marketing status discontinued"
+      },
+      {
+        "n": 4,
+        "title": "The histrelin implant: a novel treatment for central precocious puberty.",
+        "source": "Pediatrics",
+        "year": 2005,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16322137/",
+        "pmid": "16322137",
+        "doi": "10.1542/peds.2005-0538",
+        "note": "Early study of the yearly implant in 11 girls"
+      },
+      {
+        "n": 5,
+        "title": "Consensus statement on the use of gonadotropin-releasing hormone analogs in children.",
+        "source": "Pediatrics",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19332438/",
+        "pmid": "19332438",
+        "doi": "10.1542/peds.2008-1783",
+        "note": "Expert consensus on GnRH analogs in children"
+      },
+      {
+        "n": 6,
+        "title": "Drugs@FDA: SUPPRELIN LA (histrelin acetate), application 022058",
+        "source": "U.S. FDA (Drugs@FDA)",
+        "year": 2026,
+        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=022058",
+        "note": "Original approval May 3, 2007"
+      },
+      {
+        "n": 7,
+        "title": "Prohibited List (WADA 2026): S2.2.1 testosterone-stimulating peptides in males",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "GnRH agonists including histrelin are prohibited in males"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

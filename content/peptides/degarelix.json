@@ -59,7 +59,7 @@
         "blocks": [
           {
             "type": "p",
-            "text": "Prostate cancer cells often depend on testosterone. The testes make it when the pituitary releases LH, and the pituitary releases LH when GnRH from the hypothalamus binds its receptor. Degarelix is a modified ten-amino-acid peptide that occupies that receptor without activating it. LH falls within hours, and testosterone follows within days."
+            "text": "Prostate cancer cells often depend on testosterone. The testes make it when the pituitary releases LH, and the pituitary releases LH when GnRH from the hypothalamus binds its receptor. Degarelix is a modified ten-amino-acid peptide that occupies that receptor without activating it. LH falls quickly, and testosterone follows within days.[^1]"
           },
           {
             "type": "p",
@@ -73,7 +73,7 @@
         "blocks": [
           {
             "type": "p",
-            "text": "Firmagon is approved for the treatment of advanced prostate cancer, using androgen deprivation to slow tumor growth.[^2] It is used for men who need fast testosterone control, such as those whose symptoms would be dangerous to flare, and for others who prefer or tolerate it better than agonist injections."
+            "text": "Firmagon is approved for the treatment of advanced prostate cancer, using androgen deprivation to slow tumor growth.[^2] Because it causes no testosterone flare, it is sometimes chosen when a flare could be harmful, but it is one of several androgen-deprivation options."
           }
         ]
       },
@@ -130,8 +130,8 @@
           {
             "type": "ul",
             "items": [
-              "**Injection-site reactions** (pain, redness, swelling) occurred in 35% of men in the label trial, mostly after the first dose.[^2]",
-              "**Hormonal effects** typical of androgen deprivation, including hot flashes (26%), reduced libido, and bone loss with long use.[^1][^2]",
+              "**Injection-site reactions** occurred in 35% of men in the label trial, versus under 1% with monthly leuprolide.[^2]",
+              "**Hormonal effects** typical of androgen deprivation, such as hot flashes (26%).[^2]",
               "**Liver tests:** transaminases and GGT rose in about 10%.[^2]",
               "**Labeled warnings:** hypersensitivity reactions, QT interval prolongation and embryo-fetal toxicity. Severe hypersensitivity to the drug is the only contraindication.[^2]"
             ]
@@ -144,7 +144,7 @@
         "blocks": [
           {
             "type": "p",
-            "text": "The FDA approved Firmagon in 2008.[^2] Because degarelix lowers testosterone rather than stimulating it, it is not among the GnRH agonists named in the testosterone-stimulating peptides section of WADA's Prohibited List."
+            "text": "The FDA approved Firmagon in 2008.[^2] It is a peptide GnRH antagonist, a different mechanism from the GnRH agonists leuprolide, goserelin and triptorelin."
           }
         ]
       }

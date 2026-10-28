@@ -1,0 +1,266 @@
+{
+  "slug": "human-chorionic-gonadotropin",
+  "name": "Human chorionic gonadotropin",
+  "zone": "sex",
+  "category": "fda",
+  "aliases": [
+    "hCG",
+    "chorionic gonadotropin"
+  ],
+  "brands": [
+    "Pregnyl",
+    "Novarel"
+  ],
+  "class": "Gonadotropin (LH-like glycoprotein hormone)",
+  "route": "Injection into a muscle",
+  "status": "FDA-approved for undescended testes, hypogonadotropic hypogonadism in males and ovulation induction; never approved for weight loss",
+  "evidence": 4,
+  "mechanism": "Acts like luteinizing hormone (LH): it prompts the testes to make testosterone and sperm and triggers ovulation in women",
+  "uses": [
+    "Boys with undescended testes (cryptorchidism)",
+    "Male hypogonadotropic hypogonadism",
+    "Inducing ovulation in infertility treatment"
+  ],
+  "popular": null,
+  "related": [
+    "compounded-gonadorelin",
+    "kisspeptin-10",
+    "cetrorelix",
+    "ganirelix",
+    "leuprolide"
+  ],
+  "article": {
+    "summary": "Human chorionic gonadotropin (Pregnyl, Novarel) is a pregnancy hormone given by injection for undescended testes, some forms of male hypogonadism and ovulation induction. It is not approved for weight loss.",
+    "takeaway": "Human chorionic gonadotropin (hCG) is the hormone placental cells make in early pregnancy, and it acts like luteinizing hormone (LH), the pituitary signal that tells the testes to make testosterone and the ovaries to release an egg. As a prescription injection it is approved for boys with undescended testes, some men with hypogonadotropic hypogonadism, and women having ovulation induced with fertility drugs.[^1] In a meta-analysis of studies in males with hypogonadotropic hypogonadism, sperm production occurred in **86%** with hCG plus FSH versus **40%** with hCG alone.[^2] The FDA says there is no substantial evidence that hCG helps weight loss, and no hCG product is approved for it.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Prescription biologic approved since the 1970s; no product approved for weight loss"
+      ],
+      [
+        "Main uses",
+        "Undescended testes in boys, male hypogonadotropic hypogonadism, ovulation induction in women"
+      ],
+      [
+        "How it's given",
+        "Intramuscular injection (Pregnyl, Novarel)"
+      ],
+      [
+        "Drug class",
+        "Gonadotropin (LH-like glycoprotein hormone)"
+      ],
+      [
+        "Research",
+        "Small clinical studies and systematic reviews in male hypogonadism and fertility"
+      ],
+      [
+        "Anti-doping",
+        "Prohibited at all times in males (WADA S2.2.1)"
+      ],
+      [
+        "Related",
+        "[Gonadorelin (compounded)](/peptides/compounded-gonadorelin), [kisspeptin-10](/peptides/kisspeptin-10)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "hCG is a two-part glycoprotein, much larger than a typical peptide, made by the placenta in early pregnancy. It is the hormone that home pregnancy tests detect. It binds the same receptor as LH. In men, that receptor sits on Leydig cells in the testes, and activating it makes them produce testosterone. In women, hCG stands in for the natural LH surge, triggering the final maturation and release of an egg."
+          },
+          {
+            "type": "p",
+            "text": "Testosterone therapy shuts down the pituitary's LH and FSH signals, so the testes shrink and sperm production can fall. Because hCG mimics LH, it is sometimes added to testosterone therapy in men who want to protect fertility. That use is outside the label.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Prepubertal cryptorchidism** not caused by a physical blockage (boys whose testes have not descended).[^1]",
+              "**Selected cases of hypogonadotropic hypogonadism in men,** in which the pituitary does not send enough LH.[^1]",
+              "**Induction of ovulation and pregnancy** in women with anovulatory infertility who have first been treated with menotropins.[^1]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "A recombinant version, choriogonadotropin alfa (Ovidrel), is a separate product."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "Review of 42 cases (1998)",
+                "Men with hypogonadotropic hypogonadism treated with pulsatile GnRH or hCG/hMG",
+                "Sperm appeared in 54 of 57 treatment courses; pregnancies in 26 of 36 courses; testicular volume doubled in 5 to 12 months[^5]"
+              ],
+              [
+                "Meta-analysis (2024)",
+                "103 studies, 5,328 males with hypogonadotropic hypogonadism",
+                "Spermatogenesis 86% with hCG plus FSH vs 40% with hCG alone; testicular size and testosterone rose in over 98% of analyses[^2]"
+              ],
+              [
+                "Hsieh (2013)",
+                "26 men on testosterone therapy given low-dose hCG",
+                "No one became azoospermic over more than a year; 9 of 26 contributed to a pregnancy[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The meta-analysis authors noted large variation in dose, duration and outcomes and called for formal guidelines and randomized trials.[^2] The study of men on testosterone had no comparison group, so it shows that semen parameters held steady, not that hCG was the cause."
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pregnyl and Novarel are injected into a muscle only. Doses, schedules and duration depend on the condition and are set by the prescriber, so this entry does not give them.[^1] Both come as powders that are mixed with a liquid before use."
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common reactions:** headache, irritability, restlessness, depression, fatigue, fluid retention (edema) and pain at the injection site. In boys, early puberty signs and breast enlargement can occur.[^1]",
+              "**In women:** ovarian hyperstimulation syndrome, enlarged or ruptured ovarian cysts and multiple births, as with other ovulation-induction drugs.[^1]",
+              "**Other warnings:** arterial thromboembolism and allergic reactions, including anaphylaxis with urine-derived products.[^1]",
+              "**Who should not use it:** people with precocious puberty, prostate cancer or other androgen-dependent tumors, or a previous allergic reaction to hCG.[^1]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status, weight-loss claims and anti-doping",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "hCG products were first approved as drugs in the 1970s. When a 2009 law moved protein products to biologic regulation, the FDA deemed their applications to be biologics licenses on March 23, 2020.[^6]"
+          },
+          {
+            "type": "p",
+            "text": "The Novarel label states that hCG has not been demonstrated to be effective adjunctive therapy in the treatment of obesity.[^1] The FDA adds that there is no substantial evidence that hCG increases weight loss, that it has received reports of pulmonary embolism, depression, cerebrovascular problems, cardiac arrest and death with hCG injections for weight loss, and that products claiming to contain 'homeopathic' hCG are illegally marketed.[^3]"
+          },
+          {
+            "type": "p",
+            "text": "The 2026 WADA Prohibited List bans hCG and LH at all times for male athletes, because they stimulate testosterone (S2.2.1).[^7]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong for labeled uses; none for weight loss",
+      "text": "Decades of clinical use and systematic reviews support hCG for inducing testosterone and sperm production in men with a missing LH signal and for ovulation induction.[^2][^5] Evidence for preserving fertility on testosterone therapy is limited to small uncontrolled studies,[^4] and the FDA has found no evidence of a weight-loss benefit.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Does hCG help with weight loss?",
+        "a": "No. The FDA states there is no substantial evidence that hCG increases weight loss, and it has never approved an hCG product for that use.[^3] Any loss on 'hCG diets' comes from the very low-calorie diet that accompanies them.[^3]"
+      },
+      {
+        "q": "Why do some men on testosterone also use hCG?",
+        "a": "Testosterone therapy suppresses the pituitary signals that keep the testes working. A small uncontrolled study found low-dose hCG kept semen parameters stable in men on testosterone.[^4] It is an off-label strategy to discuss with a clinician."
+      },
+      {
+        "q": "Is hCG the hormone in a pregnancy test?",
+        "a": "Yes. Pregnancy tests detect the hCG that the placenta makes. The drug is a medicine with the same hormone, given in much larger amounts."
+      },
+      {
+        "q": "Is hCG banned in sports?",
+        "a": "For male athletes, yes. WADA prohibits chorionic gonadotrophin at all times.[^7]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "NOVAREL (chorionic gonadotropin for injection): prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ac6918ff-9dc3-40d9-8619-54b26e4bdfc8",
+        "note": "Indications, obesity statement, warnings and contraindications"
+      },
+      {
+        "n": 2,
+        "title": "Gonadotropins for pubertal induction in males with hypogonadotropic hypogonadism: systematic review and meta-analysis.",
+        "source": "Eur J Endocrinol",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38128110/",
+        "pmid": "38128110",
+        "doi": "10.1093/ejendo/lvad166",
+        "note": "103 studies, 5,328 patients: spermatogenesis with hCG and FSH"
+      },
+      {
+        "n": 3,
+        "title": "Questions and Answers on HCG Products for Weight Loss",
+        "source": "U.S. FDA",
+        "year": 2016,
+        "url": "https://www.fda.gov/drugs/medication-health-fraud/questions-and-answers-hcg-products-weight-loss",
+        "note": "No approved hCG product for weight loss; reported serious events"
+      },
+      {
+        "n": 4,
+        "title": "Concomitant intramuscular human chorionic gonadotropin preserves spermatogenesis in men undergoing testosterone replacement therapy.",
+        "source": "J Urol",
+        "year": 2013,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23260550/",
+        "pmid": "23260550",
+        "doi": "10.1016/j.juro.2012.09.043",
+        "note": "26 men on testosterone therapy given low-dose hCG"
+      },
+      {
+        "n": 5,
+        "title": "Pulsatile GnRH or human chorionic gonadotropin/human menopausal gonadotropin as effective treatment for men with hypogonadotropic hypogonadism: a review of 42 cases.",
+        "source": "Eur J Endocrinol",
+        "year": 1998,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9758439/",
+        "pmid": "9758439",
+        "doi": "10.1530/eje.0.1390298",
+        "note": "Sperm induction and pregnancies in 42 men"
+      },
+      {
+        "n": 6,
+        "title": "List of Approved NDAs for Biological Products That Were Deemed to be BLAs on March 23, 2020",
+        "source": "U.S. FDA",
+        "year": 2020,
+        "url": "https://www.fda.gov/media/119229/download",
+        "note": "Chorionic gonadotropin products moved to biologic regulation"
+      },
+      {
+        "n": 7,
+        "title": "Prohibited List (WADA 2026): S2.2.1 testosterone-stimulating peptides in males",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "Chorionic gonadotrophin and LH are prohibited in males"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}
