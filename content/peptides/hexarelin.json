@@ -1,0 +1,198 @@
+{
+  "slug": "hexarelin",
+  "name": "Hexarelin",
+  "zone": "bones",
+  "category": "wellness",
+  "aliases": [
+    "Examorelin"
+  ],
+  "brands": [],
+  "class": "Ghrelin-receptor agonist (GH-releasing peptide)",
+  "route": "Injection under the skin in research and gray-market use",
+  "status": "Not FDA-approved and not on FDA's compounding nomination lists; banned in sport by WADA",
+  "evidence": 1,
+  "mechanism": "A potent six-amino-acid peptide that releases growth hormone through the ghrelin receptor, but its effect fades with repeated use",
+  "uses": [
+    "GH release and recovery (claimed)"
+  ],
+  "popular": null,
+  "related": [
+    "ghrp-2",
+    "ghrp-6",
+    "ipamorelin",
+    "mk-677-ibutamoren",
+    "cjc-1295"
+  ],
+  "article": {
+    "summary": "Hexarelin is a potent six-amino-acid peptide that triggers growth hormone release, but its effect faded within weeks in a human trial. It is unapproved and banned in sport.",
+    "takeaway": "Hexarelin (also called examorelin) is a synthetic six-amino-acid peptide that releases growth hormone through the ghrelin receptor. In healthy men it produced a dose-dependent rise in growth hormone, but also in prolactin and cortisol.[^1] When adults took it twice daily for 16 weeks, the growth hormone response fell by nearly half and recovered four weeks after stopping, a sign of desensitization.[^2] It has no FDA approval, and WADA bans it.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; not listed in FDA's 503A nomination categories (May 2026)[^4]"
+      ],
+      [
+        "Main uses claimed",
+        "GH release, recovery"
+      ],
+      [
+        "How it's taken",
+        "Injection in research and gray-market use; no approved dosing"
+      ],
+      [
+        "Drug class",
+        "GH-releasing peptide and ghrelin agonist"
+      ],
+      [
+        "Research",
+        "Short hormone studies and one 16-week study in adults[^1][^2]"
+      ],
+      [
+        "Sport",
+        "Prohibited at all times; WADA names hexarelin (examorelin)[^3]"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Hexarelin belongs to the family of synthetic GH-releasing peptides that act on specific receptors in the pituitary and hypothalamus and have no structural similarity to GHRH.[^5] Their GH-releasing activity is marked and dose-related, and the receptor's natural partner is the stomach hormone ghrelin.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Dose-response:** in healthy men, intravenous hexarelin released GH, prolactin and cortisol in a dose-dependent way; a low amount combined with GHRH released a very large amount of GH with no cortisol rise[^1]",
+              "**Desensitization:** in adults given hexarelin twice daily for 16 weeks, the GH response fell from 19.1 to 10.5 units of area under the curve and returned to 19.4 four weeks after stopping[^2]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The searches for this entry found no trial showing that hexarelin builds muscle, speeds recovery or slows aging."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Other hormones:** prolactin rose up to about 180% and cortisol up to about 40% in men at higher doses[^1]",
+              "**Fading effect:** the falling GH response over weeks makes sustained benefit unlikely and is unexplained in healthy users[^2]",
+              "**No regulatory safety review:** unlike GHRP-2, GHRP-6 and ibutamoren, hexarelin does not appear in the FDA's published compounding safety lists, which is not evidence that it is safe[^4]",
+              "**Unknown long term:** no long-term safety, cancer or mortality data exist for healthy users",
+              "**Quality:** illegally sold peptide drugs have shown highly variable amounts, low purity and toxic metals such as arsenic and lead[^6]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Hexarelin is not FDA-approved and does not appear in any category of the FDA's May 2026 list of bulk substances nominated for pharmacy compounding, so no recognized compounding route was found.[^4] WADA lists hexarelin (examorelin) as a prohibited GH-releasing peptide at all times.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Hexarelin is a powerful but short-lived GH trigger that also raises prolactin and cortisol. Human evidence for muscle or recovery benefits is missing, and the fading response undermines the idea of steady effect. Athletes subject to testing should treat it as banned."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Low: short human studies, none for claimed uses",
+      "text": "The human studies measure hormones in volunteers, including one 16-week trial that showed the response fading.[^1][^2] No outcome trials of the wellness claims were found."
+    },
+    "faq": [
+      {
+        "q": "Why does hexarelin stop working?",
+        "a": "In a 16-week study the GH response fell by about 45% and recovered after a four-week break, a pattern called desensitization.[^2]"
+      },
+      {
+        "q": "Is hexarelin the same as GHRP-2 or GHRP-6?",
+        "a": "They are related six-amino-acid GH-releasing peptides that act on the same system.[^5] See [GHRP-2](/peptides/ghrp-2) and [GHRP-6](/peptides/ghrp-6)."
+      },
+      {
+        "q": "Is it banned in sport?",
+        "a": "Yes. WADA lists hexarelin (examorelin) as prohibited at all times.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Hexarelin-induced growth hormone, cortisol, and prolactin release: a dose-response study",
+        "source": "J Clin Endocrinol Metab",
+        "year": 1996,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8954038/",
+        "pmid": "8954038",
+        "doi": "10.1210/jcem.81.12.8954038",
+        "note": "Human dose-response of GH, prolactin and cortisol"
+      },
+      {
+        "n": 2,
+        "title": "Growth hormone status during long-term hexarelin therapy",
+        "source": "J Clin Endocrinol Metab",
+        "year": 1998,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9589671/",
+        "pmid": "9589671",
+        "doi": "10.1210/jcem.83.5.4812",
+        "note": "16 weeks of treatment with falling GH response"
+      },
+      {
+        "n": 3,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "Hexarelin (examorelin) is a prohibited GH-releasing peptide"
+      },
+      {
+        "n": 4,
+        "title": "Bulk Drug Substances Nominated for Use in Compounding Under Section 503A of the Federal Food, Drug, and Cosmetic Act (updated May 14, 2026)",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/media/94155/download",
+        "note": "Current 503A categories; hexarelin is not listed"
+      },
+      {
+        "n": 5,
+        "title": "Growth hormone-releasing peptides",
+        "source": "Eur J Endocrinol",
+        "year": 1997,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9186261/",
+        "pmid": "9186261",
+        "doi": "10.1530/eje.0.1360445",
+        "note": "Review of GHRP-6, GHRP-2 and hexarelin"
+      },
+      {
+        "n": 6,
+        "title": "Impurity profiling of the most frequently encountered falsified polypeptide drugs on the Belgian market",
+        "source": "Talanta",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30029448/",
+        "pmid": "30029448",
+        "doi": "10.1016/j.talanta.2018.06.023",
+        "note": "Purity and metal contamination in illegally sold peptides"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}
