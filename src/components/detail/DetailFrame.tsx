@@ -2,7 +2,7 @@
 
 import { AnimatePresence, motion } from "motion/react";
 import { useCallback, useEffect, useRef, useState } from "react";
-import { ZONE_BY_ID, peptideHref, peptidesInZone, splitName, zoneHref, type Peptide } from "@/lib/catalog";
+import { ZONE_BY_ID, peptideHref, peptidesInZone, zoneHref, type Peptide } from "@/lib/catalog";
 import { inAppClick } from "@/lib/measure";
 import { setProgress } from "@/lib/progress";
 import { useLibrary } from "@/components/shell/library-context";
@@ -51,7 +51,7 @@ function ShelfTicks({ p }: { p: Peptide }) {
                 on ? "translate-x-0 opacity-100" : "-translate-x-1 opacity-0"
               }`}
             >
-              {splitName(q.name).base}
+              {q.name}
             </span>
           </a>
         );

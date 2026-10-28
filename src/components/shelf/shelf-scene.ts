@@ -75,6 +75,14 @@ function drawCover(ctx: CanvasRenderingContext2D, img: HTMLImageElement, w: numb
   ctx.drawImage(img, ox, oy, dw, dh);
 }
 
+/** Text shortened with an ellipsis to fit maxW in the current font. */
+function clip(ctx: CanvasRenderingContext2D, text: string, maxW: number) {
+  if (ctx.measureText(text).width <= maxW) return text;
+  let t = text;
+  while (t.length > 1 && ctx.measureText(`${t}…`).width > maxW) t = t.slice(0, -1);
+  return `${t.trimEnd()}…`;
+}
+
 function spineTexture(p: Peptide, w: number, dpr: number, font: string, art: HTMLImageElement | null) {
   const canvas = document.createElement("canvas");
   canvas.width = Math.round(w * dpr);
@@ -107,22 +115,20 @@ function spineTexture(p: Peptide, w: number, dpr: number, font: string, art: HTM
   ctx.fillStyle = "#17171a";
   ctx.font = `400 ${NAME_PX}px ${font}`;
   const { base, qualifier } = splitName(p.name);
-  let name = qualifier ? `${base} (${qualifier})` : base;
-  if (ctx.measureText(name).width > maxW) {
-    name = base;
-    while (name.length > 1 && ctx.measureText(`${name}…`).width > maxW) name = name.slice(0, -1);
-    if (name !== base) name = `${name.trimEnd()}…`;
-  }
+  const full = qualifier ? `${base} (${qualifier})` : base;
+  const fits = ctx.measureText(full).width <= maxW;
+  const name = fits ? full : clip(ctx, base, maxW);
   ctx.fillText(name, x, NAME_TOP);
   const nameW = ctx.measureText(name).width;
 
   ctx.font = `400 ${META_PX}px ${font}`;
   ctx.fillStyle = "rgba(23,23,26,0.5)";
-  let meta = CATEGORY_LABEL[p.category];
-  if (p.cls) {
-    const full = `${meta}  ·  ${p.cls}`;
-    if (ctx.measureText(full).width <= maxW) meta = full;
-  }
+  // a qualifier that does not fit beside the name takes the line below, so
+  // "Trofinetide" and "Trofinetide (investigational uses)" stay distinguishable
+  const label = CATEGORY_LABEL[p.category];
+  const note = !fits && qualifier ? qualifier[0].toUpperCase() + qualifier.slice(1) : null;
+  const options = note ? [`${note}  ·  ${label}`, note] : p.cls ? [`${label}  ·  ${p.cls}`, label] : [label];
+  const meta = options.find((o) => ctx.measureText(o).width <= maxW) ?? clip(ctx, options[options.length - 1], maxW);
   ctx.fillText(meta, x, NAME_TOP + NAME_PX * 1.2 + 4);
 
   const tex = new THREE.CanvasTexture(canvas);
