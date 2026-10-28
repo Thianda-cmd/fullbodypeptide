@@ -12,7 +12,7 @@ export function Thumb({ p, className = "size-9" }: { p: Peptide; className?: str
           alt=""
           loading="lazy"
           draggable={false}
-          className="absolute inset-0 size-full object-cover mix-blend-soft-light"
+          className="absolute inset-0 size-full object-cover mix-blend-overlay"
         />
       </span>
       <span className="h-[3px] shrink-0" style={{ background: c.line }} />

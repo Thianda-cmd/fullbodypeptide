@@ -1,0 +1,242 @@
+{
+  "slug": "somatropin-rhgh",
+  "name": "Somatropin (rhGH)",
+  "zone": "hormones",
+  "category": "fda",
+  "aliases": [
+    "Recombinant human growth hormone",
+    "rhGH"
+  ],
+  "brands": [
+    "Genotropin",
+    "Norditropin",
+    "Humatrope",
+    "Omnitrope",
+    "Saizen",
+    "Nutropin",
+    "Zomacton"
+  ],
+  "class": "Recombinant growth hormone",
+  "route": "Injection under the skin, usually once a day, from a pen or vial",
+  "status": "FDA-approved for childhood growth disorders and adult GH deficiency; use for anti-aging or sport is not approved",
+  "evidence": 4,
+  "mechanism": "Replaces the pituitary hormone that drives childhood growth and, through IGF-1, shapes muscle, fat and sugar metabolism in adults",
+  "uses": [
+    "Growth failure from GH deficiency in children",
+    "Turner syndrome and Prader-Willi syndrome",
+    "Short stature after small-for-gestational-age birth",
+    "Idiopathic short stature",
+    "Adult growth hormone deficiency"
+  ],
+  "popular": null,
+  "related": [
+    "somapacitan",
+    "mecasermin",
+    "tesamorelin",
+    "sermorelin",
+    "mk-677-ibutamoren"
+  ],
+  "article": {
+    "summary": "Somatropin is lab-made human growth hormone, approved for children with growth failure and adults with true GH deficiency, and prohibited in sport. It is not an approved anti-aging drug.",
+    "takeaway": "Somatropin is lab-made human growth hormone, a 191-amino-acid protein that the pituitary gland normally releases. It is approved for children whose growth has stalled and for adults with confirmed growth hormone deficiency, and guidelines support it for those uses.[^1][^2] It is not approved for anti-aging: a review of trials in healthy older adults found small gains in lean mass but more swelling, joint pain and diabetes risk.[^3] Growth hormone is banned in sport at all times.[^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved under many brand names, for specific diagnoses in children and adults[^5]"
+      ],
+      [
+        "Main uses",
+        "Childhood growth failure (GH deficiency, Turner, Prader-Willi, small for gestational age, idiopathic short stature) and adult GH deficiency"
+      ],
+      [
+        "How it's taken",
+        "Injection under the skin, usually daily, with the dose set by weight and diagnosis"
+      ],
+      [
+        "Drug class",
+        "Recombinant human growth hormone"
+      ],
+      [
+        "Research",
+        "Decades of trials and long-term follow-up in deficiency; small, short trials in healthy adults"
+      ],
+      [
+        "Related",
+        "[Somapacitan](/peptides/somapacitan), [mecasermin](/peptides/mecasermin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Growth hormone (GH) is a 191-amino-acid protein made by the pituitary gland. It tells the liver and other tissues to make insulin-like growth factor 1 (IGF-1), which drives bone growth in childhood and helps manage muscle, fat and sugar metabolism in adults. Somatropin has the same amino acid sequence as the natural hormone and is made in engineered cells."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Children:** growth failure from GH deficiency, Turner syndrome, Prader-Willi syndrome, being born small for gestational age without catch-up growth, and idiopathic short stature (unexplained short stature)[^5]",
+              "**Adults:** GH deficiency that began in childhood or adulthood[^5]"
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Labels differ a little between brands, and a few carry extra uses. Check the label for the specific product."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "For confirmed deficiency, treatment is standard care. Pediatric guidelines cover GH deficiency, idiopathic short stature and primary IGF-1 deficiency.[^1] Adult guidelines say deficiency usually needs confirmation by stimulation testing, and treatment helps most when deficiency is severe.[^2]"
+          },
+          {
+            "type": "p",
+            "text": "Outside approved diagnoses the picture is weaker. Two systematic reviews pooled small trials:"
+          },
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Group",
+                "What the review found"
+              ],
+              [
+                "Healthy older adults",
+                "About 2 kg more lean mass and 2 kg less fat, but more swelling, joint pain, carpal tunnel syndrome and breast enlargement in men, and somewhat more diabetes[^3]"
+              ],
+              [
+                "Young, fit adults",
+                "About 2 kg more lean mass, no clear gain in strength or exercise capacity, more fatigue and swelling[^6]"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Somatropin is injected under the skin from a pen or vial, usually once a day. Doses depend on weight and diagnosis, and a specialist adjusts them using growth, IGF-1 levels and side effects. Weekly long-acting versions, such as [somapacitan](/peptides/somapacitan), are approved for some of the same uses."
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** headache, injection-site reactions and fluid retention, including swelling, joint pain and carpal tunnel syndrome, which are more frequent in adults[^5]",
+              "**Blood sugar:** can unmask impaired glucose tolerance or diabetes, so glucose is checked regularly[^5]",
+              "**Other warnings:** raised pressure inside the skull, allergic reactions, and airway blockage or sleep apnea in children with Prader-Willi syndrome[^5]",
+              "**Tumors:** active cancer is a reason not to treat, and childhood cancer survivors have a higher risk of a second tumor, mainly meningioma after head radiation[^5]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Somatropin is approved only for diagnosed conditions. Distributing it for anti-aging is illegal in the United States.[^3] The World Anti-Doping Agency prohibits growth hormone at all times, in and out of competition.[^4]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong for approved uses; weak for anti-aging and sport",
+      "text": "For children and adults with diagnosed GH deficiency, decades of trials and guideline consensus support benefit.[^1][^2] For healthy people, trials are small and short, and they show body-composition changes without proven gains in function.[^3][^6]"
+    },
+    "faq": [
+      {
+        "q": "Is growth hormone an anti-aging treatment?",
+        "a": "No. A systematic review of trials in healthy older adults found small body-composition changes and more adverse effects, and concluded that GH cannot be recommended as an anti-aging therapy.[^3]"
+      },
+      {
+        "q": "Is it allowed in sport?",
+        "a": "No. Growth hormone is prohibited at all times on the WADA list.[^4] Trials in young, fit adults did not show clear gains in strength or exercise capacity.[^6]"
+      },
+      {
+        "q": "How is it different from GH-releasing peptides?",
+        "a": "Somatropin is the hormone itself. Peptides such as [sermorelin](/peptides/sermorelin) and [ipamorelin](/peptides/ipamorelin) prompt the pituitary to release its own GH, and most lack FDA approval and large human trials."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Guidelines for Growth Hormone and Insulin-Like Growth Factor-I Treatment in Children and Adolescents: Growth Hormone Deficiency, Idiopathic Short Stature, and Primary Insulin-Like Growth Factor-I Deficiency",
+        "source": "Horm Res Paediatr",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27884013/",
+        "pmid": "27884013",
+        "doi": "10.1159/000452150",
+        "note": "Pediatric guideline for GH deficiency and short stature"
+      },
+      {
+        "n": 2,
+        "title": "Evaluation and treatment of adult growth hormone deficiency: an Endocrine Society clinical practice guideline",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2011,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21602453/",
+        "pmid": "21602453",
+        "doi": "10.1210/jc.2011-0179",
+        "note": "Adult guideline: testing, benefits and risks of replacement"
+      },
+      {
+        "n": 3,
+        "title": "Systematic review: the safety and efficacy of growth hormone in the healthy elderly",
+        "source": "Ann Intern Med",
+        "year": 2007,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17227934/",
+        "pmid": "17227934",
+        "doi": "10.7326/0003-4819-146-2-200701160-00005",
+        "note": "Trials in healthy older adults: body composition and adverse events"
+      },
+      {
+        "n": 4,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "Growth hormone and its analogues are prohibited at all times"
+      },
+      {
+        "n": 5,
+        "title": "GENOTROPIN (somatropin) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ffebf88b-d257-4542-9808-74d9b7167765",
+        "note": "Indications, warnings and precautions for children and adults"
+      },
+      {
+        "n": 6,
+        "title": "Systematic review: the effects of growth hormone on athletic performance",
+        "source": "Ann Intern Med",
+        "year": 2008,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18347346/",
+        "pmid": "18347346",
+        "doi": "10.7326/0003-4819-148-10-200805200-00215",
+        "note": "Trials in young, fit adults: lean mass, strength, adverse events"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

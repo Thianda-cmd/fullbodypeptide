@@ -102,12 +102,9 @@ export function PeptideCard({ p, flight, closing }: { p: Peptide; flight: CardFl
                 className="absolute inset-0"
               >
                 {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={artSrc(p)} alt="" draggable={false} className="absolute inset-0 size-full object-cover mix-blend-soft-light" />
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={artSrc(p)} alt="" draggable={false} className="absolute inset-0 size-full object-cover opacity-55 mix-blend-screen" />
+                <img src={artSrc(p)} alt="" draggable={false} className="absolute inset-0 size-full object-cover mix-blend-overlay" />
               </motion.div>
             </AnimatePresence>
-            <div className="grain pointer-events-none absolute inset-0 opacity-60 mix-blend-multiply" />
           </div>
           <span aria-hidden="true" className={`shrink-0 transition-colors duration-500 ${art}`} style={{ height: 5, background: colors.line }} />
           <AnimatePresence mode="wait" initial={false}>

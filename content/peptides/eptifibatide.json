@@ -1,0 +1,204 @@
+{
+  "slug": "eptifibatide",
+  "name": "Eptifibatide",
+  "zone": "heart",
+  "category": "fda",
+  "aliases": [],
+  "brands": [
+    "Integrilin"
+  ],
+  "class": "Platelet glycoprotein IIb/IIIa inhibitor",
+  "route": "Intravenous bolus followed by a continuous infusion in a hospital",
+  "status": "FDA-approved (1998) for acute coronary syndromes and angioplasty or stenting; generic versions are sold",
+  "evidence": 4,
+  "mechanism": "Blocks the platelet receptor glycoprotein IIb/IIIa so platelets cannot bind fibrinogen and join together, which keeps clots in heart arteries from growing",
+  "uses": [
+    "Unstable angina and non-ST-elevation heart attack",
+    "Angioplasty and stenting (PCI)"
+  ],
+  "popular": null,
+  "related": [
+    "bivalirudin",
+    "desirudin"
+  ],
+  "article": {
+    "summary": "Eptifibatide (Integrilin) is an intravenous platelet blocker used in hospital for acute coronary syndromes and during angioplasty or stenting to lower the risk of heart attack.",
+    "takeaway": "Eptifibatide is a synthetic cyclic peptide, designed from a protein in rattlesnake venom, that stops platelets from clumping together. It is given through a vein for unstable angina, non-ST-elevation heart attack and heart-artery stenting. In the PURSUIT trial of 10,948 patients, death or a new heart attack within 30 days fell from **15.7%** to **14.2%**, with more bleeding.[^1] In planned stenting, the ESPRIT trial found a larger drop in early complications (**10.5%** to **6.6%**).[^2] Later testing found no benefit from giving it routinely before angiography, and it caused more bleeding.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved in 1998 (Integrilin); generic eptifibatide is also sold"
+      ],
+      [
+        "Main uses",
+        "Unstable angina or non-ST-elevation heart attack; angioplasty and stenting"
+      ],
+      [
+        "How it's given",
+        "IV bolus then continuous infusion in a hospital"
+      ],
+      [
+        "Drug class",
+        "Platelet glycoprotein IIb/IIIa inhibitor (cyclic heptapeptide)"
+      ],
+      [
+        "Research",
+        "PURSUIT (10,948 patients), ESPRIT and EARLY-ACS randomized trials"
+      ],
+      [
+        "Related",
+        "[Bivalirudin](/peptides/bivalirudin), [desirudin](/peptides/desirudin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "When a plaque in a heart artery cracks, platelets rush to the spot and stick together to form a clot. The last step in that process depends on glycoprotein IIb/IIIa, a receptor on the platelet surface that grabs fibrinogen and links platelets to one another. Eptifibatide is a cyclic peptide of seven amino acids, designed from barbourin, a protein in the venom of the southeastern pygmy rattlesnake. It occupies the receptor and keeps fibrinogen and other sticky proteins from binding.[^4]"
+          },
+          {
+            "type": "p",
+            "text": "The block is reversible and short-lived. The plasma half-life is about 2.5 hours, and platelet inhibition falls below 50% roughly four hours after the infusion stops.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Eptifibatide is approved to lower the combined risk of death or a new heart attack in people with acute coronary syndrome (unstable angina or non-ST-elevation heart attack), whether they are treated with medicine alone or with a procedure. It is also approved to lower the risk of death, heart attack or urgent repeat procedures in people having percutaneous coronary intervention (PCI), including stenting.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "PURSUIT",
+                "10,948 people with chest pain and no persistent ST elevation",
+                "Death or nonfatal heart attack at 30 days: 14.2% vs 15.7% on placebo; more bleeding[^1]"
+              ],
+              [
+                "ESPRIT",
+                "2,064 people having planned coronary stenting",
+                "Main ischemic outcome at 48 hours: 6.6% vs 10.5%; major bleeding 1.3% vs 0.4%[^2]"
+              ],
+              [
+                "EARLY-ACS",
+                "Patients with acute coronary syndrome and no ST elevation",
+                "Routine early use vs selective use after angiography: 9.3% vs 10.0%, not significant; more bleeding and transfusion with early use[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In PURSUIT the benefit appeared in men but not in women (odds ratios 0.8 and 1.1), a subgroup finding.[^1] These trials were run before today's stronger oral antiplatelet pills became standard."
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "It is given only in a hospital. For acute coronary syndrome the label dose is a 180 mcg/kg IV bolus followed by 2 mcg/kg per minute by continuous infusion. For PCI, a 180 mcg/kg bolus is given just before the procedure, with the same infusion and a second 180 mcg/kg bolus 10 minutes after the first. The infusion rate is halved when creatinine clearance is below 50 mL/min.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Bleeding** is the most common problem. In the label's PURSUIT data, minor bleeding occurred in 13.1% vs 7.6% on placebo and major bleeding in 10.8% vs 9.3%.[^4]",
+              "**Low platelet count:** acute, profound thrombocytopenia has been reported, so platelets are monitored. If they fall below 100,000 per cubic millimeter, eptifibatide and heparin are stopped.[^4]",
+              "**Low blood pressure** is the other commonly reported reaction.[^4]",
+              "**Who should not receive it:** people with recent bleeding or a bleeding disorder, severe uncontrolled high blood pressure, major surgery within six weeks, a stroke within 30 days or any hemorrhagic stroke, or dependence on dialysis.[^4]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong trials, run before modern oral antiplatelets",
+      "text": "Large randomized trials established that eptifibatide lowers ischemic events in acute coronary syndrome and stenting, at the cost of more bleeding.[^1][^2] Later work showed no advantage to routine early use.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Does eptifibatide come from snake venom?",
+        "a": "Not directly. Patients receive a laboratory-made peptide, but its design is based on barbourin, a protein in the venom of the southeastern pygmy rattlesnake."
+      },
+      {
+        "q": "How is it different from aspirin and clopidogrel?",
+        "a": "Those oral drugs block steps that switch platelets on. Eptifibatide acts at the final step, the IIb/IIIa receptor that links platelets together, and it is given through a vein so that it acts quickly."
+      },
+      {
+        "q": "Is it used for everyone with a heart attack?",
+        "a": "No. EARLY-ACS found that giving it routinely 12 hours or more before angiography was no better than using it selectively afterward and caused more bleeding, so clinicians weigh clot risk against bleeding risk case by case.[^3]"
+      },
+      {
+        "q": "Why does kidney function matter?",
+        "a": "The kidneys clear eptifibatide. With creatinine clearance below 50 mL/min the label halves the infusion rate, and the drug is contraindicated in people who depend on dialysis.[^4]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Inhibition of platelet glycoprotein IIb/IIIa with eptifibatide in patients with acute coronary syndromes.",
+        "source": "N Engl J Med",
+        "year": 1998,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9705684/",
+        "pmid": "9705684",
+        "doi": "10.1056/NEJM199808133390704",
+        "note": "PURSUIT: death or heart attack at 30 days versus placebo"
+      },
+      {
+        "n": 2,
+        "title": "Novel dosing regimen of eptifibatide in planned coronary stent implantation (ESPRIT): a randomised, placebo-controlled trial.",
+        "source": "Lancet",
+        "year": 2000,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11145489/",
+        "pmid": "11145489",
+        "doi": "10.1016/S0140-6736(00)03400-0",
+        "note": "ESPRIT: ischemic complications of stenting versus placebo"
+      },
+      {
+        "n": 3,
+        "title": "Early versus delayed, provisional eptifibatide in acute coronary syndromes.",
+        "source": "N Engl J Med",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19332455/",
+        "pmid": "19332455",
+        "doi": "10.1056/NEJMoa0901316",
+        "note": "EARLY-ACS: routine early use versus provisional use after angiography"
+      },
+      {
+        "n": 4,
+        "title": "Eptifibatide injection (Baxter): prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5f46b76b-5c83-49b9-ada8-4ad5cf81a38c",
+        "note": "Indications, dosing, pharmacology, warnings and contraindications"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

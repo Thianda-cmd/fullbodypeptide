@@ -271,6 +271,24 @@ function neighbours(index, nv) {
   return sets.map((s) => [...s]);
 }
 
+/** 1 for vertices outside the largest connected piece (the eyeballs), else 0. */
+function detachedPieces(index, nv) {
+  const parent = Int32Array.from({ length: nv }, (_, i) => i);
+  const find = (a) => {
+    while (parent[a] !== a) a = parent[a] = parent[parent[a]];
+    return a;
+  };
+  for (let t = 0; t < index.length; t += 3) {
+    const a = find(index[t]);
+    parent[find(index[t + 1])] = a;
+    parent[find(index[t + 2])] = a;
+  }
+  const size = new Map();
+  for (let i = 0; i < nv; i++) size.set(find(i), (size.get(find(i)) ?? 0) + 1);
+  const body = [...size].sort((x, y) => y[1] - x[1])[0][0];
+  return Uint8Array.from({ length: nv }, (_, i) => (find(i) === body ? 0 : 1));
+}
+
 function smoothScalar(values, nbrs, iterations, amount = 0.5) {
   let cur = Float64Array.from(values);
   for (let it = 0; it < iterations; it++) {
@@ -496,11 +514,12 @@ for (const [name, cfg] of Object.entries(MODELS)) {
   const nbrs = neighbours(index, P.length / 3);
   const aoS = smoothScalar(ao, nbrs, 3);
   const thS = smoothScalar(thick, nbrs, 4);
+  const eyes = detachedPieces(index, P.length / 3);
   const color = new Uint8Array((P.length / 3) * 4);
   for (let i = 0; i < P.length / 3; i++) {
     color[i * 4] = Math.round(Math.min(1, Math.max(0, aoS[i])) * 255);
     color[i * 4 + 1] = Math.round(Math.min(1, Math.max(0, thS[i])) * 255);
-    color[i * 4 + 2] = 0;
+    color[i * 4 + 2] = eyes[i] * 255;
     color[i * 4 + 3] = 255;
   }
   const bytes = await writeGlb(join(root, `public/models/${name}.glb`), { pos: P, normal, color, index });

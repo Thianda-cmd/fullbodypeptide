@@ -1,0 +1,196 @@
+{
+  "slug": "motixafortide",
+  "name": "Motixafortide",
+  "zone": "heart",
+  "category": "fda",
+  "aliases": [
+    "BL-8040"
+  ],
+  "brands": [
+    "Aphexda"
+  ],
+  "class": "CXCR4 antagonist peptide (stem cell mobilizer)",
+  "route": "Slow injection under the skin the night before stem cell collection, with filgrastim",
+  "status": "FDA-approved (2023) with filgrastim to mobilize stem cells for collection in multiple myeloma",
+  "evidence": 4,
+  "mechanism": "Blocks the CXCR4 receptor that anchors blood stem cells in the bone marrow, so more stem cells move into the bloodstream where they can be collected",
+  "uses": [
+    "Stem cell collection before transplant in myeloma"
+  ],
+  "popular": null,
+  "related": [
+    "balixafortide",
+    "rusfertide",
+    "pegcetacoplan"
+  ],
+  "article": {
+    "summary": "Motixafortide (Aphexda) is a CXCR4-blocking peptide given with filgrastim to push blood stem cells out of the bone marrow so they can be collected for a transplant in multiple myeloma.",
+    "takeaway": "Motixafortide is a cyclic peptide that blocks CXCR4, the receptor that holds blood stem cells in the bone marrow. Approved in 2023, it is given with the growth factor filgrastim to release stem cells into the bloodstream so they can be collected for an autologous transplant in people with multiple myeloma. In the phase 3 GENESIS trial, **92.5%** of patients on motixafortide plus filgrastim collected enough stem cells within two apheresis sessions, versus **26.2%** on filgrastim plus placebo.[^1] The main risks are injection-site reactions and, rarely, severe allergic reactions, so patients are premedicated and observed.[^2]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved in 2023 (Aphexda), for use with filgrastim in multiple myeloma"
+      ],
+      [
+        "Main use",
+        "Releasing stem cells into the blood for collection before an autologous transplant"
+      ],
+      [
+        "How it's given",
+        "One slow injection under the skin 10 to 14 hours before the first collection session"
+      ],
+      [
+        "Drug class",
+        "CXCR4 antagonist (cyclic peptide)"
+      ],
+      [
+        "Research",
+        "GENESIS phase 3 randomized trial (122 patients)"
+      ],
+      [
+        "Related",
+        "[Balixafortide](/peptides/balixafortide), [rusfertide](/peptides/rusfertide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Blood-forming stem cells sit in the bone marrow, held in place by a molecular handshake between a signal called CXCL12 on marrow cells and its receptor, CXCR4, on the stem cells. Filgrastim (G-CSF) loosens that hold, but in many people with myeloma it frees too few cells. Motixafortide is a cyclic peptide that blocks CXCR4 with a long-lasting effect, so more stem cells enter the blood.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "The GENESIS trial also found that it preferentially mobilized more primitive, early-stage stem and progenitor cells. What that means for patients after transplant is still being studied.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Aphexda is approved, together with filgrastim, to mobilize hematopoietic (blood-forming) stem cells into the blood for collection and later autologous transplantation in patients with multiple myeloma.[^2] In an autologous transplant, a person's own stem cells are collected and stored, high-dose chemotherapy is given, and the cells are returned. Transplant improves survival in myeloma, but many people cannot collect enough cells with filgrastim alone.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "It does not treat the cancer itself. Its only job is to make stem cell collection work."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GENESIS was a double-blind, placebo-controlled phase 3 trial in 122 adults with myeloma at 18 sites in five countries. Patients were randomized 2 to 1 to motixafortide plus filgrastim or placebo plus filgrastim.[^1]"
+          },
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Outcome",
+                "Motixafortide + filgrastim",
+                "Placebo + filgrastim"
+              ],
+              [
+                "Collected the target of 6 million CD34+ cells/kg within two apheresis sessions",
+                "92.5%",
+                "26.2%"
+              ],
+              [
+                "Reached the target in a single session",
+                "88.8%",
+                "9.5%"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Plerixafor, an older CXCR4 blocker, was tested the same way in myeloma: 71.6% collected the target within two sessions with plerixafor versus 34.4% with filgrastim alone.[^3] GENESIS compared motixafortide with placebo rather than with plerixafor, so the two drugs were not tested head to head."
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Treatment follows a set schedule in a clinic. Filgrastim is given daily for four days. Motixafortide is then given as a slow injection under the skin at 1.25 mg/kg, 10 to 14 hours before the first collection session, and a second dose can be given before a third session if needed. About 30 to 60 minutes beforehand, patients receive an H1 antihistamine, an H2 blocker, a leukotriene inhibitor and usually an analgesic, and they are observed for an hour afterward.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Injection-site reactions** are the most common: in GENESIS, pain in 50%, redness in 27.5% and itching in 21.3%, mostly grade 1 or 2 and short-lived.[^1]",
+              "**Itching, flushing and back pain** are also frequently reported.[^2]",
+              "**Anaphylactic shock and other hypersensitivity reactions** are a labeled warning, which is why premedication and observation are required.[^2]",
+              "**Leukemia cells:** the label warns that tumor cells could be mobilized into the blood in people with leukemia.[^2]",
+              "**Other labeled warnings** include a rise in white blood cell count (leukocytosis) and embryo-fetal toxicity.[^2]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong for stem cell yield; one phase 3 trial",
+      "text": "One double-blind phase 3 trial of 122 patients supports approval, with a very large difference in successful collection.[^1] Its main measure was stem cell yield, so long-term benefit after transplant is less well documented."
+    },
+    "faq": [
+      {
+        "q": "How is motixafortide different from plerixafor?",
+        "a": "Both block CXCR4. Motixafortide has a longer-lasting effect, so one dose before the first session is the usual plan, whereas plerixafor was given daily alongside filgrastim in its trial. They have not been compared directly in a randomized trial.[^2][^3]"
+      },
+      {
+        "q": "Is it a treatment for multiple myeloma?",
+        "a": "No. It does not attack the cancer. It helps collect a person's own stem cells so they can be given back after high-dose chemotherapy."
+      },
+      {
+        "q": "Why are so many medicines given before each dose?",
+        "a": "Severe allergic reactions have been reported, so the label calls for an antihistamine, an acid-blocking H2 drug, a leukotriene inhibitor and an analgesic first, plus an hour of observation afterward.[^2]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Motixafortide and G-CSF to mobilize hematopoietic stem cells for autologous transplantation in multiple myeloma: a randomized phase 3 trial.",
+        "source": "Nat Med",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37069359/",
+        "pmid": "37069359",
+        "doi": "10.1038/s41591-023-02273-z",
+        "note": "GENESIS: stem cell collection versus placebo plus G-CSF"
+      },
+      {
+        "n": 2,
+        "title": "APHEXDA (motixafortide) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f7cdc584-ebf0-a68e-e053-6294a90a9ea9",
+        "note": "Indication, dosing schedule, premedication and warnings"
+      },
+      {
+        "n": 3,
+        "title": "Plerixafor and G-CSF versus placebo and G-CSF to mobilize hematopoietic stem cells for autologous stem cell transplantation in patients with multiple myeloma.",
+        "source": "Blood",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19363221/",
+        "pmid": "19363221",
+        "doi": "10.1182/blood-2008-08-174946",
+        "note": "Phase 3 trial of the older CXCR4 blocker plerixafor"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "slug": "desmopressin",
+  "name": "Desmopressin",
+  "zone": "heart",
+  "category": "fda",
+  "aliases": [
+    "desmopressin acetate",
+    "1-deamino-8-D-arginine vasopressin"
+  ],
+  "brands": [
+    "DDAVP",
+    "Stimate",
+    "Nocdurna"
+  ],
+  "class": "Synthetic vasopressin analog (V2 agonist)",
+  "route": "Injection, nasal spray or tablet, depending on the condition",
+  "status": "FDA-approved (first in 1978) for diabetes insipidus, bedwetting, mild hemophilia A and type 1 von Willebrand disease",
+  "evidence": 4,
+  "mechanism": "Mimics vasopressin's action in the kidney to concentrate urine and triggers release of factor VIII and von Willebrand factor, with little effect on blood pressure",
+  "uses": [
+    "Central diabetes insipidus",
+    "Bedwetting (primary nocturnal enuresis)",
+    "Mild hemophilia A and type 1 von Willebrand disease",
+    "Nocturia from nighttime urine overproduction"
+  ],
+  "popular": null,
+  "related": [
+    "vasopressin",
+    "oxytocin",
+    "terlipressin"
+  ],
+  "article": {
+    "summary": "Desmopressin (DDAVP, Stimate) is a lab-made vasopressin analog that concentrates urine and raises clotting factors, used for diabetes insipidus, bedwetting, mild bleeding disorders and nocturia.",
+    "takeaway": "Desmopressin is a modified version of the hormone vasopressin that keeps the kidney's water-saving effect but has little effect on blood pressure. It treats central diabetes insipidus, bedwetting in older children, mild hemophilia A and type 1 von Willebrand disease, and has been used for nighttime urination in adults. In a Cochrane review of 95 trials, children on desmopressin had about **1.8 fewer wet nights per week** than those on placebo.[^1] Its main danger is low blood sodium (hyponatremia), which can be severe enough to earn a boxed warning on some products.[^2]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved since 1978; multiple brands and generics"
+      ],
+      [
+        "Main uses",
+        "Central diabetes insipidus, bedwetting, mild hemophilia A, type 1 von Willebrand disease"
+      ],
+      [
+        "How it's taken",
+        "Injection, nasal spray or tablets, depending on the condition"
+      ],
+      [
+        "Drug class",
+        "Synthetic vasopressin analog (V2 receptor agonist)"
+      ],
+      [
+        "Research",
+        "A 95-trial Cochrane review for bedwetting and randomized trials in nocturia"
+      ],
+      [
+        "Anti-doping",
+        "Prohibited at all times by WADA (S5, masking agents)"
+      ],
+      [
+        "Related",
+        "[Vasopressin](/peptides/vasopressin), [oxytocin](/peptides/oxytocin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Vasopressin, the body's antidiuretic hormone, acts on V2 receptors in the kidney to make it reabsorb water, and on V1 receptors in blood vessel walls to tighten them. Desmopressin is vasopressin with two small changes that make it last longer and favor the V2 receptor. It concentrates urine without much effect on blood pressure.[^2]"
+          },
+          {
+            "type": "p",
+            "text": "V2 receptors on blood vessel lining also trigger release of stored factor VIII and von Willebrand factor, proteins the blood needs to clot. That is why a hormone for water balance can also help control bleeding in some people.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Use",
+                "Notes"
+              ],
+              [
+                "Central diabetes insipidus",
+                "Replaces missing vasopressin so the kidneys stop losing excess water; not for nephrogenic diabetes insipidus[^2]"
+              ],
+              [
+                "Bedwetting (primary nocturnal enuresis)",
+                "Tablets, labeled for children 6 and older, alone or with behavioral measures[^3]"
+              ],
+              [
+                "Hemophilia A, type 1 von Willebrand disease",
+                "Injection or nasal spray for mild to moderate disease with factor VIII above 5%; not for severe type 1 disease[^2]"
+              ],
+              [
+                "Nocturia from nighttime urine overproduction",
+                "A low-dose tablet under the tongue (Nocdurna) was approved in 2018 but is listed as discontinued[^4]"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "For bedwetting, a 2025 Cochrane review of 95 trials (8,473 children) found that desmopressin probably helps more children reach 14 consecutive dry nights than placebo (relative risk 3.18) and may cut wet nights by about 1.8 per week. The certainty of the evidence was low to moderate, and the difference from alarm training was uncertain.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "For nocturia, a trial in 385 men found that a 50 microgram dissolving tablet cut nighttime urination by about 0.4 voids more than placebo and delayed the first trip to the bathroom by roughly 40 minutes. The benefit was modest, and sodium fell below 130 mmol/L in 2 men on 50 micrograms and 9 on 75 micrograms.[^5]"
+          },
+          {
+            "type": "p",
+            "text": "In bleeding disorders, the 2021 ASH/ISTH/NHF/WFH von Willebrand disease guideline includes recommendations on desmopressin trials, a test dose that checks whether a person's von Willebrand factor and factor VIII levels rise before the drug is relied on.[^6]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The drug comes as an injection (into a vein or under the skin), a nasal spray and tablets. Doses depend on the form and the condition and are set by the prescriber. Because the drug makes the body hold water, labels call for adjusting fluid intake, especially in children and older adults.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Low blood sodium (hyponatremia)** is the main danger and can be life-threatening. The injection label carries a boxed warning, and the drug is not used in people with a history of hyponatremia.[^2]",
+              "**Other reactions:** headache, nausea, flushing, abdominal cramps, fluid retention and swings in blood pressure.[^2]",
+              "**Clotting risk:** people with type IIB von Willebrand disease are at higher risk of thrombosis.[^2]",
+              "**Kidney disease:** moderate to severe impairment (creatinine clearance below 50 mL/min) is a contraindication for the injection and tablets.[^2][^3]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status and anti-doping",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The injection label lists an initial US approval in 1978, and several brands and generics have followed.[^2] The nocturia tablet Nocdurna was approved on June 21, 2018, and the FDA's database now lists it as discontinued.[^4]"
+          },
+          {
+            "type": "p",
+            "text": "The World Anti-Doping Agency's 2026 Prohibited List bans desmopressin at all times under category S5 (diuretics and masking agents), so tested athletes need an exemption to use it.[^7]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong for bedwetting; modest for nocturia",
+      "text": "Randomized trials and a large Cochrane review support the bedwetting and nocturia uses, though the nocturia benefit is modest.[^1][^5] Use in diabetes insipidus and bleeding disorders rests largely on decades of clinical practice and smaller studies."
+    },
+    "faq": [
+      {
+        "q": "Is desmopressin the same as vasopressin?",
+        "a": "It is a modified version. Desmopressin acts mostly on V2 receptors (water balance and clotting factors), while [vasopressin](/peptides/vasopressin) also acts strongly on V1 receptors and is used to raise blood pressure in shock."
+      },
+      {
+        "q": "Why is low sodium such a concern?",
+        "a": "Desmopressin makes the kidneys hold water, so drinking too much while taking it can dilute the blood's sodium. Severe hyponatremia can cause seizures and death, which is why labels limit fluids and bar use in people with past hyponatremia.[^2][^3]"
+      },
+      {
+        "q": "Can children take it for bedwetting?",
+        "a": "The tablets are labeled for primary nocturnal enuresis in children 6 and older.[^3] In the Cochrane review the evidence for benefit over placebo was moderate for dry nights, and the comparison with bedwetting alarms was uncertain.[^1]"
+      },
+      {
+        "q": "Is desmopressin banned in sports?",
+        "a": "Yes. WADA lists it as prohibited at all times in category S5, diuretics and masking agents.[^7]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Desmopressin for nocturnal enuresis in children.",
+        "source": "Cochrane Database Syst Rev",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40728007/",
+        "pmid": "40728007",
+        "doi": "10.1002/14651858.CD002112.pub2",
+        "note": "95 trials in 8,473 children"
+      },
+      {
+        "n": 2,
+        "title": "DDAVP (desmopressin acetate) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2022,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=651f6fee-a2c7-431b-8d5d-58b156c72244",
+        "note": "Indications, hyponatremia boxed warning and contraindications"
+      },
+      {
+        "n": 3,
+        "title": "DDAVP (desmopressin acetate) tablets: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6d55baa9-2b62-469c-93ae-3909ab249332",
+        "note": "Diabetes insipidus and bedwetting indications, fluid and sodium warnings"
+      },
+      {
+        "n": 4,
+        "title": "Drugs@FDA: NOCDURNA (desmopressin acetate) sublingual tablets, NDA 022517",
+        "source": "U.S. FDA (Drugs@FDA)",
+        "year": 2026,
+        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=022517",
+        "note": "Approved June 21, 2018; marketing status discontinued"
+      },
+      {
+        "n": 5,
+        "title": "Efficacy and safety of low dose desmopressin orally disintegrating tablet in men with nocturia: results of a multicenter, randomized, double-blind, placebo controlled, parallel group study.",
+        "source": "J Urol",
+        "year": 2013,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23454402/",
+        "pmid": "23454402",
+        "doi": "10.1016/j.juro.2012.12.112",
+        "note": "385 men with nocturia; benefit and low-sodium rates"
+      },
+      {
+        "n": 6,
+        "title": "ASH ISTH NHF WFH 2021 guidelines on the management of von Willebrand disease.",
+        "source": "Blood Adv",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33570647/",
+        "pmid": "33570647",
+        "doi": "10.1182/bloodadvances.2020003264",
+        "note": "Guideline recommendations including desmopressin trials"
+      },
+      {
+        "n": 7,
+        "title": "Prohibited List (WADA 2026): S5 diuretics and masking agents",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "Desmopressin is prohibited at all times"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

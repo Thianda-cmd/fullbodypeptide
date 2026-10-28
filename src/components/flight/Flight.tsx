@@ -69,7 +69,7 @@ export function FlightLayer({ flight, onDone }: { flight: Flight & { to: Measure
               }}
             >
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={artSrc(p)} alt="" draggable={false} className="absolute inset-0 size-full object-cover mix-blend-soft-light" />
+              <img src={artSrc(p)} alt="" draggable={false} className="absolute inset-0 size-full object-cover mix-blend-overlay" />
             </div>
             <span className="shrink-0" style={{ background: colors.line, ...(isSpine ? { width: 4 } : { height: 5 }) }} />
           </motion.div>

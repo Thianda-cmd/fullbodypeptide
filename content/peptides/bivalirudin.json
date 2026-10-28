@@ -1,0 +1,205 @@
+{
+  "slug": "bivalirudin",
+  "name": "Bivalirudin",
+  "zone": "heart",
+  "category": "fda",
+  "aliases": [
+    "Hirulog"
+  ],
+  "brands": [
+    "Angiomax"
+  ],
+  "class": "Direct thrombin inhibitor",
+  "route": "Intravenous bolus followed by an infusion during the procedure",
+  "status": "FDA-approved (2000) as an anticoagulant during angioplasty and stenting; generics are widely available",
+  "evidence": 4,
+  "mechanism": "Binds thrombin directly at two sites and blocks it, so blood clots cannot form, without needing antithrombin; the effect wears off within about an hour",
+  "uses": [
+    "Anticoagulation during angioplasty and stenting (PCI)",
+    "PCI in people with heparin-induced thrombocytopenia"
+  ],
+  "popular": null,
+  "related": [
+    "eptifibatide",
+    "desirudin"
+  ],
+  "article": {
+    "summary": "Bivalirudin (Angiomax) is a short-acting intravenous blood thinner given during angioplasty and stent procedures, including in people who cannot receive heparin.",
+    "takeaway": "Bivalirudin is a synthetic 20-amino-acid peptide that blocks thrombin, the enzyme that builds blood clots. It is given through a vein while doctors open blocked heart arteries, and its effect fades roughly an hour after the infusion stops. In the HORIZONS-AMI trial of 3,602 heart attack patients, major bleeding was **4.9%** with bivalirudin versus **8.3%** with heparin plus a platelet-blocking drug, though stent clots were more common in the first 24 hours.[^1] Later trials against heparin alone disagreed about whether bivalirudin is better, so its role depends on the patient and the hospital.[^2][^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved in 2000; several generic versions are marketed"
+      ],
+      [
+        "Main use",
+        "Anticoagulant during percutaneous coronary intervention (PCI), including people with heparin-induced thrombocytopenia"
+      ],
+      [
+        "How it's given",
+        "IV bolus then infusion in a cardiac catheterization lab"
+      ],
+      [
+        "Drug class",
+        "Direct thrombin inhibitor, modeled on leech hirudin"
+      ],
+      [
+        "Research",
+        "Large randomized trials in heart attack patients (HORIZONS-AMI, HEAT-PPCI, BRIGHT-4)"
+      ],
+      [
+        "Related",
+        "[Eptifibatide](/peptides/eptifibatide), [desirudin](/peptides/desirudin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Thrombin is the enzyme that converts fibrinogen into fibrin, the mesh that forms a clot, and it also switches on platelets. Bivalirudin is a synthetic peptide modeled on hirudin, a protein from medicinal leech saliva. It grips thrombin at two places at once: the catalytic site and a nearby docking site. The binding is reversible, and it covers both free thrombin and thrombin already stuck to a clot.[^4]"
+          },
+          {
+            "type": "p",
+            "text": "Unlike heparin, it does not depend on antithrombin. Enzymes in the blood slowly cut the peptide apart and the kidneys remove some of it, so the half-life is about 25 minutes in people with normal kidney function. Clotting times return to baseline about an hour after the infusion ends.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Bivalirudin is approved as an anticoagulant for people undergoing percutaneous coronary intervention (PCI), the catheter procedures that open narrowed heart arteries with a balloon or stent. The label specifically includes patients with heparin-induced thrombocytopenia, a reaction to heparin in which platelets fall and clots can form.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "HORIZONS-AMI",
+                "3,602 people having primary PCI for a ST-elevation heart attack",
+                "Major bleeding 4.9% vs 8.3% against heparin plus a platelet blocker; 30-day deaths from any cause 2.1% vs 3.1%[^1]"
+              ],
+              [
+                "HEAT-PPCI",
+                "1,812 similar patients at one UK center",
+                "Death, stroke, new heart attack or repeat procedure in 8.7% with bivalirudin vs 5.7% with heparin alone[^2]"
+              ],
+              [
+                "BRIGHT-4",
+                "6,016 similar patients in China",
+                "Death or major bleeding at 30 days in 3.06% with bivalirudin plus a post-PCI infusion vs 4.39% with heparin[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The results differ partly because the comparison drug and the length of the bivalirudin infusion differed. HORIZONS-AMI compared bivalirudin with heparin plus routine platelet blockers, which raises bleeding. The later trials used heparin alone, and BRIGHT-4 continued bivalirudin at a high dose for 2 to 4 hours after the procedure to reduce stent clotting.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Only a hospital team gives it. The label dose is a 0.75 mg/kg IV bolus followed by an infusion of 1.75 mg/kg per hour for the length of the procedure, with a clotting-time check about five minutes after the bolus. In a ST-elevation heart attack the infusion may continue for up to four hours afterward. The infusion rate is lowered for severe kidney impairment and for people on dialysis.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Bleeding** is the most common adverse reaction and the main hazard, reported in more than 2% of patients.[^4]",
+              "**Stent clotting:** the label warns of acute stent thrombosis in ST-elevation heart attack patients, and HORIZONS-AMI found more of it in the first 24 hours with bivalirudin, though not significantly more by 30 days.[^1][^4]",
+              "**Contraindications:** active major bleeding and known hypersensitivity to bivalirudin or its components.[^4]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong for safety and bleeding; benefit over heparin debated",
+      "text": "Thousands of patients have been randomized in trials of bivalirudin. They agree that it causes less bleeding than heparin plus platelet blockers, but they disagree on whether it beats heparin alone.[^1][^2][^3]"
+    },
+    "faq": [
+      {
+        "q": "Why is bivalirudin used instead of heparin?",
+        "a": "It does not trigger heparin-induced thrombocytopenia, so it suits people with that history, and it has a predictable, short effect. For other patients, trials such as HEAT-PPCI found heparin alone did at least as well, so the choice varies by hospital and patient.[^2]"
+      },
+      {
+        "q": "How long does it keep working?",
+        "a": "Not long. Its half-life is about 25 minutes with normal kidney function, and clotting tests return to baseline about an hour after the infusion stops.[^4]"
+      },
+      {
+        "q": "Is bivalirudin the same as hirudin?",
+        "a": "They are related. Hirudin is a 65-amino-acid protein from leeches, and [desirudin](/peptides/desirudin) is its recombinant form. Bivalirudin is a shorter, synthetic peptide built from the parts of hirudin that grip thrombin."
+      },
+      {
+        "q": "Is the brand name Angiomax still the only version?",
+        "a": "No. FDA's DailyMed database lists several generic bivalirudin products from different manufacturers, in both powder and solution forms."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Bivalirudin during primary PCI in acute myocardial infarction.",
+        "source": "N Engl J Med",
+        "year": 2008,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18499566/",
+        "pmid": "18499566",
+        "doi": "10.1056/NEJMoa0708191",
+        "note": "HORIZONS-AMI: bleeding and ischemic outcomes versus heparin plus platelet blockers"
+      },
+      {
+        "n": 2,
+        "title": "Unfractionated heparin versus bivalirudin in primary percutaneous coronary intervention (HEAT-PPCI): an open-label, single centre, randomised controlled trial.",
+        "source": "Lancet",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25002178/",
+        "pmid": "25002178",
+        "doi": "10.1016/S0140-6736(14)60924-7",
+        "note": "Heparin alone did better than bivalirudin on the main outcome"
+      },
+      {
+        "n": 3,
+        "title": "Bivalirudin plus a high-dose infusion versus heparin monotherapy in patients with ST-segment elevation myocardial infarction undergoing primary percutaneous coronary intervention: a randomised trial.",
+        "source": "Lancet",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36351459/",
+        "pmid": "36351459",
+        "doi": "10.1016/S0140-6736(22)01999-7",
+        "note": "BRIGHT-4: bivalirudin with a post-PCI infusion versus heparin"
+      },
+      {
+        "n": 4,
+        "title": "Bivalirudin for injection (Sandoz): prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ce56f806-7845-429d-a1ce-c2dbf79b22eb",
+        "note": "Indication, PCI dosing, half-life, warnings and contraindications"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

@@ -18,6 +18,7 @@ export const bodyVertex = /* glsl */ `
   varying vec3 vNormalW;
   varying float vAO;
   varying float vThin;
+  varying float vEye;
 
   void main() {
     vec3 p = position;
@@ -32,6 +33,7 @@ export const bodyVertex = /* glsl */ `
     vNormalW = normalize(mat3(modelMatrix) * normal);
     vAO = color.r;
     vThin = 1.0 - color.g;
+    vEye = color.b;
     gl_Position = projectionMatrix * viewMatrix * w;
   }
 `;
@@ -59,6 +61,7 @@ export const bodyFragment = /* glsl */ `
   varying vec3 vNormalW;
   varying float vAO;
   varying float vThin;
+  varying float vEye;
 
   vec3 hash3(vec3 p) {
     p = vec3(dot(p, vec3(127.1, 311.7, 74.7)), dot(p, vec3(269.5, 183.3, 246.1)), dot(p, vec3(113.5, 271.9, 124.6)));
@@ -77,7 +80,7 @@ export const bodyFragment = /* glsl */ `
     vec3 cell = floor(q);
     vec3 h = hash3(cell);
     float d = length(fract(q) - (0.25 + h * 0.5));
-    float s = smoothstep(0.34, 0.03, d) * step(0.18, h.y);
+    float s = smoothstep(0.26, 0.02, d) * step(0.22, h.y);
     return s * (0.55 + 0.45 * sin(uTime * 2.6 + h.z * 6.2832));
   }
 
@@ -118,12 +121,13 @@ export const bodyFragment = /* glsl */ `
       float m = smoothstep(1.45, 0.75, e) * smoothstep(uEyeY - 0.004 * uHeight, uEyeY + 0.035 * uHeight, p.y);
       float wave = 0.72 + 0.28 * sin(uTime * 1.5 - e * 9.0);
       float sp = sparkle(p, 0.35, 140.0) * m;
-      g += uW[0] * (m * wave + sp * 0.6);
-      core += uW[0] * m * smoothstep(1.2, 0.8, e);
+      g += uW[0] * (m * wave * 0.8 + sp * 0.5);
+      core += uW[0] * m * smoothstep(1.15, 0.75, e) * 0.55;
     }
     // skin: the whole surface lights up from the rim inward
     if (uW[1] > 0.001) {
-      float rim = pow(1.0 - ndv, 1.6);
+      // creases and eye sockets face sideways too: keep the rim to open, convex skin
+      float rim = pow(1.0 - ndv, 1.6) * smoothstep(0.45, 0.9, vAO) * (1.0 - vEye);
       float shimmer = 0.85 + 0.15 * sin(uTime * 1.2 + p.y / uHeight * 14.0);
       g += uW[1] * (0.22 + 0.55 * rim) * shimmer;
       core += uW[1] * rim * 0.35;
@@ -149,7 +153,7 @@ export const bodyFragment = /* glsl */ `
     }
     // hormones: thyroid at the throat, a fainter glow at the adrenals and pancreas
     if (uW[4] > 0.001) {
-      float t = smoothstep(0.06, 0.01, length((p - uThyroid) / vec3(1.4, 1.0, 1.0)) / uHeight);
+      float t = smoothstep(0.045, 0.008, length((p - uThyroid) / vec3(1.4, 1.0, 1.0)) / uHeight);
       float a = smoothstep(0.085, 0.02, length((p - uAdrenal) / vec3(1.6, 1.0, 1.0)) / uHeight) * 0.55;
       float wave = 0.75 + 0.25 * sin(uTime * 1.7 - length(p - uThyroid) / uHeight * 40.0);
       g += uW[4] * max(t, a) * wave;
@@ -168,8 +172,8 @@ export const bodyFragment = /* glsl */ `
     }
     // heart and blood: a heartbeat at the chest, circulation sparkling everywhere
     if (uW[6] > 0.001) {
-      float e = length((p - uHeart) / vec3(0.06, 0.065, 0.06)) / uHeight;
-      float m = smoothstep(1.7, 0.5, e);
+      float e = length((p - uHeart) / vec3(0.05, 0.055, 0.05)) / uHeight;
+      float m = smoothstep(1.6, 0.45, e);
       float beat = 0.55 + 0.45 * uPulse;
       float ring = smoothstep(0.25, 0.0, abs(e - (0.6 + uPulse * 0.9))) * uPulse;
       float flow = sparkle(p, 1.4, 120.0) * 0.55;
@@ -185,49 +189,18 @@ export const bodyFragment = /* glsl */ `
       core += uW[7] * smoothstep(1.1, 0.6, e);
     }
 
-    g = clamp(g, 0.0, 1.25);
+    g = clamp(g, 0.0, 1.25) * (1.0 - vEye * 0.7);
     vec3 glow = mix(uGlowEdge, uGlowCore, clamp(core, 0.0, 1.0));
-    col = mix(col, glow * mix(0.92, 1.0, ao), clamp(g, 0.0, 1.0) * 0.92);
-    col += uGlowCore * max(g - 1.0, 0.0) * 0.6;
+    // keep the form readable under the glow
+    glow *= (0.8 + 0.2 * key) * mix(0.85, 1.0, ao);
+    col = mix(col, glow, clamp(g, 0.0, 1.0) * 0.86);
+    col += uGlowCore * max(g - 1.0, 0.0) * 0.5;
 
     // ---- intro scan line
-    float scan = smoothstep(0.03, 0.0, abs(hgt - uReveal)) * step(uReveal, 0.999);
+    float scan = smoothstep(0.012, 0.0, abs(hgt - uReveal)) * step(uReveal, 0.999);
     col = mix(col, uGlowCore, scan * 0.9);
 
     gl_FragColor = vec4(col, 1.0);
-  }
-`;
-
-export const haloVertex = /* glsl */ `
-  uniform float uHeight;
-  uniform float uSpread;
-  varying vec3 vN;
-  varying vec3 vPosW;
-  varying float vY;
-  void main() {
-    vec3 p = position + normal * uSpread * uHeight;
-    vec4 w = modelMatrix * vec4(p, 1.0);
-    vPosW = w.xyz;
-    vN = normalize(mat3(modelMatrix) * normal);
-    vY = position.y / uHeight;
-    gl_Position = projectionMatrix * viewMatrix * w;
-  }
-`;
-
-export const haloFragment = /* glsl */ `
-  uniform vec3 uCamPos;
-  uniform vec3 uColor;
-  uniform float uStrength;
-  uniform float uReveal;
-  varying vec3 vN;
-  varying vec3 vPosW;
-  varying float vY;
-  void main() {
-    if (vY > uReveal) discard;
-    vec3 V = normalize(uCamPos - vPosW);
-    float d = abs(dot(normalize(vN), V));
-    float a = pow(d, 1.6) * uStrength;
-    gl_FragColor = vec4(uColor, a);
   }
 `;
 

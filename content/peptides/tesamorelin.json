@@ -1,0 +1,193 @@
+{
+  "slug": "tesamorelin",
+  "name": "Tesamorelin",
+  "zone": "digestive",
+  "category": "fda",
+  "aliases": [],
+  "brands": ["Egrifta SV", "Egrifta WR"],
+  "class": "Growth hormone-releasing factor analog",
+  "route": "Daily injection under the skin of the abdomen",
+  "status": "FDA-approved (2010) to reduce excess abdominal fat in adults with HIV-associated lipodystrophy; not for weight loss",
+  "evidence": 4,
+  "mechanism": "Mimics growth hormone-releasing hormone so the pituitary gland releases more of its own growth hormone, which shrinks fat stored deep in the abdomen",
+  "uses": ["Excess belly fat in HIV-associated lipodystrophy"],
+  "popular": null,
+  "related": ["compounded-tesamorelin", "sermorelin", "cjc-1295", "somatropin-rhgh"],
+  "article": {
+    "summary": "Tesamorelin (Egrifta) is an FDA-approved daily injection that reduces deep belly fat in adults with HIV lipodystrophy. It is not for weight loss, and any use outside that group is off-label.",
+    "takeaway": "Tesamorelin is a lab-made version of growth hormone-releasing hormone, the brain signal that tells the pituitary gland to release growth hormone. The FDA approved it in 2010 for one purpose: reducing excess abdominal fat in adults with HIV-associated lipodystrophy, a fat-distribution disorder linked to HIV and its treatment.[^1] In a 404-person trial, visceral fat (the deep fat around the organs) fell by **10.9% over 6 months** versus 0.6% on placebo, and the benefit faded when treatment stopped.[^2] It is not a weight-loss drug, and it is prohibited in competitive sport.",
+    "glance": [
+      ["FDA status", "Approved 2010 (Egrifta); current products are Egrifta SV and Egrifta WR"],
+      ["Main use", "Excess abdominal fat in adults with HIV-associated lipodystrophy"],
+      ["How it's taken", "Injection under the skin of the abdomen once a day"],
+      ["Drug class", "Growth hormone-releasing factor (GHRH) analog"],
+      ["Research", "Placebo-controlled trials in HIV; a 2026 meta-analysis pooled five of them"],
+      ["Sport", "Prohibited by WADA at all times"]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The hypothalamus, a control center at the base of the brain, releases growth hormone-releasing hormone (GHRH) in pulses. GHRH tells the pituitary gland to release growth hormone, which raises IGF-1, a growth factor made mainly by the liver.[^2] Tesamorelin is a 44-amino-acid analog of GHRH designed to act on the same receptor."
+          },
+          {
+            "type": "p",
+            "text": "Growth hormone helps break down stored fat. In the main trial, deep abdominal (visceral) fat fell while limb fat and under-the-skin abdominal fat did not change.[^2] Tesamorelin does not supply growth hormone itself. It prompts the person's own pituitary gland to make more."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The approved use is narrow: reducing excess abdominal fat in adults with HIV who have lipodystrophy, a pattern in which fat builds up around the abdominal organs. The label lists three limits.[^1]"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "**Not for weight loss.** Its effect on weight is neutral, so it is not indicated for weight management",
+              "**Heart safety unproven.** Long-term cardiovascular safety has not been established",
+              "**No adherence claim.** There are no data showing it helps people stay on their HIV medicines"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              ["Study", "Who", "Main result"],
+              ["Phase 3 trial, 12 months", "404 adults with HIV and excess abdominal fat", "Visceral fat fell 10.9% vs 0.6% on placebo at 6 months, and about 18% in those who continued to 12 months[^2]"],
+              ["Randomized trial, 6 months", "50 adults with HIV", "Visceral fat down 34 cm² vs up 8 cm² on placebo; liver fat also fell[^3]"],
+              ["Meta-analysis (2026)", "5 placebo-controlled trials in adults with HIV", "Visceral fat 27.7 cm² lower, lean mass 1.4 kg higher, no significant change in BMI[^4]"]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In the phase 3 extension, people switched from tesamorelin to placebo rapidly lost the visceral fat benefit.[^2] Blood sugar rose briefly early in the JAMA trial but did not differ from placebo by 6 months.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Tesamorelin comes as a powder that is mixed with the supplied liquid and injected under the skin of the abdomen once a day, rotating sites. Two products exist and are not interchangeable. Egrifta SV is dosed at 1.4 mg daily from a 2 mg vial that is mixed fresh each day.[^1] Egrifta WR is dosed at 1.28 mg daily from an 11.6 mg vial that is mixed once and used over 7 days.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Most common** (over 5% in trials): joint pain, redness or itching at the injection site, pain in a limb, swelling from fluid retention and muscle aches[^1]",
+              "**Hormone effects:** it raises IGF-1, and the effects of long-term high levels are unknown, so levels are monitored[^1]",
+              "**Blood sugar:** glucose intolerance or diabetes can develop, so glucose is checked before and during treatment[^1]",
+              "**Other warnings:** fluid retention (including carpal tunnel syndrome), allergic reactions, an increased risk of neoplasms (growths) and higher risk of death in acute critical illness[^1]",
+              "**Not for people with** damage to the hypothalamic-pituitary axis, active cancer, a known allergy to the drug, or pregnancy[^1]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Tesamorelin was first approved in 2010 and is approved only for HIV-associated lipodystrophy.[^1] Use for general fat loss, muscle gain or anti-aging is off-label, and the randomized trials above enrolled adults with HIV, so the results do not automatically apply to others. Compounded and online versions are discussed under [compounded tesamorelin](/peptides/compounded-tesamorelin)."
+          },
+          {
+            "type": "p",
+            "text": "The World Anti-Doping Agency's 2026 Prohibited List bans growth hormone-releasing hormone analogs, including tesamorelin, at all times, so athletes subject to testing cannot use it without an approved exemption."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong for its approved use, narrower beyond it",
+      "text": "Randomized, placebo-controlled trials in adults with HIV consistently show less visceral fat on tesamorelin,[^2][^3] and a 2026 meta-analysis of five trials agrees.[^4] The label notes that long-term cardiovascular safety is not established, and approval rests on trials in people with HIV.[^1]"
+    },
+    "faq": [
+      {
+        "q": "Is tesamorelin a weight-loss drug?",
+        "a": "No. The label says it is not indicated for weight management because its effect on weight is neutral. It is aimed at visceral fat.[^1] The 2026 meta-analysis also found no significant change in BMI.[^4]"
+      },
+      {
+        "q": "What happens when someone stops tesamorelin?",
+        "a": "In the 12-month trial, people switched from tesamorelin to placebo quickly lost the visceral fat reduction they had gained.[^2]"
+      },
+      {
+        "q": "Is online or compounded tesamorelin the same as Egrifta?",
+        "a": "No. Egrifta SV and Egrifta WR are the FDA-approved products. Other versions are not FDA-approved and their quality is not reviewed by the agency; see [compounded tesamorelin](/peptides/compounded-tesamorelin)."
+      },
+      {
+        "q": "Can athletes use tesamorelin?",
+        "a": "Not without an exemption. WADA prohibits growth hormone-releasing hormone analogs, including tesamorelin, at all times."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "EGRIFTA SV (tesamorelin) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3d783378-b02d-4f19-99dd-0fc91a042224",
+        "note": "Indication, dosing, warnings and contraindications"
+      },
+      {
+        "n": 2,
+        "title": "Effects of tesamorelin, a growth hormone-releasing factor, in HIV-infected patients with abdominal fat accumulation: a randomized placebo-controlled trial with a safety extension.",
+        "source": "J Acquir Immune Defic Syndr",
+        "year": 2010,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20101189/",
+        "pmid": "20101189",
+        "doi": "10.1097/QAI.0b013e3181cbdaff",
+        "note": "404-person phase 3 trial with a 12-month extension"
+      },
+      {
+        "n": 3,
+        "title": "Effect of tesamorelin on visceral fat and liver fat in HIV-infected patients with abdominal fat accumulation: a randomized clinical trial.",
+        "source": "JAMA",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25038357/",
+        "pmid": "25038357",
+        "doi": "10.1001/jama.2014.8334",
+        "note": "50-person trial of visceral fat, liver fat and glucose"
+      },
+      {
+        "n": 4,
+        "title": "Body composition, hepatic fat, metabolic, and safety outcomes of Tesamorelin, a GHRH analogue, in HIV-associated lipodystrophy: A meta-analysis of randomized controlled trials.",
+        "source": "Obes Res Clin Pract",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41545261/",
+        "pmid": "41545261",
+        "doi": "10.1016/j.orcp.2026.01.002",
+        "note": "Pooled analysis of five placebo-controlled trials"
+      },
+      {
+        "n": 5,
+        "title": "EGRIFTA WR (tesamorelin) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=839334d3-8c1d-4c26-9036-2ab524a6ea75",
+        "note": "Weekly-mix product: dose and mixing instructions"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

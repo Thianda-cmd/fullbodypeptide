@@ -41,7 +41,7 @@ function BodyToggle({ model }: { model: BodyModel }) {
     } catch {}
   };
   return (
-    <div className="pointer-events-auto absolute right-0 bottom-3 z-[3] flex items-center gap-3 max-lg:right-1 max-lg:bottom-2 lg:bottom-10">
+    <div data-body-toggle className="pointer-events-auto absolute right-0 bottom-3 z-[3] flex items-center gap-3 max-lg:right-1 max-lg:bottom-2 lg:bottom-10">
       <span className="type-body-xs hidden items-center gap-1.5 text-ink/40 xl:inline-flex">
         <Rotate className="size-3.5" />
         Drag to rotate
@@ -117,11 +117,12 @@ export function HomeView({ visible, active, openSlug, mobile, onHoverZone, onPic
       const top = parseFloat(getComputedStyle(sticky).top) || 0;
       offset = outer.getBoundingClientRect().top - el.getBoundingClientRect().top + el.scrollTop - top;
     };
-    const onScroll = () => {
+    const sync = (user: boolean) => {
       if (pendingScroll.current !== null && Math.abs(el.scrollTop - pendingScroll.current) < 2) pendingScroll.current = null;
-      shelf.current?.drive(Math.max(0, el.scrollTop - offset), pendingScroll.current === null);
+      shelf.current?.drive(Math.max(0, el.scrollTop - offset), user && pendingScroll.current === null);
       setProgress(el.scrollTop / Math.max(1, el.scrollHeight - el.clientHeight));
     };
+    const onScroll = () => sync(true);
     const onTouch = () => (pendingScroll.current = null);
     measure();
     const ro = new ResizeObserver(measure);
@@ -129,7 +130,7 @@ export function HomeView({ visible, active, openSlug, mobile, onHoverZone, onPic
     if (shelfOuter.current) ro.observe(shelfOuter.current);
     el.addEventListener("scroll", onScroll, { passive: true });
     el.addEventListener("touchstart", onTouch, { passive: true });
-    onScroll();
+    sync(false);
     return () => {
       ro.disconnect();
       el.removeEventListener("scroll", onScroll);
@@ -190,7 +191,12 @@ export function HomeView({ visible, active, openSlug, mobile, onHoverZone, onPic
         <div className="relative z-[3] flex flex-col gap-4 pb-6 lg:justify-center lg:pb-0">
           <div className="flex flex-col gap-4">
             <p className="type-label text-ink/40">Peptide library · {total} entries</p>
-            <h1 className="type-heading-sm max-w-[18rem] font-normal text-ink">Where every peptide works in the body.</h1>
+            {/* only the home view's heading is the page h1; under a peptide page the card name is */}
+            {visible ? (
+              <h1 className="type-heading-sm max-w-[18rem] font-normal text-ink">Where every peptide works in the body.</h1>
+            ) : (
+              <p className="type-heading-sm max-w-[18rem] font-normal text-ink">Where every peptide works in the body.</p>
+            )}
             <p className="type-body-md max-w-[19.5rem] text-ink/55">
               {total} peptides, from FDA-approved drugs to trial candidates, gray-market compounds and skincare actives, sorted by
               where they act.

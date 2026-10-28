@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import { notFound } from "next/navigation";
 import { BY_SLUG, CATEGORY_LABEL, PEPTIDES, ZONE_BY_ID } from "@/lib/catalog";
 import { getArticle } from "@/lib/content";
@@ -21,7 +22,17 @@ export async function generateMetadata({ params }: PageProps<"/peptides/[slug]">
   };
 }
 
-export default async function PeptidePage({ params }: PageProps<"/peptides/[slug]">) {
+// The card and breadcrumb come from the persistent library shell, so the route's
+// shell is URL-independent and only the article streams in.
+export default function PeptidePage({ params }: PageProps<"/peptides/[slug]">) {
+  return (
+    <Suspense fallback={<div className="h-64" aria-busy="true" />}>
+      <PeptideArticle params={params} />
+    </Suspense>
+  );
+}
+
+async function PeptideArticle({ params }: Pick<PageProps<"/peptides/[slug]">, "params">) {
   const { slug } = await params;
   const p = BY_SLUG.get(slug);
   if (!p) notFound();

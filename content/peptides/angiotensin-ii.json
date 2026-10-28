@@ -1,0 +1,214 @@
+{
+  "slug": "angiotensin-ii",
+  "name": "Angiotensin II",
+  "zone": "heart",
+  "category": "fda",
+  "aliases": [
+    "angiotensin II acetate"
+  ],
+  "brands": [
+    "Giapreza"
+  ],
+  "class": "Vasopressor peptide hormone",
+  "route": "Continuous intravenous infusion in an intensive care setting",
+  "status": "FDA-approved (2017) to raise blood pressure in adults with septic or other distributive shock",
+  "evidence": 4,
+  "mechanism": "Copies the body's own pressure-raising hormone, which tightens blood vessels through AT1 receptors and signals the adrenal glands to retain salt and water",
+  "uses": [
+    "Septic shock",
+    "Other distributive (vasodilatory) shock"
+  ],
+  "popular": null,
+  "related": [
+    "vasopressin",
+    "terlipressin",
+    "selepressin"
+  ],
+  "article": {
+    "summary": "Angiotensin II (Giapreza) is a hospital-only intravenous hormone that raises blood pressure in adults with septic or other distributive shock. The FDA approved it in 2017.",
+    "takeaway": "Angiotensin II is a natural eight-amino-acid hormone that narrows blood vessels. As the drug Giapreza, it is given in intensive care to adults whose blood pressure stays dangerously low in septic or other distributive shock. In the pivotal ATHOS-3 trial, **69.9%** of patients on angiotensin II reached a target blood pressure at three hours, compared with **23.4%** on placebo.[^1] Deaths by day 28 were not significantly different (46% vs 54%), and blood clots were the main safety signal.[^1][^2]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved in December 2017 (Giapreza)"
+      ],
+      [
+        "Main use",
+        "Raising blood pressure in septic or other distributive shock"
+      ],
+      [
+        "How it's given",
+        "Continuous IV infusion, preferably through a central line, adjusted by the ICU team"
+      ],
+      [
+        "Drug class",
+        "Vasopressor; angiotensin II (AT1 receptor) agonist"
+      ],
+      [
+        "Research",
+        "ATHOS-3 randomized trial (344 patients) and US post-marketing studies"
+      ],
+      [
+        "Related",
+        "[Vasopressin](/peptides/vasopressin), [terlipressin](/peptides/terlipressin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Angiotensin II is the main active hormone of the renin-angiotensin system, the chain of signals the body uses to hold up blood pressure. When pressure or blood volume falls, the kidney releases an enzyme called renin, and a series of cuts to a larger precursor protein produces this eight-amino-acid peptide."
+          },
+          {
+            "type": "p",
+            "text": "It attaches to AT1 receptors on blood vessel walls, which makes the muscle around small arteries contract. It also prompts the adrenal glands to release aldosterone, so the kidneys keep more salt and water. Because it acts through a different receptor system from norepinephrine or vasopressin, it can add pressure when those drugs are not enough.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Giapreza is approved to raise blood pressure in adults with septic or other distributive shock. In distributive shock, blood vessels become too relaxed and pressure drops even when fluids have been given. Sepsis is the most common cause."
+          },
+          {
+            "type": "p",
+            "text": "The pivotal trial enrolled patients who were still hypotensive on a high dose of norepinephrine (above 0.2 micrograms per kilogram per minute) or an equivalent, so in practice it is used as an add-on when standard vasopressors fall short.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "ATHOS-3 outcome (321 treated patients)",
+                "Angiotensin II vs placebo"
+              ],
+              [
+                "Reached the blood pressure target at hour 3",
+                "69.9% vs 23.4%[^1]"
+              ],
+              [
+                "Cardiovascular organ-failure score at 48 hours",
+                "Improved by 1.75 vs 1.28 points[^1]"
+              ],
+              [
+                "Died by day 28",
+                "46% vs 54% (not statistically significant)[^1]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The trial was designed around blood pressure response, so it cannot settle whether the drug changes survival."
+          },
+          {
+            "type": "p",
+            "text": "A review of 270 patients treated at five US hospitals after approval found that 67% had a favorable blood pressure response, and those responders were less likely to die within 30 days. Because the study was retrospective, responders may simply have been less sick to begin with.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Giapreza is diluted and run as a continuous infusion into a vein. The label starts at 20 nanograms per kilogram per minute, and clinicians then adjust the rate against blood pressure. A central venous line is recommended.[^2] The drug's plasma half-life is under a minute, so changes in rate show up quickly."
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Blood clots:** thromboembolic events occurred in 12.9% of treated patients vs 5.1% on placebo, including deep vein thrombosis in 4.3% vs none. The label advises giving prophylaxis against venous clots alongside the drug.[^2]",
+              "**Other reactions seen more often than with placebo:** delirium (5.5% vs 0.6%), fungal infection (6.1% vs 1.3%), acidosis and fast heart rate.[^2]",
+              "**Reduced blood flow to fingers or toes** (peripheral ischemia) in 4.3% vs 2.5%, as expected from a drug that narrows vessels.[^2]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The label lists no formal contraindications, and pregnancy data are too limited to judge risk. Clinicians weigh the clotting risk case by case."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong for blood pressure; survival benefit unproven",
+      "text": "A randomized, double-blind trial and later post-marketing studies support the blood pressure effect.[^1][^4] Neither shows that angiotensin II extends life, and the safety data come from a few hundred treated patients."
+    },
+    "faq": [
+      {
+        "q": "How is angiotensin II different from vasopressin?",
+        "a": "Both are natural hormones used to raise blood pressure in shock, but they act on different receptors. Angiotensin II works through AT1 receptors, while [vasopressin](/peptides/vasopressin) works mainly through V1 receptors. In the post-marketing review, patients who also received vasopressin were more likely to respond to angiotensin II.[^4]"
+      },
+      {
+        "q": "Does angiotensin II improve survival in shock?",
+        "a": "That has not been shown. In ATHOS-3, 46% of patients on angiotensin II and 54% on placebo died by day 28, a gap that could be due to chance.[^1]"
+      },
+      {
+        "q": "Is it related to ACE inhibitor and ARB blood pressure pills?",
+        "a": "Indirectly. Drugs such as lisinopril and losartan lower blood pressure by reducing angiotensin II's formation or blocking its receptor. Giapreza does the opposite and adds angiotensin II to raise pressure in an emergency."
+      },
+      {
+        "q": "Can it be used outside a hospital?",
+        "a": "No. It is a continuous infusion that needs close blood pressure monitoring, so it is given only in settings such as an intensive care unit or operating room."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Angiotensin II for the Treatment of Vasodilatory Shock.",
+        "source": "N Engl J Med",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28528561/",
+        "pmid": "28528561",
+        "doi": "10.1056/NEJMoa1704154",
+        "note": "ATHOS-3: blood pressure response and 28-day deaths versus placebo"
+      },
+      {
+        "n": 2,
+        "title": "GIAPREZA (angiotensin II) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c265d69a-3efe-4107-9a9e-e6fd3d531c48",
+        "note": "Indication, infusion start, thrombosis warning and adverse reactions"
+      },
+      {
+        "n": 3,
+        "title": "Angiotensin II (Giapreza): A Distinct Mechanism for the Treatment of Vasodilatory Shock.",
+        "source": "Cardiol Rev",
+        "year": 2019,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30601161/",
+        "pmid": "30601161",
+        "doi": "10.1097/CRD.0000000000000247",
+        "note": "Mechanism and December 2017 approval"
+      },
+      {
+        "n": 4,
+        "title": "Angiotensin II Infusion for Shock: A Multicenter Study of Postmarketing Use.",
+        "source": "Chest",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32882250/",
+        "pmid": "32882250",
+        "doi": "10.1016/j.chest.2020.08.2074",
+        "note": "Real-world response in 270 patients at five US centers"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

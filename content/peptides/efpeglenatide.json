@@ -1,0 +1,223 @@
+{
+  "slug": "efpeglenatide",
+  "name": "Efpeglenatide",
+  "zone": "hormones",
+  "category": "clinical",
+  "aliases": [
+    "HM11260C",
+    "LAPS-Exendin"
+  ],
+  "brands": [],
+  "class": "Long-acting GLP-1 receptor agonist",
+  "route": "Weekly injection under the skin (in trials)",
+  "status": "Investigational, not FDA-approved: phase 3 trials in obesity (completed) and type 2 diabetes (recruiting)",
+  "evidence": 3,
+  "mechanism": "Exendin-4 based GLP-1 drug attached to an antibody fragment so it lasts a week, raising insulin when glucose is high and easing appetite",
+  "uses": [
+    "Type 2 diabetes",
+    "Obesity",
+    "Lowering heart and kidney event risk (studied)"
+  ],
+  "popular": null,
+  "related": [
+    "exenatide",
+    "dulaglutide",
+    "albiglutide",
+    "semaglutide"
+  ],
+  "article": {
+    "summary": "Efpeglenatide is a once-weekly GLP-1 drug still in development for obesity and type 2 diabetes. A large trial showed fewer cardiovascular events, but it is not FDA-approved.",
+    "takeaway": "Efpeglenatide is an investigational once-weekly GLP-1 drug that links an exendin-4 based peptide to an antibody fragment. In the AMPLITUDE-O trial of 4,076 people with type 2 diabetes and heart or kidney risk, it cut major cardiovascular events by about a quarter compared with placebo.[^1] A shorter obesity study in people without diabetes also showed more weight loss than placebo.[^2] Sanofi listed several of its phase 3 diabetes trials as terminated, and the Korean developer Hanmi is now running its own phase 3 program.[^3][^4][^5]",
+    "glance": [
+      [
+        "Stage",
+        "Investigational; Hanmi phase 3 trials in obesity (completed) and type 2 diabetes (recruiting)[^4][^5]"
+      ],
+      [
+        "Main uses studied",
+        "Type 2 diabetes, obesity, heart and kidney risk"
+      ],
+      [
+        "How it's given",
+        "Weekly injection under the skin in trials"
+      ],
+      [
+        "Drug class",
+        "Long-acting GLP-1 receptor agonist"
+      ],
+      [
+        "Research",
+        "AMPLITUDE-O (4,076 people) plus smaller phase 2 and phase 3 studies"
+      ],
+      [
+        "Related",
+        "[Dulaglutide](/peptides/dulaglutide), [exenatide](/peptides/exenatide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GLP-1 is a gut hormone released after meals. It prompts the pancreas to release insulin when blood sugar is high, slows stomach emptying and signals fullness to the brain. Natural GLP-1 is broken down within minutes."
+          },
+          {
+            "type": "p",
+            "text": "Efpeglenatide is built on exendin-4, the GLP-1 mimic used in [exenatide](/peptides/exenatide), and is joined to a piece of a human antibody (an Fc fragment) that slows its clearance, so one injection a week is enough."
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Hanmi Pharmaceutical developed the drug under the code HM11260C, and it is described as under development for obesity.[^6] Sanofi ran the AMPLITUDE phase 3 diabetes program, and ClinicalTrials.gov lists several of those trials, such as the comparison with dulaglutide, as terminated.[^3]"
+          },
+          {
+            "type": "p",
+            "text": "Hanmi's own phase 3 trial in adults with obesity and no diabetes is listed as completed, and a phase 3 trial in type 2 diabetes added to metformin and dapagliflozin is recruiting.[^4][^5]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "AMPLITUDE-O",
+                "4,076 adults with type 2 diabetes and heart or kidney disease",
+                "Major cardiovascular events in 7.0% vs 9.2% on placebo (hazard ratio 0.73)[^1]"
+              ],
+              [
+                "AMPLITUDE-O",
+                "Same participants",
+                "Kidney composite events in 13.0% vs 18.4% on placebo (hazard ratio 0.68)[^1]"
+              ],
+              [
+                "BALANCE",
+                "Adults with obesity or overweight, no diabetes, 20 weeks",
+                "More weight loss than placebo at every dose tested[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Major cardiovascular events here means heart attack, stroke, or death from cardiovascular or unknown causes. The results come from different populations and cannot be compared directly with semaglutide or tirzepatide trials."
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** diarrhea, constipation, nausea, vomiting and bloating were more frequent than with placebo[^1]",
+              "**Follow-up:** AMPLITUDE-O followed people for a median of 1.8 years, so long-term safety is not established[^1]",
+              "**Class concerns:** approved GLP-1 drugs carry warnings about thyroid C-cell tumors in rodents, pancreatitis and gallbladder problems; efpeglenatide has no label because it is unapproved"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "What happens next depends on the Hanmi phase 3 results and on whether the company files for approval. Neither had been confirmed in the sources checked for this entry."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Promising, but development is uncertain",
+      "text": "AMPLITUDE-O is a large randomized trial with hard outcomes, but it covered people with type 2 diabetes and a short follow-up.[^1] Evidence in obesity rests on smaller, shorter studies.[^2]"
+    },
+    "faq": [
+      {
+        "q": "Is efpeglenatide available?",
+        "a": "No. It is investigational and not FDA-approved. [Semaglutide](/peptides/semaglutide) and [dulaglutide](/peptides/dulaglutide) are approved weekly GLP-1 drugs."
+      },
+      {
+        "q": "Did it reduce heart attacks and strokes?",
+        "a": "In AMPLITUDE-O it lowered a composite of heart attack, stroke and death from cardiovascular or unknown causes (hazard ratio 0.73), but only in people with type 2 diabetes and existing risk.[^1]"
+      },
+      {
+        "q": "How is it different from exenatide?",
+        "a": "Both are based on exendin-4. Efpeglenatide adds an antibody fragment to extend its action to a week. See [exenatide](/peptides/exenatide) for the approved drug."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Cardiovascular and Renal Outcomes with Efpeglenatide in Type 2 Diabetes",
+        "source": "N Engl J Med",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34215025/",
+        "pmid": "34215025",
+        "doi": "10.1056/NEJMoa2108269",
+        "note": "AMPLITUDE-O: cardiovascular and kidney outcomes"
+      },
+      {
+        "n": 2,
+        "title": "Efficacy and safety of efpeglenatide in key patient subgroups from the BALANCE randomized trial, stratified by pre-diabetes status, BMI, and age at baseline",
+        "source": "BMJ Open Diabetes Res Care",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35042751/",
+        "pmid": "35042751",
+        "doi": "10.1136/bmjdrc-2021-002207",
+        "note": "BALANCE: 20-week weight loss in people without diabetes"
+      },
+      {
+        "n": 3,
+        "title": "Efficacy and Safety of Efpeglenatide Versus Dulaglutide in Patients With Type 2 Diabetes Mellitus Inadequately Controlled With Metformin",
+        "source": "ClinicalTrials.gov",
+        "year": 2018,
+        "url": "https://clinicaltrials.gov/study/NCT03684642",
+        "note": "Sanofi phase 3 trial (NCT03684642), listed as terminated"
+      },
+      {
+        "n": 4,
+        "title": "A Study to Evaluate Efficacy and Safety of HM11260C in Adult Obesity Patients Without Diabetes Mellitus",
+        "source": "ClinicalTrials.gov",
+        "year": 2024,
+        "url": "https://clinicaltrials.gov/study/NCT06174779",
+        "note": "Hanmi phase 3 obesity trial (NCT06174779), completed"
+      },
+      {
+        "n": 5,
+        "title": "A Study to Evaluate Efficacy and Safety of HM11260C in Patients With Type 2 Diabetes Mellitus Inadequately Controlled With Metformin and Dapagliflozin",
+        "source": "ClinicalTrials.gov",
+        "year": 2026,
+        "url": "https://clinicaltrials.gov/study/NCT07379333",
+        "note": "Hanmi phase 3 diabetes trial (NCT07379333), recruiting"
+      },
+      {
+        "n": 6,
+        "title": "Population pharmacokinetics of efpeglenatide in individuals with obesity and with type 2 diabetes",
+        "source": "Front Pharmacol",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41403449/",
+        "pmid": "41403449",
+        "doi": "10.3389/fphar.2025.1715585",
+        "note": "Describes HM11260C as a long-acting GLP-1 drug in development for obesity"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

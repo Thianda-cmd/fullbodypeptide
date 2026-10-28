@@ -1,0 +1,227 @@
+{
+  "slug": "palmitoyl-pentapeptide-4",
+  "name": "Palmitoyl pentapeptide-4",
+  "zone": "skin",
+  "category": "cosmetic",
+  "aliases": [
+    "Pal-KTTKS",
+    "Palmitoyl-lysyl-threonyl-threonyl-lysyl-serine"
+  ],
+  "brands": [
+    "Matrixyl"
+  ],
+  "class": "Signal peptide (collagen fragment mimic)",
+  "route": "Applied to the skin in serums and creams",
+  "status": "Cosmetic ingredient; not an FDA-approved drug",
+  "evidence": 2,
+  "mechanism": "Copies a fragment of collagen that, in cultured cells, signals connective-tissue cells to build more collagen and fibronectin",
+  "uses": [
+    "Fine lines and wrinkles",
+    "Skin firmness and texture"
+  ],
+  "popular": 31,
+  "related": [
+    "palmitoyl-tripeptide-1",
+    "palmitoyl-tetrapeptide-7",
+    "copper-tripeptide-1",
+    "acetyl-hexapeptide-8"
+  ],
+  "article": {
+    "summary": "Palmitoyl pentapeptide-4 (Matrixyl) is a skincare peptide designed to stimulate collagen. One 12-week placebo-controlled trial showed fewer visible wrinkles; other evidence is limited.",
+    "takeaway": "Palmitoyl pentapeptide-4, sold as Matrixyl, is a short chain of five amino acids (KTTKS) with a fatty acid attached. KTTKS copies a fragment of type I collagen that, in cultured cells, prompted connective-tissue cells to make more collagen and fibronectin.[^1] In a 12-week split-face trial of 93 women, a moisturizer containing it improved wrinkles and fine lines more than the same moisturizer without it.[^2] That is one of very few controlled human studies, so **the evidence is limited**.",
+    "glance": [
+      [
+        "Status",
+        "Cosmetic ingredient (not an FDA-approved drug)"
+      ],
+      [
+        "Used for",
+        "Fine lines, wrinkles and firmness"
+      ],
+      [
+        "How it's used",
+        "Serums and creams, usually once or twice daily"
+      ],
+      [
+        "Peptide type",
+        "Signal peptide that mimics a collagen fragment"
+      ],
+      [
+        "Research",
+        "Cell studies and few controlled human trials"
+      ],
+      [
+        "Similar peptides",
+        "[Palmitoyl tripeptide-1](/peptides/palmitoyl-tripeptide-1), [palmitoyl tetrapeptide-7](/peptides/palmitoyl-tetrapeptide-7)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works-in-skin",
+        "title": "How it works in skin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Skin gets much of its strength from collagen, a protein made by cells called fibroblasts. When collagen is produced, short pieces are clipped off its ends. Researchers found that one of these pieces, a stretch of five amino acids called KTTKS, boosted collagen and fibronectin output when added to cultured cells.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "Pal-KTTKS is that sequence with palmitic acid, a fatty acid, attached. The fatty tail makes the molecule more oil-friendly and, in theory, better at entering skin. The idea is that skin reads the fragment as a sign of breakdown and builds more structure in response. This mechanism is mainly shown in a dish, not in living human skin."
+          }
+        ]
+      },
+      {
+        "id": "what-the-studies-show",
+        "title": "What the studies show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Finding"
+              ],
+              [
+                "Cell culture (1993)",
+                "KTTKS was the smallest sequence that stimulated collagen and fibronectin production in several kinds of connective-tissue cells[^1]"
+              ],
+              [
+                "Split-face trial, 93 women aged 35-55, 12 weeks",
+                "A moisturizer with 3 ppm pal-KTTKS beat the plain moisturizer for wrinkles and fine lines on imaging analysis and expert grading[^2]"
+              ],
+              [
+                "Skin absorption (size)",
+                "At roughly 800 daltons it is well above the 500-dalton size usually seen as the limit for easy skin absorption, though the fatty chain may help[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "A systematic review of over-the-counter anti-aging ingredients concluded that good supporting data are often missing.[^4] Larger, longer and independent trials of this peptide would be needed to know how much it matters."
+          }
+        ]
+      },
+      {
+        "id": "how-its-used",
+        "title": "How it's used",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pal-KTTKS is a common ingredient in serums, eye creams and moisturizers, often alongside other peptides, vitamin C or hyaluronic acid. Products are typically applied once or twice a day. The trial judged results after 12 weeks, so any change is likely to take months, not days.[^2] Labels seldom state how much active peptide a product holds, which makes a store-bought cream hard to compare with the one that was tested."
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Safety",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The peptide was well tolerated on the skin in the 12-week trial.[^2] A 2026 paper that screened cosmetic peptides with computer-based tools found that pal-KTTKS resembles skin structural proteins and lacked the toxin-like features of known harmful peptides; that is a screening method, not a human safety study.[^5] As with any cosmetic, irritation or allergy can come from other ingredients in the formula."
+          },
+          {
+            "type": "note",
+            "text": "Cosmetics do not need FDA approval before sale, and a product that claims to change how skin works can be treated as a drug.[^6] Since 2022, companies must keep safety records and report serious adverse events to FDA within 15 business days.[^7]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pal-KTTKS has a sensible rationale, cell data and at least one controlled trial showing modest wrinkle improvement. It is a low-risk ingredient to find in a moisturizer, but it is not a substitute for daily sunscreen or for prescription treatments with a longer research record."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Limited: one controlled trial plus lab data",
+      "text": "The best human evidence is a single 12-week split-face trial that found a benefit at a very low concentration.[^2] Mechanism data come mainly from cell culture,[^1] and broader reviews describe good evidence for cosmetic anti-aging ingredients as often lacking.[^4]"
+    },
+    "faq": [
+      {
+        "q": "Is Matrixyl the same as retinol?",
+        "a": "No. Retinol is a vitamin A derivative that acts on retinoid receptors in skin cells. Pal-KTTKS is a peptide thought to act as a collagen-building signal, and it has much less clinical research behind it."
+      },
+      {
+        "q": "How long does it take to see results?",
+        "a": "The trial measured results after 12 weeks of use.[^2] The studies cited here do not show how long any benefit lasts after stopping."
+      },
+      {
+        "q": "Can a peptide cream really reach collagen deep in the skin?",
+        "a": "That is uncertain. At about 800 daltons it is larger than the 500-dalton rule of thumb for skin absorption,[^3] and no skin-depth data for this specific peptide in people were found among the sources reviewed."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "A pentapeptide from type I procollagen promotes extracellular matrix production.",
+        "source": "J Biol Chem",
+        "year": 1993,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8486721/",
+        "pmid": "8486721",
+        "note": "Cell study identifying KTTKS as the active collagen fragment"
+      },
+      {
+        "n": 2,
+        "title": "Topical palmitoyl pentapeptide provides improvement in photoaged human facial skin.",
+        "source": "Int J Cosmet Sci",
+        "year": 2005,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18492182/",
+        "pmid": "18492182",
+        "doi": "10.1111/j.1467-2494.2005.00261.x",
+        "note": "93-woman, 12-week split-face placebo-controlled trial"
+      },
+      {
+        "n": 3,
+        "title": "The 500 Dalton rule for the skin penetration of chemical compounds and drugs.",
+        "source": "Exp Dermatol",
+        "year": 2000,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10839713/",
+        "pmid": "10839713",
+        "doi": "10.1034/j.1600-0625.2000.009003165.x",
+        "note": "Why large molecules struggle to cross the skin barrier"
+      },
+      {
+        "n": 4,
+        "title": "Topical Over-the-Counter Antiaging Agents: An Update and Systematic Review.",
+        "source": "Dermatology",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32882685/",
+        "pmid": "32882685",
+        "doi": "10.1159/000509296",
+        "note": "Systematic review of evidence for common anti-aging ingredients"
+      },
+      {
+        "n": 5,
+        "title": "A framework for the safety evaluation of peptides in cosmetics.",
+        "source": "Curr Res Toxicol",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41953401/",
+        "pmid": "41953401",
+        "doi": "10.1016/j.crtox.2026.100291",
+        "note": "Computer-based safety screen that included palmitoyl pentapeptide-4"
+      },
+      {
+        "n": 6,
+        "title": "Is It a Cosmetic, a Drug, or Both? (Or Is It Soap?)",
+        "source": "U.S. FDA",
+        "year": 2024,
+        "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+        "note": "How U.S. law separates cosmetics from drugs"
+      },
+      {
+        "n": 7,
+        "title": "Modernization of Cosmetics Regulation Act of 2022 (MoCRA)",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/modernization-cosmetics-regulation-act-2022-mocra",
+        "note": "Safety substantiation and adverse event reporting duties"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

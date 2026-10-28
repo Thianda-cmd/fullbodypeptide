@@ -1,0 +1,212 @@
+{
+  "slug": "copper-tripeptide-1",
+  "name": "Copper tripeptide-1",
+  "zone": "skin",
+  "category": "cosmetic",
+  "aliases": [
+    "GHK-Cu",
+    "Glycyl-histidyl-lysine copper complex"
+  ],
+  "brands": [],
+  "class": "Copper-carrying signal peptide",
+  "route": "Applied to the skin in serums and creams",
+  "status": "Cosmetic ingredient; not an FDA-approved drug (injectable GHK-Cu is a separate question)",
+  "evidence": 2,
+  "mechanism": "A natural three-amino-acid peptide that binds copper and, in lab studies, nudges skin cells toward wound repair and collagen turnover",
+  "uses": [
+    "Aging skin and fine lines",
+    "Skin repair after procedures"
+  ],
+  "popular": 32,
+  "related": [
+    "ghk-cu",
+    "palmitoyl-tripeptide-1",
+    "palmitoyl-pentapeptide-4",
+    "tripeptide-10-citrulline"
+  ],
+  "article": {
+    "summary": "Copper tripeptide-1 (GHK-Cu) is a skincare ingredient used for aging skin and post-procedure care. Human trials are few and small, and one found no objective benefit over standard care.",
+    "takeaway": "Copper tripeptide-1, usually written GHK-Cu, is a copper-binding peptide of three amino acids that occurs naturally in human blood and declines with age.[^1] Lab work suggests it can influence collagen turnover, wound repair and inflammation in skin cells.[^1] Human evidence for cosmetic use is thin: in a randomized trial of 13 patients after laser resurfacing, objective measures of wrinkles and redness did not differ from standard care, although patients using GHK-Cu rated their skin quality higher.[^2] A 2025 review noted a surprising absence of clinical studies of GHK-Cu and its fatty-acid-modified form.[^3]",
+    "glance": [
+      [
+        "Status",
+        "Cosmetic ingredient (not an FDA-approved drug)"
+      ],
+      [
+        "Used for",
+        "Aging skin, skin repair, post-procedure care"
+      ],
+      [
+        "How it's used",
+        "Creams and serums applied to the skin"
+      ],
+      [
+        "Peptide type",
+        "Copper-carrying peptide (metallopeptide)"
+      ],
+      [
+        "Research",
+        "Lab studies and a few small human trials"
+      ],
+      [
+        "Related",
+        "[GHK-Cu](/peptides/ghk-cu) covers injectable and wellness use"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works-in-skin",
+        "title": "How it works in skin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GHK is a tiny peptide made of glycine, histidine and lysine that binds copper very tightly. Copper helps several enzymes that build skin's structure. GHK is found in blood, saliva and urine and falls with age, which led researchers to propose it as a repair signal the body makes less of over time.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "In cell and animal work, GHK-Cu raised production of collagen and decorin, drew repair cells to injuries and shifted the balance of enzymes that break collagen down.[^1] Many of these findings rest on lab models rather than human skin."
+          }
+        ]
+      },
+      {
+        "id": "what-the-studies-show",
+        "title": "What the studies show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Source",
+                "Finding"
+              ],
+              [
+                "Randomized trial, 13 patients, after CO2 laser resurfacing (2006)",
+                "No significant difference in redness or in wrinkle and skin-quality scores versus the same care without GHK-Cu; patient-rated skin quality was better with it[^2]"
+              ],
+              [
+                "Review of GHK skin biology (2015)",
+                "Summarizes lab and animal findings on collagen, wound repair and inflammation, and reports cosmetic benefits such as firmness and fewer fine lines[^1]"
+              ],
+              [
+                "Review of topical use (2025)",
+                "Cell studies support an anti-wrinkle role, but clinical studies of GHK-Cu and its palmitoylated form are surprisingly scarce[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Independent confirmation is thin. A systematic review of over-the-counter anti-aging ingredients likewise found that good supporting data are often missing.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-used",
+        "title": "How it's used",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GHK-Cu appears in serums, creams and eye products, and many copper-peptide products have a blue tint from the copper. Skin products are applied once or twice a day. Concentrations vary between brands and are seldom stated clearly."
+          },
+          {
+            "type": "p",
+            "text": "Injectable and compounded GHK-Cu is a different matter with its own regulatory and safety questions; see the [GHK-Cu](/peptides/ghk-cu) entry."
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Safety",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The 13-patient trial was too small to detect uncommon reactions, and long-term safety data for daily use are limited.[^2] The usual cosmetic risks apply: irritation or allergy to the peptide or to other ingredients in the formula."
+          },
+          {
+            "type": "note",
+            "text": "Cosmetics do not need FDA approval before sale, and claims such as restoring hair growth would make a product a drug.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GHK-Cu is a real, biologically interesting molecule and a plausible skincare ingredient, with modest support from small trials and a lot of lab data. It is best seen as a possible add-on rather than a proven wrinkle treatment. Injecting it is a separate and much less supported topic."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Limited: small trials, mostly lab data",
+      "text": "Randomized evidence in people is limited to small studies such as the 13-patient laser trial, which showed no objective advantage.[^2] Reviews agree the biology is interesting but that clinical studies of copper peptides on skin are scarce.[^3][^4]"
+    },
+    "faq": [
+      {
+        "q": "Is copper tripeptide-1 the same as GHK-Cu?",
+        "a": "Yes. Copper tripeptide-1 is the cosmetic ingredient name for GHK-Cu, the copper complex of the peptide glycyl-histidyl-lysine.[^1]"
+      },
+      {
+        "q": "Does it help with hair loss?",
+        "a": "The studies cited here are about skin, not hair. Selling a product as restoring hair growth is treated as a drug claim under FDA rules.[^5]"
+      },
+      {
+        "q": "Is a copper peptide cream the same as the injections sold online?",
+        "a": "No. Creams are cosmetics applied to the skin. Injectable GHK-Cu is not an approved product, and its status is covered in the [GHK-Cu](/peptides/ghk-cu) entry."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "GHK Peptide as a Natural Modulator of Multiple Cellular Pathways in Skin Regeneration.",
+        "source": "Biomed Res Int",
+        "year": 2015,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26236730/",
+        "pmid": "26236730",
+        "doi": "10.1155/2015/648108",
+        "note": "Review of GHK's lab and cosmetic skin data"
+      },
+      {
+        "n": 2,
+        "title": "Effects of topical copper tripeptide complex on CO2 laser-resurfaced skin.",
+        "source": "Arch Facial Plast Surg",
+        "year": 2006,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+        "pmid": "16847171",
+        "doi": "10.1001/archfaci.8.4.252",
+        "note": "Small randomized trial: no objective benefit, higher satisfaction"
+      },
+      {
+        "n": 3,
+        "title": "Topically applied GHK as an anti-wrinkle peptide: Advantages, problems and prospective.",
+        "source": "Bioimpacts",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39963574/",
+        "pmid": "39963574",
+        "doi": "10.34172/bi.30071",
+        "note": "Review noting the scarcity of clinical studies of GHK-Cu"
+      },
+      {
+        "n": 4,
+        "title": "Topical Over-the-Counter Antiaging Agents: An Update and Systematic Review.",
+        "source": "Dermatology",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32882685/",
+        "pmid": "32882685",
+        "doi": "10.1159/000509296",
+        "note": "Systematic review of evidence for common anti-aging ingredients"
+      },
+      {
+        "n": 5,
+        "title": "Is It a Cosmetic, a Drug, or Both? (Or Is It Soap?)",
+        "source": "U.S. FDA",
+        "year": 2024,
+        "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+        "note": "How U.S. law separates cosmetics from drugs"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

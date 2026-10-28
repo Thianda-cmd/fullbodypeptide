@@ -1,0 +1,226 @@
+{
+  "slug": "acetyl-octapeptide-3",
+  "name": "Acetyl octapeptide-3",
+  "zone": "skin",
+  "category": "cosmetic",
+  "aliases": [
+    "SNAP-8"
+  ],
+  "brands": [],
+  "class": "Neurotransmitter-inhibiting cosmetic peptide",
+  "route": "Applied to the skin in serums, creams and microneedle patches",
+  "status": "Cosmetic ingredient; not an FDA-approved drug",
+  "evidence": 1,
+  "mechanism": "An eight-amino-acid extension of acetyl hexapeptide-8 that is meant to imitate a nerve protein and, in theory, soften signals that tighten facial muscles",
+  "uses": [
+    "Expression lines (crow's feet, forehead)",
+    "General anti-wrinkle skincare"
+  ],
+  "popular": null,
+  "related": [
+    "acetyl-hexapeptide-8",
+    "pentapeptide-18",
+    "dipeptide-diaminobutyroyl-benzylamide-diacetate"
+  ],
+  "article": {
+    "summary": "Acetyl octapeptide-3 (SNAP-8) is a skincare peptide marketed as a gentler alternative to Botox for expression lines. Published human data are limited to combination products.",
+    "takeaway": "Acetyl octapeptide-3, nicknamed SNAP-8, is an eight-amino-acid peptide sold as a topical way to soften expression lines. It is an extended version of [acetyl hexapeptide-8](/peptides/acetyl-hexapeptide-8) (Argireline) and is described as imitating part of SNAP-25, a nerve protein needed to trigger muscle contraction. The only human studies found tested it inside multi-ingredient microneedle patches, so its own effect cannot be separated out.[^1][^2] **Evidence is limited**, and a skin product is not expected to act like an injection of botulinum toxin.",
+    "glance": [
+      [
+        "Status",
+        "Cosmetic ingredient (not an FDA-approved drug)"
+      ],
+      [
+        "Used for",
+        "Expression lines around the eyes and forehead"
+      ],
+      [
+        "How it's used",
+        "Serums and creams; also in some microneedle patches"
+      ],
+      [
+        "Peptide type",
+        "Neurotransmitter-inhibiting (\"Botox-like\") peptide"
+      ],
+      [
+        "Research",
+        "Lab claims and two small combination-patch studies"
+      ],
+      [
+        "Similar peptides",
+        "[Acetyl hexapeptide-8](/peptides/acetyl-hexapeptide-8), [pentapeptide-18](/peptides/pentapeptide-18)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works-in-skin",
+        "title": "How it works in skin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Muscles contract when a nerve ending releases acetylcholine. That release depends on a set of proteins called the SNARE complex, which includes SNAP-25. Botulinum toxin cuts SNAP-25, which is why injections relax muscles."
+          },
+          {
+            "type": "p",
+            "text": "SNAP-8 is described as a copy of a stretch of SNAP-25 that competes for a place in the complex, so slightly less acetylcholine is released. This neurotransmitter-inhibiting approach is one of four peptide categories in a 2009 review of topical peptides (the others are signal, enzyme-inhibitor and carrier peptides).[^3] The mechanism is mainly shown in lab systems, and it is unclear how much peptide reaches nerve endings under the skin."
+          }
+        ]
+      },
+      {
+        "id": "what-the-studies-show",
+        "title": "What the studies show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Finding"
+              ],
+              [
+                "24 adults, eye-area patch vs placebo patch, 28 days",
+                "A microneedle patch with acetyl octapeptide-3, a vitamin C derivative and other ingredients improved eye wrinkles more than a hyaluronic acid-only patch; the peptide's share is unknown[^1]"
+              ],
+              [
+                "Healthy adults, 12-week monocentric study",
+                "Patches with acetyl octapeptide-3 plus other peptides and actives cut fine lines and wrinkles by 25.8% on instrumental analysis; the abstract describes no placebo arm[^2]"
+              ],
+              [
+                "Related peptide: acetyl hexapeptide-8, 60 adults, 4 weeks",
+                "Randomized against placebo: 48.9% total efficacy versus 0% by clinical assessment, with lower skin roughness on replicas. This supports the idea for the shorter peptide, not SNAP-8 itself[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Microneedle patches puncture the skin's outer layer, so they test delivery by a different route than an ordinary cream. For creams, size is a hurdle: molecules larger than about 500 daltons struggle to cross intact skin,[^5] and an eight-amino-acid peptide is more than twice that."
+          }
+        ]
+      },
+      {
+        "id": "how-its-used",
+        "title": "How it's used",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "SNAP-8 appears in anti-wrinkle serums, eye creams and some microneedle patches. Creams are usually applied once or twice a day for several weeks before any change is judged. Ingredient lists rarely show how much is in a product."
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Safety",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The two patch studies reported good tolerance and no adverse effects, but they were small and short.[^1][^2] Because little peptide is expected to cross intact skin, effects on muscles elsewhere in the body are unlikely, though formal studies are lacking."
+          },
+          {
+            "type": "note",
+            "text": "Cosmetics do not need FDA approval before sale, and a product that claims to change how the body works can be treated as a drug.[^6]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "SNAP-8 is a plausible but unproven cosmetic peptide. Nothing found shows that it outperforms its shorter relative, and no study isolates its effect in people. If it appeals as part of a routine, expect subtle changes at most, and do not treat it as a substitute for medical treatments for deep lines."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Very limited: no stand-alone human trial found",
+      "text": "Human data come only from small studies of combination patches, one with a placebo patch and one without a described control.[^1][^2] A systematic review of anti-aging cosmetic ingredients found good supporting data are often missing.[^7]"
+    },
+    "faq": [
+      {
+        "q": "Is SNAP-8 stronger than Argireline?",
+        "a": "It is sold as a longer, more potent version, but no head-to-head human trial was found. The best randomized evidence is for the shorter peptide, not SNAP-8.[^4]"
+      },
+      {
+        "q": "Does it work like Botox?",
+        "a": "No. Botulinum toxin is injected to cut SNAP-25 inside nerve endings and clearly relaxes muscles. A cream peptide would have to cross the skin first, and its effect, if any, is much smaller."
+      },
+      {
+        "q": "Are microneedle patches with SNAP-8 better than creams?",
+        "a": "They deliver ingredients through tiny channels in the outer skin layer, and the small studies reported good tolerance.[^1][^2] Results cannot be credited to the peptide alone, and patches can still irritate skin."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Clinical Safety and Efficacy Evaluation of a Dissolving Microneedle Patch Having Dual Anti-Wrinkle Effects With Safe and Long-Term Activities.",
+        "source": "Ann Dermatol",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39082657/",
+        "pmid": "39082657",
+        "doi": "10.5021/ad.23.136",
+        "note": "24-person patch study; acetyl octapeptide-3 among several actives"
+      },
+      {
+        "n": 2,
+        "title": "Efficacy of bioactive peptides loaded on hyaluronic acid microneedle patches: A monocentric clinical study.",
+        "source": "J Cosmet Dermatol",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31134751/",
+        "pmid": "31134751",
+        "doi": "10.1111/jocd.13009",
+        "note": "12-week patch study with several peptides and actives"
+      },
+      {
+        "n": 3,
+        "title": "Role of topical peptides in preventing or treating aged skin.",
+        "source": "Int J Cosmet Sci",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19570099/",
+        "pmid": "19570099",
+        "doi": "10.1111/j.1468-2494.2009.00490.x",
+        "note": "Review sorting anti-aging peptides into four categories"
+      },
+      {
+        "n": 4,
+        "title": "The anti-wrinkle efficacy of argireline, a synthetic hexapeptide, in Chinese subjects: a randomized, placebo-controlled study.",
+        "source": "Am J Clin Dermatol",
+        "year": 2013,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23417317/",
+        "pmid": "23417317",
+        "doi": "10.1007/s40257-013-0009-9",
+        "note": "Randomized trial of the shorter parent peptide"
+      },
+      {
+        "n": 5,
+        "title": "The 500 Dalton rule for the skin penetration of chemical compounds and drugs.",
+        "source": "Exp Dermatol",
+        "year": 2000,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10839713/",
+        "pmid": "10839713",
+        "doi": "10.1034/j.1600-0625.2000.009003165.x",
+        "note": "Why large molecules struggle to cross the skin barrier"
+      },
+      {
+        "n": 6,
+        "title": "Is It a Cosmetic, a Drug, or Both? (Or Is It Soap?)",
+        "source": "U.S. FDA",
+        "year": 2024,
+        "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+        "note": "How U.S. law separates cosmetics from drugs"
+      },
+      {
+        "n": 7,
+        "title": "Topical Over-the-Counter Antiaging Agents: An Update and Systematic Review.",
+        "source": "Dermatology",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32882685/",
+        "pmid": "32882685",
+        "doi": "10.1159/000509296",
+        "note": "Systematic review of evidence for common anti-aging ingredients"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

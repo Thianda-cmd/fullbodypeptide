@@ -1,0 +1,186 @@
+{
+  "slug": "acetyl-tetrapeptide-5",
+  "name": "Acetyl tetrapeptide-5",
+  "zone": "skin",
+  "category": "cosmetic",
+  "aliases": [],
+  "brands": [
+    "Eyeseryl"
+  ],
+  "class": "Signal peptide for under-eye puffiness",
+  "route": "Applied to the skin in eye creams and gels",
+  "status": "Cosmetic ingredient; not an FDA-approved drug",
+  "evidence": 1,
+  "mechanism": "Proposed to ease eye-area puffiness by affecting the enzyme ACE and slowing glycation, based mainly on lab and manufacturer data",
+  "uses": [
+    "Under-eye puffiness",
+    "Eye-area skin care"
+  ],
+  "popular": null,
+  "related": [
+    "palmitoyl-pentapeptide-4",
+    "carnosine",
+    "acetyl-hexapeptide-8"
+  ],
+  "article": {
+    "summary": "Acetyl tetrapeptide-5 (Eyeseryl) is an eye-cream peptide marketed to reduce under-eye puffiness. No independent human trial of the peptide alone was found, so evidence is very limited.",
+    "takeaway": "Acetyl tetrapeptide-5, sold as Eyeseryl, is a four-amino-acid peptide added to eye creams and gels to reduce puffiness and a tired look. It is proposed to work by affecting an enzyme called ACE and by limiting glycation, a sugar-driven stiffening of proteins, which together are thought to reduce fluid build-up around the eyes. In a 2021 study on cultured skin cells it was one of five peptides tested, and a mixture containing it lowered markers of oxidative damage,[^1] but **no independent human trial** of the peptide on its own turned up in the literature searched. Under-eye bags have several causes, some structural, that a cream cannot reach.",
+    "glance": [
+      [
+        "Status",
+        "Cosmetic ingredient (not an FDA-approved drug)"
+      ],
+      [
+        "Used for",
+        "Under-eye puffiness and a tired look"
+      ],
+      [
+        "How it's used",
+        "Eye creams and gels, once or twice daily"
+      ],
+      [
+        "Peptide type",
+        "Signal peptide (proposed ACE and glycation effects)"
+      ],
+      [
+        "Research",
+        "Cell studies; no independent human trial found"
+      ],
+      [
+        "Similar ingredients",
+        "[Carnosine](/peptides/carnosine), [palmitoyl pentapeptide-4](/peptides/palmitoyl-pentapeptide-4)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works-in-skin",
+        "title": "How it works in skin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The skin around the eyes is thin, so fluid and pigment show through easily. Morning puffiness can come from fluid pooling, while lasting under-eye bags are often caused by fat shifting forward as the supporting tissue loosens. A cream can at most address the first kind."
+          },
+          {
+            "type": "p",
+            "text": "Acetyl tetrapeptide-5 is proposed to work in two ways: by interfering with angiotensin-converting enzyme (ACE), which takes part in fluid and blood-vessel regulation, and by limiting glycation, the sugar-linked damage that stiffens collagen. The 2021 cell study used ACE1 activity as the measure when choosing this peptide's best concentration.[^1] What that means for puffiness in living people has not been shown."
+          }
+        ]
+      },
+      {
+        "id": "what-the-studies-show",
+        "title": "What the studies show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Source",
+                "Finding"
+              ],
+              [
+                "Cultured skin fibroblasts, 5 peptides (2021)",
+                "The best mixture (carnosine, acetyl tetrapeptide-5, hexapeptide-11 and acetyl hexapeptide-3) lowered oxidative damage markers and raised collagen and elastin markers after hydrogen peroxide stress[^1]"
+              ],
+              [
+                "Controlled human trials of the peptide alone",
+                "None found in the peer-reviewed literature searched for this entry"
+              ],
+              [
+                "Systematic review of anti-aging cosmetic ingredients (2021)",
+                "Good supporting data for many common ingredients are often missing[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Results in a dish do not show whether a cream changes puffiness in people, and claims on product pages could not be checked against published trials."
+          }
+        ]
+      },
+      {
+        "id": "how-its-used",
+        "title": "How it's used",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "It is formulated into eye creams, gels and roll-on serums, usually applied once or twice a day around the orbital bone. Keep products out of the eyes themselves. Any change would be judged after several weeks of use."
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Safety",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Eye-area skin is delicate and prone to irritation, and fragrance or preservatives in a formula are more common culprits than the peptide. No safety data specific to this peptide were found in the sources reviewed."
+          },
+          {
+            "type": "note",
+            "text": "Cosmetics do not need FDA approval before sale, and products that claim to change how the body works can be treated as drugs.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Acetyl tetrapeptide-5 is a plausible but unproven eye-cream ingredient. For persistent or structural under-eye bags, a dermatologist or oculoplastic surgeon can explain options that a cream cannot match."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Very limited: cell studies only",
+      "text": "The published work on this peptide is a cell study of mixtures,[^1] with no independent human trial located. Reviews of cosmetic anti-aging ingredients stress that supporting data are often lacking.[^2]"
+    },
+    "faq": [
+      {
+        "q": "Does acetyl tetrapeptide-5 get rid of eye bags?",
+        "a": "There is no verified evidence that it does. Puffiness has several causes, and fat that has shifted forward under the eye is beyond the reach of a cream."
+      },
+      {
+        "q": "What is Eyeseryl?",
+        "a": "Eyeseryl is a trade name for an ingredient whose active peptide is acetyl tetrapeptide-5, supplied to cosmetic makers for eye-area products."
+      },
+      {
+        "q": "Does combining peptides in one product help?",
+        "a": "Not necessarily. The 2021 study noted that peptide combinations can act in synergistic or opposing ways, so each formula needs its own testing.[^1]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Protective and Anti-Aging Effects of 5 Cosmeceutical Peptide Mixtures on Hydrogen Peroxide-Induced Premature Senescence in Human Skin Fibroblasts.",
+        "source": "Skin Pharmacol Physiol",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33849044/",
+        "pmid": "33849044",
+        "doi": "10.1159/000514496",
+        "note": "Cell study of five cosmetic peptides and their mixtures"
+      },
+      {
+        "n": 2,
+        "title": "Topical Over-the-Counter Antiaging Agents: An Update and Systematic Review.",
+        "source": "Dermatology",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32882685/",
+        "pmid": "32882685",
+        "doi": "10.1159/000509296",
+        "note": "Systematic review of evidence for common anti-aging ingredients"
+      },
+      {
+        "n": 3,
+        "title": "Is It a Cosmetic, a Drug, or Both? (Or Is It Soap?)",
+        "source": "U.S. FDA",
+        "year": 2024,
+        "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+        "note": "How U.S. law separates cosmetics from drugs"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

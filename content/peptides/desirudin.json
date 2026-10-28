@@ -1,0 +1,218 @@
+{
+  "slug": "desirudin",
+  "name": "Desirudin",
+  "zone": "heart",
+  "category": "fda",
+  "aliases": [
+    "recombinant hirudin",
+    "r-hirudin"
+  ],
+  "brands": [
+    "Iprivask"
+  ],
+  "class": "Direct thrombin inhibitor (recombinant hirudin)",
+  "route": "Injection under the skin every 12 hours around hip replacement surgery",
+  "status": "FDA-approved (2003) to prevent deep vein clots after hip replacement; the US brand has been discontinued",
+  "evidence": 4,
+  "mechanism": "A lab-made copy of leech hirudin that binds thrombin tightly and blocks it, which stops clots from forming without needing antithrombin",
+  "uses": [
+    "Preventing DVT after elective hip replacement"
+  ],
+  "popular": null,
+  "related": [
+    "bivalirudin",
+    "eptifibatide"
+  ],
+  "article": {
+    "summary": "Desirudin (Iprivask) is a lab-made form of leech hirudin that the FDA approved in 2003 as an injected blood thinner after hip replacement. The US brand has since been discontinued.",
+    "takeaway": "Desirudin is a recombinant form of hirudin, a 65-amino-acid anticoagulant protein first found in medicinal leeches. It blocks thrombin and was approved by the FDA in 2003, injected under the skin twice daily, to prevent deep vein thrombosis after elective hip replacement. In a European trial of 2,079 patients, deep vein clots were found in **18.4%** of those given desirudin versus **25.5%** of those given enoxaparin.[^1] The Iprivask brand has since been discontinued in the US, so the drug is mainly of reference interest today.",
+    "glance": [
+      [
+        "FDA status",
+        "Approved in 2003; the US brand (Iprivask) has been discontinued"
+      ],
+      [
+        "Main use",
+        "Preventing deep vein thrombosis after elective hip replacement"
+      ],
+      [
+        "How it's given",
+        "Injection under the skin twice daily, with the first dose just before surgery"
+      ],
+      [
+        "Drug class",
+        "Direct thrombin inhibitor (recombinant hirudin)"
+      ],
+      [
+        "Research",
+        "Randomized hip replacement trials against enoxaparin and unfractionated heparin"
+      ],
+      [
+        "Related",
+        "[Bivalirudin](/peptides/bivalirudin), [eptifibatide](/peptides/eptifibatide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Hirudin is the anticoagulant protein in the saliva of the medicinal leech. Desirudin is the same kind of protein made by genetically engineered yeast, so no leeches are involved. It attaches directly to thrombin, the enzyme that builds clots, and blocks both free thrombin and thrombin that is already bound to a clot.[^2]"
+          },
+          {
+            "type": "p",
+            "text": "Unlike heparin, it does not rely on antithrombin. It is given in a fixed dose and is considered less immunogenic than unfractionated heparin. The kidneys clear it, so people with reduced kidney function need dose changes.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Desirudin was approved to prevent deep vein thrombosis (DVT) in adults having elective hip replacement. DVT is a clot in a deep leg vein that can break loose and travel to the lungs. Hip surgery carries a high clot risk, which is why preventive anticoagulants are standard afterward."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In the main trial, patients were randomly assigned in a double-blind design to desirudin (15 mg under the skin twice daily) or enoxaparin (40 mg once daily) for 8 to 12 days, and clots were looked for by routine venography."
+          },
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Outcome",
+                "Desirudin vs enoxaparin"
+              ],
+              [
+                "Proximal DVT (clots in the thigh or pelvis)",
+                "4.5% vs 7.5%[^1]"
+              ],
+              [
+                "Any DVT",
+                "18.4% vs 25.5%[^1]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Safety profiles were similar between the two drugs.[^1] A later review concluded that desirudin worked better than both enoxaparin and unfractionated heparin for this use, with comparable bleeding.[^2] In a post hoc analysis of the same trial, people with stage 3B or worse chronic kidney disease (about 28% of participants) had major clots in 3.4% on desirudin versus 11.1% on enoxaparin. Because this was not a pre-planned comparison, it is a hint rather than proof.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Desirudin was given as an injection under the skin, with the first dose within 30 minutes before surgery in the pivotal trial, then twice daily for roughly a week to 12 days.[^1] It is a fixed-dose regimen with reductions for kidney impairment.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Bleeding** is the main risk of any anticoagulant, including surgical-site bleeding. Overall safety matched enoxaparin in the pivotal trial.[^1]",
+              "**Spinal or epidural hematoma:** like other injectable anticoagulants, the US label carried a boxed warning about bleeding around the spine in people having spinal or epidural anesthesia, which can cause lasting paralysis.",
+              "**Allergy:** people with a known allergy to hirudins should not receive it.",
+              "**Kidney impairment** raises drug levels, so doses are lowered.[^2]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The FDA approved desirudin in 2003 under the brand name Iprivask. A 2011 review called it the newest injectable direct thrombin inhibitor then sold in the US, and listed it among four parenteral drugs of this type approved in North America, with lepirudin, bivalirudin and argatroban.[^2][^4] In Europe it was marketed as Revasc."
+          },
+          {
+            "type": "p",
+            "text": "Iprivask has since been discontinued in the US, and FDA's DailyMed label database shows no current desirudin product as of October 2026. Clinicians use other injectable or oral anticoagulants for the same purpose."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong trial evidence, but no longer marketed in the US",
+      "text": "In hip replacement trials, desirudin prevented more deep vein clots than enoxaparin or unfractionated heparin, with similar bleeding.[^1][^2] The evidence covers essentially this one surgical setting."
+    },
+    "faq": [
+      {
+        "q": "Is desirudin made from leeches?",
+        "a": "No. It is a copy of the leech protein hirudin produced by genetically engineered yeast, so it does not depend on leech supply."
+      },
+      {
+        "q": "Can desirudin still be prescribed in the US?",
+        "a": "Not as a marketed product. The only US brand, Iprivask, has been discontinued, and DailyMed lists no current desirudin label."
+      },
+      {
+        "q": "How did it compare with enoxaparin?",
+        "a": "In the main European trial, any deep vein clot occurred in 18.4% with desirudin and 25.5% with enoxaparin, and safety was similar.[^1]"
+      },
+      {
+        "q": "Is it safe in people with kidney disease?",
+        "a": "The kidneys clear desirudin, so drug levels rise when kidney function is low and the dose has to be reduced.[^2] A post hoc trial analysis suggested it protected such patients from clots better than enoxaparin did, but that finding was not pre-planned.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "A comparison of recombinant hirudin with a low-molecular-weight heparin to prevent thromboembolic complications after total hip replacement.",
+        "source": "N Engl J Med",
+        "year": 1997,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9358126/",
+        "pmid": "9358126",
+        "doi": "10.1056/NEJM199711063371901",
+        "note": "Desirudin versus enoxaparin in 2,079 hip replacement patients"
+      },
+      {
+        "n": 2,
+        "title": "Desirudin: a review of the pharmacology and clinical application for the prevention of deep vein thrombosis.",
+        "source": "Expert Rev Cardiovasc Ther",
+        "year": 2011,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21932952/",
+        "pmid": "21932952",
+        "doi": "10.1586/erc.11.131",
+        "note": "Pharmacology, comparative efficacy and kidney dosing"
+      },
+      {
+        "n": 3,
+        "title": "Impact of stage 3B chronic kidney disease on thrombosis and bleeding outcomes after orthopedic surgery in patients treated with desirudin or enoxaparin: insights from a randomized trial.",
+        "source": "J Thromb Haemost",
+        "year": 2012,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22672318/",
+        "pmid": "22672318",
+        "doi": "10.1111/j.1538-7836.2012.04803.x",
+        "note": "Post hoc kidney disease subgroup of the main trial"
+      },
+      {
+        "n": 4,
+        "title": "Direct thrombin inhibitors.",
+        "source": "Br J Clin Pharmacol",
+        "year": 2011,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21241354/",
+        "pmid": "21241354",
+        "doi": "10.1111/j.1365-2125.2011.03916.x",
+        "note": "Review of FDA-approved direct thrombin inhibitors"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

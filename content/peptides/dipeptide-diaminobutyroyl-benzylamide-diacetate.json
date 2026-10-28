@@ -1,0 +1,201 @@
+{
+  "slug": "dipeptide-diaminobutyroyl-benzylamide-diacetate",
+  "name": "Dipeptide diaminobutyroyl benzylamide diacetate",
+  "zone": "skin",
+  "category": "cosmetic",
+  "aliases": [
+    "Syn-Ake"
+  ],
+  "brands": [],
+  "class": "Venom-inspired neuromuscular cosmetic peptide",
+  "route": "Applied to the skin in serums and creams",
+  "status": "Cosmetic ingredient; not an FDA-approved drug",
+  "evidence": 1,
+  "mechanism": "A small synthetic molecule designed to imitate waglerin-1, a viper venom peptide that blocks muscle acetylcholine receptors, to ease facial muscle tension",
+  "uses": [
+    "Expression lines (crow's feet, forehead)",
+    "General anti-wrinkle skincare"
+  ],
+  "popular": null,
+  "related": [
+    "acetyl-hexapeptide-8",
+    "acetyl-octapeptide-3",
+    "pentapeptide-18"
+  ],
+  "article": {
+    "summary": "Dipeptide diaminobutyroyl benzylamide diacetate (Syn-Ake) is a skincare ingredient inspired by viper venom and marketed for expression lines. Human evidence comes mainly from combination products.",
+    "takeaway": "Dipeptide diaminobutyroyl benzylamide diacetate, usually called Syn-Ake, is a small synthetic molecule described by its makers as a mimic of waglerin-1, a peptide in the venom of Wagler's pit viper. Waglerin-1 blocks a form of the acetylcholine receptor on muscle cells, which is how the venom paralyzes prey.[^1] The cosmetic version is meant to relax facial muscle tension a little, not to paralyze it. Published human data come mainly from a 2026 study of a multi-ingredient serum, so the effect of this ingredient alone is unknown.[^2] **Evidence is limited.**",
+    "glance": [
+      [
+        "Status",
+        "Cosmetic ingredient (not an FDA-approved drug)"
+      ],
+      [
+        "Used for",
+        "Expression lines around the eyes and forehead"
+      ],
+      [
+        "How it's used",
+        "Serums and creams, usually once or twice daily"
+      ],
+      [
+        "Peptide type",
+        "Venom-inspired neuromuscular peptide mimic"
+      ],
+      [
+        "Research",
+        "Venom-peptide lab work; one combination-serum study"
+      ],
+      [
+        "Similar peptides",
+        "[Acetyl hexapeptide-8](/peptides/acetyl-hexapeptide-8), [acetyl octapeptide-3](/peptides/acetyl-octapeptide-3)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works-in-skin",
+        "title": "How it works in skin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Facial muscles contract when acetylcholine released from a nerve lands on receptors on the muscle cell. Waglerin-1, the venom peptide, blocks the adult form of that receptor (the form containing the epsilon subunit) in mice, while newborn mice, which carry a different subunit, resist it.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "Syn-Ake is a small laboratory-made molecule built to resemble part of that venom peptide. The theory is that, on skin, it would partly dampen signals at the nerve-muscle junction and so reduce the small repeated contractions that crease the skin. That blocking action is documented for the venom peptide itself; it has not been shown for this ingredient applied to skin."
+          }
+        ]
+      },
+      {
+        "id": "what-the-studies-show",
+        "title": "What the studies show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Source",
+                "Finding"
+              ],
+              [
+                "Mouse nerve-muscle studies of waglerin-1 (1999)",
+                "Blocked the adult muscle acetylcholine receptor at nanomolar concentrations but not the newborn form[^1]"
+              ],
+              [
+                "Serum with acetyl hexapeptide-8, this ingredient, gluconolactone and others; studies of 50 and 42 people (2026)",
+                "Static wrinkle scores improved from week 1 and by 35% to 69% (by wrinkle type) at week 12; dynamic wrinkles improved 10-13%. The ingredients cannot be separated, and the abstract describes no placebo group[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "No trial of the ingredient on its own was found. A systematic review of anti-aging cosmetic ingredients concluded that good supporting data are often missing.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-used",
+        "title": "How it's used",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Syn-Ake appears in serums and eye creams marketed as 'Botox alternatives', often together with acetyl hexapeptide-8 or other peptides. It is applied daily, and any change would be gradual. Concentrations are rarely printed on the label."
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Safety",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Safety data specific to this ingredient are scarce in the published literature. Its core is just two amino acids, so it is small by peptide standards, and smaller molecules are more able to cross the skin barrier than large ones.[^4] That makes the lack of dedicated safety studies more relevant, not less. Irritation or allergy to the formula is the most likely problem."
+          },
+          {
+            "type": "note",
+            "text": "Cosmetics do not need FDA approval before sale, and a product that claims to change how muscles or skin work can be treated as a drug.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Syn-Ake has an intriguing venom-inspired design, but the skin evidence is thin and entangled with other ingredients. It is not a substitute for botulinum toxin, and expectations should stay modest."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Very limited: venom lab work, one combination study",
+      "text": "The receptor work was done on the venom peptide in mice,[^1] and the cosmetic ingredient has been tested in people mainly as one part of a multi-ingredient serum.[^2] Independent trials of the ingredient alone are lacking."
+    },
+    "faq": [
+      {
+        "q": "Is Syn-Ake made from snake venom?",
+        "a": "No. It is a synthetic molecule designed to imitate part of a venom peptide, so no venom is used. The venom peptide, waglerin-1, comes from Wagler's pit viper.[^1]"
+      },
+      {
+        "q": "Does it work like Botox?",
+        "a": "Not in any way research has shown. Botulinum toxin is injected into the muscle, whereas a cream must cross the skin first and, if it works at all, would act far more weakly."
+      },
+      {
+        "q": "Why is it often paired with acetyl hexapeptide-8?",
+        "a": "Both are marketed for expression lines through different proposed routes. The 2026 serum study combined them, which makes it impossible to credit either one alone.[^2]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Waglerin-1 selectively blocks the epsilon form of the muscle nicotinic acetylcholine receptor.",
+        "source": "J Pharmacol Exp Ther",
+        "year": 1999,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10087048/",
+        "pmid": "10087048",
+        "note": "Mouse study of the venom peptide this ingredient imitates"
+      },
+      {
+        "n": 2,
+        "title": "The effect of a serum containing acetyl hexapeptide-8, dipeptide diaminobutyroyl benzylamide diacetate and gluconolactone on skin biomarkers, wrinkles and skin texture: Ex vivo and clinical studies.",
+        "source": "Int J Cosmet Sci",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41668671/",
+        "pmid": "41668671",
+        "doi": "10.1111/ics.70087",
+        "note": "Combination-serum study; effects not attributable to one ingredient"
+      },
+      {
+        "n": 3,
+        "title": "Topical Over-the-Counter Antiaging Agents: An Update and Systematic Review.",
+        "source": "Dermatology",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32882685/",
+        "pmid": "32882685",
+        "doi": "10.1159/000509296",
+        "note": "Systematic review of evidence for common anti-aging ingredients"
+      },
+      {
+        "n": 4,
+        "title": "The 500 Dalton rule for the skin penetration of chemical compounds and drugs.",
+        "source": "Exp Dermatol",
+        "year": 2000,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10839713/",
+        "pmid": "10839713",
+        "doi": "10.1034/j.1600-0625.2000.009003165.x",
+        "note": "Why large molecules struggle to cross the skin barrier"
+      },
+      {
+        "n": 5,
+        "title": "Is It a Cosmetic, a Drug, or Both? (Or Is It Soap?)",
+        "source": "U.S. FDA",
+        "year": 2024,
+        "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+        "note": "How U.S. law separates cosmetics from drugs"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

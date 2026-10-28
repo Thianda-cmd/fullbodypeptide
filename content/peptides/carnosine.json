@@ -1,0 +1,196 @@
+{
+  "slug": "carnosine",
+  "name": "Carnosine",
+  "zone": "skin",
+  "category": "cosmetic",
+  "aliases": [
+    "beta-alanyl-L-histidine"
+  ],
+  "brands": [],
+  "class": "Antioxidant dipeptide",
+  "route": "Applied to the skin, or taken by mouth as a supplement",
+  "status": "Cosmetic and dietary supplement ingredient; not an FDA-approved drug",
+  "evidence": 1,
+  "mechanism": "A two-amino-acid molecule found in muscle and brain that buffers acid, mops up reactive molecules and blocks glycation (sugar damage to proteins)",
+  "uses": [
+    "Antioxidant and anti-glycation skincare",
+    "Oral dietary supplement (many uses claimed)"
+  ],
+  "popular": null,
+  "related": [
+    "glutathione",
+    "acetyl-tetrapeptide-5",
+    "copper-tripeptide-1"
+  ],
+  "article": {
+    "summary": "Carnosine is a natural dipeptide used in skincare as an antioxidant and anti-glycation agent. Support comes mainly from lab and skin-sample studies, not trials of wrinkles in people.",
+    "takeaway": "Carnosine is a two-amino-acid molecule (beta-alanine plus histidine) found in muscle and brain. In the lab it neutralizes reactive molecules, binds metals and helps protect proteins from glycation, the sugar-driven damage linked to skin aging.[^1] In donated human skin kept alive in culture, a carnosine cream lowered markers of glycation damage after a sugar-derived stressor was added,[^2] but no trial shows that it smooths wrinkles on living faces. Taken by mouth, carnosine is split by an enzyme in blood,[^1] so sports research has focused on beta-alanine, one of its building blocks.[^3]",
+    "glance": [
+      [
+        "Status",
+        "Cosmetic and supplement ingredient (not an FDA-approved drug)"
+      ],
+      [
+        "Used for",
+        "Antioxidant and anti-glycation skincare; oral supplements"
+      ],
+      [
+        "How it's used",
+        "Creams and serums; capsules and powders"
+      ],
+      [
+        "Molecule type",
+        "Natural dipeptide (beta-alanyl-L-histidine)"
+      ],
+      [
+        "Research",
+        "Lab work, skin-sample studies, trials in other conditions"
+      ],
+      [
+        "Similar ingredients",
+        "[Glutathione](/peptides/glutathione), [acetyl tetrapeptide-5](/peptides/acetyl-tetrapeptide-5)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works-in-skin",
+        "title": "How it works in skin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Carnosine is made in the body and is especially concentrated in muscle. Its chemistry explains most of its proposed benefits: it buffers acid, binds metal ions, soaks up reactive oxygen species and can react with sugar-derived molecules before they attach to proteins.[^1] That last property matters in skin, where collagen cross-linked by sugars (advanced glycation end-products, or AGEs) becomes stiff and discolored."
+          },
+          {
+            "type": "p",
+            "text": "An enzyme in blood called serum carnosinase splits carnosine into beta-alanine and histidine,[^1] which is one reason oral carnosine and carnosine applied to skin are different propositions."
+          }
+        ]
+      },
+      {
+        "id": "what-the-studies-show",
+        "title": "What the studies show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Source",
+                "Finding"
+              ],
+              [
+                "Human skin explants, carnosine face cream (2018)",
+                "After methylglyoxal exposure, the cream lowered two glycation markers (CML and pentosidine) in both epidermis and dermis[^2]"
+              ],
+              [
+                "Meta-analysis of beta-alanine supplements, 40 studies (2017)",
+                "Small average gain in exercise capacity and performance (effect size 0.18) in 1,461 participants[^3]"
+              ],
+              [
+                "Broad review of carnosine research (2013)",
+                "Promising preclinical and clinical results in diabetes, eye disease, aging and neurological disorders, with far more work needed[^1]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "None of these show that carnosine reduces wrinkles in people. Skin-explant data show a chemical effect in tissue, not a visible benefit."
+          }
+        ]
+      },
+      {
+        "id": "how-its-used",
+        "title": "How it's used",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In skincare, carnosine appears in serums and creams, sometimes alongside peptides such as [acetyl tetrapeptide-5](/peptides/acetyl-tetrapeptide-5). Carnosine capsules and powders are sold as dietary supplements, which are not reviewed by FDA for effectiveness before sale."
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Safety",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Skin products can cause irritation or allergy, usually from the formula as a whole. Large trials of long-term carnosine supplementation are lacking, and safety in pregnancy or alongside medicines has not been well studied."
+          },
+          {
+            "type": "note",
+            "text": "Cosmetics do not need FDA approval before sale, and a product that claims to change how skin works can be treated as a drug.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Carnosine is a well-known natural molecule with sound chemistry for fighting glycation and oxidation, but its skin benefit in people is unproven. Its better-supported role is as a precursor, beta-alanine, in sports research rather than as an anti-aging ingredient."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Limited: lab and skin-sample data for skin use",
+      "text": "For skin, the best data are ex vivo skin explants.[^2] Oral beta-alanine has a larger human trial base, but for exercise rather than skin.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Is carnosine the same as beta-alanine?",
+        "a": "No. Beta-alanine is one of carnosine's two building blocks. Because blood enzymes break carnosine apart,[^1] sports research has mostly tested beta-alanine supplements.[^3]"
+      },
+      {
+        "q": "Can carnosine reverse wrinkles?",
+        "a": "There is no evidence of that. Lab tests show less glycation damage in skin samples,[^2] but visible wrinkle improvement in people has not been shown."
+      },
+      {
+        "q": "Does food contain carnosine?",
+        "a": "Yes. It was first identified in meat, where it is abundant.[^1] Whether dietary carnosine changes skin has not been tested in the studies cited here."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Physiology and pathophysiology of carnosine.",
+        "source": "Physiol Rev",
+        "year": 2013,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24137022/",
+        "pmid": "24137022",
+        "doi": "10.1152/physrev.00039.2012",
+        "note": "Review of carnosine chemistry, roles and clinical research"
+      },
+      {
+        "n": 2,
+        "title": "Novel Facial Cream Containing Carnosine Inhibits Formation of Advanced Glycation End-Products in Human Skin.",
+        "source": "Skin Pharmacol Physiol",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30199874/",
+        "pmid": "30199874",
+        "doi": "10.1159/000492276",
+        "note": "Skin-explant study of anti-glycation activity"
+      },
+      {
+        "n": 3,
+        "title": "β-alanine supplementation to improve exercise capacity and performance: a systematic review and meta-analysis.",
+        "source": "Br J Sports Med",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27797728/",
+        "pmid": "27797728",
+        "doi": "10.1136/bjsports-2016-096396",
+        "note": "Best-studied use of carnosine's building block"
+      },
+      {
+        "n": 4,
+        "title": "Is It a Cosmetic, a Drug, or Both? (Or Is It Soap?)",
+        "source": "U.S. FDA",
+        "year": 2024,
+        "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+        "note": "How U.S. law separates cosmetics from drugs"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

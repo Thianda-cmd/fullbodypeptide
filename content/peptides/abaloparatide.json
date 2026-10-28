@@ -1,0 +1,209 @@
+{
+  "slug": "abaloparatide",
+  "name": "Abaloparatide",
+  "zone": "bones",
+  "category": "fda",
+  "aliases": [
+    "Abaloparatide-SC"
+  ],
+  "brands": [
+    "Tymlos"
+  ],
+  "class": "Bone-building PTHrP analog",
+  "route": "Daily injection under the skin from a prefilled pen",
+  "status": "FDA-approved for osteoporosis at high fracture risk in postmenopausal women and in men",
+  "evidence": 4,
+  "mechanism": "Activates the parathyroid hormone receptor on bone-forming cells to build new bone instead of only slowing bone loss",
+  "uses": [
+    "Postmenopausal osteoporosis at high fracture risk",
+    "Osteoporosis in men at high fracture risk",
+    "When other osteoporosis drugs failed or were not tolerated"
+  ],
+  "popular": null,
+  "related": [
+    "teriparatide",
+    "palopegteriparatide",
+    "parathyroid-hormone",
+    "calcitonin-salmon"
+  ],
+  "article": {
+    "summary": "Abaloparatide (Tymlos) is a daily bone-building injection for people with osteoporosis at high fracture risk. It sharply cut new spine fractures in postmenopausal women in a major trial.",
+    "takeaway": "Abaloparatide is a lab-made analog of PTHrP, a natural protein related to parathyroid hormone that signals bone-building cells. In the ACTIVE trial, new spine fractures occurred in 0.6% of women on abaloparatide and 4.2% on placebo over 18 months.[^1][^2] Unlike most osteoporosis drugs, which slow bone loss, it adds new bone. The label limits use to 2 years over a lifetime, and common side effects include high urine calcium and dizziness.[^1]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved (Tymlos) for postmenopausal women and for men with osteoporosis at high fracture risk[^1]"
+      ],
+      [
+        "Main uses",
+        "Reducing fractures in postmenopausal osteoporosis; raising bone density in men"
+      ],
+      [
+        "How it's taken",
+        "Daily injection under the skin with a prefilled pen, for no more than 2 years in a lifetime[^1]"
+      ],
+      [
+        "Drug class",
+        "PTHrP analog (anabolic bone drug)"
+      ],
+      [
+        "Research",
+        "ACTIVE (2,463 women), its extension, and ATOM (228 men)"
+      ],
+      [
+        "Related",
+        "[Teriparatide](/peptides/teriparatide), [palopegteriparatide](/peptides/palopegteriparatide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Most osteoporosis drugs, such as bisphosphonates, slow the cells that break bone down. Abaloparatide works the other way. It is an analog of parathyroid hormone-related protein (PTHrP) that activates the same receptor as parathyroid hormone and switches on bone-forming cells.[^1] Given once a day, it produces short pulses of signal that favor new bone over breakdown."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Postmenopausal women** with osteoporosis at high fracture risk, or who failed or could not tolerate other treatments; it reduces spine and non-spine fractures[^1]",
+              "**Men** with osteoporosis at high fracture risk, to increase bone density[^1]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "ACTIVE",
+                "2,463 postmenopausal women",
+                "New spine fractures 0.6% vs 4.2% on placebo at 18 months[^1][^2]"
+              ],
+              [
+                "ACTIVExtend",
+                "Women who finished ACTIVE",
+                "With 24 more months of alendronate, spine fractures 0.9% vs 5.6% over 43 months[^3]"
+              ],
+              [
+                "ATOM",
+                "228 men with osteoporosis",
+                "Lumbar spine bone density up 8.5% vs 1.2% on placebo at 12 months[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In ACTIVE, high blood calcium was less common with abaloparatide (3.4%) than with open-label teriparatide (6.4%).[^2] The trial in men measured bone density, not fractures."
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Tymlos comes as a prefilled pen that delivers 30 daily doses of 80 micrograms. It is injected under the skin of the abdomen once a day. The label says safety and effectiveness have not been studied beyond 2 years, and use for more than 2 years during a lifetime is not recommended.[^1] A drug that holds the gains, such as alendronate, usually follows.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common in women:** high calcium in urine, dizziness, nausea, headache, palpitations, fatigue, upper abdominal pain and vertigo[^1]",
+              "**Common in men:** injection-site redness, swelling and pain, dizziness, joint pain and nausea[^1]",
+              "**Blood pressure:** it can drop on standing after a dose; sit or lie down if dizzy[^1]",
+              "**Calcium:** avoid with existing high blood calcium; kidney stones and high urine calcium are possible[^1]",
+              "**Osteosarcoma:** rats given high exposures developed bone tumors; it is unknown whether humans would, and the current label has no boxed warning[^1]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "It is avoided in people at higher baseline risk for bone cancer, including those with Paget's disease, bone metastases, prior skeletal radiation or open growth plates.[^1]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: large randomized fracture trial",
+      "text": "ACTIVE enrolled 2,463 women and measured fractures directly.[^2] Evidence in men is limited to bone density rather than fractures.[^4]"
+    },
+    "faq": [
+      {
+        "q": "How is abaloparatide different from teriparatide?",
+        "a": "Both build bone. [Teriparatide](/peptides/teriparatide) copies the first 34 amino acids of parathyroid hormone, while abaloparatide copies PTHrP. In ACTIVE, high blood calcium was less frequent with abaloparatide, though teriparatide was given open-label.[^2]"
+      },
+      {
+        "q": "How long can it be used?",
+        "a": "The label advises against more than 2 years in a lifetime.[^1] A bone-protecting drug is usually used afterward, as studied in ACTIVExtend.[^3]"
+      },
+      {
+        "q": "Does it work in men?",
+        "a": "It is approved to raise bone density in men with osteoporosis. In ATOM, spine bone density rose 8.5% vs 1.2% on placebo over 12 months.[^4]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "TYMLOS (abaloparatide) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=712143d9-e21e-4013-bb3b-3426a21060a8",
+        "note": "Indications, dosing, 2-year limit, ACTIVE results and warnings"
+      },
+      {
+        "n": 2,
+        "title": "Effect of Abaloparatide vs Placebo on New Vertebral Fractures in Postmenopausal Women With Osteoporosis: A Randomized Clinical Trial",
+        "source": "JAMA",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27533157/",
+        "pmid": "27533157",
+        "doi": "10.1001/jama.2016.11136",
+        "note": "ACTIVE: fractures and hypercalcemia versus placebo and teriparatide"
+      },
+      {
+        "n": 3,
+        "title": "ACTIVExtend: 24 Months of Alendronate After 18 Months of Abaloparatide or Placebo for Postmenopausal Osteoporosis",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29800372/",
+        "pmid": "29800372",
+        "doi": "10.1210/jc.2018-00163",
+        "note": "Sequential abaloparatide then alendronate over 43 months"
+      },
+      {
+        "n": 4,
+        "title": "The Efficacy and Safety of Abaloparatide-SC in Men With Osteoporosis: A Randomized Clinical Trial",
+        "source": "J Bone Miner Res",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36190391/",
+        "pmid": "36190391",
+        "doi": "10.1002/jbmr.4719",
+        "note": "ATOM: 12-month bone density results in men"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

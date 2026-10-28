@@ -8,11 +8,10 @@ import {
   ZONE_ORDER,
   bodyFragment,
   bodyVertex,
-  haloFragment,
-  haloVertex,
   shadowFragment,
   shadowVertex,
 } from "./body-shaders";
+import { SilhouetteGlow } from "./glow";
 
 type LM = Record<string, number[]>;
 
@@ -29,8 +28,8 @@ const FRAMES: Record<ZoneId, { y: number; zoom: number }> = {
 };
 
 const FOV = 24;
-const GLOW_CORE = new THREE.Color("#22c58a");
-const GLOW_EDGE = new THREE.Color("#c6f3dc");
+const GLOW_CORE = new THREE.Color("#34cf95");
+const GLOW_EDGE = new THREE.Color("#cdf5e1");
 
 function heartbeat(t: number) {
   const period = 0.92;
@@ -65,6 +64,8 @@ function zoneGeometry(model: BodyModel): Geometry {
   const wristL = P("wrist.L.head");
   const ankleL = P("foot.L.head");
   const head = P("head.head").lerp(P("head.tail"), 0.55);
+  // depth of the front of the rib cage; the spine sits at different depths per body
+  const chestZ = P("breast.L.tail").z;
   const mirror = (p: THREE.Vector3) => v(-p.x, p.y, p.z);
 
   const nodes = [
@@ -74,7 +75,7 @@ function zoneGeometry(model: BodyModel): Geometry {
     v(-(shoulderL.x - 0.022 * h), sp1.y - 0.022 * h, sp1.z - 0.004 * h),
     v(hipL.x - 0.004 * h, hipL.y - 0.006 * h, hipL.z + 0.032 * h),
     v(-(hipL.x - 0.004 * h), hipL.y - 0.006 * h, hipL.z + 0.032 * h),
-    v(0, sp1.y + 0.008 * h, sp1.z + 0.062 * h),
+    v(0, sp1.y + 0.008 * h, chestZ - 0.028 * h),
     v(0.058 * h, sp3.y + 0.022 * h, 0),
     v(0, P("jaw.head").y - 0.022 * h, P("jaw.head").z),
     v(kneeL.x, kneeL.y, kneeL.z - 0.034 * h),
@@ -91,7 +92,7 @@ function zoneGeometry(model: BodyModel): Geometry {
       uBrain: v(0, head.y, head.z + 0.004 * h),
       uBrainR: v(0.07, 0.066, 0.086),
       uEyeY: eyeY,
-      uHeart: v(0.022 * h, sp1.y - 0.046 * h, sp1.z + 0.042 * h),
+      uHeart: v(0.022 * h, sp1.y - 0.046 * h, chestZ - 0.042 * h),
       uThyroid: v(0, neck.y - 0.004 * h, neck.z + 0.038 * h),
       uAdrenal: v(0, sp3.y + 0.01 * h, sp3.z + 0.0 * h),
       uGut: v(0.004 * h, sp4.y + 0.04 * h, sp4.z + 0.03 * h),
@@ -182,10 +183,9 @@ export class BodyScene {
   private camera = new THREE.PerspectiveCamera(FOV, 1, 0.01, 50);
   private group = new THREE.Group();
   private body: THREE.Mesh | null = null;
-  private halo: THREE.Mesh | null = null;
   private shadow: THREE.Mesh;
   private material: THREE.ShaderMaterial;
-  private haloMaterial: THREE.ShaderMaterial;
+  private glow = new SilhouetteGlow();
   private geometry: Geometry;
   private model: BodyModel | null = null;
   private loadToken = 0;
@@ -243,21 +243,6 @@ export class BodyScene {
         ...Object.fromEntries(Object.entries(this.geometry.uniforms).map(([k, value]) => [k, { value }])),
       },
     });
-    this.haloMaterial = new THREE.ShaderMaterial({
-      vertexShader: haloVertex,
-      fragmentShader: haloFragment,
-      side: THREE.BackSide,
-      transparent: true,
-      depthWrite: false,
-      uniforms: {
-        uHeight: { value: 1 },
-        uSpread: { value: 0.022 },
-        uCamPos: { value: new THREE.Vector3() },
-        uColor: { value: new THREE.Color("#7fe3b6") },
-        uStrength: { value: 0 },
-        uReveal: { value: 0 },
-      },
-    });
 
     this.shadow = new THREE.Mesh(
       new THREE.PlaneGeometry(0.62, 0.32),
@@ -292,13 +277,9 @@ export class BodyScene {
       if (token !== this.loadToken) return;
       this.geometry = zoneGeometry(model);
       for (const [k, value] of Object.entries(this.geometry.uniforms)) this.material.uniforms[k].value = value;
-      this.haloMaterial.uniforms.uHeight.value = this.geometry.height;
       if (this.body) this.group.remove(this.body);
-      if (this.halo) this.group.remove(this.halo);
       this.body = new THREE.Mesh(geo, this.material);
-      this.halo = new THREE.Mesh(geo, this.haloMaterial);
-      this.halo.renderOrder = -1;
-      this.group.add(this.halo, this.body);
+      this.group.add(this.body);
       this.computeAnchors();
       this.reveal = this.opts.reducedMotion ? 1 : 0;
       this.revealing = !this.opts.reducedMotion;
@@ -331,6 +312,8 @@ export class BodyScene {
     this.w = Math.max(1, w);
     this.h = Math.max(1, h);
     this.renderer.setSize(this.w, this.h, false);
+    const pr = this.renderer.getPixelRatio();
+    this.glow.setSize(this.w * pr, this.h * pr);
     this.camera.aspect = this.w / this.h;
     this.camera.updateProjectionMatrix();
     this.applyFrame(true);
@@ -343,7 +326,7 @@ export class BodyScene {
     window.removeEventListener("pointerup", this.onPointerUp);
     window.removeEventListener("pointercancel", this.onPointerUp);
     this.material.dispose();
-    this.haloMaterial.dispose();
+    this.glow.dispose();
     this.shadow.geometry.dispose();
     (this.shadow.material as THREE.Material).dispose();
     this.renderer.dispose();
@@ -508,15 +491,19 @@ export class BodyScene {
     u.uPulse.value = animate ? heartbeat(this.time) : 0.6;
     u.uW.value = Array.from(this.weights);
     u.uReveal.value = this.revealing ? revealEase * 1.02 : 1.02;
-    const hu = this.haloMaterial.uniforms;
-    hu.uStrength.value = 0.1 + this.weights[1] * 0.38 + this.weights[5] * 0.08;
-    hu.uReveal.value = u.uReveal.value;
+    const glowStrength = this.weights[1] * 0.9 * Math.min(1, this.reveal);
     (this.shadow.material as THREE.ShaderMaterial).uniforms.uOpacity.value = 0.16 * Math.min(1, this.reveal * 3);
 
     this.group.updateMatrixWorld(true);
     u.uCamPos.value.copy(this.camera.position);
-    hu.uCamPos.value.copy(this.camera.position);
-    this.renderer.render(this.scene, this.camera);
+    if (glowStrength > 0.004) {
+      // skin: a soft aura drawn behind the body before the body itself
+      this.glow.render(this.renderer, this.scene, this.camera, [this.shadow], glowStrength);
+      this.renderer.autoClear = false;
+      this.renderer.clearDepth();
+      this.renderer.render(this.scene, this.camera);
+      this.renderer.autoClear = true;
+    } else this.renderer.render(this.scene, this.camera);
     this.updateHotspots();
     this.opts.onFrame?.();
   };

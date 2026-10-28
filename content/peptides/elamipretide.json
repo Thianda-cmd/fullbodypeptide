@@ -1,0 +1,213 @@
+{
+  "slug": "elamipretide",
+  "name": "Elamipretide",
+  "zone": "hormones",
+  "category": "clinical",
+  "aliases": [
+    "SS-31",
+    "Bendavia",
+    "MTP-131"
+  ],
+  "brands": [
+    "Forzinity"
+  ],
+  "class": "Mitochondria-targeting tetrapeptide",
+  "route": "Daily injection under the skin",
+  "status": "FDA accelerated approval (Sept 2025) for Barth syndrome; other uses still in trials",
+  "evidence": 3,
+  "mechanism": "Binds cardiolipin, a lipid in the inner membrane of mitochondria, to steady the cell's energy-producing machinery",
+  "uses": [
+    "Barth syndrome (approved)",
+    "Primary mitochondrial myopathy (studied)",
+    "Dry age-related macular degeneration (studied)"
+  ],
+  "popular": null,
+  "related": [
+    "mots-c",
+    "humanin",
+    "glutathione"
+  ],
+  "article": {
+    "summary": "Elamipretide (Forzinity) is a mitochondria-targeting peptide with FDA accelerated approval for Barth syndrome since 2025. Trials in other mitochondrial and eye diseases are mixed or ongoing.",
+    "takeaway": "Elamipretide is a four-amino-acid peptide that binds cardiolipin, a lipid found mainly in the energy-making parts of cells called mitochondria. In September 2025 the FDA gave it accelerated approval for Barth syndrome, a rare genetic disorder, based on better knee muscle strength rather than proven clinical benefit.[^1][^2] The randomized part of the Barth trial missed its main goals, and a larger trial in primary mitochondrial myopathy was negative.[^3][^4] A phase 3 trial in dry macular degeneration is active.[^5] It is not a wellness or anti-aging product.",
+    "glance": [
+      [
+        "FDA status",
+        "Accelerated approval (Sept 2025) for Barth syndrome; a confirmatory trial is required[^1][^2]"
+      ],
+      [
+        "Main uses",
+        "Barth syndrome (approved); mitochondrial myopathy and dry AMD (studied, not approved)"
+      ],
+      [
+        "How it's taken",
+        "Daily injection under the skin"
+      ],
+      [
+        "Drug class",
+        "Mitochondria-targeting tetrapeptide"
+      ],
+      [
+        "Research",
+        "Tiny Barth program (12 patients), a negative 218-person myopathy trial, and an active eye-disease phase 3"
+      ],
+      [
+        "Related",
+        "[MOTS-c](/peptides/mots-c), [humanin](/peptides/humanin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Mitochondria make most of a cell's energy. Their inner membrane contains cardiolipin, a lipid that helps keep the energy-producing protein complexes organized. In Barth syndrome, mutations in the tafazzin gene disrupt cardiolipin, leading to heart muscle disease, skeletal muscle weakness and low neutrophil counts.[^2]"
+          },
+          {
+            "type": "p",
+            "text": "Elamipretide binds to cardiolipin. It is thought to stabilize the respiratory complexes, improve the efficiency of energy production and reduce harmful reactive oxygen by-products.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The FDA granted accelerated approval to elamipretide (Forzinity) for Barth syndrome on September 19, 2025.[^2] The label covers adults and children weighing at least 30 kg, and continued approval may depend on a confirmatory trial.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "Other uses remain investigational. A phase 3 study in dry age-related macular degeneration (ReNEW) is active but no longer recruiting.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "TAZPOWER (phase 2/3)",
+                "12 males with Barth syndrome[^1]",
+                "Neither main goal met in the placebo-controlled part; walking distance and symptoms improved during the open-label extension[^3]"
+              ],
+              [
+                "MMPOWER-3 (phase 3)",
+                "218 adults with primary mitochondrial myopathy",
+                "No difference from placebo in the 6-minute walk or fatigue score at 24 weeks[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The Barth approval rests on a very small study and on knee extensor strength, an intermediate measure. That is why the FDA requires confirmation.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Most common:** injection-site reactions such as redness, pain and hardening[^1]",
+              "**Allergic reactions:** serious hypersensitivity, including rash and cough, has occurred, sometimes months after starting[^1]",
+              "**Benzyl alcohol:** the product contains it, so it is not approved for newborns[^1]",
+              "**Limited exposure:** the label's safety data come from 12 patients, some treated for up to 192 weeks[^1]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The company must complete a confirmatory trial for Barth syndrome. The dry macular degeneration phase 3 is the next major test, and a wider mitochondrial-disease program has had mixed results so far."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Moderate: approved on a small trial, mixed elsewhere",
+      "text": "Approval for Barth syndrome rests on 12 patients and an intermediate endpoint.[^1] The largest randomized trial, in mitochondrial myopathy, was negative.[^4] Confidence will depend on the confirmatory and eye-disease trials."
+    },
+    "faq": [
+      {
+        "q": "Is elamipretide FDA-approved?",
+        "a": "For one narrow use, yes. It received accelerated approval in September 2025 for Barth syndrome in people weighing at least 30 kg.[^1][^2] It is not approved for other conditions, aging or general energy."
+      },
+      {
+        "q": "What is Barth syndrome?",
+        "a": "A rare X-linked genetic disorder caused by tafazzin gene mutations that impair cardiolipin, causing heart muscle disease, muscle weakness and low neutrophil counts.[^2]"
+      },
+      {
+        "q": "Is it the same as MOTS-c or humanin?",
+        "a": "No. All three relate to mitochondria, but [MOTS-c](/peptides/mots-c) and [humanin](/peptides/humanin) are natural peptides encoded by mitochondrial DNA, while elamipretide is a synthetic peptide with a different target."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "FORZINITY (elamipretide hydrochloride) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=146bf34c-76f2-48db-ac07-fb29cce2cd75",
+        "note": "Indication, accelerated approval basis, warnings and safety data"
+      },
+      {
+        "n": 2,
+        "title": "Elamipretide: The first cardiolipin-directed mitochondrial therapeutic for Barth syndrome approved under accelerated approval",
+        "source": "Drug Discov Ther",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41260682/",
+        "pmid": "41260682",
+        "doi": "10.5582/ddt.2025.01111",
+        "note": "Reports the September 19, 2025 accelerated approval"
+      },
+      {
+        "n": 3,
+        "title": "A phase 2/3 randomized clinical trial followed by an open-label extension to evaluate the effectiveness of elamipretide in Barth syndrome, a genetic disorder of mitochondrial cardiolipin metabolism",
+        "source": "Genet Med",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33077895/",
+        "pmid": "33077895",
+        "doi": "10.1038/s41436-020-01006-8",
+        "note": "TAZPOWER: randomized period and open-label extension"
+      },
+      {
+        "n": 4,
+        "title": "Efficacy and Safety of Elamipretide in Individuals With Primary Mitochondrial Myopathy: The MMPOWER-3 Randomized Clinical Trial",
+        "source": "Neurology",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37268435/",
+        "pmid": "37268435",
+        "doi": "10.1212/WNL.0000000000207402",
+        "note": "Phase 3 trial that missed its walking and fatigue goals"
+      },
+      {
+        "n": 5,
+        "title": "ReNEW:Phase 3 Study of Efficacy, Safety & Pharmacokinetics of Subcutaneous Injections of Elamipretide in Subjects With Dry Age-Related Macular Degeneration (Dry AMD)",
+        "source": "ClinicalTrials.gov",
+        "year": 2024,
+        "url": "https://clinicaltrials.gov/study/NCT06373731",
+        "note": "Phase 3 dry AMD trial (NCT06373731), active, not recruiting"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

@@ -93,12 +93,8 @@ function spineTexture(p: Peptide, w: number, dpr: number, font: string, art: HTM
   ctx.fillStyle = colors.tint;
   ctx.fillRect(0, 0, panel, BOOK_H);
   if (art?.complete && art.naturalWidth) {
-    ctx.globalCompositeOperation = "soft-light";
+    ctx.globalCompositeOperation = "overlay";
     drawCover(ctx, art, panel, BOOK_H, p.art);
-    ctx.globalCompositeOperation = "screen";
-    ctx.globalAlpha = 0.55;
-    drawCover(ctx, art, panel, BOOK_H, p.art);
-    ctx.globalAlpha = 1;
   }
   ctx.restore();
   ctx.globalCompositeOperation = "source-over";
