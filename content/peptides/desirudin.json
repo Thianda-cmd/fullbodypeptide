@@ -140,11 +140,11 @@
         "blocks": [
           {
             "type": "p",
-            "text": "The FDA approved desirudin in 2003 under the brand name Iprivask. A 2011 review called it the newest injectable direct thrombin inhibitor then sold in the US, and listed it among four parenteral drugs of this type approved in North America, with lepirudin, bivalirudin and argatroban.[^2][^4] In Europe it was marketed as Revasc."
+            "text": "The FDA approved desirudin on April 4, 2003 under the brand name Iprivask.[^4] A 2011 review called it the newest injectable direct thrombin inhibitor then sold in the US, and listed it among four parenteral drugs of this type approved in North America, with lepirudin, bivalirudin and argatroban.[^2][^5] In Europe it was marketed as Revasc."
           },
           {
             "type": "p",
-            "text": "Iprivask has since been discontinued in the US, and FDA's DailyMed label database shows no current desirudin product as of October 2026. Clinicians use other injectable or oral anticoagulants for the same purpose."
+            "text": "Iprivask has since been discontinued. The FDA's Drugs@FDA database lists its marketing status as discontinued, and the DailyMed label database shows no current desirudin product as of October 2026.[^4] Clinicians use other injectable or oral anticoagulants for the same purpose."
           }
         ]
       }
@@ -160,7 +160,7 @@
       },
       {
         "q": "Can desirudin still be prescribed in the US?",
-        "a": "Not as a marketed product. The only US brand, Iprivask, has been discontinued, and DailyMed lists no current desirudin label."
+        "a": "Not as a marketed product. The only US brand, Iprivask, has been discontinued, according to the FDA's Drugs@FDA database.[^4]"
       },
       {
         "q": "How did it compare with enoxaparin?",
@@ -204,6 +204,14 @@
       },
       {
         "n": 4,
+        "title": "Drugs@FDA: IPRIVASK (desirudin recombinant), application 021271",
+        "source": "U.S. FDA (Drugs@FDA)",
+        "year": 2026,
+        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021271",
+        "note": "Original approval April 4, 2003; marketing status discontinued"
+      },
+      {
+        "n": 5,
         "title": "Direct thrombin inhibitors.",
         "source": "Br J Clin Pharmacol",
         "year": 2011,

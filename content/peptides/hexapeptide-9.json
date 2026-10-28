@@ -1,0 +1,185 @@
+{
+  "slug": "hexapeptide-9",
+  "name": "Hexapeptide-9",
+  "zone": "skin",
+  "category": "cosmetic",
+  "aliases": [],
+  "brands": [],
+  "class": "Signal peptide (basement-membrane builder)",
+  "route": "Applied to the skin in serums and creams",
+  "status": "Cosmetic ingredient; not an FDA-approved drug",
+  "evidence": 1,
+  "mechanism": "Marketed as a signal that prompts skin cells to make collagen IV and laminin, proteins that bind the skin layers together; published support is thin",
+  "uses": [
+    "Skin firmness",
+    "Texture and fine lines"
+  ],
+  "popular": null,
+  "related": [
+    "tripeptide-10-citrulline",
+    "palmitoyl-pentapeptide-4",
+    "palmitoyl-hexapeptide-12",
+    "copper-tripeptide-1"
+  ],
+  "article": {
+    "summary": "Hexapeptide-9 is a cosmetic peptide marketed to firm skin by boosting collagen IV and laminin. Evidence for the standard form is thin; a 2025 trial tested a newer cyclized version instead.",
+    "takeaway": "Hexapeptide-9 is a six-amino-acid cosmetic peptide marketed to firm aging skin by prompting production of collagen IV and laminin, proteins that anchor the outer skin layer to the one beneath. Peer-reviewed human data for the standard peptide were not found. The one randomized trial that turned up tested a different, newer molecule: a cyclized hexapeptide-9 used at 0.002% twice daily for 56 days, which cut wrinkle number, area and roughness more than retinol at the same strength on most measures.[^1] **Evidence for ordinary hexapeptide-9 products is limited.**",
+    "glance": [
+      [
+        "Status",
+        "Cosmetic ingredient (not an FDA-approved drug)"
+      ],
+      [
+        "Used for",
+        "Firmness and skin texture"
+      ],
+      [
+        "How it's used",
+        "Serums and creams, usually once or twice daily"
+      ],
+      [
+        "Peptide type",
+        "Signal peptide (collagen IV and laminin)"
+      ],
+      [
+        "Research",
+        "One trial of a cyclized version; little on the standard form"
+      ],
+      [
+        "Similar peptides",
+        "[Tripeptide-10 citrulline](/peptides/tripeptide-10-citrulline), [palmitoyl hexapeptide-12](/peptides/palmitoyl-hexapeptide-12)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works-in-skin",
+        "title": "How it works in skin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Skin has two main layers, the epidermis on top and the dermis below. They are joined by a thin sheet called the basement membrane, built largely from collagen IV and laminin. With age and sun damage this junction is thought to flatten, which may contribute to thinner, less resilient skin."
+          },
+          {
+            "type": "p",
+            "text": "Hexapeptide-9 is marketed as a signal that tells skin cells to make more of these proteins, in the same spirit as other matrix-signaling peptides such as [palmitoyl pentapeptide-4](/peptides/palmitoyl-pentapeptide-4). This mechanism is described in marketing material, but it was not found in peer-reviewed work for the standard peptide."
+          }
+        ]
+      },
+      {
+        "id": "what-the-studies-show",
+        "title": "What the studies show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Finding"
+              ],
+              [
+                "Randomized, double-blind trial of cyclized hexapeptide-9 vs retinol vs vehicle, 56 days (2025)",
+                "A 0.002% serum cut the number, area and roughness of crow's feet and forehead wrinkles, and beat 0.002% retinol on all but one measure[^1]"
+              ],
+              [
+                "Standard (linear) hexapeptide-9",
+                "No peer-reviewed human trial found"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The trial tested a modified molecule designed for better stability and skin penetration, so it should not be read as proof for ordinary hexapeptide-9 products.[^1] It also used retinol at 0.002%, far below typical product strengths, so the comparison says little about how the peptide would fare against a clinic-strength retinoid."
+          },
+          {
+            "type": "p",
+            "text": "Broader reviews describe good supporting data for anti-aging cosmetic ingredients as often lacking.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-used",
+        "title": "How it's used",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Hexapeptide-9 appears in firming serums and creams, sometimes with other peptides. Because the standard peptide's own clinical record is thin, product claims are best read as marketing rather than proof. Concentrations are rarely printed on the label."
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Safety",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Published safety data for the standard peptide are scarce. The usual cosmetic risks apply: irritation or allergy to the peptide or to other ingredients in the formula."
+          },
+          {
+            "type": "note",
+            "text": "Cosmetics do not need FDA approval before sale, and a product that claims to change how skin works can be treated as a drug.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Hexapeptide-9 is a plausible firming ingredient with little independent proof. The encouraging 2025 trial concerns a new cyclized variant, not the peptide in most current products, and larger independent trials would be needed before it could be called effective."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Very limited: one trial, of a modified version",
+      "text": "The only randomized trial found tested a cyclized variant, not the standard peptide.[^1] Reviews of cosmetic anti-aging ingredients say good supporting data are often lacking.[^2]"
+    },
+    "faq": [
+      {
+        "q": "Is hexapeptide-9 as good as retinol?",
+        "a": "One 2025 trial reported that a cyclized version beat very-low-dose retinol, but the molecule tested is not what most products contain and the dose was tiny.[^1] There is no equivalent evidence for standard hexapeptide-9."
+      },
+      {
+        "q": "What are collagen IV and laminin?",
+        "a": "They are structural proteins of the basement membrane, the thin sheet that joins the outer and deeper skin layers."
+      },
+      {
+        "q": "How long until I see a change?",
+        "a": "The trial ran 56 days, with benefits growing over time in that study; whether ordinary products behave the same is unknown.[^1]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Novel Cyclized Hexapeptide-9 Outperforms Retinol Against Skin Aging: A Randomized, Double-Blinded, Active- and Vehicle-Controlled Clinical Trial.",
+        "source": "J Cosmet Dermatol",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40586182/",
+        "pmid": "40586182",
+        "doi": "10.1111/jocd.70290",
+        "note": "Randomized trial of a cyclized variant, not standard hexapeptide-9"
+      },
+      {
+        "n": 2,
+        "title": "Topical Over-the-Counter Antiaging Agents: An Update and Systematic Review.",
+        "source": "Dermatology",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32882685/",
+        "pmid": "32882685",
+        "doi": "10.1159/000509296",
+        "note": "Systematic review of evidence for common anti-aging ingredients"
+      },
+      {
+        "n": 3,
+        "title": "Is It a Cosmetic, a Drug, or Both? (Or Is It Soap?)",
+        "source": "U.S. FDA",
+        "year": 2024,
+        "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+        "note": "How U.S. law separates cosmetics from drugs"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

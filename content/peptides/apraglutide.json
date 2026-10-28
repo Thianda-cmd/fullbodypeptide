@@ -1,0 +1,208 @@
+{
+  "slug": "apraglutide",
+  "name": "Apraglutide",
+  "zone": "digestive",
+  "category": "clinical",
+  "aliases": [
+    "FE 203799"
+  ],
+  "brands": [],
+  "class": "Long-acting GLP-2 analog",
+  "route": "Once-weekly injection under the skin in trials",
+  "status": "Not FDA-approved. A second, confirmatory phase 3 trial for US approval began recruiting in 2026",
+  "evidence": 3,
+  "mechanism": "Long-acting copy of GLP-2, a gut hormone that helps the small intestine grow and absorb more fluid and nutrients",
+  "uses": [
+    "Short bowel syndrome with intestinal failure"
+  ],
+  "popular": null,
+  "related": [
+    "teduglutide",
+    "glepaglutide"
+  ],
+  "article": {
+    "summary": "Apraglutide is an investigational once-weekly GLP-2 injection for short bowel syndrome with intestinal failure. A phase 3 trial showed less need for IV nutrition, but a second trial is needed for US approval.",
+    "takeaway": "Apraglutide is a once-weekly injection that copies GLP-2, a gut hormone that helps the intestine absorb nutrients and fluid. It is aimed at short bowel syndrome with intestinal failure, in which people have too little working bowel and depend on nutrition or fluids given into a vein (\"parenteral support\"). In the phase 3 STARS trial of 163 patients, weekly parenteral support volume fell by **25.5%** after 24 weeks on apraglutide versus 12.5% on placebo.[^1] Ironwood's 2026 filing describes a confirmatory phase 3 trial as needed to seek US approval, and that trial is now recruiting.[^2][^3]",
+    "glance": [
+      [
+        "Status",
+        "Investigational; not approved by the FDA"
+      ],
+      [
+        "Developer",
+        "VectivBio, now advanced by Ironwood Pharmaceuticals"
+      ],
+      [
+        "How it's given",
+        "Once-weekly injection under the skin (in trials)"
+      ],
+      [
+        "Drug class",
+        "Long-acting glucagon-like peptide-2 (GLP-2) analog"
+      ],
+      [
+        "Research",
+        "Randomized phase 2 trials and one completed phase 3 trial (STARS)"
+      ],
+      [
+        "Related",
+        "[Teduglutide](/peptides/teduglutide), [glepaglutide](/peptides/glepaglutide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "After large parts of the small intestine are removed or damaged, the remaining bowel often cannot absorb enough food and fluid. People with short bowel syndrome and intestinal failure (SBS-IF) then depend on parenteral support, meaning nutrition or fluids given into a vein. GLP-2 is a gut hormone that encourages the intestinal lining to grow and absorb better, but the natural hormone is destroyed within minutes. Apraglutide is an engineered GLP-2 analog built for weekly injection. The approved GLP-2 analog [teduglutide](/peptides/teduglutide) is given daily."
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Apraglutide was developed by VectivBio and is now advanced by Ironwood Pharmaceuticals. After STARS, Ironwood's June 2026 quarterly filing describes an ongoing confirmatory phase 3 trial that is needed to seek US approval.[^2] That second placebo-controlled trial in SBS-IF is listed as recruiting since August 2026.[^3] A long-term open-label extension of earlier trials is also registered.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "At week 24 in STARS",
+                "Apraglutide",
+                "Placebo"
+              ],
+              [
+                "Change in weekly parenteral support volume, all 163 patients",
+                "-25.5%",
+                "-12.5%[^1]"
+              ],
+              [
+                "Same measure, patients with a stoma",
+                "-25.6%",
+                "-7.8%[^1]"
+              ],
+              [
+                "Patients with at least 1 fewer day a week on parenteral support",
+                "43.0%",
+                "27.5%[^1]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "At week 48 in patients whose colon was still connected to the small bowel, extra days off parenteral support (51.8% vs 44.4%) and full independence from it (12.5% vs 7.4%) were not statistically different from placebo.[^1] Earlier phase 2 trials found that weekly apraglutide improved fluid absorption.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**In STARS,** apraglutide was described as well tolerated with a favorable safety profile.[^1]",
+              "**Class precautions:** the label for the approved GLP-2 drug teduglutide warns of faster growth of existing tumors, intestinal obstruction, gallbladder and pancreas problems, and fluid overload.[^6] Whether the same monitoring will apply to apraglutide is not yet settled.",
+              "**Still being collected:** long-term safety data from the open-label extension.[^4]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The confirmatory trial must finish before Ironwood can apply for approval, and no filing date has been announced. Until then, apraglutide is available only in research. People who need parenteral support should discuss current options with a gastroenterologist or an intestinal rehabilitation team."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Moderate: one positive phase 3, more data needed",
+      "text": "STARS was a randomized, placebo-controlled phase 3 trial of 163 patients with a clear result at 24 weeks.[^1] Ironwood's filing says a second confirmatory phase 3 trial is needed for US approval.[^2]"
+    },
+    "faq": [
+      {
+        "q": "What is short bowel syndrome?",
+        "a": "A condition in which too little working small intestine is left, often after surgery, so the body cannot absorb enough food and fluid. In its severe form, called intestinal failure, people need nutrition or fluids through a vein."
+      },
+      {
+        "q": "How is apraglutide different from teduglutide?",
+        "a": "Both copy GLP-2. Apraglutide is designed for once-weekly injection and is investigational, while [teduglutide](/peptides/teduglutide) is FDA-approved for short bowel syndrome and has a labeled monitoring plan.[^6]"
+      },
+      {
+        "q": "Is apraglutide approved?",
+        "a": "No. Ironwood's filing says a second phase 3 trial is needed before it can seek US approval, and that trial is still recruiting.[^2][^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "STARS Phase 3 Trial: Once-Weekly Apraglutide Reduces Parenteral Support in Short Bowel Syndrome-Intestinal Failure.",
+        "source": "Clin Gastroenterol Hepatol",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42692160/",
+        "pmid": "42692160",
+        "doi": "10.1016/j.cgh.2026.08.026",
+        "note": "STARS: 163 patients, 24- and 48-week results"
+      },
+      {
+        "n": 2,
+        "title": "Ironwood Pharmaceuticals, Inc. Form 10-Q for the quarter ended June 30, 2026",
+        "source": "SEC filing (Ironwood Pharmaceuticals)",
+        "year": 2026,
+        "url": "https://www.sec.gov/Archives/edgar/data/0001446847/000110465926091987/irwd-20260630x10q.htm",
+        "note": "Confirmatory phase 3 trial described as needed for FDA approval"
+      },
+      {
+        "n": 3,
+        "title": "A Study to Investigate the Efficacy and Safety of Apraglutide Compared With Placebo in Adult Participants With Short Bowel Syndrome Associated With Intestinal Failure (SBS-IF)",
+        "source": "ClinicalTrials.gov",
+        "year": 2026,
+        "url": "https://clinicaltrials.gov/study/NCT07742735",
+        "note": "NCT07742735: second phase 3 trial, recruiting"
+      },
+      {
+        "n": 4,
+        "title": "Open-label Extension Trial to Evaluate the Long-term Safety of Apraglutide in Short Bowel Syndrome.",
+        "source": "ClinicalTrials.gov",
+        "year": 2021,
+        "url": "https://clinicaltrials.gov/study/NCT05018286",
+        "note": "NCT05018286: long-term safety extension"
+      },
+      {
+        "n": 5,
+        "title": "Apraglutide, a novel glucagon-like peptide-2 analog, improves fluid absorption in patients with short bowel syndrome intestinal failure: Findings from a placebo-controlled, randomized phase 2 trial.",
+        "source": "JPEN J Parenter Enteral Nutr",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34287970/",
+        "pmid": "34287970",
+        "doi": "10.1002/jpen.2223",
+        "note": "Randomized phase 2 trial of fluid absorption"
+      },
+      {
+        "n": 6,
+        "title": "GATTEX (teduglutide) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=66b69c1e-b25c-44d3-b5ff-1c1de9a516fa",
+        "note": "Warnings for the approved GLP-2 analog"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "slug": "nonapeptide-1",
+  "name": "Nonapeptide-1",
+  "zone": "skin",
+  "category": "cosmetic",
+  "aliases": [],
+  "brands": [],
+  "class": "Skin-brightening peptide (MC1R blocker)",
+  "route": "Applied to the skin in serums and creams",
+  "status": "Cosmetic ingredient; not an FDA-approved drug",
+  "evidence": 1,
+  "mechanism": "Designed to compete with the hormone alpha-MSH at the melanocortin 1 receptor on pigment cells, which in theory lowers melanin production",
+  "uses": [
+    "Dark spots and uneven tone",
+    "Skin brightening"
+  ],
+  "popular": null,
+  "related": [
+    "glutathione",
+    "afamelanotide",
+    "melanotan-i"
+  ],
+  "article": {
+    "summary": "Nonapeptide-1 is a cosmetic peptide marketed for brightening dark spots by blocking a pigment-signaling receptor. Human data come from combination products, so evidence is very limited.",
+    "takeaway": "Nonapeptide-1 is a nine-amino-acid cosmetic peptide marketed to fade dark spots and even out skin tone. It is designed to compete with alpha-MSH, a melanocortin hormone that switches on pigment production by binding the melanocortin 1 receptor (MC1R) on pigment cells.[^1] The one randomized study found was a 46-person pilot of a proprietary mix of nonapeptide-1, another lightening ingredient and sunscreen: melasma scores improved, but the gaps versus sunscreen alone were not statistically significant on the main measures.[^2] **Its own effect is unknown**, and sun protection remains the foundation of pigment care.",
+    "glance": [
+      [
+        "Status",
+        "Cosmetic ingredient (not an FDA-approved drug)"
+      ],
+      [
+        "Used for",
+        "Dark spots, uneven tone, brightening"
+      ],
+      [
+        "How it's used",
+        "Serums and creams, usually once or twice daily"
+      ],
+      [
+        "Peptide type",
+        "Brightening peptide (proposed MC1R blocker)"
+      ],
+      [
+        "Research",
+        "One combination-product pilot study; mostly lab data"
+      ],
+      [
+        "Related",
+        "[Afamelanotide](/peptides/afamelanotide) activates the same receptor; [glutathione](/peptides/glutathione) is also used for brightening"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works-in-skin",
+        "title": "How it works in skin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Skin color depends on melanin made by pigment cells called melanocytes. The MC1 receptor, switched on by melanocortin hormones such as alpha-MSH and ACTH, is the most important positive regulator of melanin production, while agouti protein is a natural negative regulator.[^1] Sunlight, hormones, inflammation and age all feed into this network.[^3]"
+          },
+          {
+            "type": "p",
+            "text": "Nonapeptide-1 is designed to sit on MC1R without activating it, blocking alpha-MSH and so turning pigment production down. Drugs can push the other way: [afamelanotide](/peptides/afamelanotide) activates MC1R to darken skin. Whether a cream delivers enough nonapeptide-1 to melanocytes in the deeper epidermis is unproven."
+          }
+        ]
+      },
+      {
+        "id": "what-the-studies-show",
+        "title": "What the studies show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Source",
+                "Finding"
+              ],
+              [
+                "Randomized pilot, 46 people with melasma, 8 months (2021)",
+                "A mix of nonapeptide-1, phenylethyl resorcinol, aminoethyl phosphinic acid, antioxidants and sunscreen was compared with sunscreen alone; severity scores fell with the mix, but differences in melasma severity and melanin index did not reach statistical significance[^2]"
+              ],
+              [
+                "Nonapeptide-1 on its own in people",
+                "No controlled trial found"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The authors listed the small sample and short follow-up as limits, and sunscreen was part of the study product, which complicates the comparison.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-used",
+        "title": "How it's used",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Nonapeptide-1 appears in brightening serums, often with vitamin C, niacinamide or other lightening agents. Pigment fades slowly, and studies of lightening products usually run for months. In the melasma pilot, sunscreen was treated as essential to prevent relapse.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Safety",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Safety data specific to nonapeptide-1 are limited. Lightening products can irritate skin, and a dark patch that is changing, bleeding or growing should be checked by a clinician, because some skin cancers can look like spots."
+          },
+          {
+            "type": "note",
+            "text": "Under FDA rules, claims to increase or decrease melanin production count as drug claims, so cosmetic labels are usually worded around the appearance of tone.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Nonapeptide-1 has a logical target but almost no independent evidence on its own. It is best viewed as an optional extra in a routine built on sunscreen, not as a proven treatment for melasma or other pigment disorders."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Very limited: combination pilot study and lab data",
+      "text": "The one randomized study found tested a multi-ingredient product and did not reach statistical significance on its main measures.[^2] The biology supports the target, not this peptide's real-world effect.[^1]"
+    },
+    "faq": [
+      {
+        "q": "Is nonapeptide-1 a substitute for hydroquinone?",
+        "a": "No head-to-head trial was found. The two are very different products, and nonapeptide-1 has far less research behind it."
+      },
+      {
+        "q": "Will it bleach my skin?",
+        "a": "It is marketed to even tone and fade spots, not to bleach. FDA treats claims about changing melanin production as drug claims, so cosmetic labels are usually worded around appearance.[^4]"
+      },
+      {
+        "q": "Why does sunscreen matter if I use a brightening peptide?",
+        "a": "Ultraviolet light stimulates pigment production, and the study that included nonapeptide-1 treated sunscreen as essential to prevent relapse.[^2]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Melanin pigmentation in mammalian skin and its hormonal regulation.",
+        "source": "Physiol Rev",
+        "year": 2004,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15383650/",
+        "pmid": "15383650",
+        "doi": "10.1152/physrev.00044.2003",
+        "note": "MC1 receptor as the main positive regulator of pigment"
+      },
+      {
+        "n": 2,
+        "title": "A randomized controlled pilot study of a proprietary combination versus sunscreen in melasma maintenance.",
+        "source": "Indian J Dermatol Venereol Leprol",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34379946/",
+        "pmid": "34379946",
+        "doi": "10.25259/IJDVL_976_18",
+        "note": "46-person pilot of a mix that included nonapeptide-1"
+      },
+      {
+        "n": 3,
+        "title": "Signaling Pathways in Melanogenesis.",
+        "source": "Int J Mol Sci",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27428965/",
+        "pmid": "27428965",
+        "doi": "10.3390/ijms17071144",
+        "note": "Review of what controls melanin production"
+      },
+      {
+        "n": 4,
+        "title": "Is It a Cosmetic, a Drug, or Both? (Or Is It Soap?)",
+        "source": "U.S. FDA",
+        "year": 2024,
+        "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+        "note": "How U.S. law separates cosmetics from drugs"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

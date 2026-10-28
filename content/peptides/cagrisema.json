@@ -1,0 +1,246 @@
+{
+  "slug": "cagrisema",
+  "name": "CagriSema",
+  "zone": "digestive",
+  "category": "clinical",
+  "aliases": [
+    "cagrilintide-semaglutide"
+  ],
+  "brands": [],
+  "class": "Amylin + GLP-1 fixed-dose combination",
+  "route": "Once-weekly injection under the skin in trials",
+  "status": "Not FDA-approved as of this writing. Submitted in December 2025 for weight management; decision anticipated by late 2026",
+  "evidence": 3,
+  "mechanism": "Combines semaglutide (a GLP-1 drug) and cagrilintide (an amylin analog) in one weekly injection to lower appetite through two pathways",
+  "uses": [
+    "Weight management (FDA decision pending)",
+    "Type 2 diabetes (phase 3 trials reported)"
+  ],
+  "popular": null,
+  "related": [
+    "semaglutide",
+    "cagrilintide",
+    "tirzepatide",
+    "retatrutide",
+    "amycretin"
+  ],
+  "article": {
+    "summary": "CagriSema is a once-weekly injection combining semaglutide and the amylin analog cagrilintide. Phase 3 trials showed about 20% weight loss, and Novo Nordisk has asked the FDA to approve it for weight management.",
+    "takeaway": "CagriSema is a once-weekly injection that combines [semaglutide](/peptides/semaglutide), the GLP-1 drug in Ozempic and Wegovy, with [cagrilintide](/peptides/cagrilintide), an amylin analog. In the 68-week REDEFINE 1 trial of 3,417 adults with obesity, average weight fell by **20.4%** versus 3.0% on placebo, and in adults who also had type 2 diabetes the figures were 13.7% versus 3.4%.[^1][^2] In a head-to-head trial it did not match tirzepatide (20.2% versus 23.6% at 84 weeks).[^3] Novo Nordisk asked the FDA to approve it in December 2025 and anticipated a decision by late 2026.[^3]",
+    "glance": [
+      [
+        "Status",
+        "Submitted to the FDA for weight management in December 2025; decision anticipated by late 2026"
+      ],
+      [
+        "Developer",
+        "Novo Nordisk"
+      ],
+      [
+        "How it's given",
+        "Once-weekly injection under the skin (in trials)"
+      ],
+      [
+        "Drug class",
+        "Fixed-dose amylin + GLP-1 combination"
+      ],
+      [
+        "Research",
+        "Phase 3 REDEFINE (obesity) and REIMAGINE (type 2 diabetes) programs"
+      ],
+      [
+        "Related",
+        "[Semaglutide](/peptides/semaglutide), [cagrilintide](/peptides/cagrilintide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "CagriSema pairs two hormone copies in one pen. Semaglutide mimics GLP-1, which raises insulin when blood sugar is high, slows stomach emptying and quiets hunger signals. Cagrilintide mimics amylin, a hormone released with insulin that promotes fullness through partly separate brain pathways. The aim is more weight loss than either ingredient gives alone. In REDEFINE 1, more people reached a BMI under 27 and a waist-to-height ratio under 0.53 on CagriSema (30.3%) than on semaglutide (19.1%) or cagrilintide (9.0%) alone.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Novo Nordisk submitted CagriSema to the FDA in December 2025 for weight management in adults with obesity, based on REDEFINE 1 and REDEFINE 2, and said a decision was anticipated by late 2026.[^3] A cardiovascular outcomes trial (REDEFINE 3) and a type 2 diabetes program (REIMAGINE) are also under way or reported.[^5][^6] A higher-dose CagriSema trial was planned to start in the second half of 2026.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "REDEFINE 1, 68 weeks",
+                "3,417 adults with obesity, no diabetes",
+                "-20.4% vs -3.0% on placebo[^1]"
+              ],
+              [
+                "REDEFINE 2, 68 weeks",
+                "1,206 adults with obesity and type 2 diabetes",
+                "-13.7% vs -3.4%; HbA1c at or below 6.5% in 73.5% vs 15.9%[^2]"
+              ],
+              [
+                "REDEFINE 4, 84 weeks",
+                "809 adults, open label, tirzepatide 15 mg comparison",
+                "-20.2% vs -23.6%; non-inferiority not shown[^3]"
+              ],
+              [
+                "REIMAGINE 2, 68 weeks",
+                "2,713 adults with type 2 diabetes on metformin",
+                "HbA1c fell 1.91 points vs 1.75 on semaglutide alone[^6]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "REDEFINE 4 compared CagriSema directly with tirzepatide and did not meet its goal of showing equivalent weight loss.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Digestive effects** were most common: nausea, vomiting, diarrhea, constipation or abdominal pain affected 79.6% on CagriSema versus 39.9% on placebo in REDEFINE 1, mostly transient and mild to moderate.[^1]",
+              "**In type 2 diabetes** (REDEFINE 2), 72.5% versus 34.4% had digestive events.[^2]",
+              "**Class pattern:** the safety profile in REIMAGINE 2 was described as consistent with GLP-1 drugs and earlier cagrilintide data.[^6]",
+              "**Unknown:** long-term safety, and whether CagriSema lowers heart attacks and strokes, will depend on the ongoing outcomes trial.[^5]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "online-products",
+        "title": "Online and compounded products",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "No approved CagriSema product exists. FDA says cagrilintide cannot be used in compounding under federal law, so any product sold as CagriSema before approval is unapproved and its contents are unverified.[^7]"
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The FDA decision on weight management is the next milestone, followed by REDEFINE 11 data (expected in the first half of 2027) and a planned higher-dose trial, both designed to test how much weight loss the combination can reach.[^3]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong for weight loss; trails tirzepatide head to head",
+      "text": "Large randomized phase 3 trials in people with and without type 2 diabetes show clear weight loss and better blood sugar control than semaglutide alone.[^1][^2][^6] The head-to-head result against tirzepatide and the lack of heart outcome data are the main gaps.[^3][^5]"
+    },
+    "faq": [
+      {
+        "q": "Is CagriSema approved?",
+        "a": "Not as of this writing. Novo Nordisk submitted it to the FDA in December 2025 and anticipated a decision by late 2026.[^3]"
+      },
+      {
+        "q": "Does CagriSema work better than semaglutide alone?",
+        "a": "In REIMAGINE 2 it lowered HbA1c slightly more (1.91 vs 1.75 points),[^6] and in REDEFINE 1 more people reached healthier BMI and waist targets (30.3% vs 19.1%).[^4]"
+      },
+      {
+        "q": "How does it compare with tirzepatide?",
+        "a": "In the open-label REDEFINE 4 trial, CagriSema produced less weight loss than tirzepatide 15 mg (20.2% vs 23.6% at 84 weeks) and did not meet non-inferiority.[^3]"
+      },
+      {
+        "q": "Can I buy CagriSema online?",
+        "a": "Not legally for human use. Because FDA says cagrilintide cannot be compounded, online products sold as CagriSema are unapproved and of unknown quality.[^7]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Coadministered Cagrilintide and Semaglutide in Adults with Overweight or Obesity.",
+        "source": "N Engl J Med",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40544433/",
+        "pmid": "40544433",
+        "doi": "10.1056/NEJMoa2502081",
+        "note": "REDEFINE 1: 68-week weight loss in 3,417 adults"
+      },
+      {
+        "n": 2,
+        "title": "Cagrilintide-Semaglutide in Adults with Overweight or Obesity and Type 2 Diabetes.",
+        "source": "N Engl J Med",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40544432/",
+        "pmid": "40544432",
+        "doi": "10.1056/NEJMoa2502082",
+        "note": "REDEFINE 2: weight and HbA1c in type 2 diabetes"
+      },
+      {
+        "n": 3,
+        "title": "Novo Nordisk A/S: CagriSema demonstrated 23% weight loss in an open-label head-to-head REDEFINE 4 trial in people with obesity, the primary endpoint was not achieved",
+        "source": "Novo Nordisk (company announcement)",
+        "year": 2026,
+        "url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=916501",
+        "note": "REDEFINE 4 results and the December 2025 FDA submission"
+      },
+      {
+        "n": 4,
+        "title": "Efficacy of CagriSema for Reaching Anthropometric Treatment Targets and Cardiometabolic Outcomes: A Secondary, Post hoc Analysis of REDEFINE 1.",
+        "source": "Diabetes Obes Metab",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42503495/",
+        "pmid": "42503495",
+        "doi": "10.1111/dom.71134",
+        "note": "Post hoc: share reaching BMI and waist targets by arm"
+      },
+      {
+        "n": 5,
+        "title": "Design and baseline characteristics of the CagriSema cardiovascular outcomes trial (REDEFINE 3).",
+        "source": "Am Heart J",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42838477/",
+        "pmid": "42838477",
+        "doi": "10.1016/j.ahj.2026.107626",
+        "note": "Design of the heart outcomes trial"
+      },
+      {
+        "n": 6,
+        "title": "Cagrilintide-semaglutide (CagriSema) versus semaglutide or cagrilintide in people with type 2 diabetes (REIMAGINE 2): a double-blind, randomised, controlled, phase 3 study.",
+        "source": "Lancet Diabetes Endocrinol",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42251859/",
+        "pmid": "42251859",
+        "doi": "10.1016/S2213-8587(26)00125-7",
+        "note": "REIMAGINE 2: HbA1c versus semaglutide alone"
+      },
+      {
+        "n": 7,
+        "title": "FDA's Concerns with Unapproved GLP-1 Drugs Used for Weight Loss",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+        "note": "Cagrilintide cannot be compounded; research-labeled products"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

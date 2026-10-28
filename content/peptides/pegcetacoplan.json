@@ -1,0 +1,258 @@
+{
+  "slug": "pegcetacoplan",
+  "name": "Pegcetacoplan",
+  "zone": "heart",
+  "category": "fda",
+  "aliases": [
+    "APL-2"
+  ],
+  "brands": [
+    "Empaveli",
+    "Syfovre"
+  ],
+  "class": "Complement C3 inhibitor (PEGylated peptide)",
+  "route": "Infusion under the skin twice weekly (Empaveli); injection into the eye (Syfovre)",
+  "status": "FDA-approved: Empaveli for PNH (2021) and C3 glomerulopathy or IC-MPGN (2025); Syfovre for geographic atrophy (2023)",
+  "evidence": 4,
+  "mechanism": "Binds complement proteins C3 and C3b to switch off the complement cascade at its center, which curbs red blood cell destruction, kidney inflammation and retinal cell loss",
+  "uses": [
+    "Paroxysmal nocturnal hemoglobinuria (PNH)",
+    "C3 glomerulopathy and primary IC-MPGN",
+    "Geographic atrophy from age-related macular degeneration"
+  ],
+  "popular": null,
+  "related": [
+    "zilucoplan",
+    "rusfertide",
+    "motixafortide"
+  ],
+  "article": {
+    "summary": "Pegcetacoplan (Empaveli, Syfovre) is a PEGylated peptide that blocks complement protein C3, approved for PNH and two kidney diseases by infusion and for geographic atrophy as an eye injection.",
+    "takeaway": "Pegcetacoplan is a PEGylated peptide that blocks C3, the central protein of the complement system, part of the immune defenses that can misfire and damage the body's own cells. As Empaveli it is infused under the skin for paroxysmal nocturnal hemoglobinuria (PNH) and two rare kidney diseases. As Syfovre it is injected into the eye for geographic atrophy, an advanced form of macular degeneration. In PNH it raised hemoglobin by **3.84 g/dL** more than eculizumab,[^1] and in geographic atrophy it slowed lesion growth by 16% to 22% over 24 months.[^2] Empaveli carries a boxed warning for serious infections with encapsulated bacteria.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Empaveli approved 2021 (kidney indications added 2025); Syfovre approved 2023"
+      ],
+      [
+        "Main uses",
+        "PNH, C3 glomerulopathy and primary IC-MPGN, geographic atrophy"
+      ],
+      [
+        "How it's given",
+        "Subcutaneous infusion twice weekly, or injection into the eye every 25 to 60 days"
+      ],
+      [
+        "Drug class",
+        "Complement C3 inhibitor (PEGylated cyclic peptide)"
+      ],
+      [
+        "Research",
+        "Phase 3 trials: PEGASUS, OAKS and DERBY, VALIANT"
+      ],
+      [
+        "Related",
+        "[Zilucoplan](/peptides/zilucoplan), [rusfertide](/peptides/rusfertide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The complement system is a set of blood proteins that tag and destroy invading microbes. When it misfires, it can attack the body's own tissues. C3 is its hub: nearly every route through the cascade passes through it. Pegcetacoplan is a small cyclic peptide attached to polyethylene glycol (PEG), which slows its clearance, and it binds C3 and its fragment C3b."
+          },
+          {
+            "type": "p",
+            "text": "In PNH, red blood cells lack protective surface proteins and are destroyed both inside blood vessels and, once coated with C3 fragments, in the liver and spleen. Older drugs such as eculizumab block C5 and address only the first kind. Blocking C3 can address both.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Brand",
+                "How it's given",
+                "Approved for"
+              ],
+              [
+                "Empaveli (2021)",
+                "Subcutaneous infusion; the adult dose is 1,080 mg twice weekly",
+                "Adults with PNH; adults and children 12 and older with C3 glomerulopathy or primary immune-complex MPGN, to reduce proteinuria and loss of kidney function[^3]"
+              ],
+              [
+                "Syfovre (2023)",
+                "Injection into the eye every 25 to 60 days",
+                "Geographic atrophy secondary to age-related macular degeneration[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The FDA approved Empaveli on May 14, 2021, and Syfovre on February 17, 2023.[^5][^6] An efficacy supplement approved on July 28, 2025 added Empaveli's kidney indications, which the current label lists.[^3][^6]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "PEGASUS",
+                "80 adults with PNH and anemia despite eculizumab",
+                "Hemoglobin change at week 16 was 3.84 g/dL better than with eculizumab; 85% vs 15% no longer needed transfusions[^1]"
+              ],
+              [
+                "OAKS and DERBY",
+                "1,258 adults aged 60 or older with geographic atrophy",
+                "Monthly injections slowed lesion growth at 24 months by 22% (OAKS) and 19% (DERBY) versus sham[^2]"
+              ],
+              [
+                "VALIANT",
+                "124 adolescents and adults with C3 glomerulopathy or IC-MPGN",
+                "Urine protein-to-creatinine ratio fell 68.1% more than with placebo at week 26[^7]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Two caveats apply. In PEGASUS, pegcetacoplan was shown to be noninferior to eculizumab for reticulocyte count but not for LDH, a marker of cell breakdown.[^1] And slowing the growth of an eye lesion is not the same as keeping vision: in OAKS and DERBY, key secondary vision measures did not differ from sham at 24 months.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Empaveli is infused under the skin, with the adult dose set at 1,080 mg twice weekly and weight-based dosing for children. Before starting, people must be vaccinated against encapsulated bacteria and enrolled in a risk program.[^3]"
+          },
+          {
+            "type": "p",
+            "text": "Syfovre is a 15 mg injection into the affected eye by an eye specialist, repeated every 25 to 60 days.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Empaveli boxed warning:** serious, sometimes life-threatening infections with encapsulated bacteria, such as meningococcus and pneumococcus. A restricted-access program (REMS) and prior vaccination are required.[^3]",
+              "**Empaveli common reactions:** infusion-site reactions, infections, diarrhea, abdominal pain and fatigue. In PEGASUS, site reactions occurred in 37% vs 3% on eculizumab.[^1][^3]",
+              "**After stopping Empaveli** in PNH, the label calls for monitoring for return of hemolysis.[^3]",
+              "**Syfovre eye risks:** endophthalmitis (eye infection), retinal detachment, retinal vasculitis or vascular occlusion, conversion to wet (neovascular) macular degeneration, intraocular inflammation and raised eye pressure. Eye discomfort, floaters and conjunctival bleeding are common.[^4]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: phase 3 trials for each use",
+      "text": "Each approved use rests on at least one randomized phase 3 trial.[^1][^2][^7] The evidence is strongest for PNH and kidney protein loss, while the benefit in geographic atrophy is a slower lesion growth without a clear gain in vision.[^2]"
+    },
+    "faq": [
+      {
+        "q": "Why is vaccination required before Empaveli?",
+        "a": "Complement is a first-line defense against encapsulated bacteria. Blocking C3 raises the risk of serious infection from them, so patients are vaccinated beforehand and monitored under a risk program.[^3]"
+      },
+      {
+        "q": "Does Syfovre restore vision?",
+        "a": "No. It slows the growth of the atrophic area, but in OAKS and DERBY it did not improve key secondary vision measures at 24 months.[^2]"
+      },
+      {
+        "q": "How is it different from eculizumab?",
+        "a": "Eculizumab blocks C5, further down the cascade, and is given by IV infusion. Pegcetacoplan blocks C3 and is given under the skin. In PEGASUS hemoglobin rose more with pegcetacoplan.[^1]"
+      },
+      {
+        "q": "Is the same drug used for blood and eye disease?",
+        "a": "Yes, the molecule is the same, but Empaveli and Syfovre are separate products with different formulations, doses and routes."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Pegcetacoplan versus Eculizumab in Paroxysmal Nocturnal Hemoglobinuria.",
+        "source": "N Engl J Med",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33730455/",
+        "pmid": "33730455",
+        "doi": "10.1056/NEJMoa2029073",
+        "note": "PEGASUS: hemoglobin and transfusions versus eculizumab"
+      },
+      {
+        "n": 2,
+        "title": "Pegcetacoplan for the treatment of geographic atrophy secondary to age-related macular degeneration (OAKS and DERBY): two multicentre, randomised, double-masked, sham-controlled, phase 3 trials.",
+        "source": "Lancet",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37865470/",
+        "pmid": "37865470",
+        "doi": "10.1016/S0140-6736(23)01520-9",
+        "note": "Lesion growth and vision outcomes versus sham"
+      },
+      {
+        "n": 3,
+        "title": "EMPAVELI (pegcetacoplan) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c23d89e9-b00b-4520-e053-2995a90a95af",
+        "note": "Indications, boxed warning, REMS, dosing and adverse reactions"
+      },
+      {
+        "n": 4,
+        "title": "SYFOVRE (pegcetacoplan injection): prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b4434e61-9ec9-4e0e-bd60-45aaa0a87e64",
+        "note": "Intravitreal dosing, warnings and common adverse reactions"
+      },
+      {
+        "n": 5,
+        "title": "Drugs@FDA: SYFOVRE (pegcetacoplan), application 217171",
+        "source": "U.S. FDA (Drugs@FDA)",
+        "year": 2026,
+        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=217171",
+        "note": "Original approval February 17, 2023"
+      },
+      {
+        "n": 6,
+        "title": "Drugs@FDA: EMPAVELI (pegcetacoplan), application 215014",
+        "source": "U.S. FDA (Drugs@FDA)",
+        "year": 2026,
+        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=215014",
+        "note": "Original approval May 14, 2021; new-indication supplement July 28, 2025"
+      },
+      {
+        "n": 7,
+        "title": "Trial of Pegcetacoplan in C3 Glomerulopathy and Immune-Complex MPGN.",
+        "source": "N Engl J Med",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41337715/",
+        "pmid": "41337715",
+        "doi": "10.1056/NEJMoa2501510",
+        "note": "VALIANT: proteinuria reduction versus placebo"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

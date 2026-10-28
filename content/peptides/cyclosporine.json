@@ -1,0 +1,273 @@
+{
+  "slug": "cyclosporine",
+  "name": "Cyclosporine",
+  "zone": "immune",
+  "category": "fda",
+  "aliases": [
+    "ciclosporin",
+    "cyclosporin A"
+  ],
+  "brands": [
+    "Sandimmune",
+    "Neoral",
+    "Gengraf",
+    "Restasis",
+    "Cequa"
+  ],
+  "class": "Cyclic peptide immunosuppressant",
+  "route": "Capsules or liquid by mouth, IV infusion in hospital, or eye drops",
+  "status": "FDA-approved: transplant rejection prevention, severe rheumatoid arthritis and psoriasis, and dry eye (eye drops)",
+  "evidence": 4,
+  "mechanism": "Binds the protein cyclophilin; the complex blocks calcineurin, stopping T cells from switching on the inflammatory signals that drive rejection",
+  "uses": [
+    "Preventing organ transplant rejection",
+    "Severe rheumatoid arthritis",
+    "Severe plaque psoriasis",
+    "Chronic dry eye (eye drops)"
+  ],
+  "popular": null,
+  "related": [
+    "zilucoplan",
+    "pegcetacoplan",
+    "thymosin-alpha-1"
+  ],
+  "article": {
+    "summary": "Cyclosporine is a cyclic peptide immunosuppressant used to prevent organ transplant rejection, treat severe rheumatoid arthritis and psoriasis, and, as eye drops, chronic dry eye.",
+    "takeaway": "Cyclosporine is a ring-shaped peptide of 11 amino acids made by a fungus. It blocks calcineurin, an enzyme T cells need to switch on an immune attack,[^1] and it transformed organ transplantation: in a 1983 randomized trial of 209 kidney recipients, predicted one-year graft survival was **80% with cyclosporine versus 64%** with standard therapy.[^2] The trade-off is a narrow safety margin, with kidney damage, high blood pressure, infections and cancers as systemic risks, so blood levels and kidney function are watched closely.[^3] As eye drops it treats dry eye, and blood levels were undetectable in label studies.[^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved: Sandimmune, Neoral, Gengraf and generics; eye drops such as Restasis and Cequa"
+      ],
+      [
+        "Main uses",
+        "Preventing transplant rejection, severe rheumatoid arthritis and psoriasis, dry eye"
+      ],
+      [
+        "How it's taken",
+        "Capsules or liquid by mouth, IV infusion in hospital, or eye drops"
+      ],
+      [
+        "Drug class",
+        "Calcineurin inhibitor (cyclic peptide)"
+      ],
+      [
+        "Research",
+        "Randomized transplant trials since the 1980s; large dry-eye trials"
+      ],
+      [
+        "Related",
+        "[Zilucoplan](/peptides/zilucoplan), [pegcetacoplan](/peptides/pegcetacoplan)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "T cells coordinate transplant rejection and many autoimmune attacks. When a T cell is activated, calcium floods in and switches on calcineurin, an enzyme that turns on genes for inflammatory signals such as interleukin-2. Cyclosporine enters T cells and binds cyclophilin, a protein inside the cell. The cyclophilin-cyclosporine complex then latches onto calcineurin and jams it.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "Cyclosporine is a cyclic peptide: its 11 amino acids form a ring, several carrying small chemical modifications that help it survive the gut and cross cell membranes, which is unusual for a peptide drug."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Product",
+                "Approved for"
+              ],
+              [
+                "Sandimmune (capsules and injection)",
+                "Preventing rejection of kidney, liver and heart transplants, with other immunosuppressants"
+              ],
+              [
+                "Neoral (capsules, solution) and the equivalent Gengraf",
+                "The same transplant use, plus severe active rheumatoid arthritis and severe plaque psoriasis in adults when other treatments fail[^3]"
+              ],
+              [
+                "Restasis, Cequa and other eye products",
+                "Raising tear production in dry eye linked to eye inflammation[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Labels change over time, so check the current prescribing information for each product."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Result"
+              ],
+              [
+                "Canadian kidney transplant trial, 209 recipients (1983)",
+                "Predicted one-year graft survival 80.4% vs 64.0% on azathioprine-based care; patient survival 96.6% vs 86.4%[^2]"
+              ],
+              [
+                "Same trial at three years, 291 recipients (1986)",
+                "Graft survival 69% vs 58% and patient survival 90% vs 82%; kidney function was poorer but stable on cyclosporine[^5]"
+              ],
+              [
+                "Two dry-eye trials, 877 patients, 6 months (2000)",
+                "0.05% and 0.1% emulsions beat vehicle on corneal staining and tear testing; 0.05% also improved blurred vision and artificial-tear use[^6]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Chronic kidney injury remains the drug's weak point; reviews call calcineurin-inhibitor nephrotoxicity the Achilles' heel of modern transplant regimens.[^7]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Transplant and autoimmune use:** capsules or liquid by mouth, usually in two daily doses, or an IV infusion in hospital. Doses are set by body weight and adjusted by blood levels.",
+              "**Psoriasis:** the label starting dose is 2.5 mg/kg per day, not above 4.0 mg/kg per day.[^3]",
+              "**Brands are not interchangeable:** Sandimmune and Neoral are not bioequivalent, and Neoral gives higher exposure at the same trough level.[^3]",
+              "**Eye drops:** one drop in each eye about 12 hours apart; contact lenses come out first and go back in after 15 minutes.[^4]",
+              "**Interactions:** the CYP3A4 enzyme and the P-glycoprotein pump process cyclosporine, so many drugs and grapefruit change its level.[^3]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Boxed warning:** more susceptibility to infection and to cancers including lymphoma. Only physicians experienced in systemic immunosuppression should prescribe it. Psoriasis patients previously treated with PUVA light therapy, and to a lesser extent other immunosuppressants, face more skin cancer risk.[^3]",
+              "**Kidney and blood pressure:** in a kidney-transplant study described in the label, kidney dysfunction occurred in 32% and high blood pressure in 26% of cyclosporine-treated patients.[^3]",
+              "**Other common effects:** excess hair growth (21%), tremor (12%) and gum overgrowth (4%) in the same data.[^3]",
+              "**Other warnings:** liver injury, high potassium, seizures, serious infections such as PML and BK virus nephropathy; vaccines may work less well and live vaccines should be avoided.[^3]",
+              "**Eye drops:** burning on instillation is the most common effect (17% in trials).[^4]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "who-should-avoid-it",
+        "title": "Who should avoid it",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "People with hypersensitivity to cyclosporine or any ingredient should not take it. Neoral should not be used for rheumatoid arthritis or psoriasis in people with abnormal kidney function, uncontrolled high blood pressure or cancer, and psoriasis patients should not combine it with PUVA or UVB light therapy, methotrexate or other immunosuppressants.[^3] In pregnancy, published data have not shown a major birth-defect risk, but high blood pressure, preeclampsia, preterm birth and low birth weight are more common in treated patients, which may reflect the underlying disease.[^3]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: decades of randomized trials and clinical use",
+      "text": "Cyclosporine's value in preventing kidney graft loss was shown in randomized trials in the 1980s,[^2][^5] and its dry-eye benefit in two large randomized trials.[^6] Its main limitation, chronic kidney toxicity, remains a central concern.[^7]"
+    },
+    "faq": [
+      {
+        "q": "Is Restasis the same drug as oral cyclosporine?",
+        "a": "Restasis is a 0.05% cyclosporine eye emulsion for dry eye. Blood levels were below the detection limit in label studies, so it does not suppress the immune system the way the oral form does.[^4]"
+      },
+      {
+        "q": "Why do doctors check blood levels?",
+        "a": "Too little risks rejection and too much risks kidney damage, and foods and drugs such as grapefruit change levels, so blood concentrations are monitored.[^3]"
+      },
+      {
+        "q": "Can Neoral and Sandimmune be swapped?",
+        "a": "Not without physician supervision. They are not bioequivalent, and Neoral produces higher exposure for the same trough level.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Calcineurin is a common target of cyclophilin-cyclosporin A and FKBP-FK506 complexes.",
+        "source": "Cell",
+        "year": 1991,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1715244/",
+        "pmid": "1715244",
+        "doi": "10.1016/0092-8674(91)90124-h",
+        "note": "How the cyclophilin-cyclosporine complex blocks calcineurin"
+      },
+      {
+        "n": 2,
+        "title": "A randomized clinical trial of cyclosporine in cadaveric renal transplantation.",
+        "source": "N Engl J Med",
+        "year": 1983,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6350878/",
+        "pmid": "6350878",
+        "doi": "10.1056/NEJM198310063091401",
+        "note": "Landmark kidney transplant trial, 209 recipients"
+      },
+      {
+        "n": 3,
+        "title": "NEORAL (cyclosporine) capsule and solution: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94461af3-11f1-4670-95d4-2965b9538ae3",
+        "note": "Indications, boxed warning, dosing and adverse reactions"
+      },
+      {
+        "n": 4,
+        "title": "RESTASIS (cyclosporine ophthalmic emulsion) 0.05%: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2024,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8e24af2b-bc1c-4849-94f2-6df950cdca89",
+        "note": "Dry-eye indication, dosing and adverse reactions"
+      },
+      {
+        "n": 5,
+        "title": "A randomized clinical trial of cyclosporine in cadaveric renal transplantation. Analysis at three years.",
+        "source": "N Engl J Med",
+        "year": 1986,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2871486/",
+        "pmid": "2871486",
+        "doi": "10.1056/NEJM198605083141904",
+        "note": "Three-year follow-up of the Canadian trial"
+      },
+      {
+        "n": 6,
+        "title": "Two multicenter, randomized studies of the efficacy and safety of cyclosporine ophthalmic emulsion in moderate to severe dry eye disease. CsA Phase 3 Study Group.",
+        "source": "Ophthalmology",
+        "year": 2000,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10768324/",
+        "pmid": "10768324",
+        "doi": "10.1016/s0161-6420(99)00176-1",
+        "note": "Phase 3 dry-eye trials, 877 patients"
+      },
+      {
+        "n": 7,
+        "title": "Calcineurin inhibitor nephrotoxicity.",
+        "source": "Clin J Am Soc Nephrol",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19218475/",
+        "pmid": "19218475",
+        "doi": "10.2215/CJN.04800908",
+        "note": "Review of cyclosporine and tacrolimus kidney toxicity"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

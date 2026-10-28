@@ -1,0 +1,201 @@
+{
+  "slug": "palopegteriparatide",
+  "name": "Palopegteriparatide",
+  "zone": "bones",
+  "category": "fda",
+  "aliases": [
+    "TransCon PTH"
+  ],
+  "brands": [
+    "Yorvipath"
+  ],
+  "class": "Long-acting PTH prodrug",
+  "route": "Once-daily injection under the skin from a prefilled pen",
+  "status": "FDA-approved (2024) for hypoparathyroidism in adults",
+  "evidence": 4,
+  "mechanism": "A slowly releasing form of PTH(1-34) that replaces the missing parathyroid hormone steadily across the day",
+  "uses": [
+    "Hypoparathyroidism in adults"
+  ],
+  "popular": null,
+  "related": [
+    "parathyroid-hormone",
+    "teriparatide",
+    "abaloparatide",
+    "etelcalcetide"
+  ],
+  "article": {
+    "summary": "Palopegteriparatide (Yorvipath) is a once-daily, long-acting parathyroid hormone for adults with hypoparathyroidism. In a phase 3 trial most people no longer needed standard calcium and active vitamin D therapy.",
+    "takeaway": "Palopegteriparatide is a long-acting form of parathyroid hormone (PTH) for adults whose parathyroid glands do not make enough of it. It is injected once a day and releases active PTH slowly from an inert carrier, which helps keep calcium steady. In the PaTHway trial, 79% of people on it met a combined goal of normal calcium and independence from active vitamin D and high-dose calcium, versus 5% on placebo.[^1] Its main risks are swings in blood calcium and a theoretical risk of bone tumors.[^2]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved (Yorvipath, 2024) for adults with hypoparathyroidism[^2]"
+      ],
+      [
+        "Main uses",
+        "Replacing missing PTH so calcium stays in range"
+      ],
+      [
+        "How it's taken",
+        "One injection a day under the skin from a prefilled pen"
+      ],
+      [
+        "Drug class",
+        "Long-acting prodrug of PTH(1-34)"
+      ],
+      [
+        "Research",
+        "PaTHway phase 3 trial: 26 weeks versus placebo, then 52 weeks"
+      ],
+      [
+        "Related",
+        "[Parathyroid hormone](/peptides/parathyroid-hormone), [teriparatide](/peptides/teriparatide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Parathyroid hormone (PTH) keeps blood calcium in a narrow range by acting on bone and kidneys. In hypoparathyroidism the glands make too little PTH, so calcium falls. The usual treatment, calcium plus active vitamin D, treats the numbers but does not restore normal PTH action.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "Palopegteriparatide is a prodrug: PTH(1-34), the active fragment, is temporarily attached to an inert carrier through a linker. In the body the linker breaks down slowly, releasing active PTH over the day.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Yorvipath is approved for hypoparathyroidism in adults. It was not studied for acute post-surgical hypoparathyroidism, and its dosing scheme was tested only in adults whose calcium was first stabilized with calcium and active vitamin D.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "PaTHway, 26 weeks",
+                "84 adults with hypoparathyroidism",
+                "Combined goal met by 79% (48 of 61) vs 5% (1 of 21) on placebo[^1]"
+              ],
+              [
+                "PaTHway, 52 weeks",
+                "78 adults continuing treatment",
+                "81% met the goal; 95% no longer needed conventional therapy; none needed active vitamin D[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Participants also reported better symptoms and well-being, and 24-hour urine calcium, a kidney-stone risk marker, came down.[^1][^3]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Yorvipath is a once-daily injection under the skin from a pen. The label caps the daily dose at 30 micrograms and stresses using only one injection per day, because combining two makes the delivered dose less predictable and can swing calcium. Calcium and vitamin D doses are adjusted around it using blood tests.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Calcium swings:** serious high or low blood calcium can occur, so calcium is checked periodically[^2]",
+              "**Dizziness on standing** from orthostatic hypotension[^2]",
+              "**Allergic reactions,** including anaphylaxis, have been reported with PTH analogs[^2]",
+              "**Bone tumor risk:** a potential risk of osteosarcoma, so it is not recommended for people at increased risk[^2]",
+              "**Digoxin:** high calcium can raise the risk of digoxin toxicity[^2]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In PaTHway most adverse events were mild or moderate.[^1]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: randomized phase 3 with 52-week follow-up",
+      "text": "PaTHway was randomized and placebo-controlled for 26 weeks, then followed participants to 52 weeks.[^1][^3] It measured calcium and quality of life; fractures and very long-term outcomes were not its focus."
+    },
+    "faq": [
+      {
+        "q": "How is it different from Natpara?",
+        "a": "[Natpara](/peptides/parathyroid-hormone) was full-length PTH(1-84). Yorvipath is a long-acting prodrug of PTH(1-34). Takeda's final notice said Natpara shipments ended after December 31, 2025 and pointed prescribers to Yorvipath's prescribing information.[^4]"
+      },
+      {
+        "q": "Is it for children?",
+        "a": "The current label covers adults only.[^2]"
+      },
+      {
+        "q": "Does it replace calcium and vitamin D?",
+        "a": "Many people in PaTHway no longer needed standard therapy (93% at 26 weeks and 95% at 52 weeks), but doses are adjusted individually.[^1][^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Efficacy and Safety of Parathyroid Hormone Replacement With TransCon PTH in Hypoparathyroidism: 26-Week Results From the Phase 3 PaTHway Trial",
+        "source": "J Bone Miner Res",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36271471/",
+        "pmid": "36271471",
+        "doi": "10.1002/jbmr.4726",
+        "note": "PaTHway: randomized comparison with placebo at 26 weeks"
+      },
+      {
+        "n": 2,
+        "title": "YORVIPATH (palopegteriparatide) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a1fa23fd-c434-443e-9a17-5750578c8602",
+        "note": "Indication, prodrug description, dosing and warnings"
+      },
+      {
+        "n": 3,
+        "title": "Efficacy and Safety of TransCon PTH in Adults With Hypoparathyroidism: 52-Week Results From the Phase 3 PaTHway Trial",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39376010/",
+        "pmid": "39376010",
+        "doi": "10.1210/clinem/dgae693",
+        "note": "PaTHway: one-year efficacy and safety"
+      },
+      {
+        "n": 4,
+        "title": "FINAL NOTICE: NATPARA Special Use Program closes December 31, 2025 (Takeda letter to health care providers)",
+        "source": "U.S. FDA",
+        "year": 2025,
+        "url": "https://www.fda.gov/media/189952/download",
+        "note": "Takeda notice on the end of Natpara supply"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

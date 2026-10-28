@@ -1,0 +1,183 @@
+{
+  "slug": "etelcalcetide",
+  "name": "Etelcalcetide",
+  "zone": "bones",
+  "category": "fda",
+  "aliases": [],
+  "brands": [
+    "Parsabiv"
+  ],
+  "class": "Calcimimetic peptide",
+  "route": "Intravenous injection at the end of each dialysis session",
+  "status": "FDA-approved for secondary hyperparathyroidism in adults with chronic kidney disease on hemodialysis",
+  "evidence": 4,
+  "mechanism": "Activates the calcium-sensing receptor on parathyroid cells, which lowers parathyroid hormone release and blood calcium",
+  "uses": [
+    "Secondary hyperparathyroidism in adults on hemodialysis"
+  ],
+  "popular": null,
+  "related": [
+    "parathyroid-hormone",
+    "calcitonin-salmon",
+    "palopegteriparatide",
+    "teriparatide"
+  ],
+  "article": {
+    "summary": "Etelcalcetide (Parsabiv) is an injected peptide that lowers high parathyroid hormone in adults on hemodialysis. It outperformed placebo and the oral drug cinacalcet in trials; low blood calcium is the main risk.",
+    "takeaway": "Etelcalcetide is a peptide given at the end of dialysis that tells the parathyroid glands to make less parathyroid hormone (PTH). In two placebo-controlled trials, about three in four people on hemodialysis had a PTH drop of more than 30%, versus fewer than one in ten on placebo.[^1] It also beat the oral drug cinacalcet in a head-to-head trial (68.2% vs 57.7%).[^2] Its main risk is low blood calcium, which can be severe.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved (Parsabiv) for adults on hemodialysis with secondary hyperparathyroidism[^3]"
+      ],
+      [
+        "Main uses",
+        "Lowering high PTH in people on dialysis"
+      ],
+      [
+        "How it's taken",
+        "Intravenous injection three times a week at the end of hemodialysis"
+      ],
+      [
+        "Drug class",
+        "Calcimimetic (calcium-sensing receptor agonist) peptide"
+      ],
+      [
+        "Research",
+        "Two placebo-controlled trials and a head-to-head trial, about 1,700 patients in all"
+      ],
+      [
+        "Related",
+        "[Parathyroid hormone](/peptides/parathyroid-hormone), [calcitonin-salmon](/peptides/calcitonin-salmon)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Secondary hyperparathyroidism is common in advanced kidney disease. Failing kidneys cannot activate vitamin D or clear phosphate, blood calcium drops, and the parathyroid glands in the neck overproduce PTH, which pulls calcium out of bone. Etelcalcetide is a peptide that activates the calcium-sensing receptor on parathyroid cells, so the glands act as if calcium were higher and release less PTH.[^3] The oral drug cinacalcet works on the same receptor."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Parsabiv is approved for secondary hyperparathyroidism in adults with chronic kidney disease on hemodialysis. It has not been studied in parathyroid carcinoma, primary hyperparathyroidism or kidney disease without dialysis, and it is not recommended in those groups.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "Two placebo-controlled trials",
+                "1,023 patients on hemodialysis",
+                "PTH fell more than 30% in 74.0% and 75.3% vs 8.3% and 9.6% on placebo[^1]"
+              ],
+              [
+                "Head-to-head with cinacalcet",
+                "683 patients on hemodialysis",
+                "PTH fell more than 30% in 68.2% vs 57.7% on cinacalcet, meeting non-inferiority and superiority[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "These trials measured PTH levels, not fractures, heart disease or survival.[^1][^2]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Etelcalcetide is given as an intravenous bolus three times a week at the end of each hemodialysis session. The label's starting dose is 5 mg, adjusted no more often than every 4 weeks within a range of 2.5 to 15 mg, guided by PTH and corrected calcium. Calcium must be at or above the lower limit of normal before starting, and people switching from cinacalcet stop it at least 7 days first.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Low blood calcium** is the main risk and can be severe, causing tingling, muscle cramps, seizures, QT prolongation and dangerous heart rhythms[^3]",
+              "**Common:** muscle spasms, nausea and vomiting were more frequent than with placebo[^1]",
+              "**Heart failure:** falling calcium may be associated with worsening heart failure[^3]",
+              "**Upper GI bleeding:** risk is higher in people with risk factors[^3]",
+              "**Adynamic bone** can develop if PTH stays suppressed for long periods[^3]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong for lowering PTH; clinical outcomes not shown",
+      "text": "Three randomized phase 3 trials consistently lowered PTH, one of them against an active comparator.[^1][^2] The trials were not designed to show effects on fractures, heart disease or survival."
+    },
+    "faq": [
+      {
+        "q": "Why is it given at dialysis?",
+        "a": "The label specifies an intravenous bolus at the end of hemodialysis, three times a week, which fits the dialysis schedule.[^3]"
+      },
+      {
+        "q": "How does it compare with cinacalcet?",
+        "a": "In a head-to-head trial, 68.2% on etelcalcetide and 57.7% on cinacalcet had a PTH drop of more than 30%. Low blood calcium was the most common side effect in both groups (68.9% vs 59.8%).[^2]"
+      },
+      {
+        "q": "Can people not on dialysis use it?",
+        "a": "It has not been studied in kidney disease without hemodialysis, and the label does not recommend it there.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Effect of Etelcalcetide vs Placebo on Serum Parathyroid Hormone in Patients Receiving Hemodialysis With Secondary Hyperparathyroidism: Two Randomized Clinical Trials",
+        "source": "JAMA",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28097355/",
+        "pmid": "28097355",
+        "doi": "10.1001/jama.2016.19456",
+        "note": "Two placebo-controlled phase 3 trials of PTH reduction"
+      },
+      {
+        "n": 2,
+        "title": "Effect of Etelcalcetide vs Cinacalcet on Serum Parathyroid Hormone in Patients Receiving Hemodialysis With Secondary Hyperparathyroidism: A Randomized Clinical Trial",
+        "source": "JAMA",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28097356/",
+        "pmid": "28097356",
+        "doi": "10.1001/jama.2016.19468",
+        "note": "Head-to-head trial against oral cinacalcet"
+      },
+      {
+        "n": 3,
+        "title": "PARSABIV (etelcalcetide) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cd270093-c6a8-4596-a4ab-e6aa0a2c8a0c",
+        "note": "Indication, dosing, hypocalcemia and other warnings"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

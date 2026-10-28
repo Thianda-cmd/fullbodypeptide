@@ -1,0 +1,209 @@
+{
+  "slug": "glepaglutide",
+  "name": "Glepaglutide",
+  "zone": "digestive",
+  "category": "clinical",
+  "aliases": [
+    "ZP1848"
+  ],
+  "brands": [],
+  "class": "Long-acting GLP-2 analog",
+  "route": "Injection under the skin, twice weekly in the main trial",
+  "status": "Not FDA-approved. FDA issued a complete response letter in December 2024; new phase 3 trials began in 2025-2026",
+  "evidence": 3,
+  "mechanism": "Long-acting copy of GLP-2, a gut hormone that helps the small intestine grow and absorb more fluid and nutrients",
+  "uses": [
+    "Short bowel syndrome with intestinal failure"
+  ],
+  "popular": null,
+  "related": [
+    "teduglutide",
+    "apraglutide"
+  ],
+  "article": {
+    "summary": "Glepaglutide is an investigational GLP-2 injection for short bowel syndrome. A phase 3 trial showed less need for IV nutrition on the twice-weekly dose, but the FDA asked for another trial in December 2024.",
+    "takeaway": "Glepaglutide is a long-acting copy of GLP-2, a gut hormone that helps the intestine absorb more. It is being developed for short bowel syndrome with intestinal failure, in which people depend on nutrition or fluids given into a vein (\"parenteral support\"). In the 106-patient phase 3 trial EASE-1, twice-weekly glepaglutide reduced weekly parenteral support by 5.13 liters versus 2.85 liters on placebo at 24 weeks, while the once-weekly dose did not beat placebo.[^1] In December 2024 the FDA issued a complete response letter and recommended an additional trial to confirm efficacy and safety at the dose planned for sale.[^2] Two new phase 3 trials are now registered.[^3][^4]",
+    "glance": [
+      [
+        "Status",
+        "Investigational; FDA complete response letter in December 2024"
+      ],
+      [
+        "Developer",
+        "Zealand Pharma"
+      ],
+      [
+        "How it's given",
+        "Injection under the skin; twice weekly in the main trial"
+      ],
+      [
+        "Drug class",
+        "Long-acting glucagon-like peptide-2 (GLP-2) analog"
+      ],
+      [
+        "Research",
+        "Randomized phase 2 and phase 3 trials; two further phase 3 trials registered"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Short bowel syndrome occurs when too little working small intestine remains, often after surgery. When this causes intestinal failure, people need parenteral support, meaning nutrition or fluids given into a vein. GLP-2 is a gut hormone that helps the intestinal lining grow and absorb more, but the natural hormone is cleared quickly. Glepaglutide is an engineered analog designed to last longer between doses. The approved analog [teduglutide](/peptides/teduglutide) is given daily, and [apraglutide](/peptides/apraglutide) is another long-acting candidate."
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Zealand Pharma tested glepaglutide in a randomized phase 2 trial[^5] and then in the phase 3 EASE-1 trial.[^1] In December 2024 the FDA issued a complete response letter, which means it did not approve the application as submitted. The company said the agency recommended an additional clinical trial to confirm efficacy and safety at the dose planned for sale.[^2] Two new phase 3 trials followed: one started in December 2025 and is no longer enrolling,[^3] and one started in February 2026 and is recruiting.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "At 24 weeks in EASE-1",
+                "Twice weekly",
+                "Placebo"
+              ],
+              [
+                "Change in weekly parenteral support volume (liters)",
+                "-5.13",
+                "-2.85[^1]"
+              ],
+              [
+                "Patients with at least a 20% volume reduction",
+                "65.7%",
+                "38.9%"
+              ],
+              [
+                "Patients with at least 1 fewer day a week on parenteral support",
+                "51.4%",
+                "19.4%"
+              ],
+              [
+                "Fully weaned off parenteral support",
+                "5 patients (14%)",
+                "0"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The once-weekly dose did not differ significantly from placebo on the main or key secondary measures.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**In EASE-1,** glepaglutide was assessed as safe and well tolerated.[^1]",
+              "**Class precautions:** the label for teduglutide warns of faster growth of existing tumors, intestinal obstruction, gallbladder and pancreas problems, and fluid overload.[^6] Whether glepaglutide would carry the same warnings is for the FDA to decide.",
+              "**Dose question:** the FDA asked for more evidence at the dose planned for sale, and only the twice-weekly dose met its goals in EASE-1.[^2][^1]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The two new phase 3 trials must report before a US resubmission can be judged. Zealand's stated plan was to use a new trial to support approvals outside the US and EU and to add confirmatory evidence for a US resubmission.[^2] Whether and when glepaglutide reaches patients in the US remains uncertain."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Moderate: one positive phase 3, FDA asked for more",
+      "text": "EASE-1 was a randomized, placebo-controlled phase 3 trial of 106 patients, and the twice-weekly dose clearly beat placebo.[^1] The FDA nevertheless asked for another trial, so the evidence has not yet been considered sufficient for US approval.[^2]"
+    },
+    "faq": [
+      {
+        "q": "Is glepaglutide approved?",
+        "a": "Not in the US. The FDA issued a complete response letter in December 2024, and new phase 3 trials are under way.[^2][^3]"
+      },
+      {
+        "q": "What is the difference between glepaglutide and teduglutide?",
+        "a": "Both copy GLP-2. Glepaglutide is a longer-acting investigational version tested with twice-weekly dosing, while [teduglutide](/peptides/teduglutide) is FDA-approved for short bowel syndrome.[^1][^6]"
+      },
+      {
+        "q": "What does a complete response letter mean?",
+        "a": "It means the FDA reviewed the application and did not approve it as submitted. It is not necessarily final, because a company can respond with new data.[^2]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Glepaglutide, a Long-Acting Glucagon-like Peptide-2 Analogue, Reduces Parenteral Support in Patients With Short Bowel Syndrome: A Phase 3 Randomized Controlled Trial.",
+        "source": "Gastroenterology",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39708985/",
+        "pmid": "39708985",
+        "doi": "10.1053/j.gastro.2024.11.023",
+        "note": "EASE-1: 106 patients, 24-week results"
+      },
+      {
+        "n": 2,
+        "title": "U.S. Food and Drug Administration issues Complete Response Letter for the glepaglutide New Drug Application for the treatment of short bowel syndrome",
+        "source": "Zealand Pharma (company announcement)",
+        "year": 2024,
+        "url": "https://www.inderes.fi/en/releases/us-food-and-drug-administration-issues-complete-response-letter-for-the-glepaglutide-new-drug-application-for-the-treatment-of-short-bowel-syndrome",
+        "note": "December 19, 2024: FDA recommended an additional trial"
+      },
+      {
+        "n": 3,
+        "title": "Efficacy and Safety Evaluation of Glepaglutide in Treatment of Short Bowel Syndrome",
+        "source": "ClinicalTrials.gov",
+        "year": 2025,
+        "url": "https://clinicaltrials.gov/study/NCT07228403",
+        "note": "NCT07228403: phase 3 trial started December 2025"
+      },
+      {
+        "n": 4,
+        "title": "Efficacy And Safety Evaluation of Glepaglutide in Treatment of SBS",
+        "source": "ClinicalTrials.gov",
+        "year": 2026,
+        "url": "https://clinicaltrials.gov/study/NCT07197944",
+        "note": "NCT07197944: phase 3 trial started February 2026, recruiting"
+      },
+      {
+        "n": 5,
+        "title": "Glepaglutide, a novel long-acting glucagon-like peptide-2 analogue, for patients with short bowel syndrome: a randomised phase 2 trial.",
+        "source": "Lancet Gastroenterol Hepatol",
+        "year": 2019,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30880176/",
+        "pmid": "30880176",
+        "doi": "10.1016/S2468-1253(19)30077-9",
+        "note": "Randomized phase 2 trial"
+      },
+      {
+        "n": 6,
+        "title": "GATTEX (teduglutide) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=66b69c1e-b25c-44d3-b5ff-1c1de9a516fa",
+        "note": "Warnings for the approved GLP-2 analog"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

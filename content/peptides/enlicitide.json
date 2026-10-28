@@ -1,0 +1,205 @@
+{
+  "slug": "enlicitide",
+  "name": "Enlicitide",
+  "zone": "digestive",
+  "category": "clinical",
+  "aliases": [
+    "MK-0616",
+    "enlicitide decanoate"
+  ],
+  "brands": [
+    "Lipfendra"
+  ],
+  "class": "Oral macrocyclic peptide PCSK9 inhibitor",
+  "route": "One tablet by mouth daily, on an empty stomach",
+  "status": "FDA-approved in July 2026 (Lipfendra) to lower LDL cholesterol; heart-outcome results are still awaited",
+  "evidence": 3,
+  "mechanism": "Blocks PCSK9, a liver protein that destroys LDL receptors, so the liver clears more LDL cholesterol from the blood",
+  "uses": [
+    "High LDL cholesterol in adults",
+    "Heterozygous familial hypercholesterolemia"
+  ],
+  "popular": null,
+  "related": [
+    "semaglutide",
+    "linaclotide",
+    "cyclosporine"
+  ],
+  "article": {
+    "summary": "Enlicitide (Lipfendra) is the first FDA-approved oral PCSK9 inhibitor, a daily tablet that lowered LDL cholesterol by about 56 points more than placebo in trials. Its effect on heart attacks is still awaited.",
+    "takeaway": "Enlicitide is a ring-shaped peptide taken as a daily tablet that blocks PCSK9, a protein that reduces the liver's ability to remove LDL (\"bad\") cholesterol. In the 2,909-person CORALreef Lipids trial, LDL cholesterol fell **57.1% at 24 weeks** on enlicitide while it rose 3.0% on placebo, a placebo-adjusted difference of 55.8 points.[^1] The FDA approved it in July 2026 as Lipfendra for adults with hypercholesterolemia, including heterozygous familial hypercholesterolemia.[^2] It lowers LDL cholesterol, but whether it reduces heart attacks and strokes is still being tested.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved July 2026 (Lipfendra, Merck)"
+      ],
+      [
+        "Main use",
+        "Lowering LDL cholesterol in adults, including heterozygous familial hypercholesterolemia"
+      ],
+      [
+        "How it's taken",
+        "One 20 mg tablet daily, in the morning on an empty stomach"
+      ],
+      [
+        "Drug class",
+        "Oral macrocyclic peptide PCSK9 inhibitor"
+      ],
+      [
+        "Research",
+        "Phase 3 CORALreef trials; cardiovascular outcomes data still awaited"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "LDL cholesterol is cleared from the blood by receptors on liver cells. PCSK9 is a protein that tags those receptors for destruction, so more PCSK9 means fewer receptors and higher LDL. Blocking PCSK9 lets the liver keep more receptors and remove more LDL."
+          },
+          {
+            "type": "p",
+            "text": "Most peptides must be injected because the gut breaks them down. Enlicitide is a ring-shaped (macrocyclic) peptide formulated with permeation enhancers so that it can be absorbed as a tablet.[^3] Other oral peptide drugs include [semaglutide](/peptides/semaglutide) tablets and [cyclosporine](/peptides/cyclosporine)."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Lipfendra is indicated as an add-on to diet and exercise to lower LDL cholesterol in adults with hypercholesterolemia, including heterozygous familial hypercholesterolemia, an inherited form that causes high LDL from birth.[^2] The label notes that lowering LDL has reduced heart attacks and strokes with statins and with injectable PCSK9 antibodies, but it does not claim that enlicitide itself has been shown to do so.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "CORALreef Lipids, 52 weeks",
+                "2,909 adults with or at risk of cardiovascular disease",
+                "LDL cholesterol -57.1% vs +3.0% on placebo at 24 weeks[^1]"
+              ],
+              [
+                "CORALreef AddOn, 56 days",
+                "301 statin-treated adults",
+                "LDL -64.6% vs -6.3% bempedoic acid, -27.8% ezetimibe, -36.5% both together[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In CORALreef Lipids, non-HDL cholesterol, apolipoprotein B and lipoprotein(a) also fell more than on placebo.[^1] Cardiovascular outcomes data for enlicitide itself are still awaited, so reductions in heart attacks and strokes have not been shown.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The recommended dose is one 20 mg tablet once daily. It is taken in the morning on an empty stomach with water, black coffee or plain tea, swallowed whole (not split, crushed or chewed), and followed by at least 30 minutes without food or other drinks.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**In the main trial,** side effects were similar to placebo, and similar numbers of people stopped treatment because of them[^2]",
+              "**In familial hypercholesterolemia,** diarrhea (7% vs 2%) and dizziness (9% vs 4%) were more frequent than on placebo[^2]",
+              "**Contraindications:** the label lists none[^2]",
+              "**Unknown:** safety beyond the 52-week trials and effects on cardiovascular events are still being studied[^3]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The FDA approved enlicitide on July 16, 2026, as Lipfendra, made by Merck. It is described as the first FDA-approved oral PCSK9 inhibitor and the fifth drug in its class.[^3] The approval is for lowering LDL cholesterol, not for reducing cardiovascular events."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong for LDL lowering; outcomes still awaited",
+      "text": "Two large randomized phase 3 trials show LDL cholesterol falling by more than half, including against other oral add-on drugs.[^1][^4] Whether that translates into fewer heart attacks and strokes for enlicitide itself is not yet known.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Is enlicitide the same as the injectable PCSK9 drugs?",
+        "a": "It blocks the same target but is a tablet. The other approved PCSK9 drugs are given by injection, and enlicitide is the first oral one.[^3]"
+      },
+      {
+        "q": "Is it used with statins?",
+        "a": "In the add-on trial, 98% of participants were already taking moderate- or high-intensity statins, and the label describes enlicitide as an add-on to diet and exercise.[^4][^2] Whether to combine them is a decision for a clinician."
+      },
+      {
+        "q": "Does it prevent heart attacks?",
+        "a": "That is not yet shown. Lowering LDL cuts risk with statins and injectable PCSK9 antibodies, but outcome data for enlicitide are still awaited.[^2][^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "A Placebo-Controlled Trial of the Oral PCSK9 Inhibitor Enlicitide.",
+        "source": "N Engl J Med",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41879224/",
+        "pmid": "41879224",
+        "doi": "10.1056/NEJMoa2511002",
+        "note": "CORALreef Lipids: LDL cholesterol at 24 and 52 weeks"
+      },
+      {
+        "n": 2,
+        "title": "LIPFENDRA (enlicitide) tablets: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=100ec543-fbd0-44fc-b740-db9cdff39145",
+        "note": "Indication, dosing, contraindications and adverse reactions"
+      },
+      {
+        "n": 3,
+        "title": "Enlicitide: The First Oral PCSK9i for Lowering Low-Density Lipoprotein Cholesterol.",
+        "source": "Ann Pharmacother",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42870623/",
+        "pmid": "42870623",
+        "doi": "10.1177/10600280261494015",
+        "note": "Review confirming July 16, 2026 approval; outcomes data awaited"
+      },
+      {
+        "n": 4,
+        "title": "Oral PCSK9 Inhibitor Enlicitide Versus Oral Nonstatin Therapies: A Phase 3 Randomized Clinical Trial.",
+        "source": "J Am Coll Cardiol",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42017875/",
+        "pmid": "42017875",
+        "doi": "10.1016/j.jacc.2026.03.036",
+        "note": "CORALreef AddOn: versus bempedoic acid and ezetimibe"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "slug": "tripeptide-10-citrulline",
+  "name": "Tripeptide-10 citrulline",
+  "zone": "skin",
+  "category": "cosmetic",
+  "aliases": [],
+  "brands": [],
+  "class": "Signal peptide (decorin-like)",
+  "route": "Applied to the skin in serums and creams",
+  "status": "Cosmetic ingredient; not an FDA-approved drug",
+  "evidence": 1,
+  "mechanism": "A lab-designed peptide that imitates decorin, a protein that keeps collagen fibers thin and evenly spaced; shown in test-tube assays only",
+  "uses": [
+    "Skin firmness and suppleness",
+    "Skin texture"
+  ],
+  "popular": null,
+  "related": [
+    "hexapeptide-9",
+    "palmitoyl-pentapeptide-4",
+    "palmitoyl-hexapeptide-12"
+  ],
+  "article": {
+    "summary": "Tripeptide-10 citrulline is a skincare peptide designed to act like decorin and tidy collagen fibers. The main paper uses test-tube assays; human evidence is lacking.",
+    "takeaway": "Tripeptide-10 citrulline is a laboratory-designed peptide intended to imitate decorin, a protein that helps collagen molecules assemble into thin, evenly spaced fibers. Mice that lack decorin have abnormal collagen fibers and fragile skin,[^1] and the cosmetic idea is to make up for the decorin that declines with age. The key paper, a 2008 study in a cosmetic-science journal, screened a library of candidates and found that this tetrapeptide, despite its 'tripeptide' name, made collagen fibers thinner and more uniform in test-tube assays.[^2] No human trial of it was found. **Evidence is limited.**",
+    "glance": [
+      [
+        "Status",
+        "Cosmetic ingredient (not an FDA-approved drug)"
+      ],
+      [
+        "Used for",
+        "Firmness, suppleness and texture"
+      ],
+      [
+        "How it's used",
+        "Serums and creams, usually once or twice daily"
+      ],
+      [
+        "Peptide type",
+        "Decorin-like signal peptide"
+      ],
+      [
+        "Research",
+        "Test-tube assays; no human trial found"
+      ],
+      [
+        "Similar peptides",
+        "[Hexapeptide-9](/peptides/hexapeptide-9), [palmitoyl hexapeptide-12](/peptides/palmitoyl-hexapeptide-12)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works-in-skin",
+        "title": "How it works in skin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Skin's strength depends not only on how much collagen there is but on how well its fibers are organized. Decorin attaches to collagen and influences how fibers assemble and how thick they grow. Mice engineered to lack decorin had abnormal fiber shapes and skin that tore easily.[^1] As skin ages, functional decorin is reported to decline, which is the opening this ingredient targets.[^2]"
+          },
+          {
+            "type": "p",
+            "text": "To build a substitute, researchers identified two tetrapeptide sequences where decorin binds collagen, engineered improved versions and screened a small library in a collagen-assembly assay. The best performer became Tripeptide-10 Citrulline.[^2] The aim is better collagen quality rather than more collagen."
+          }
+        ]
+      },
+      {
+        "id": "what-the-studies-show",
+        "title": "What the studies show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Source",
+                "Finding"
+              ],
+              [
+                "Decorin-deficient mice (1997)",
+                "Abnormal collagen fibril shape and fragile skin, showing decorin's role in organizing collagen[^1]"
+              ],
+              [
+                "Collagen-assembly assays in vitro (2008)",
+                "The peptide regulated fibril formation and made fibers thinner and more uniform, as decorin does[^2]"
+              ],
+              [
+                "Human trials of the peptide",
+                "None found in the literature searched"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Tidier collagen fibers in a test tube are a long way from firmer skin on a face. A systematic review of over-the-counter anti-aging ingredients found that good supporting data are often missing.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-used",
+        "title": "How it's used",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "It appears in firming and anti-aging serums, often with other peptides. Results, if any, would be gradual and subtle, and concentrations are rarely printed on the label."
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Safety",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Peptide-specific safety data are scarce in the published literature. The usual cosmetic risks apply: irritation or allergy to the peptide or to other ingredients in the formula."
+          },
+          {
+            "type": "note",
+            "text": "Cosmetics do not need FDA approval before sale, and a product that claims to change how skin works can be treated as a drug.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Tripeptide-10 citrulline has a clever, biology-based design and early test-tube support, but no human evidence. It is best treated as an experimental extra in a moisturizer, not as a proven way to firm skin."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Very limited: test-tube assays only",
+      "text": "The main study is a lab assay of collagen assembly,[^2] backed by mouse work on decorin's role.[^1] No human trial was found, and reviews of cosmetic anti-aging ingredients note that supporting data are often lacking.[^3]"
+    },
+    "faq": [
+      {
+        "q": "What is decorin?",
+        "a": "It is a protein in skin's connective tissue that attaches to collagen and helps control how fibers assemble and how thick they get.[^1][^2]"
+      },
+      {
+        "q": "Is it a tripeptide or a tetrapeptide?",
+        "a": "The 2008 paper describes it as a tetrapeptide whose official cosmetic name is Tripeptide-10 Citrulline, a naming quirk.[^2]"
+      },
+      {
+        "q": "Will it make my skin firmer?",
+        "a": "That has not been shown in people. The lab data show tidier collagen fibers in test tubes, which is a long way from firmer facial skin.[^2]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Targeted disruption of decorin leads to abnormal collagen fibril morphology and skin fragility.",
+        "source": "J Cell Biol",
+        "year": 1997,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9024701/",
+        "pmid": "9024701",
+        "doi": "10.1083/jcb.136.3.729",
+        "note": "Mouse study of what decorin does for collagen and skin"
+      },
+      {
+        "n": 2,
+        "title": "A new decorin-like tetrapeptide for optimal organization of collagen fibres.",
+        "source": "Int J Cosmet Sci",
+        "year": 2008,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18377618/",
+        "pmid": "18377618",
+        "doi": "10.1111/j.1468-2494.2008.00429.x",
+        "note": "Design and test-tube testing of the peptide"
+      },
+      {
+        "n": 3,
+        "title": "Topical Over-the-Counter Antiaging Agents: An Update and Systematic Review.",
+        "source": "Dermatology",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32882685/",
+        "pmid": "32882685",
+        "doi": "10.1159/000509296",
+        "note": "Systematic review of evidence for common anti-aging ingredients"
+      },
+      {
+        "n": 4,
+        "title": "Is It a Cosmetic, a Drug, or Both? (Or Is It Soap?)",
+        "source": "U.S. FDA",
+        "year": 2024,
+        "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+        "note": "How U.S. law separates cosmetics from drugs"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

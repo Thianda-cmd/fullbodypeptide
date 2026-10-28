@@ -1,0 +1,205 @@
+{
+  "slug": "palmitoyl-tripeptide-38",
+  "name": "Palmitoyl tripeptide-38",
+  "zone": "skin",
+  "category": "cosmetic",
+  "aliases": [],
+  "brands": [
+    "Matrixyl synthe'6"
+  ],
+  "class": "Signal peptide (matrikine mimic)",
+  "route": "Applied to the skin in serums and creams",
+  "status": "Cosmetic ingredient; not an FDA-approved drug",
+  "evidence": 1,
+  "mechanism": "Marketed to boost six components of the skin's supporting matrix; support is mainly open-label, combination-product data",
+  "uses": [
+    "Wrinkle reduction",
+    "Skin roughness and tone"
+  ],
+  "popular": null,
+  "related": [
+    "palmitoyl-tripeptide-1",
+    "palmitoyl-tetrapeptide-7",
+    "palmitoyl-pentapeptide-4"
+  ],
+  "article": {
+    "summary": "Palmitoyl tripeptide-38 (Matrixyl synthe'6) is a skincare peptide marketed to reduce wrinkles. Published human data are open-label studies of multi-ingredient products, so evidence is very limited.",
+    "takeaway": "Palmitoyl tripeptide-38 is a three-amino-acid cosmetic peptide with a fatty acid attached, sold as Matrixyl synthe'6 and marketed as a matrix-repair signal for wrinkles. The published human studies are open-label trials of multi-ingredient products. In one, a serum with 15% vitamin C, vitamin E and 5 ppm of the peptide reduced skin roughness by 8-9% over 56 days;[^1] in another, a moisturizer with a peptide blend including palmitoyl tripeptide-38 improved clinical skin grades over 12 weeks.[^2] With no control groups and strong co-ingredients, **the peptide's own effect is unknown**.",
+    "glance": [
+      [
+        "Status",
+        "Cosmetic ingredient (not an FDA-approved drug)"
+      ],
+      [
+        "Used for",
+        "Wrinkles, roughness and skin tone"
+      ],
+      [
+        "How it's used",
+        "Serums and moisturizers, once or twice daily"
+      ],
+      [
+        "Peptide type",
+        "Signal peptide (matrikine mimic)"
+      ],
+      [
+        "Research",
+        "Open-label, multi-ingredient product studies"
+      ],
+      [
+        "Similar peptides",
+        "[Palmitoyl tripeptide-1](/peptides/palmitoyl-tripeptide-1), [palmitoyl pentapeptide-4](/peptides/palmitoyl-pentapeptide-4)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works-in-skin",
+        "title": "How it works in skin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Skin's supporting framework, the extracellular matrix, is built from collagens, hyaluronic acid and other molecules. Matrikine peptides mimic fragments released when that matrix breaks down, on the theory that skin cells respond by building more. Palmitoyl tripeptide-38 is marketed on this principle, and its trade name, synthe'6, refers to a claimed action on six matrix components."
+          },
+          {
+            "type": "p",
+            "text": "As with related peptides, the proof offered consists of lab work and product studies. The six-component claim was not independently verified in the studies cited here."
+          }
+        ]
+      },
+      {
+        "id": "what-the-studies-show",
+        "title": "What the studies show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Finding"
+              ],
+              [
+                "Open-label, women 40 and older, once daily for 56 days",
+                "Serum with 15% vitamin C, vitamin E and 5 ppm palmitoyl tripeptide-38: roughness fell 8-9%, redness fell 9%, homogeneity rose 8%[^1]"
+              ],
+              [
+                "Open-label, 37 women aged 35-60, twice daily for 12 weeks",
+                "Moisturizer with astragalus extract, a peptide blend including palmitoyl tripeptide-38, rosemary extract, a vitamin C ester and coenzyme Q10 improved clinical grades from week 8[^2]"
+              ],
+              [
+                "Controlled trial of the peptide alone",
+                "None found"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Open-label studies have no placebo group, and the products held strong actives such as vitamin C that can improve skin on their own. A systematic review of over-the-counter anti-aging ingredients found that good supporting data are often missing.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-used",
+        "title": "How it's used",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "It is found in serums and moisturizers, often combined with vitamin C or other peptides. The serum study used 5 parts per million of the peptide,[^1] a very small amount, and labels rarely say how much a product contains."
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Safety",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Peptide-specific safety data are scarce in the published literature. Irritation or allergy to the formula is the usual risk, and strong co-ingredients such as vitamin C can irritate sensitive skin themselves."
+          },
+          {
+            "type": "note",
+            "text": "Cosmetics do not need FDA approval before sale, and a product that claims to change how skin works can be treated as a drug.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Palmitoyl tripeptide-38 may be a harmless addition to a well-built moisturizer, but nothing verified shows that it works by itself. Judge a product by its overall formula and by sunscreen use, not by this one ingredient."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Very limited: open-label, multi-ingredient studies",
+      "text": "Both human studies found were open-label tests of products with several actives.[^1][^2] No controlled trial isolates the peptide, and reviews of cosmetic anti-aging ingredients stress the lack of good supporting data.[^3]"
+    },
+    "faq": [
+      {
+        "q": "What does synthe'6 mean?",
+        "a": "It is part of the trade name Matrixyl synthe'6, which the supplier uses to describe action on six components of the skin matrix. That claim was not independently verified in the studies cited here."
+      },
+      {
+        "q": "Did the vitamin C serum work because of the peptide?",
+        "a": "Unknown. The serum also held 15% vitamin C and vitamin E, which have their own effects on skin, and the study had no control group.[^1]"
+      },
+      {
+        "q": "How does it compare with palmitoyl pentapeptide-4?",
+        "a": "Both are palmitoylated matrix-signaling peptides. Pal-KTTKS has at least one randomized split-face trial,[^5] while palmitoyl tripeptide-38 has only open-label product studies. See [palmitoyl pentapeptide-4](/peptides/palmitoyl-pentapeptide-4)."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "A serum containing vitamins C & E and a matrix-repair tripeptide reduces facial signs of aging as evidenced by Primos® analysis and frequently repeated auto-perception.",
+        "source": "J Cosmet Dermatol",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33103342/",
+        "pmid": "33103342",
+        "doi": "10.1111/jocd.13770",
+        "note": "Open-label serum study with 5 ppm palmitoyl tripeptide-38"
+      },
+      {
+        "n": 2,
+        "title": "An Open Label Clinical Trial of a Multi-Ingredient Anti-Aging Moisturizer Designed to Improve the Appearance of Facial Skin.",
+        "source": "J Drugs Dermatol",
+        "year": 2015,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26151786/",
+        "pmid": "26151786",
+        "note": "Open-label 37-woman study of a peptide-containing moisturizer"
+      },
+      {
+        "n": 3,
+        "title": "Topical Over-the-Counter Antiaging Agents: An Update and Systematic Review.",
+        "source": "Dermatology",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32882685/",
+        "pmid": "32882685",
+        "doi": "10.1159/000509296",
+        "note": "Systematic review of evidence for common anti-aging ingredients"
+      },
+      {
+        "n": 4,
+        "title": "Is It a Cosmetic, a Drug, or Both? (Or Is It Soap?)",
+        "source": "U.S. FDA",
+        "year": 2024,
+        "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+        "note": "How U.S. law separates cosmetics from drugs"
+      },
+      {
+        "n": 5,
+        "title": "Topical palmitoyl pentapeptide provides improvement in photoaged human facial skin.",
+        "source": "Int J Cosmet Sci",
+        "year": 2005,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18492182/",
+        "pmid": "18492182",
+        "doi": "10.1111/j.1467-2494.2005.00261.x",
+        "note": "Randomized split-face trial of palmitoyl pentapeptide-4"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

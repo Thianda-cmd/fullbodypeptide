@@ -1,0 +1,254 @@
+{
+  "slug": "vancomycin",
+  "name": "Vancomycin",
+  "zone": "heart",
+  "category": "fda",
+  "aliases": [],
+  "brands": [
+    "Vancocin",
+    "Firvanq",
+    "Tyzavan"
+  ],
+  "class": "Glycopeptide antibiotic",
+  "route": "IV infusion for bloodstream and deep infections; by mouth for C. difficile colitis",
+  "status": "FDA-approved: IV for serious Gram-positive infections, oral for C. difficile colitis; many generics",
+  "evidence": 4,
+  "mechanism": "Binds the D-Ala-D-Ala ends of cell wall building blocks and blocks wall construction, killing Gram-positive bacteria including MRSA",
+  "uses": [
+    "Serious MRSA and other Gram-positive infections",
+    "C. difficile colitis (by mouth)",
+    "Staphylococcal enterocolitis (by mouth)"
+  ],
+  "popular": null,
+  "related": [
+    "dalbavancin-oritavancin-telavancin",
+    "daptomycin",
+    "bacitracin",
+    "polymyxin-b-colistin"
+  ],
+  "article": {
+    "summary": "Vancomycin is a glycopeptide antibiotic given by IV for serious Gram-positive infections such as MRSA, and by mouth for C. difficile colitis. It has been in clinical use for over 50 years.",
+    "takeaway": "Vancomycin is a large natural antibiotic that has been used for more than 50 years.[^1] Given by vein, it is a mainstay for serious infections caused by methicillin-resistant Staphylococcus aureus (MRSA), including bloodstream, heart valve, bone and lung infections.[^2] Taken by mouth, it stays in the gut and treats C. difficile colitis, although the 2021 US guideline now suggests fidaxomicin first.[^3][^4] Its main risks are kidney injury and infusion reactions, and since 2020 guidelines favor dosing by estimated drug exposure (AUC) because it was linked to less kidney injury.[^5][^6]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved; IV vials and ready-to-use solutions, oral capsules (approved 1986) and oral solution"
+      ],
+      [
+        "Main uses",
+        "MRSA and other serious Gram-positive infections (IV); C. difficile colitis (oral)"
+      ],
+      [
+        "How it's given",
+        "Slow IV infusion over at least an hour, or by mouth"
+      ],
+      [
+        "Drug class",
+        "Glycopeptide antibiotic"
+      ],
+      [
+        "Research",
+        "Guidelines, a pivotal C. difficile trial and dosing meta-analyses"
+      ],
+      [
+        "Related",
+        "[Daptomycin](/peptides/daptomycin), [dalbavancin, oritavancin and telavancin](/peptides/dalbavancin-oritavancin-telavancin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Bacteria such as Staphylococcus and Enterococcus are surrounded by a cell wall made of cross-linked chains. Vancomycin, a natural product made by a soil bacterium, binds the D-alanyl-D-alanine ends of the building blocks for those chains. That blocks the cell from laying down and linking new wall, and the cell eventually fails."
+          },
+          {
+            "type": "p",
+            "text": "The molecule is too large to cross the outer membrane of Gram-negative bacteria, so it works only on Gram-positive organisms. Resistance appeared first in enterococci and later in staphylococci.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**By IV:** serious infections caused by susceptible staphylococci that resist beta-lactam antibiotics, including MRSA, and in people who cannot take or have failed other drugs. Examples include endocarditis, septicemia, bone, lung and skin infections.[^7]",
+              "**By mouth:** C. difficile-associated diarrhea and staphylococcal enterocolitis. Oral vancomycin is poorly absorbed, which keeps the drug in the gut, and it is not effective for other infections.[^8]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "IV vancomycin does not reliably reach the bowel, and the label says that parenteral use alone has unproven benefit for C. difficile colitis."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Question",
+                "Key finding"
+              ],
+              [
+                "MRSA infections",
+                "The IDSA guideline covers skin, bloodstream, heart valve, lung, bone and joint and central nervous system infections, with advice on dosing and on vancomycin treatment failure[^2]"
+              ],
+              [
+                "How to dose",
+                "The 2020 consensus guideline suggests AUC-guided dosing; a pooled analysis of 10 studies (4,231 patients) found less acute kidney injury than with trough-only dosing (odds ratio 0.625)[^5][^6]"
+              ],
+              [
+                "C. difficile",
+                "Fidaxomicin matched oral vancomycin for clinical cure (88.2% vs 85.8%) with fewer recurrences (15.4% vs 25.3%)[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The 2021 IDSA/SHEA update on C. difficile suggests fidaxomicin over a standard vancomycin course for a first episode, while still treating vancomycin as an acceptable alternative.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "IV vancomycin is infused slowly, at no more than 10 mg per minute and over at least 60 minutes, because fast infusion can cause flushing and low blood pressure. The label's usual adult dose is 2 grams a day in divided doses, but modern dosing is individualized by weight and kidney function and guided by blood levels.[^7]"
+          },
+          {
+            "type": "p",
+            "text": "For C. difficile-associated diarrhea, the oral label dose is 125 mg four times a day for 10 days.[^8]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Infusion reaction** (flushing, itching, a drop in blood pressure, formerly called red man syndrome) when given too fast; slowing the infusion usually fixes it.[^7]",
+              "**Kidney injury (nephrotoxicity):** the main serious risk, which is why kidney function is monitored in every patient and the dose is adjusted.[^7]",
+              "**Hearing damage (ototoxicity)**, severe skin reactions and C. difficile-associated diarrhea are also labeled warnings, and reversible low white cell counts are listed among reactions.[^7]",
+              "**Oral use:** nausea, abdominal pain and low potassium are the most frequent reactions. Some blood absorption has been reported in people treated for active C. difficile disease.[^8]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: decades of use, guidelines and trials",
+      "text": "Vancomycin's role in MRSA rests on decades of clinical experience and guideline consensus more than on placebo-controlled trials, while randomized trials define its place in C. difficile treatment.[^2][^3] Dosing studies are mostly observational, which is why the evidence for AUC-guided monitoring is rated low certainty.[^6]"
+    },
+    "faq": [
+      {
+        "q": "What is red man syndrome?",
+        "a": "It is an infusion reaction with flushing, itching and sometimes low blood pressure, caused by histamine release when vancomycin is infused too quickly. It is not a true allergy, and slower infusion usually prevents it.[^7]"
+      },
+      {
+        "q": "Why is vancomycin taken by mouth for C. difficile but not given by IV?",
+        "a": "Oral vancomycin is barely absorbed, so it stays in the gut where C. difficile lives. IV vancomycin alone has unproven benefit for this infection.[^7][^8]"
+      },
+      {
+        "q": "Is vancomycin still reliable against MRSA?",
+        "a": "For most strains, yes, but resistance exists. It emerged first in enterococci and later in staphylococci, and guidelines include advice for strains with reduced susceptibility.[^1][^2]"
+      },
+      {
+        "q": "Why are blood levels checked?",
+        "a": "To balance effectiveness against kidney injury. Since 2020, guidelines favor calculating the area under the concentration curve (AUC), and pooled studies found less kidney injury with this approach than with trough-only monitoring.[^5][^6]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Vancomycin: a history.",
+        "source": "Clin Infect Dis",
+        "year": 2006,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16323120/",
+        "pmid": "16323120",
+        "doi": "10.1086/491709",
+        "note": "Over 50 years of use and the emergence of resistance"
+      },
+      {
+        "n": 2,
+        "title": "Clinical practice guidelines by the infectious diseases society of america for the treatment of methicillin-resistant Staphylococcus aureus infections in adults and children.",
+        "source": "Clin Infect Dis",
+        "year": 2011,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21208910/",
+        "pmid": "21208910",
+        "doi": "10.1093/cid/ciq146",
+        "note": "IDSA MRSA guideline including vancomycin dosing and monitoring"
+      },
+      {
+        "n": 3,
+        "title": "Fidaxomicin versus vancomycin for Clostridium difficile infection.",
+        "source": "N Engl J Med",
+        "year": 2011,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21288078/",
+        "pmid": "21288078",
+        "doi": "10.1056/NEJMoa0910812",
+        "note": "Cure and recurrence rates versus oral vancomycin"
+      },
+      {
+        "n": 4,
+        "title": "Clinical Practice Guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 Focused Update Guidelines on Management of Clostridioides difficile Infection in Adults.",
+        "source": "Clin Infect Dis",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34164674/",
+        "pmid": "34164674",
+        "doi": "10.1093/cid/ciab549",
+        "note": "Current US guideline on fidaxomicin and vancomycin"
+      },
+      {
+        "n": 5,
+        "title": "Therapeutic monitoring of vancomycin for serious methicillin-resistant Staphylococcus aureus infections: A revised consensus guideline and review.",
+        "source": "Am J Health Syst Pharm",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32191793/",
+        "pmid": "32191793",
+        "doi": "10.1093/ajhp/zxaa036",
+        "note": "2020 consensus favoring AUC-guided dosing"
+      },
+      {
+        "n": 6,
+        "title": "Vancomycin area under the curve versus trough only guided dosing and the risk of acute kidney injury: Systematic review and meta-analysis.",
+        "source": "Pharmacotherapy",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35869689/",
+        "pmid": "35869689",
+        "doi": "10.1002/phar.2722",
+        "note": "10 studies, 4,231 patients: kidney injury with AUC versus trough dosing"
+      },
+      {
+        "n": 7,
+        "title": "Vancomycin hydrochloride for injection (Sagent): prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06dcfd36-942f-4752-86ad-4c5a6fc3e48f",
+        "note": "IV indications, infusion rate, warnings and monitoring"
+      },
+      {
+        "n": 8,
+        "title": "VANCOCIN (vancomycin hydrochloride) capsules: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a078d9c2-f89c-4f9f-8ded-60ffb2983c3f",
+        "note": "Oral indications, dose, absorption and common adverse reactions"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

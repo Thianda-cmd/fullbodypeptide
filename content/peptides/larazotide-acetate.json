@@ -1,0 +1,186 @@
+{
+  "slug": "larazotide-acetate",
+  "name": "Larazotide acetate",
+  "zone": "digestive",
+  "category": "clinical",
+  "aliases": [
+    "AT-1001"
+  ],
+  "brands": [],
+  "class": "Tight-junction regulator (zonulin antagonist)",
+  "route": "Taken by mouth, three times a day in trials",
+  "status": "Not FDA-approved. The only phase 3 trial was stopped by the sponsor in 2022 after an interim analysis",
+  "evidence": 2,
+  "mechanism": "A short peptide meant to keep the tight junctions between gut lining cells closed, limiting leakage of gluten fragments into the gut wall",
+  "uses": [
+    "Celiac disease symptoms despite a gluten-free diet (studied)"
+  ],
+  "popular": null,
+  "related": [
+    "pn-943",
+    "kpv",
+    "bpc-157",
+    "linaclotide"
+  ],
+  "article": {
+    "summary": "Larazotide acetate is an experimental peptide that aims to tighten the gut lining in celiac disease. Early trials gave mixed symptom results, its phase 3 trial was stopped in 2022, and it is not approved.",
+    "takeaway": "Larazotide acetate (AT-1001) is a short peptide designed to keep the \"tight junctions\" between intestinal lining cells shut, based on the idea that celiac disease involves a leakier gut barrier. In a 342-adult phase 2b trial in people with persistent symptoms despite a gluten-free diet, only the lowest dose (0.5 mg) reduced symptoms more than placebo, and the higher doses did no better.[^1] A pooled analysis of four randomized trials (626 patients) found symptom benefit during gluten challenge but not in people on a gluten-free diet.[^2] The phase 3 trial of 307 participants was stopped in 2022 after an interim analysis, and larazotide is not approved.[^3][^4]",
+    "glance": [
+      [
+        "Status",
+        "Investigational; phase 3 trial stopped in 2022"
+      ],
+      [
+        "Studied for",
+        "Celiac disease symptoms despite a gluten-free diet"
+      ],
+      [
+        "How it's taken",
+        "By mouth, three times daily in trials"
+      ],
+      [
+        "Drug class",
+        "Tight-junction regulator (zonulin antagonist)"
+      ],
+      [
+        "Research",
+        "Four randomized trials pooled in a 2022 meta-analysis, plus a terminated phase 3 trial"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In celiac disease, gluten triggers an immune attack that damages the lining of the small intestine. One hypothesis holds that a protein called zonulin loosens the tight junctions between lining cells, letting gluten fragments leak through and fuel the reaction. Larazotide acetate was designed to block that step and keep the barrier closed. The zonulin model is still debated, and in the pooled trial data a standard gut-permeability test did not differ between larazotide and placebo.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Larazotide was among the first drugs aimed at celiac disease beyond a gluten-free diet, and it reached phase 3. The CedLara trial enrolled 307 adults with ongoing symptoms on a gluten-free diet.[^3] In June 2022 the sponsor, 9 Meters Biopharma, reported an interim analysis of about half the planned enrollment and said the number of additional patients needed to show a clear difference from placebo was too large to justify continuing.[^4] The registry lists the trial as terminated by the sponsor, and searches of ClinicalTrials.gov found no ongoing larazotide trials as of October 2026."
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "Phase 2b, 12 weeks",
+                "342 adults with persistent symptoms on a gluten-free diet",
+                "0.5 mg: fewer symptoms than placebo (P=0.022); 1 mg and 2 mg no different[^1]"
+              ],
+              [
+                "Meta-analysis of 4 randomized trials",
+                "626 patients",
+                "Symptom benefit only in gluten-challenge studies, not in people on a gluten-free diet[^2]"
+              ],
+              [
+                "Phase 3 (CedLara)",
+                "307 enrolled",
+                "Stopped by the sponsor in 2022[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The authors of the phase 2b trial called their results mixed, because only one of three doses worked.[^1] In the pooled analysis, gluten-related diarrhea was reduced during gluten challenge, but a lactulose-to-mannitol permeability test showed no difference from placebo.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In the phase 2b trial, safety was comparable with placebo.[^1] The pooled analysis found other adverse events were similar between larazotide and placebo, and called the drug largely well tolerated.[^2] Long-term safety was not established because the program ended before a large phase 3 dataset could be collected."
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The sponsor said it would redirect resources to another candidate after the interim analysis.[^4] With no active trials, larazotide is unlikely to become available soon. For now, a strict lifelong gluten-free diet remains the standard treatment for celiac disease.[^2]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Mixed: several small trials, phase 3 stopped",
+      "text": "Four randomized trials and a phase 3 attempt exist, but the benefit was inconsistent and appeared mainly under gluten challenge rather than in everyday symptoms on a gluten-free diet.[^1][^2] The phase 3 trial was stopped before it could settle the question.[^4]"
+    },
+    "faq": [
+      {
+        "q": "Does larazotide treat \"leaky gut\"?",
+        "a": "It was tested in celiac disease, not in \"leaky gut\" as a general diagnosis. In the pooled analysis it did not change a standard gut-permeability test.[^2]"
+      },
+      {
+        "q": "Is larazotide available?",
+        "a": "No. It is not approved, and its phase 3 trial was stopped in 2022.[^3][^4] Products sold online under the name would be unapproved."
+      },
+      {
+        "q": "What is the standard treatment for celiac disease?",
+        "a": "A strict lifelong gluten-free diet is the standard of care, and no drug has been approved to replace it.[^2]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Larazotide acetate for persistent symptoms of celiac disease despite a gluten-free diet: a randomized controlled trial.",
+        "source": "Gastroenterology",
+        "year": 2015,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25683116/",
+        "pmid": "25683116",
+        "doi": "10.1053/j.gastro.2015.02.008",
+        "note": "Phase 2b trial in 342 adults"
+      },
+      {
+        "n": 2,
+        "title": "Larazotide acetate for treatment of celiac disease: A systematic review and meta-analysis of randomized controlled trials.",
+        "source": "Clin Res Hepatol Gastroenterol",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34339872/",
+        "pmid": "34339872",
+        "doi": "10.1016/j.clinre.2021.101782",
+        "note": "Pooled analysis of four randomized trials"
+      },
+      {
+        "n": 3,
+        "title": "Study to Evaluate the Efficacy and Safety of Larazotide Acetate for the Relief of CeD Symptoms",
+        "source": "ClinicalTrials.gov",
+        "year": 2022,
+        "url": "https://clinicaltrials.gov/study/NCT03569007",
+        "note": "NCT03569007: phase 3 trial terminated by the sponsor"
+      },
+      {
+        "n": 4,
+        "title": "9 Meters Biopharma Announces Interim Analysis of Phase 3 Study of Larazotide for Celiac Disease Does Not Support Trial Continuation",
+        "source": "BioSpace (company press release)",
+        "year": 2022,
+        "url": "https://www.biospace.com/9-meters-biopharma-announces-interim-analysis-of-phase-3-study-of-larazotide-for-celiac-disease-does-not-support-trial-continuation",
+        "note": "June 21, 2022: why the phase 3 trial was stopped"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

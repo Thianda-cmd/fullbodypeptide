@@ -1,0 +1,220 @@
+{
+  "slug": "teriparatide",
+  "name": "Teriparatide",
+  "zone": "bones",
+  "category": "fda",
+  "aliases": [
+    "PTH(1-34)",
+    "rhPTH(1-34)"
+  ],
+  "brands": [
+    "Forteo",
+    "Bonsity"
+  ],
+  "class": "Bone-building PTH analog",
+  "route": "Daily injection under the skin from a prefilled pen",
+  "status": "FDA-approved for osteoporosis at high fracture risk in postmenopausal women, in men, and from long-term steroid use",
+  "evidence": 4,
+  "mechanism": "Copies the first 34 amino acids of parathyroid hormone; daily pulses switch on bone-forming cells and build new bone",
+  "uses": [
+    "Postmenopausal osteoporosis at high fracture risk",
+    "Bone mass in men with primary or hypogonadal osteoporosis",
+    "Glucocorticoid-induced osteoporosis"
+  ],
+  "popular": null,
+  "related": [
+    "abaloparatide",
+    "parathyroid-hormone",
+    "palopegteriparatide",
+    "calcitonin-salmon"
+  ],
+  "article": {
+    "summary": "Teriparatide (Forteo) is a daily injection that builds new bone in people with osteoporosis at high fracture risk. It cut spine fractures sharply in trials, and its osteosarcoma boxed warning was removed in 2020.",
+    "takeaway": "Teriparatide is a copy of the first 34 amino acids of parathyroid hormone. Given daily, it builds new bone instead of only slowing bone loss. In the pivotal trial, new spine fractures occurred in 5% of women on the 20 microgram dose versus 14% on placebo,[^1] and in the VERO trial it cut spine fractures by more than half compared with the bisphosphonate risedronate (5.4% vs 12.0%).[^2] The boxed warning for bone cancer was removed in 2020 after surveillance found no increase in people,[^3][^4] but the label still advises that use beyond 2 years in a lifetime be considered only if fracture risk stays high.[^5]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved (Forteo, Bonsity and other teriparatide injections) for osteoporosis at high fracture risk[^5]"
+      ],
+      [
+        "Main uses",
+        "Postmenopausal osteoporosis, osteoporosis in men, and steroid-induced osteoporosis"
+      ],
+      [
+        "How it's taken",
+        "20 micrograms once a day under the skin; use beyond 2 years in a lifetime only if risk stays high[^5]"
+      ],
+      [
+        "Drug class",
+        "Parathyroid hormone analog (anabolic bone drug)"
+      ],
+      [
+        "Research",
+        "Fracture trials in thousands of women, VERO against risedronate, and 15-year safety surveillance"
+      ],
+      [
+        "Related",
+        "[Abaloparatide](/peptides/abaloparatide), [palopegteriparatide](/peptides/palopegteriparatide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Parathyroid hormone (PTH) can break bone down or build it, depending on exposure. Constant high PTH, as in hyperparathyroidism, drains bone. Short daily pulses, as from a daily injection, favor the bone-forming cells, so bone mass and strength rise. Teriparatide is PTH(1-34), the active fragment of the 84-amino-acid hormone.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "Postmenopausal women with osteoporosis at high fracture risk, where it reduces spine and non-spine fractures[^5]",
+              "Men with primary or hypogonadal osteoporosis at high fracture risk, to increase bone mass[^5]",
+              "Men and women with osteoporosis from sustained systemic glucocorticoid (steroid) therapy at high fracture risk[^5]"
+            ]
+          },
+          {
+            "type": "note",
+            "text": "The label limits each use to people at high risk of fracture or who failed or could not tolerate other osteoporosis treatments."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "Fracture Prevention Trial",
+                "1,637 postmenopausal women with prior spine fractures",
+                "New spine fractures 5% (20 micrograms) vs 14% on placebo; non-spine fragility fractures 3% vs 6%[^1]"
+              ],
+              [
+                "VERO",
+                "1,360 women with severe osteoporosis",
+                "Spine fractures 5.4% vs 12.0% on risedronate at 24 months; clinical fractures 4.8% vs 9.8%[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In VERO the difference in non-spine fragility fractures (4.0% vs 6.1%) was not statistically significant.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Teriparatide is injected under the skin of the thigh or abdomen once a day, 20 micrograms from a prefilled pen that delivers 28 doses and is discarded 28 days after first use. Use for more than 2 years during a lifetime should be considered only if a patient remains at, or returns to, a high risk of fracture.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Allergy:** anaphylaxis and angioedema have been reported with PTH analogs[^5]",
+              "**Calcium:** avoid in people with underlying high calcium; cutaneous calcification and kidney stones can worsen[^5]",
+              "**Blood pressure:** dizziness on standing can follow early doses[^5]",
+              "**Osteosarcoma:** high doses caused bone tumors in rats, so the label advises avoiding it with open growth plates, Paget's disease, bone metastases, prior skeletal radiation or inherited tumor syndromes[^5]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "A 15-year US surveillance study found three osteosarcoma cases with prior teriparatide use, fewer than the 4.17 expected from background rates.[^3] The boxed warning and the strict 2-year cap were revised in the 2020 label update.[^4]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: randomized fracture trials",
+      "text": "The original placebo-controlled trial and VERO both counted fractures directly.[^1][^2] A 15-year surveillance study found no increase in osteosarcoma.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Is the osteosarcoma warning still on the label?",
+        "a": "The boxed warning was removed in 2020 after large real-world studies showed no increase in osteosarcoma.[^4] The label still lists osteosarcoma under warnings and advises avoiding use in higher-risk people.[^5]"
+      },
+      {
+        "q": "How long can it be used?",
+        "a": "The label says use for more than 2 years in a lifetime should only be considered if fracture risk remains high.[^5]"
+      },
+      {
+        "q": "Is there a lower-cost version?",
+        "a": "Yes. Bonsity and generic teriparatide injections from several manufacturers are listed on DailyMed alongside Forteo. Each has its own label, so check the specific product."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Effect of parathyroid hormone (1-34) on fractures and bone mineral density in postmenopausal women with osteoporosis",
+        "source": "N Engl J Med",
+        "year": 2001,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11346808/",
+        "pmid": "11346808",
+        "doi": "10.1056/NEJM200105103441904",
+        "note": "Pivotal fracture trial against placebo"
+      },
+      {
+        "n": 2,
+        "title": "Effects of teriparatide and risedronate on new fractures in post-menopausal women with severe osteoporosis (VERO): a multicentre, double-blind, double-dummy, randomised controlled trial",
+        "source": "Lancet",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29129436/",
+        "pmid": "29129436",
+        "doi": "10.1016/S0140-6736(17)32137-2",
+        "note": "VERO: head-to-head fracture trial against risedronate"
+      },
+      {
+        "n": 3,
+        "title": "Teriparatide Did Not Increase Adult Osteosarcoma Incidence in a 15-Year US Postmarketing Surveillance Study",
+        "source": "J Bone Miner Res",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32990990/",
+        "pmid": "32990990",
+        "doi": "10.1002/jbmr.4188",
+        "note": "Osteosarcoma surveillance 2003-2016"
+      },
+      {
+        "n": 4,
+        "title": "Teriparatide and Osteosarcoma Risk: History, Science, Elimination of Boxed Warning, and Other Label Updates",
+        "source": "JBMR Plus",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36111201/",
+        "pmid": "36111201",
+        "doi": "10.1002/jbm4.10665",
+        "note": "How the 2020 label update removed the boxed warning"
+      },
+      {
+        "n": 5,
+        "title": "FORTEO (teriparatide) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aae667c5-381f-4f92-93df-2ed6158d07b0",
+        "note": "Indications, dosing, duration of use and warnings"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

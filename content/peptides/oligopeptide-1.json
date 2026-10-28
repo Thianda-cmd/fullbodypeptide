@@ -1,0 +1,217 @@
+{
+  "slug": "oligopeptide-1",
+  "name": "Oligopeptide-1",
+  "zone": "skin",
+  "category": "cosmetic",
+  "aliases": [
+    "sh-Oligopeptide-1",
+    "Recombinant human epidermal growth factor (EGF)"
+  ],
+  "brands": [],
+  "class": "Growth factor (recombinant human EGF)",
+  "route": "Applied to the skin in serums and creams",
+  "status": "Cosmetic ingredient; not an FDA-approved drug",
+  "evidence": 2,
+  "mechanism": "Mimics epidermal growth factor, a signal that tells skin cells to divide and repair; whether cosmetic versions match the real protein is debated",
+  "uses": [
+    "Skin renewal and repair",
+    "Texture and firmness of photoaged skin"
+  ],
+  "popular": null,
+  "related": [
+    "copper-tripeptide-1",
+    "palmitoyl-pentapeptide-4",
+    "ghk-cu"
+  ],
+  "article": {
+    "summary": "Oligopeptide-1 is the cosmetic name for recombinant epidermal growth factor (EGF) used in skin-renewal serums. Wound-care trials support EGF drugs; evidence for cosmetic versions is small and disputed.",
+    "takeaway": "Oligopeptide-1, also written sh-oligopeptide-1, is the cosmetic name for recombinant human epidermal growth factor (EGF), a small protein that signals skin cells to divide and repair. As a medical treatment, EGF applied to diabetic foot ulcers helped more ulcers heal in a meta-analysis of nine randomized trials (720 people).[^1] Cosmetic evidence is far thinner: a 2026 pilot of 20 women compared an oligopeptide-1 serum with a human-derived growth factor serum, with no placebo group,[^2] and a 2023 review argued that clinical studies of the cosmetic ingredient lack scientific basis because its activity has not been proven.[^3] **Treat claims with caution.**",
+    "glance": [
+      [
+        "Status",
+        "Cosmetic ingredient (not an FDA-approved drug)"
+      ],
+      [
+        "Used for",
+        "Skin renewal and photoaged skin texture"
+      ],
+      [
+        "How it's used",
+        "Serums and creams, usually twice daily"
+      ],
+      [
+        "Peptide type",
+        "Growth factor (recombinant human EGF)"
+      ],
+      [
+        "Research",
+        "Wound-care trials of EGF; small cosmetic studies"
+      ],
+      [
+        "Similar ingredients",
+        "[Copper tripeptide-1](/peptides/copper-tripeptide-1), [palmitoyl pentapeptide-4](/peptides/palmitoyl-pentapeptide-4)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works-in-skin",
+        "title": "How it works in skin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Epidermal growth factor is a natural protein that binds the EGF receptor on skin cells and tells them to multiply and migrate, which is part of how wounds close. The same receptor drives growth in several cancers, which is why EGFR-blocking drugs exist for cancer treatment.[^4]"
+          },
+          {
+            "type": "p",
+            "text": "In cosmetics, recombinant EGF is listed as oligopeptide-1 (or sh-oligopeptide-1, for synthetic human). The idea is to nudge older skin toward renewal; a 2018 cell study showed recombinant EGF protecting cultured skin fibroblasts from UVA damage.[^5] A key question is whether the cosmetic ingredient is as active as the protein used in medical studies, which the 2023 review doubted.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-studies-show",
+        "title": "What the studies show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Source",
+                "Finding"
+              ],
+              [
+                "Meta-analysis, 9 randomized trials, 720 people with diabetic foot ulcers (2020)",
+                "rhEGF raised the odds of complete healing versus placebo (odds ratio 2.79) and shortened healing time by about 14 days; adverse events did not differ[^1]"
+              ],
+              [
+                "Pilot, 20 women aged 50-65, 12 weeks (2026)",
+                "Oligopeptide-1 serum vs a human-derived EGF serum, no placebo: texture and firmness rated better with oligopeptide-1 at later visits; wrinkle severity changed little in either group[^2]"
+              ],
+              [
+                "Critical review (2023)",
+                "Argued that trials of cosmetic sh-oligopeptide-1 are presented as if it were active EGF, and that its preclinical activity has not been proven[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Wound-care trials use medical-grade EGF on ulcers, which is a different setting, dose and product from a face serum."
+          }
+        ]
+      },
+      {
+        "id": "how-its-used",
+        "title": "How it's used",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Oligopeptide-1 appears in serums and creams marketed for renewal and firming; the 2026 pilot used a serum twice daily.[^2] Proteins are fragile, so formulation and storage matter, and labels rarely say how much is present."
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Safety",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Cosmetic EGF has been sold for years, but its long-term risks are unknown, as the 2023 review stressed.[^3] Because EGF-receptor signaling can drive tumor growth in some cancers,[^4] people with a history of skin cancer or precancerous lesions may want to ask a dermatologist before using growth-factor products. No human harm from cosmetic EGF is established in the studies cited here, but long-term data are lacking."
+          },
+          {
+            "type": "note",
+            "text": "Cosmetics do not need FDA approval before sale, and claims about healing or repair can make a product a drug.[^6]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "EGF is a real and well-studied growth factor, with randomized-trial support in wound care. The leap to cosmetic oligopeptide-1 serums is much less certain, because the human data are a 20-person pilot with no placebo group and one critical review doubts the ingredient is active."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Mixed: strong for wound care, weak for cosmetics",
+      "text": "EGF as a medical treatment has randomized-trial support in diabetic foot ulcers,[^1] but cosmetic evidence is a 20-person pilot without a placebo group[^2] and a critical review questions whether the ingredient is active.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Is oligopeptide-1 really a peptide?",
+        "a": "The name is misleading. Epidermal growth factor is a small protein of about 53 amino acids, so 'oligopeptide' is a loose label."
+      },
+      {
+        "q": "Does cosmetic EGF cause cancer?",
+        "a": "No human evidence shows that, but EGF-receptor signaling does drive growth in some tumors,[^4] and long-term safety data for cosmetic use are lacking.[^3]"
+      },
+      {
+        "q": "Is the EGF in wound care the same as in face serums?",
+        "a": "Not necessarily. Wound-care trials used medical products applied to ulcers,[^1] and the 2023 review questioned whether cosmetic sh-oligopeptide-1 matches the activity of that protein.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Efficacy and safety of recombinant human epidermal growth factor for diabetic foot ulcers: A systematic review and meta-analysis of randomised controlled trials.",
+        "source": "Int Wound J",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32343054/",
+        "pmid": "32343054",
+        "doi": "10.1111/iwj.13377",
+        "note": "Meta-analysis of EGF for diabetic foot ulcers"
+      },
+      {
+        "n": 2,
+        "title": "A Randomized, Double-Blinded Pilot Study Comparing Synthetic Versus Human-Derived Topical Epidermal Growth Factor for Facial Rejuvenation and Psychosocial Perception.",
+        "source": "J Cosmet Dermatol",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42152512/",
+        "pmid": "42152512",
+        "doi": "10.1111/jocd.70927",
+        "note": "20-woman pilot of an oligopeptide-1 serum; no placebo group"
+      },
+      {
+        "n": 3,
+        "title": "Topical application of sh-oligopeptide-1 and clinical trials with cosmetic preparations: risk or fraud?",
+        "source": "Cutan Ocul Toxicol",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37452558/",
+        "pmid": "37452558",
+        "doi": "10.1080/15569527.2023.2234020",
+        "note": "Critical review questioning cosmetic EGF activity and trials"
+      },
+      {
+        "n": 4,
+        "title": "EGFR signaling pathway as therapeutic target in human cancers.",
+        "source": "Semin Cancer Biol",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35427766/",
+        "pmid": "35427766",
+        "doi": "10.1016/j.semcancer.2022.04.002",
+        "note": "Why EGF-receptor signaling matters in cancer"
+      },
+      {
+        "n": 5,
+        "title": "Potential protective effects of rhEGF against ultraviolet A irradiation-induced damages on human fibroblasts.",
+        "source": "Clin Cosmet Investig Dermatol",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30410380/",
+        "pmid": "30410380",
+        "doi": "10.2147/CCID.S170697",
+        "note": "Cell study of recombinant EGF and UVA damage"
+      },
+      {
+        "n": 6,
+        "title": "Is It a Cosmetic, a Drug, or Both? (Or Is It Soap?)",
+        "source": "U.S. FDA",
+        "year": 2024,
+        "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+        "note": "How U.S. law separates cosmetics from drugs"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

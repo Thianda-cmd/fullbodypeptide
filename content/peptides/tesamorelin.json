@@ -4,25 +4,53 @@
   "zone": "digestive",
   "category": "fda",
   "aliases": [],
-  "brands": ["Egrifta SV", "Egrifta WR"],
+  "brands": [
+    "Egrifta SV",
+    "Egrifta WR"
+  ],
   "class": "Growth hormone-releasing factor analog",
   "route": "Daily injection under the skin of the abdomen",
   "status": "FDA-approved (2010) to reduce excess abdominal fat in adults with HIV-associated lipodystrophy; not for weight loss",
   "evidence": 4,
   "mechanism": "Mimics growth hormone-releasing hormone so the pituitary gland releases more of its own growth hormone, which shrinks fat stored deep in the abdomen",
-  "uses": ["Excess belly fat in HIV-associated lipodystrophy"],
+  "uses": [
+    "Excess belly fat in HIV-associated lipodystrophy"
+  ],
   "popular": null,
-  "related": ["compounded-tesamorelin", "sermorelin", "cjc-1295", "somatropin-rhgh"],
+  "related": [
+    "compounded-tesamorelin",
+    "sermorelin",
+    "cjc-1295",
+    "somatropin-rhgh"
+  ],
   "article": {
     "summary": "Tesamorelin (Egrifta) is an FDA-approved daily injection that reduces deep belly fat in adults with HIV lipodystrophy. It is not for weight loss, and any use outside that group is off-label.",
     "takeaway": "Tesamorelin is a lab-made version of growth hormone-releasing hormone, the brain signal that tells the pituitary gland to release growth hormone. The FDA approved it in 2010 for one purpose: reducing excess abdominal fat in adults with HIV-associated lipodystrophy, a fat-distribution disorder linked to HIV and its treatment.[^1] In a 404-person trial, visceral fat (the deep fat around the organs) fell by **10.9% over 6 months** versus 0.6% on placebo, and the benefit faded when treatment stopped.[^2] It is not a weight-loss drug, and it is prohibited in competitive sport.",
     "glance": [
-      ["FDA status", "Approved 2010 (Egrifta); current products are Egrifta SV and Egrifta WR"],
-      ["Main use", "Excess abdominal fat in adults with HIV-associated lipodystrophy"],
-      ["How it's taken", "Injection under the skin of the abdomen once a day"],
-      ["Drug class", "Growth hormone-releasing factor (GHRH) analog"],
-      ["Research", "Placebo-controlled trials in HIV; a 2026 meta-analysis pooled five of them"],
-      ["Sport", "Prohibited by WADA at all times"]
+      [
+        "FDA status",
+        "Approved 2010 (Egrifta); current products are Egrifta SV and Egrifta WR"
+      ],
+      [
+        "Main use",
+        "Excess abdominal fat in adults with HIV-associated lipodystrophy"
+      ],
+      [
+        "How it's taken",
+        "Injection under the skin of the abdomen once a day"
+      ],
+      [
+        "Drug class",
+        "Growth hormone-releasing factor (GHRH) analog"
+      ],
+      [
+        "Research",
+        "Placebo-controlled trials in HIV; a 2026 meta-analysis pooled five of them"
+      ],
+      [
+        "Sport",
+        "Prohibited by WADA at all times"
+      ]
     ],
     "sections": [
       {
@@ -65,10 +93,26 @@
             "type": "table",
             "header": true,
             "rows": [
-              ["Study", "Who", "Main result"],
-              ["Phase 3 trial, 12 months", "404 adults with HIV and excess abdominal fat", "Visceral fat fell 10.9% vs 0.6% on placebo at 6 months, and about 18% in those who continued to 12 months[^2]"],
-              ["Randomized trial, 6 months", "50 adults with HIV", "Visceral fat down 34 cm² vs up 8 cm² on placebo; liver fat also fell[^3]"],
-              ["Meta-analysis (2026)", "5 placebo-controlled trials in adults with HIV", "Visceral fat 27.7 cm² lower, lean mass 1.4 kg higher, no significant change in BMI[^4]"]
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "Phase 3 trial, 12 months",
+                "404 adults with HIV and excess abdominal fat",
+                "Visceral fat fell 10.9% vs 0.6% on placebo at 6 months, and about 18% in those who continued to 12 months[^2]"
+              ],
+              [
+                "Randomized trial, 6 months",
+                "50 adults with HIV",
+                "Visceral fat down 34 cm² vs up 8 cm² on placebo; liver fat also fell[^3]"
+              ],
+              [
+                "Meta-analysis (2026)",
+                "5 placebo-controlled trials in adults with HIV",
+                "Visceral fat 27.7 cm² lower, lean mass 1.4 kg higher, no significant change in BMI[^4]"
+              ]
             ]
           },
           {

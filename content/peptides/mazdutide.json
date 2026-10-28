@@ -1,0 +1,214 @@
+{
+  "slug": "mazdutide",
+  "name": "Mazdutide",
+  "zone": "digestive",
+  "category": "clinical",
+  "aliases": [
+    "IBI362",
+    "LY3305677"
+  ],
+  "brands": [],
+  "class": "GLP-1 / glucagon dual agonist",
+  "route": "Once-weekly injection under the skin",
+  "status": "Not FDA-approved. Approved in China for weight management in June 2025; US trials so far are early-phase",
+  "evidence": 3,
+  "mechanism": "Activates both GLP-1 and glucagon receptors to lower appetite and raise the liver's use of fat",
+  "uses": [
+    "Obesity or overweight (approved in China)",
+    "Type 2 diabetes (phase 3 in China)"
+  ],
+  "popular": null,
+  "related": [
+    "survodutide",
+    "pemvidutide",
+    "retatrutide",
+    "tirzepatide",
+    "semaglutide"
+  ],
+  "article": {
+    "summary": "Mazdutide is a once-weekly GLP-1 and glucagon dual agonist approved in China in 2025 for weight management. Chinese phase 3 trials show 14-17% weight loss, but it is not approved in the US.",
+    "takeaway": "Mazdutide (IBI362, LY3305677) is a once-weekly injection that activates the receptors for GLP-1 and glucagon. In GLORY-1, a 610-adult phase 3 trial in China, the 6 mg dose cut body weight by **14.0% at 48 weeks**, versus a 0.3% gain on placebo.[^1] A higher 9 mg dose led to a 16.7% loss at 60 weeks in Chinese adults with obesity.[^2] China approved mazdutide for weight management in June 2025, but it is not approved in the US, and nearly all large trials so far enrolled Chinese adults.[^3]",
+    "glance": [
+      [
+        "Status",
+        "Approved in China (2025); not approved by the FDA"
+      ],
+      [
+        "Developers",
+        "Innovent Biologics in China, under license from Eli Lilly"
+      ],
+      [
+        "How it's given",
+        "Once-weekly injection under the skin"
+      ],
+      [
+        "Drug class",
+        "GLP-1 / glucagon dual receptor agonist"
+      ],
+      [
+        "Research",
+        "Phase 3 trials in China (GLORY, DREAMS); early US studies"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Mazdutide combines two hormone signals. GLP-1 raises insulin when blood sugar is high, slows stomach emptying and reduces appetite. Glucagon is better known for raising blood sugar, but it also acts on the liver and is thought to increase energy use and fat burning. Mazdutide is based on oxyntomodulin, a natural gut hormone that activates both receptors, and is made long-acting for weekly dosing. Similar dual agonists in development include [survodutide](/peptides/survodutide) and [pemvidutide](/peptides/pemvidutide)."
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Mazdutide originated at Eli Lilly and was licensed to Innovent Biologics for China in 2020. Innovent's phase 3 program led to approval by China's drug regulator for weight management in June 2025.[^3] Innovent also ran phase 3 trials in type 2 diabetes.[^4] Lilly has run early studies of its own, including a phase 2 trial in people with obesity or overweight, but no US phase 3 trial under Lilly's code appears in the registry.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "GLORY-1, 48 weeks",
+                "610 Chinese adults with overweight or obesity",
+                "6 mg: -14.0% vs +0.3% on placebo[^1]"
+              ],
+              [
+                "GLORY-2, 60 weeks",
+                "461 Chinese adults with obesity (BMI 30 or more)",
+                "9 mg: -16.7% vs -1.5% on placebo[^2]"
+              ],
+              [
+                "Type 2 diabetes, 28 weeks",
+                "731 Chinese adults taking oral diabetes drugs",
+                "More HbA1c and weight loss than dulaglutide 1.5 mg; weight 3.8% (4 mg) and 5.8% (6 mg) lower[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Participants were Chinese adults with a mean baseline BMI of about 31 to 34, lower than in many US obesity trials, so results may not transfer directly to other populations."
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Digestive effects** were the main side effects. In GLORY-2 at 9 mg, vomiting affected 53.1% versus 1.3% on placebo, nausea 46.9% versus 3.2% and diarrhea 39.4% versus 6.5%.[^2]",
+              "**Stopping treatment** because of side effects was uncommon: 1.5% on 4 mg, 0.5% on 6 mg and 1.0% on placebo in GLORY-1, and 2.9% on 9 mg in GLORY-2.[^1][^2]",
+              "**In diabetes,** digestive events were more frequent than on dulaglutide.[^4]",
+              "**Unknown:** long-term safety, cardiovascular outcomes and how it performs in non-Chinese populations."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A phase 3 trial comparing mazdutide with semaglutide (DREAMS-3) has been designed in China.[^6] In the US, mazdutide remains investigational, and any use outside a trial would involve an unapproved product."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Good: large phase 3 trials, mostly Chinese adults",
+      "text": "Randomized phase 3 trials with hundreds of participants each show clear weight loss and better blood sugar control than dulaglutide.[^1][^2][^4] Nearly all of the evidence comes from Chinese populations, and long-term and cardiovascular data are limited."
+    },
+    "faq": [
+      {
+        "q": "Is mazdutide approved in the US?",
+        "a": "No. China approved it for weight management in June 2025, but it is investigational in the US.[^3]"
+      },
+      {
+        "q": "How is it different from semaglutide?",
+        "a": "[Semaglutide](/peptides/semaglutide) acts on GLP-1 only. Mazdutide also activates the glucagon receptor, which is thought to add effects on the liver and energy use. A head-to-head trial in China has been designed.[^6]"
+      },
+      {
+        "q": "Can I buy mazdutide online?",
+        "a": "Not legally for human use in the US. Products sold online as mazdutide are not FDA-approved, and their purity and dose are unverified."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Once-Weekly Mazdutide in Chinese Adults with Obesity or Overweight.",
+        "source": "N Engl J Med",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40421736/",
+        "pmid": "40421736",
+        "doi": "10.1056/NEJMoa2411528",
+        "note": "GLORY-1: 48-week weight loss in 610 adults"
+      },
+      {
+        "n": 2,
+        "title": "Treatment With 9-mg Mazdutide for Weight Reduction in Chinese Adults With Obesity: The GLORY-2 Randomized Clinical Trial.",
+        "source": "JAMA",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42251595/",
+        "pmid": "42251595",
+        "doi": "10.1001/jama.2026.8142",
+        "note": "GLORY-2: 9 mg dose, 60 weeks, side effects"
+      },
+      {
+        "n": 3,
+        "title": "Innovent wins China approval for obesity drug mazdutide",
+        "source": "The Pharma Letter",
+        "year": 2025,
+        "url": "https://www.thepharmaletter.com/pharma-news/innovent-wins-china-approval-for-obesity-drug-mazdutide",
+        "note": "June 2025 approval in China and the Lilly license"
+      },
+      {
+        "n": 4,
+        "title": "Mazdutide versus dulaglutide in Chinese adults with type 2 diabetes.",
+        "source": "Nature",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41407860/",
+        "pmid": "41407860",
+        "doi": "10.1038/s41586-025-10031-z",
+        "note": "Phase 3 trial in type 2 diabetes, 731 adults"
+      },
+      {
+        "n": 5,
+        "title": "A Study of LY3305677 Compared With Placebo in Adult Participants With Obesity or Overweight",
+        "source": "ClinicalTrials.gov",
+        "year": 2023,
+        "url": "https://clinicaltrials.gov/study/NCT06124807",
+        "note": "NCT06124807: Lilly phase 2 trial"
+      },
+      {
+        "n": 6,
+        "title": "Mazdutide versus Semaglutide for the treatment of type 2 diabetes and obesity: Rationale, design and baseline data of DREAMS-3 phase 3 trial.",
+        "source": "Contemp Clin Trials",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41260459/",
+        "pmid": "41260459",
+        "doi": "10.1016/j.cct.2025.108150",
+        "note": "Design of the head-to-head trial"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

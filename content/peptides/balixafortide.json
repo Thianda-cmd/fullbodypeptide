@@ -1,0 +1,217 @@
+{
+  "slug": "balixafortide",
+  "name": "Balixafortide",
+  "zone": "heart",
+  "category": "clinical",
+  "aliases": [
+    "POL6326"
+  ],
+  "brands": [],
+  "class": "CXCR4 antagonist peptide",
+  "route": "Intravenous infusion given with chemotherapy",
+  "status": "Not FDA-approved; the phase 3 FORTRESS trial in breast cancer was stopped in 2021 after missing its main goal",
+  "evidence": 2,
+  "mechanism": "Designed to block the CXCR4 receptor that helps cancer and immune cells move and settle in tissues, with the aim of making chemotherapy work better",
+  "uses": [
+    "Studied in HER2-negative metastatic breast cancer"
+  ],
+  "popular": null,
+  "related": [
+    "motixafortide",
+    "ltx-315",
+    "lutetium-lu-177-dotatate"
+  ],
+  "article": {
+    "summary": "Balixafortide is an experimental CXCR4-blocking peptide tested with the chemotherapy eribulin in metastatic breast cancer. The phase 3 FORTRESS trial showed no benefit, and it is not approved.",
+    "takeaway": "Balixafortide is an experimental intravenous peptide that blocks CXCR4, a receptor involved in how cancer cells and immune cells move through and settle in tissues. In a phase 1 trial, **30%** of 54 evaluable women with heavily pretreated metastatic breast cancer responded to balixafortide plus the chemotherapy eribulin.[^1] The larger phase 3 FORTRESS trial then failed: response rates were **13.0%** with the combination and **13.7%** with eribulin alone, and the study was terminated for missing its primary endpoint.[^2][^3] The drug is not FDA-approved for any use.",
+    "glance": [
+      [
+        "FDA status",
+        "Investigational; phase 3 trial failed and a follow-on trial was withdrawn"
+      ],
+      [
+        "Main use studied",
+        "HER2-negative metastatic breast cancer, combined with eribulin"
+      ],
+      [
+        "How it's given",
+        "IV infusion on several days of each 21-day chemotherapy cycle"
+      ],
+      [
+        "Drug class",
+        "CXCR4 antagonist (cyclic peptide)"
+      ],
+      [
+        "Research",
+        "Phase 1 (56 patients) and phase 3 FORTRESS (432 patients)"
+      ],
+      [
+        "Related",
+        "[Motixafortide](/peptides/motixafortide), [LTX-315](/peptides/ltx-315)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "CXCR4 is a receptor on many cell types that responds to a signaling protein called CXCL12. The pair helps steer immune cells, keeps blood stem cells in the bone marrow, and has been linked in cancer to tumor spread and to a tumor's surroundings that shield it from treatment. In laboratory models, CXCR4 blockers made several anticancer treatments work better, which is the idea behind balixafortide.[^1][^4]"
+          },
+          {
+            "type": "p",
+            "text": "A related blocker, [motixafortide](/peptides/motixafortide), is approved for a different job: releasing stem cells from bone marrow for collection before a transplant."
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Balixafortide was developed by the Swiss company Polyphor, later renamed Spexis. After an early dose-finding study, the company ran FORTRESS (NCT03786094), a randomized phase 3 trial comparing balixafortide plus eribulin with eribulin alone in HER2-negative, locally recurrent or metastatic breast cancer. It started in May 2019, enrolled 432 patients and was terminated in October 2021.[^2]"
+          },
+          {
+            "type": "p",
+            "text": "A later phase 1/2 trial of balixafortide with nab-paclitaxel or eribulin, sponsored by MedSIR, was withdrawn on a funder decision.[^5] The drug has no approved use."
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Result"
+              ],
+              [
+                "Phase 1 (2014-2016)",
+                "56 women with heavily pretreated HER2-negative metastatic breast cancer",
+                "Partial responses in 16 of 54 evaluable patients (30%); maximum tolerated dose not reached[^1]"
+              ],
+              [
+                "FORTRESS: response rate",
+                "330 patients on third-line therapy or later",
+                "13.0% with balixafortide plus eribulin vs 13.7% with eribulin alone[^3]"
+              ],
+              [
+                "FORTRESS: progression-free survival",
+                "Patients on second-line therapy or later",
+                "Median 3.5 vs 4.0 months; hazard ratio 1.10, not significant[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The registry record gives the reason for stopping as failure to meet the primary endpoint.[^2] A response rate from a single-arm phase 1 trial cannot show what an added drug contributes, which is exactly what the randomized trial then tested."
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common adverse events in phase 1:** fatigue (79%), neutropenia (57%), infusion-related reactions (48%), hair loss and constipation (46% each) and nausea (45%).[^1]",
+              "**Serious adverse events** in 38% of patients, including febrile neutropenia in 9%. Two of 56 patients died while on treatment, one from septic shock and one from pneumonia.[^1]",
+              "**Early dosing change:** a treatment-related death in the first cohort led investigators to redesign the schedule.[^1]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The phase 1 authors judged the combination's safety similar to that of eribulin or balixafortide alone. Much of the toxicity seen is typical of chemotherapy, so a randomized comparison is needed to separate it from the added drug's effects."
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Because the only large randomized trial missed its endpoint, balixafortide is unlikely to reach the market for breast cancer. Its sponsor began a strategic review of the company in mid-2021,[^3] and the follow-on trial never enrolled. This entry could not confirm a formal end to the program."
+          },
+          {
+            "type": "p",
+            "text": "CXCR4 blockade itself remains an active research area in cancer, and the signaling axis is being studied across many tumor types.[^4]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Early signal, then a failed phase 3 trial",
+      "text": "Single-arm phase 1 results looked promising, but the randomized phase 3 trial showed no benefit over eribulin alone.[^1][^3] No other randomized data exist."
+    },
+    "faq": [
+      {
+        "q": "Is balixafortide approved?",
+        "a": "No. The only large randomized trial, FORTRESS, did not show a benefit and was terminated early.[^2]"
+      },
+      {
+        "q": "How is it related to motixafortide?",
+        "a": "Both block CXCR4. [Motixafortide](/peptides/motixafortide) (Aphexda) is approved to mobilize stem cells in multiple myeloma, while balixafortide was tested as an add-on to chemotherapy in breast cancer."
+      },
+      {
+        "q": "Why did phase 1 look better than phase 3?",
+        "a": "In phase 1 every patient received the combination, so it could not show what balixafortide added. In FORTRESS, patients on eribulin alone responded about as often (13.7%) as those who also received balixafortide (13.0%).[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Balixafortide plus eribulin in HER2-negative metastatic breast cancer: a phase 1, single-arm, dose-escalation trial.",
+        "source": "Lancet Oncol",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29706375/",
+        "pmid": "29706375",
+        "doi": "10.1016/S1470-2045(18)30147-5",
+        "note": "Phase 1: response rate and safety in 56 patients"
+      },
+      {
+        "n": 2,
+        "title": "Pivotal Study in HER2 Negative, Locally Recurrent or Metastatic Breast Cancer",
+        "source": "ClinicalTrials.gov",
+        "year": 2023,
+        "url": "https://clinicaltrials.gov/study/NCT03786094",
+        "note": "FORTRESS phase 3 record: terminated; progression-free survival results"
+      },
+      {
+        "n": 3,
+        "title": "Polyphor Provides Update on the Phase III FORTRESS Study of Balixafortide in Patients with Advanced HER2-negative Breast Cancer",
+        "source": "Polyphor press release (BioSpace)",
+        "year": 2021,
+        "url": "https://www.biospace.com/polyphor-provides-update-on-the-phase-iii-fortress-study-of-balixafortide-in-patients-with-advanced-her2-negative-breast-cancer",
+        "note": "June 28, 2021: response rate missed its co-primary endpoint"
+      },
+      {
+        "n": 4,
+        "title": "CXCL12-CXCR4/CXCR7 Axis in Cancer: from Mechanisms to Clinical Applications.",
+        "source": "Int J Biol Sci",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37497001/",
+        "pmid": "37497001",
+        "doi": "10.7150/ijbs.82317",
+        "note": "Review of the CXCR4 pathway as a cancer target"
+      },
+      {
+        "n": 5,
+        "title": "POL6326 (Balixafortide) Plus Nab-paclitaxel or Eribulin in Patients With HER2-negative Advanced Breast Cancer",
+        "source": "ClinicalTrials.gov",
+        "year": 2023,
+        "url": "https://clinicaltrials.gov/study/NCT04826016",
+        "note": "Follow-on phase 1/2 trial, withdrawn on a funder decision"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

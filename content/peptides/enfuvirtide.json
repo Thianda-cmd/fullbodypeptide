@@ -1,0 +1,229 @@
+{
+  "slug": "enfuvirtide",
+  "name": "Enfuvirtide",
+  "zone": "immune",
+  "category": "fda",
+  "aliases": [
+    "T-20"
+  ],
+  "brands": [
+    "Fuzeon"
+  ],
+  "class": "HIV fusion inhibitor peptide",
+  "route": "Injection under the skin, twice a day",
+  "status": "FDA-approved (2003) for treatment-experienced HIV-1; Genentech ended U.S. marketing on Feb 28, 2025",
+  "evidence": 4,
+  "mechanism": "Mimics part of the HIV envelope protein gp41 and blocks the folding step the virus needs to fuse with, and enter, immune cells",
+  "uses": [
+    "HIV-1 with ongoing replication despite treatment",
+    "Multidrug-resistant HIV (with other drugs)"
+  ],
+  "popular": null,
+  "related": [
+    "daptomycin",
+    "polymyxin-b-colistin",
+    "thymosin-alpha-1"
+  ],
+  "article": {
+    "summary": "Enfuvirtide (Fuzeon) was the first HIV fusion inhibitor, an injected peptide for multidrug-resistant HIV. Genentech stopped U.S. sales in February 2025 as newer options replaced it.",
+    "takeaway": "Enfuvirtide is a 36-amino-acid synthetic peptide that stops HIV from fusing with human immune cells. The FDA approved it in 2003 for people whose HIV kept replicating despite other treatment,[^1] and in two phase 3 trials it lowered viral load by about **0.8-0.9 log10 copies/mL** more than background treatment alone.[^2][^3] Nearly everyone had injection-site reactions from the twice-daily shots,[^1] and newer drugs have since replaced it: Genentech ended all U.S. marketing and distribution on February 28, 2025.[^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved 2003; marketing discontinued in the U.S. in 2025"
+      ],
+      [
+        "Main uses",
+        "HIV-1 with ongoing replication despite treatment, used with other drugs"
+      ],
+      [
+        "How it's taken",
+        "90 mg injected under the skin twice daily (adults)"
+      ],
+      [
+        "Drug class",
+        "HIV-1 gp41 fusion inhibitor"
+      ],
+      [
+        "Research",
+        "Two phase 3 trials (TORO 1 and 2) in over 1,000 people"
+      ],
+      [
+        "Related",
+        "[Daptomycin](/peptides/daptomycin), [polymyxin B / colistin](/peptides/polymyxin-b-colistin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "HIV enters an immune cell in steps. After the virus attaches to the cell, its gp41 protein folds back on itself like a hairpin, pulling the viral and cell membranes together so they fuse. Enfuvirtide copies a stretch of gp41 and binds its first heptad-repeat region, preventing the hairpin from closing, so fusion fails.[^1][^5]"
+          },
+          {
+            "type": "p",
+            "text": "It was the first drug to block HIV entry rather than act inside the cell.[^5] Because it works at a new step, it was useful for people whose virus had become resistant to the older drug classes."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The FDA label says to use it with other antiretroviral drugs for HIV-1 infection in treatment-experienced people whose virus is still replicating despite ongoing therapy.[^1] It is never used alone, because HIV quickly develops resistance to single drugs."
+          },
+          {
+            "type": "p",
+            "text": "Newer options for heavily treatment-experienced people, such as the capsid inhibitor lenacapavir, the attachment inhibitor fostemsavir and the antibody ibalizumab, do not require twice-daily injections."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Result at 24 weeks"
+              ],
+              [
+                "TORO 1 (2003)",
+                "501 heavily treated adults, North and South America",
+                "Viral load fell 1.70 log10 vs 0.76 with background therapy alone; CD4 count rose 76 vs 32 cells[^2]"
+              ],
+              [
+                "TORO 2 (2003)",
+                "512 adults, Europe and Australia",
+                "Viral load fell 1.43 vs 0.65 log10; CD4 count rose 65.5 vs 38 cells[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "note",
+            "text": "A drop of 1 log10 means viral load fell 10-fold. Both trials were open-label and compared enfuvirtide plus an optimized regimen with the optimized regimen alone."
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Adults inject 90 mg (1 mL) under the skin of the upper arm, front of the thigh or abdomen twice a day. Children weighing at least 11 kg get 2 mg per kg twice daily, up to 90 mg. The powder is mixed with 1 mL of sterile water and must be used within 24 hours.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Injection-site reactions:** 98% of trial participants had at least one (pain, hardened areas, redness, nodules and cysts), and 7% stopped treatment because of them or difficulty injecting.[^1]",
+              "**Pneumonia:** bacterial pneumonia was more frequent in the phase 3 trials (6.7 vs 0.6 events per 100 patient-years); a later observational study could not rule out an increased risk.[^1]",
+              "**Hypersensitivity:** in under 1% (rash, fever, vomiting, low blood pressure); the drug should be stopped and not restarted after a systemic reaction.[^1]",
+              "**Other common effects:** diarrhea, nausea and fatigue, which were also common without the drug.[^1]",
+              "**Bleeding:** people taking anticoagulants or with bleeding disorders may bleed more after injections.[^1]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The FDA approved Fuzeon on March 13, 2003.[^6] In August 2024 Genentech announced it would end all U.S. marketing and distribution on February 28, 2025, citing evolving clinical practice and reduced medical need given newer alternatives, and said the decision was unrelated to quality, safety or efficacy.[^4] Drugs@FDA now lists the product as discontinued.[^6]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: two large phase 3 randomized trials",
+      "text": "TORO 1 and TORO 2 randomized over 1,000 heavily treated people and showed clear viral-load benefits.[^2][^3] The drug's decline reflects the burden of twice-daily injections and better alternatives, not a new safety finding, according to its maker.[^4]"
+    },
+    "faq": [
+      {
+        "q": "Can I still get Fuzeon in the United States?",
+        "a": "Genentech ended U.S. marketing and distribution on February 28, 2025, and Drugs@FDA lists the product as discontinued.[^4][^6] A prescriber can discuss currently available alternatives."
+      },
+      {
+        "q": "Why did it fall out of use?",
+        "a": "Twice-daily injections caused frequent painful skin reactions,[^1] and newer drugs for heavily treated HIV are easier to take. Genentech cited evolving practice and reduced need.[^4]"
+      },
+      {
+        "q": "Does enfuvirtide cure HIV?",
+        "a": "No. It lowers viral load when combined with other antiretrovirals but does not eliminate the virus.[^2]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "FUZEON (enfuvirtide) for injection: prescribing information",
+        "source": "U.S. FDA (label)",
+        "year": 2019,
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/021481s033lbl.pdf",
+        "note": "Label revised 8/2019: indication, dosing, warnings, adverse reactions"
+      },
+      {
+        "n": 2,
+        "title": "Enfuvirtide, an HIV-1 fusion inhibitor, for drug-resistant HIV infection in North and South America.",
+        "source": "N Engl J Med",
+        "year": 2003,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12637625/",
+        "pmid": "12637625",
+        "doi": "10.1056/NEJMoa035026",
+        "note": "TORO 1 phase 3 trial"
+      },
+      {
+        "n": 3,
+        "title": "Efficacy of enfuvirtide in patients infected with drug-resistant HIV-1 in Europe and Australia.",
+        "source": "N Engl J Med",
+        "year": 2003,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12773645/",
+        "pmid": "12773645",
+        "doi": "10.1056/NEJMoa035211",
+        "note": "TORO 2 phase 3 trial"
+      },
+      {
+        "n": 4,
+        "title": "Genentech Provides Update on Fuzeon (enfuvirtide) in the United States",
+        "source": "Genentech statement",
+        "year": 2024,
+        "url": "https://gene.com/media/statements/ps_081924",
+        "note": "Announcement ending U.S. marketing on Feb 28, 2025"
+      },
+      {
+        "n": 5,
+        "title": "Enfuvirtide: the first therapy to inhibit the entry of HIV-1 into host CD4 lymphocytes.",
+        "source": "Nat Rev Drug Discov",
+        "year": 2004,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15031735/",
+        "pmid": "15031735",
+        "doi": "10.1038/nrd1331",
+        "note": "Discovery and development of the first entry inhibitor"
+      },
+      {
+        "n": 6,
+        "title": "Drugs@FDA: FUZEON (enfuvirtide), NDA 021481",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021481",
+        "note": "Original approval 03/13/2003; current status discontinued"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

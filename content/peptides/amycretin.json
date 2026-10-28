@@ -1,0 +1,205 @@
+{
+  "slug": "amycretin",
+  "name": "Amycretin",
+  "zone": "digestive",
+  "category": "clinical",
+  "aliases": [
+    "zenagamtide",
+    "NNC0487-0111"
+  ],
+  "brands": [],
+  "class": "GLP-1 and amylin receptor co-agonist",
+  "route": "Once-weekly injection or daily tablet in trials",
+  "status": "Not FDA-approved. Phase 3 trials began in 2026 under the new name zenagamtide",
+  "evidence": 2,
+  "mechanism": "One molecule that switches on both the GLP-1 and amylin receptors to lower appetite and increase fullness",
+  "uses": [
+    "Obesity (investigational)",
+    "Type 2 diabetes (investigational)"
+  ],
+  "popular": null,
+  "related": [
+    "cagrisema",
+    "cagrilintide",
+    "semaglutide",
+    "retatrutide"
+  ],
+  "article": {
+    "summary": "Amycretin, now named zenagamtide, is an experimental Novo Nordisk drug that activates GLP-1 and amylin receptors in one molecule, as a weekly injection or daily tablet. It is in phase 3 and not approved.",
+    "takeaway": "Amycretin (now called zenagamtide) is a single molecule designed to act on two appetite-control hormones at once, GLP-1 and amylin, and it is being studied as both a weekly injection and a daily tablet. In a 125-person early trial of the injection, adults with overweight or obesity lost up to **24.3% of body weight in 36 weeks** on the highest dose, versus 1.1% on placebo, although many participants left the study early.[^1] The tablet lowered blood sugar in a 36-week phase 2 trial in type 2 diabetes.[^2] Phase 3 trials began in 2026, so evidence on durability and safety is still thin.[^3]",
+    "glance": [
+      [
+        "Status",
+        "Investigational; not approved by the FDA"
+      ],
+      [
+        "Developer",
+        "Novo Nordisk"
+      ],
+      [
+        "How it's given",
+        "Weekly injection under the skin, or a daily tablet (in trials)"
+      ],
+      [
+        "Drug class",
+        "Combined GLP-1 and amylin receptor agonist"
+      ],
+      [
+        "Research",
+        "Published phase 1b/2a and phase 2 trials; phase 3 AMAZE program started 2026"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Two hormones shape appetite after a meal. GLP-1, released by the gut, raises insulin and slows stomach emptying. Amylin, released with insulin by the pancreas, acts on the brain to promote fullness. Amycretin is one peptide that binds the GLP-1 receptor and the amylin receptor, and the 2026 Lancet report on its tablet form lists the calcitonin receptor, a close relative of the amylin receptor, as a third target.[^2]"
+          },
+          {
+            "type": "p",
+            "text": "This differs from [CagriSema](/peptides/cagrisema), which combines two separate drugs. In rats and mice, amycretin lowered body weight and improved markers of metabolic disease.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Novo Nordisk now calls amycretin zenagamtide and began a phase 3 program named AMAZE in 2026. Registered trials include a head-to-head comparison with semaglutide, which started in September 2026,[^3] and a trial of the tablet for weight loss, which started in August 2026.[^5] Further trials cover sleep apnea, knee osteoarthritis, and type 2 diabetes compared with insulin."
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Result"
+              ],
+              [
+                "Phase 1b/2a, injection, up to 36 weeks",
+                "125 adults with overweight or obesity at one US site",
+                "60 mg: -24.3% vs -1.1% on placebo; 20 mg: -22.0% vs +1.9%; 1.25 mg for 20 weeks: -9.7%[^1]"
+              ],
+              [
+                "Phase 2, daily tablet, 36 weeks",
+                "186 adults with type 2 diabetes taking metformin",
+                "HbA1c fell 0.5 to 1.1 points more than placebo across three doses[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The injection study was small and run at a single center, and many participants withdrew, so its weight-loss figures should be treated as preliminary.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Digestive effects** were the most common side effects of the injection, mostly mild to moderate, in line with other GLP-1 and amylin drugs.[^1]",
+              "**In the tablet trial,** digestive events affected 26% to 47% of people on zenagamtide versus 23% on placebo. Serious adverse events occurred in 7 people on the drug and none on placebo, and there were no deaths.[^2]",
+              "**Unknown:** long-term safety, and how well weight loss lasts, have not been reported."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Phase 3 results are not expected soon, because the registered trials only began in 2026. Until then, key questions remain open: how large and durable the weight loss is in bigger trials, how well people tolerate the dose increases, and how the drug compares with semaglutide.[^3]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Early: striking but small trials, phase 3 just starting",
+      "text": "Published human data are limited to a small injection study and one phase 2 tablet trial in diabetes.[^1][^2] The weight-loss figures come from a single-center study with many dropouts, so larger trials are needed to confirm them."
+    },
+    "faq": [
+      {
+        "q": "Why does amycretin have two names?",
+        "a": "Zenagamtide is the newer name. The 2026 Lancet report describes it as \"zenagamtide (formerly amycretin)\".[^2]"
+      },
+      {
+        "q": "Is there a pill version?",
+        "a": "Yes. Novo Nordisk is testing both forms. A daily tablet lowered HbA1c in a phase 2 diabetes trial, and a phase 3 tablet trial for weight loss is recruiting.[^2][^5]"
+      },
+      {
+        "q": "Is amycretin approved or available?",
+        "a": "No. It is investigational. Products sold online under either name are not approved drugs, and their contents cannot be verified."
+      },
+      {
+        "q": "How is it different from CagriSema?",
+        "a": "[CagriSema](/peptides/cagrisema) combines two separate drugs, semaglutide and cagrilintide, in one injection. Amycretin is a single molecule that acts on both targets."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Amycretin, a novel, unimolecular GLP-1 and amylin receptor agonist administered subcutaneously: results from a phase 1b/2a randomised controlled study.",
+        "source": "Lancet",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40550231/",
+        "pmid": "40550231",
+        "doi": "10.1016/S0140-6736(25)01185-7",
+        "note": "125 adults: weight change over up to 36 weeks"
+      },
+      {
+        "n": 2,
+        "title": "Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial.",
+        "source": "Lancet",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42532079/",
+        "pmid": "42532079",
+        "doi": "10.1016/S0140-6736(26)01247-X",
+        "note": "Tablet form in type 2 diabetes; confirms the name change"
+      },
+      {
+        "n": 3,
+        "title": "A Research Study Investigating How Well the Medicine Zenagamtide Helps People With Excess Body Weight Lose Weight Compared to Semaglutide",
+        "source": "ClinicalTrials.gov",
+        "year": 2026,
+        "url": "https://clinicaltrials.gov/study/NCT07668414",
+        "note": "NCT07668414: phase 3 head-to-head trial, started September 2026"
+      },
+      {
+        "n": 4,
+        "title": "The effect of amycretin, a unimolecular glucagon-like peptide-1 and amylin receptor agonist, on body weight and metabolic dysfunction in mice and rats.",
+        "source": "EBioMedicine",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40706446/",
+        "pmid": "40706446",
+        "doi": "10.1016/j.ebiom.2025.105862",
+        "note": "Animal studies behind the human trials"
+      },
+      {
+        "n": 5,
+        "title": "AMAZE 9: A Research Study Investigating How Well Zenagamtide Tablets Help People With Excess Body Weight Lose Weight",
+        "source": "ClinicalTrials.gov",
+        "year": 2026,
+        "url": "https://clinicaltrials.gov/study/NCT07720271",
+        "note": "NCT07720271: phase 3 tablet trial, started August 2026"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

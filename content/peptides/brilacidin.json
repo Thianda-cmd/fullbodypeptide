@@ -1,0 +1,200 @@
+{
+  "slug": "brilacidin",
+  "name": "Brilacidin",
+  "zone": "digestive",
+  "category": "clinical",
+  "aliases": [],
+  "brands": [],
+  "class": "Defensin-mimetic host defense drug",
+  "route": "Studied as an IV dose, a mouth rinse and a colon-release tablet",
+  "status": "Not FDA-approved. Most advanced trials are small phase 2 studies; no phase 3 trial is registered",
+  "evidence": 2,
+  "mechanism": "A small synthetic molecule that mimics defensins, natural infection-fighting proteins, to disrupt microbes and calm inflammation",
+  "uses": [
+    "Serious skin infections (studied)",
+    "Mouth sores from radiation (studied)",
+    "Ulcerative proctitis (early study)"
+  ],
+  "popular": null,
+  "related": [
+    "ll-37",
+    "daptomycin",
+    "dalbavancin-oritavancin-telavancin"
+  ],
+  "article": {
+    "summary": "Brilacidin is an experimental synthetic mimic of the body's defensin proteins, studied for skin infections, radiation mouth sores and bowel inflammation. Human data are small and it is not approved.",
+    "takeaway": "Brilacidin is not a true peptide but a small synthetic molecule designed to behave like defensins, natural proteins that help the body fight microbes.[^1] It began as a possible single-dose antibiotic for skin infections, then was tested as a mouth rinse to prevent severe mouth sores during head and neck cancer radiation and as a treatment for ulcerative proctitis. Human data are limited to small phase 2 studies. In the mouth rinse trial, severe mucositis occurred in 9 of 21 treated patients versus 15 of 25 on placebo.[^2] No phase 3 trial is registered, and brilacidin is not approved for any use.",
+    "glance": [
+      [
+        "Status",
+        "Investigational; not approved by the FDA"
+      ],
+      [
+        "Main uses studied",
+        "Skin infections, radiation-induced mouth sores, ulcerative proctitis"
+      ],
+      [
+        "How it's given",
+        "Intravenous dose, mouth rinse or colon-release tablet (in trials)"
+      ],
+      [
+        "Drug class",
+        "Non-peptide defensin mimetic"
+      ],
+      [
+        "Research",
+        "Two phase 2 trials with registry records; little peer-reviewed human data"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Defensins are small proteins the body makes to fight microbes and to help regulate inflammation. Brilacidin is a small synthetic molecule built to imitate the shape and charge pattern of a defensin, which is why it is called a non-peptide mimetic even though it is grouped with peptide drugs.[^1] Like defensins, it is thought to disrupt microbial membranes and to calm inflammatory signaling."
+          },
+          {
+            "type": "p",
+            "text": "In laboratory studies it has also shown antifungal and antiviral activity in cells.[^1][^3] Those findings are not evidence of benefit in people."
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The sponsor first developed brilacidin as a possible single-dose intravenous antibiotic for serious skin infections.[^4] It has since been tested as a mouth rinse for painful mouth sores (oral mucositis) caused by radiation for head and neck cancer, and in an open-label study of ulcerative proctitis and proctosigmoiditis, two forms of bowel inflammation.[^5] A tablet designed to release in the colon was studied in healthy volunteers. The most advanced studies are phase 2, and no phase 3 trial is listed on ClinicalTrials.gov."
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Result"
+              ],
+              [
+                "Phase 2, skin infection (2014)",
+                "215 adults",
+                "Completed; no results are posted in the registry[^4]"
+              ],
+              [
+                "Phase 2, mouth rinse during radiation",
+                "61 adults with head and neck cancer",
+                "Severe mucositis in 9 of 21 on brilacidin vs 15 of 25 on placebo (those given at least 55 Gy)[^2]"
+              ],
+              [
+                "Phase 2, ulcerative proctitis (open label)",
+                "No placebo group",
+                "Sponsor reported topline results in 2017[^5]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The mouth rinse figures come from the trial registry, and the study was small. A PubMed search finds no peer-reviewed report of these trials' results as of October 2026, and no larger trial has confirmed them."
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Mouth rinse trial:** fatigue (21 vs 13 people), altered taste (17 vs 13) and dry mouth (16 vs 9) were more frequent on brilacidin than on placebo.[^2]",
+              "**Serious adverse events** were reported in 8 of 29 people on brilacidin and 5 of 30 on placebo.[^2]",
+              "**Unknown:** safety at antibiotic doses, long-term effects and drug interactions are not well documented in published trials."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "No confirmatory trial is registered, so brilacidin's future depends on funding and on whether the sponsor starts a phase 3 study. Until a larger controlled trial reports, its benefit in any condition remains unproven."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Early: small phase 2 trials, little published data",
+      "text": "Human data come from phase 2 trials of 61 and 215 adults, and only the mouth rinse trial has posted results.[^2][^4] Most other findings are from cells and animals, and none of this supports use outside a trial."
+    },
+    "faq": [
+      {
+        "q": "Is brilacidin a peptide?",
+        "a": "No. It is a small synthetic molecule designed to imitate defensins, which are natural proteins, so it is described as a defensin mimetic rather than a peptide.[^1]"
+      },
+      {
+        "q": "Is brilacidin approved or available?",
+        "a": "No. It is investigational and not approved for any condition. Any online product sold as brilacidin would be unapproved, with unverified contents."
+      },
+      {
+        "q": "Why is a mouth rinse being studied?",
+        "a": "Radiation to the head and neck often causes painful mouth sores. A rinse lets a drug act on the lining directly, and a small phase 2 trial found fewer severe cases on brilacidin, though it has not been repeated.[^2]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Brilacidin, a Non-Peptide Defensin-Mimetic Molecule, Inhibits SARS-CoV-2 Infection by Blocking Viral Entry.",
+        "source": "EC Microbiol",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35695877/",
+        "pmid": "35695877",
+        "note": "Describes brilacidin as a non-peptide defensin mimetic"
+      },
+      {
+        "n": 2,
+        "title": "Study of the Effects of Brilacidin Oral Rinse on Radiation-induced Oral Mucositis in Patients With Head and Neck Cancer",
+        "source": "ClinicalTrials.gov",
+        "year": 2017,
+        "url": "https://clinicaltrials.gov/study/NCT02324335",
+        "note": "NCT02324335: phase 2 results and adverse events"
+      },
+      {
+        "n": 3,
+        "title": "Antifungal Activity of Brilacidin, a Nonpeptide Host Defense Molecule.",
+        "source": "Antibiotics (Basel)",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38786134/",
+        "pmid": "38786134",
+        "doi": "10.3390/antibiotics13050405",
+        "note": "Laboratory antifungal findings"
+      },
+      {
+        "n": 4,
+        "title": "Efficacy and Safety Study of Brilacidin to Treat Serious Skin Infections",
+        "source": "ClinicalTrials.gov",
+        "year": 2014,
+        "url": "https://clinicaltrials.gov/study/NCT02052388",
+        "note": "NCT02052388: phase 2 skin infection trial, 215 adults"
+      },
+      {
+        "n": 5,
+        "title": "Innovation Pharmaceuticals Aims to Develop First Drug for Approval in Prevention of Oral Mucositis in Head and Neck Cancer Patients as Phase 2 Clinical Trial of Brilacidin Completes",
+        "source": "BioSpace (company press release)",
+        "year": 2017,
+        "url": "https://www.biospace.com/innovation-pharmaceuticals-aims-to-develop-first-drug-for-approval-in-prevention-of-oral-mucositis-in-head-and-neck-cancer-patients-as-phase-2-clinical-trial-of-brilacidin-completes",
+        "note": "Sponsor summary of its mucositis and proctitis programs"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

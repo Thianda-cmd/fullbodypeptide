@@ -1,0 +1,205 @@
+{
+  "slug": "palmitoyl-tripeptide-1",
+  "name": "Palmitoyl tripeptide-1",
+  "zone": "skin",
+  "category": "cosmetic",
+  "aliases": [
+    "Pal-GHK"
+  ],
+  "brands": [
+    "Matrixyl 3000"
+  ],
+  "class": "Signal peptide (collagen-stimulating)",
+  "route": "Applied to the skin in serums and creams",
+  "status": "Cosmetic ingredient; not an FDA-approved drug",
+  "evidence": 1,
+  "mechanism": "A fatty-acid-modified version of the natural peptide GHK, proposed to prompt skin cells to make collagen and other matrix proteins",
+  "uses": [
+    "Fine lines and wrinkles",
+    "Skin firmness"
+  ],
+  "popular": null,
+  "related": [
+    "palmitoyl-tetrapeptide-7",
+    "copper-tripeptide-1",
+    "ghk-cu",
+    "palmitoyl-tripeptide-38"
+  ],
+  "article": {
+    "summary": "Palmitoyl tripeptide-1 (Pal-GHK) is a fatty-acid-modified skincare peptide marketed to boost collagen, often paired with palmitoyl tetrapeptide-7. A 2025 review found surprisingly few clinical studies.",
+    "takeaway": "Palmitoyl tripeptide-1 (Pal-GHK) is the natural peptide GHK with a fatty acid attached to help it enter skin. Natural GHK is found in blood and has been linked in lab studies to collagen production and wound repair.[^1] The palmitoyl version is widely used in anti-wrinkle products, usually paired with [palmitoyl tetrapeptide-7](/peptides/palmitoyl-tetrapeptide-7) as Matrixyl 3000, yet a 2025 review noted a surprising absence of clinical studies on it.[^2] The best human data come from multi-ingredient creams,[^3] and a 2026 skin study found the pair mostly in the outermost layer.[^4] **Evidence is limited.**",
+    "glance": [
+      [
+        "Status",
+        "Cosmetic ingredient (not an FDA-approved drug)"
+      ],
+      [
+        "Used for",
+        "Fine lines, wrinkles and firmness"
+      ],
+      [
+        "How it's used",
+        "Serums and eye creams, usually once or twice daily"
+      ],
+      [
+        "Peptide type",
+        "Signal peptide (fatty-acid-modified GHK)"
+      ],
+      [
+        "Research",
+        "Combination-product studies; few clinical studies"
+      ],
+      [
+        "Similar peptides",
+        "[Palmitoyl tetrapeptide-7](/peptides/palmitoyl-tetrapeptide-7), [copper tripeptide-1](/peptides/copper-tripeptide-1)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works-in-skin",
+        "title": "How it works in skin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GHK (glycine, histidine, lysine) is a natural peptide present in blood, saliva and urine that declines with age. In lab studies it stimulated collagen and related matrix molecules and accelerated wound repair.[^1] The same peptide bound to copper is covered in the [copper tripeptide-1](/peptides/copper-tripeptide-1) entry."
+          },
+          {
+            "type": "p",
+            "text": "Plain GHK is water-loving and does not cross skin well. Attaching palmitic acid, a fatty acid, raises permeability, according to a 2025 review of topical GHK.[^2] The theory is that the modified peptide can reach the layers where collagen is made."
+          }
+        ]
+      },
+      {
+        "id": "what-the-studies-show",
+        "title": "What the studies show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Source",
+                "Finding"
+              ],
+              [
+                "Review of topical GHK and Pal-GHK (2025)",
+                "Cell studies support an anti-wrinkle role, but there is a surprising absence of clinical studies on Pal-GHK or GHK-Cu[^2]"
+              ],
+              [
+                "12-week eye-cream study with Pal-GHK and Pal-GQPR (2024)",
+                "Hydration +28%, elasticity +19% and collagen density +55% on instruments, but the cream held other actives and the abstract describes no comparison group[^3]"
+              ],
+              [
+                "Three volunteers, serum with both peptides (2026)",
+                "Both peptides were detected through the outer stratum corneum, with signal falling steeply with depth[^4]"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-its-used",
+        "title": "How it's used",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pal-GHK is found in serums, eye creams and moisturizers, most often alongside palmitoyl tetrapeptide-7. In the 12-week eye-cream study, improvements in wrinkles and texture were reported by week 8, but the cream contained several actives.[^3] Labels rarely state the peptide concentration."
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Safety",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The eye-cream study described a high safety profile for the finished product,[^3] but safety data for the peptide itself are scarce. Irritation or allergy to other ingredients in the formula is the usual risk."
+          },
+          {
+            "type": "note",
+            "text": "Cosmetics do not need FDA approval before sale, and a product that claims to change how skin works can be treated as a drug.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pal-GHK is a popular ingredient built on interesting biology, but its own clinical record is nearly empty. It is a reasonable add-on in a moisturizer, with modest expectations and no substitute for sunscreen."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Very limited: combination products, few clinical studies",
+      "text": "A 2025 review describes cell support but a surprising lack of clinical studies on Pal-GHK.[^2] Human data come from multi-ingredient creams, so the peptide's own effect cannot be isolated.[^3]"
+    },
+    "faq": [
+      {
+        "q": "What is the difference between GHK-Cu and palmitoyl tripeptide-1?",
+        "a": "GHK-Cu is GHK bound to copper, while palmitoyl tripeptide-1 is GHK with a fatty acid attached. Each change affects how the molecule behaves on skin, and both have limited clinical data.[^2] See [copper tripeptide-1](/peptides/copper-tripeptide-1)."
+      },
+      {
+        "q": "Is it the same as Matrixyl?",
+        "a": "Matrixyl is a family of branded ingredients. Matrixyl 3000 pairs palmitoyl tripeptide-1 with palmitoyl tetrapeptide-7,[^4] while the original Matrixyl is [palmitoyl pentapeptide-4](/peptides/palmitoyl-pentapeptide-4)."
+      },
+      {
+        "q": "How long does it take to work?",
+        "a": "The 12-week study measured results at 4, 8 and 12 weeks, with wrinkle and texture gains reported by week 8, but with other ingredients in the cream.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "GHK Peptide as a Natural Modulator of Multiple Cellular Pathways in Skin Regeneration.",
+        "source": "Biomed Res Int",
+        "year": 2015,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26236730/",
+        "pmid": "26236730",
+        "doi": "10.1155/2015/648108",
+        "note": "Review of GHK's lab and cosmetic skin data"
+      },
+      {
+        "n": 2,
+        "title": "Topically applied GHK as an anti-wrinkle peptide: Advantages, problems and prospective.",
+        "source": "Bioimpacts",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39963574/",
+        "pmid": "39963574",
+        "doi": "10.34172/bi.30071",
+        "note": "Review noting the scarcity of clinical studies of Pal-GHK"
+      },
+      {
+        "n": 3,
+        "title": "Comprehensive evaluation of the efficacy and safety of a new multi-component anti-aging topical eye cream.",
+        "source": "Skin Res Technol",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38932444/",
+        "pmid": "38932444",
+        "doi": "10.1111/srt.13790",
+        "note": "12-week eye-cream study with both Matrixyl 3000 peptides"
+      },
+      {
+        "n": 4,
+        "title": "Permeation behaviour of cosmetic actives into the human stratum corneum.",
+        "source": "Int J Pharm",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42790608/",
+        "pmid": "42790608",
+        "doi": "10.1016/j.ijpharm.2026.127447",
+        "note": "Where Pal-GHK and Pal-GQPR end up in volunteers' skin"
+      },
+      {
+        "n": 5,
+        "title": "Is It a Cosmetic, a Drug, or Both? (Or Is It Soap?)",
+        "source": "U.S. FDA",
+        "year": 2024,
+        "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+        "note": "How U.S. law separates cosmetics from drugs"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

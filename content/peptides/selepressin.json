@@ -1,0 +1,217 @@
+{
+  "slug": "selepressin",
+  "name": "Selepressin",
+  "zone": "heart",
+  "category": "clinical",
+  "aliases": [
+    "FE 202158"
+  ],
+  "brands": [],
+  "class": "Selective vasopressin V1a receptor agonist",
+  "route": "Continuous intravenous infusion in a hospital",
+  "status": "Investigational and discontinued; the phase 2b/3 SEPSIS-ACT trial in septic shock was stopped for futility",
+  "evidence": 3,
+  "mechanism": "Activates vasopressin V1a receptors to tighten blood vessels while avoiding V2 receptors, aiming to raise pressure and limit fluid leakage in sepsis",
+  "uses": [
+    "Studied in septic shock"
+  ],
+  "popular": null,
+  "related": [
+    "vasopressin",
+    "terlipressin",
+    "angiotensin-ii"
+  ],
+  "article": {
+    "summary": "Selepressin is an experimental vasopressin-like drug that targets only V1a receptors. It was tested in septic shock, but the large SEPSIS-ACT trial was stopped for futility and it is not approved.",
+    "takeaway": "Selepressin is an experimental, lab-made relative of vasopressin that activates only the V1a receptor, which tightens blood vessels. It was developed for septic shock in the hope of raising blood pressure while limiting the fluid leakage that makes sepsis worse. A small phase 2a trial suggested it could replace norepinephrine,[^1] but the 868-patient SEPSIS-ACT trial found no difference in ventilator- and vasopressor-free days (**15.0** vs **14.5**) and was stopped for futility.[^2] Selepressin is not FDA-approved.",
+    "glance": [
+      [
+        "FDA status",
+        "Investigational and discontinued; not approved"
+      ],
+      [
+        "Main use studied",
+        "Septic shock needing norepinephrine"
+      ],
+      [
+        "How it's given",
+        "Continuous IV infusion titrated to blood pressure"
+      ],
+      [
+        "Drug class",
+        "Selective vasopressin V1a receptor agonist"
+      ],
+      [
+        "Research",
+        "Phase 2a (53 patients) and phase 2b/3 SEPSIS-ACT (868 patients)"
+      ],
+      [
+        "Related",
+        "[Vasopressin](/peptides/vasopressin), [terlipressin](/peptides/terlipressin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Natural [vasopressin](/peptides/vasopressin) acts on three receptors: V1a on blood vessels, V1b in the pituitary and V2 in the kidney. Selepressin is a peptide analog built to act almost only on V1a. In sheep with severe sepsis it blocked vascular leak, the seepage of fluid from blood vessels that causes swelling and organ injury, and in a septic shock model it performed better than vasopressin or norepinephrine.[^3][^4]"
+          },
+          {
+            "type": "p",
+            "text": "The appeal was a non-catecholamine vasopressor. Norepinephrine, the first-line drug, is not always effective and has catecholamine side effects.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "After a phase 2a study, Ferring Pharmaceuticals ran SEPSIS-ACT (NCT02508649), an adaptive phase 2b/3 trial that began in July 2015 at 63 hospitals in Belgium, Denmark, France, the Netherlands and the United States. It was stopped for futility at the end of its first part, and the registry lists it as terminated.[^2][^5] Development in septic shock has ended, and the drug has no approved use."
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Result"
+              ],
+              [
+                "Phase 2a",
+                "53 adults with early septic shock",
+                "At 2.5 ng/kg/min about 50% and 70% kept blood pressure up without norepinephrine at 12 and 24 hours; 7-day norepinephrine dose 249 vs 761 mcg/kg on placebo[^1]"
+              ],
+              [
+                "SEPSIS-ACT",
+                "868 randomized adults (828 treated) with septic shock needing more than 5 mcg/min of norepinephrine",
+                "Ventilator- and vasopressor-free days 15.0 vs 14.5 (P=0.30); 90-day deaths 40.6% vs 39.4%[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Kidney-replacement-free days (18.5 vs 18.2) and ICU-free days (12.6 vs 12.2) were also similar. The two trials fit together: selepressin could hold up blood pressure, but doing so did not translate into more days free of ventilators or vasopressors or into better survival.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**In SEPSIS-ACT,** cardiac arrhythmias occurred in 27.9% on selepressin vs 25.2% on placebo, cardiac ischemia in 6.6% vs 5.6%, mesenteric (bowel) ischemia in 3.2% vs 2.6% and peripheral ischemia in 2.3% in both groups.[^2]",
+              "**In phase 2a,** the 2.5 ng/kg/min dose was well tolerated, with adverse events as frequent as on placebo. A higher dose group was stopped after one patient's infusion was discontinued for possible safety reasons.[^1]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Reduced blood flow to organs is the general concern with any strong vasoconstrictor, which is why ischemia was tracked closely."
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "SEPSIS-ACT's authors noted that further research would be needed to judge selepressin against other patient-centered outcomes,[^2] but the program was not continued. In current practice, guidelines recommend norepinephrine first and suggest adding vasopressin if blood pressure remains low.[^6]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Well tested, but the main trial found no benefit",
+      "text": "Two randomized trials exist. The phase 2a trial showed a blood pressure effect,[^1] but the large phase 2b/3 trial found no improvement in clinical outcomes.[^2]"
+    },
+    "faq": [
+      {
+        "q": "Is selepressin approved?",
+        "a": "No. Its main trial, SEPSIS-ACT, was stopped for futility, and the drug is no longer in development for septic shock.[^2][^5]"
+      },
+      {
+        "q": "How is it different from vasopressin?",
+        "a": "[Vasopressin](/peptides/vasopressin) activates V1a, V1b and V2 receptors. Selepressin was engineered to act almost only on V1a, hoping for a cleaner effect on blood vessels, but it did not show better outcomes in SEPSIS-ACT.[^2]"
+      },
+      {
+        "q": "Why did it fail if it raised blood pressure?",
+        "a": "Raising blood pressure with a drug does not automatically improve outcomes. Patients on selepressin had about the same number of ventilator- and vasopressor-free days (15.0 vs 14.5) as those on placebo.[^2]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Selepressin, a novel selective vasopressin V(1A) agonist, is an effective substitute for norepinephrine in a phase IIa randomized, placebo-controlled trial in septic shock patients.",
+        "source": "Crit Care",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28807037/",
+        "pmid": "28807037",
+        "doi": "10.1186/s13054-017-1798-7",
+        "note": "Phase 2a: blood pressure and norepinephrine use in 53 patients"
+      },
+      {
+        "n": 2,
+        "title": "Effect of Selepressin vs Placebo on Ventilator- and Vasopressor-Free Days in Patients With Septic Shock: The SEPSIS-ACT Randomized Clinical Trial.",
+        "source": "JAMA",
+        "year": 2019,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31577035/",
+        "pmid": "31577035",
+        "doi": "10.1001/jama.2019.14607",
+        "note": "Phase 2b/3 trial stopped for futility"
+      },
+      {
+        "n": 3,
+        "title": "The selective vasopressin type 1a receptor agonist selepressin (FE 202158) blocks vascular leak in ovine severe sepsis*.",
+        "source": "Crit Care Med",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24674922/",
+        "pmid": "24674922",
+        "doi": "10.1097/CCM.0000000000000300",
+        "note": "Sheep study of vascular leak"
+      },
+      {
+        "n": 4,
+        "title": "A Selective V(1A) Receptor Agonist, Selepressin, Is Superior to Arginine Vasopressin and to Norepinephrine in Ovine Septic Shock.",
+        "source": "Crit Care Med",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26496451/",
+        "pmid": "26496451",
+        "doi": "10.1097/CCM.0000000000001380",
+        "note": "Sheep septic shock comparison with vasopressin and norepinephrine"
+      },
+      {
+        "n": 5,
+        "title": "Selepressin Evaluation Programme for Sepsis-Induced Shock - Adaptive Clinical Trial",
+        "source": "ClinicalTrials.gov",
+        "year": 2019,
+        "url": "https://clinicaltrials.gov/study/NCT02508649",
+        "note": "SEPSIS-ACT registry record: status terminated"
+      },
+      {
+        "n": 6,
+        "title": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2021.",
+        "source": "Crit Care Med",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34605781/",
+        "pmid": "34605781",
+        "doi": "10.1097/CCM.0000000000005337",
+        "note": "Guideline advice on vasopressors in septic shock"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

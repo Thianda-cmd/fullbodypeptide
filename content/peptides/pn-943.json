@@ -1,0 +1,190 @@
+{
+  "slug": "pn-943",
+  "name": "PN-943",
+  "zone": "digestive",
+  "category": "clinical",
+  "aliases": [],
+  "brands": [],
+  "class": "Oral alpha-4 beta-7 integrin antagonist peptide",
+  "route": "Taken by mouth twice a day in trials",
+  "status": "Not FDA-approved. A phase 2 ulcerative colitis trial reported in 2022; no phase 3 trial is registered",
+  "evidence": 2,
+  "mechanism": "Blocks the alpha-4 beta-7 integrin on gut-homing immune cells so fewer enter the intestinal lining, acting mainly inside the gut",
+  "uses": [
+    "Ulcerative colitis (studied)"
+  ],
+  "popular": null,
+  "related": [
+    "kpv",
+    "bpc-157",
+    "larazotide-acetate",
+    "cyclosporine"
+  ],
+  "article": {
+    "summary": "PN-943 is an experimental oral peptide that blocks the alpha-4 beta-7 integrin to keep immune cells out of the inflamed gut. A phase 2 ulcerative colitis trial showed a modest signal, and it is not approved.",
+    "takeaway": "PN-943 is an experimental peptide taken by mouth that aims to do inside the gut what the infused antibody vedolizumab does: block alpha-4 beta-7 integrin, a surface protein that helps immune cells enter the intestinal wall in inflammatory bowel disease. In the phase 2 IDEAL study of about 160 adults with moderate-to-severe ulcerative colitis, 27.5% on the 150 mg twice-daily dose reached clinical remission at 12 weeks versus 14.5% on placebo, a difference that was not statistically significant (P=0.08), and the higher dose did not separate from placebo.[^1] No phase 3 trial is registered, and PN-943 is not approved.",
+    "glance": [
+      [
+        "Status",
+        "Investigational; not approved by the FDA"
+      ],
+      [
+        "Studied for",
+        "Moderate-to-severe ulcerative colitis"
+      ],
+      [
+        "How it's taken",
+        "By mouth, twice daily in the phase 2 trial"
+      ],
+      [
+        "Drug class",
+        "Oral, gut-restricted alpha-4 beta-7 integrin antagonist peptide"
+      ],
+      [
+        "Research",
+        "One phase 2 trial (IDEAL) and a healthy-volunteer study; no phase 3 registered"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In ulcerative colitis, immune cells travel from the blood into the lining of the large intestine and drive inflammation. The alpha-4 beta-7 integrin acts like a docking key that lets some of those cells enter the gut. Blocking it is a proven approach: vedolizumab, an antibody given by infusion or injection, works this way."
+          },
+          {
+            "type": "p",
+            "text": "PN-943 is a small peptide designed to bind the same integrin but to stay mostly in the gut after swallowing, which could limit exposure elsewhere in the body. A study in healthy volunteers measured its blood levels and effects after single and multiple oral doses.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Protagonist Therapeutics ran the phase 2 IDEAL trial, which the registry lists as completed in 2023.[^3] The company said in 2022 that the 150 mg dose would advance toward a phase 3 program and that it was seeking a partner to help fund it.[^4] As of late 2026, no PN-943 phase 3 trial is listed on ClinicalTrials.gov."
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Result"
+              ],
+              [
+                "Phase 1",
+                "Healthy volunteers",
+                "Single and multiple oral doses studied for blood levels and effects[^2]"
+              ],
+              [
+                "IDEAL phase 2, 12 weeks",
+                "About 160 adults with moderate-to-severe ulcerative colitis",
+                "150 mg twice daily: remission 27.5% vs 14.5% on placebo (P=0.08); 450 mg did not separate from placebo[^1]"
+              ],
+              [
+                "IDEAL, biologic-naive subgroup",
+                "Adults not previously given a biologic",
+                "16 percentage points better than placebo (P=0.04)[^1]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The overall difference missed the usual threshold for statistical significance, and the subgroup result needs confirmation in a larger trial. The company also reported histologic and endoscopic improvement on the lower dose.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**IDEAL:** the rate of adverse events on the 150 mg dose was similar to placebo, according to the company.[^1]",
+              "**Design goal:** staying mostly in the gut was intended to limit exposure elsewhere in the body.[^2]",
+              "**Unknown:** long-term safety has not been tested in larger or longer trials."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Without a registered phase 3 trial, PN-943's future is uncertain. Any benefit would need to be confirmed in a larger study that meets its main endpoint in the overall population, not only in a subgroup."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Early: one phase 2 trial that missed its main test",
+      "text": "Human evidence is one phase 2 trial and a healthy-volunteer study.[^1][^2] The lower dose looked promising, but the main comparison was not statistically significant, and the results appeared in company announcements and news reports rather than a full journal article."
+    },
+    "faq": [
+      {
+        "q": "How is PN-943 different from vedolizumab?",
+        "a": "Both block the alpha-4 beta-7 integrin. Vedolizumab is an antibody given by infusion or injection, while PN-943 is a small peptide taken by mouth and designed to act mainly in the gut.[^1][^2]"
+      },
+      {
+        "q": "Did PN-943 work in ulcerative colitis?",
+        "a": "The lower dose showed a higher remission rate than placebo (27.5% vs 14.5%), but the difference was not statistically significant, and the higher dose did not separate from placebo.[^1]"
+      },
+      {
+        "q": "Is PN-943 approved or available?",
+        "a": "No. It is investigational, and no phase 3 trial is registered.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Phase 2 Data Positive for PN-943 as an Ulcerative Colitis Treatment",
+        "source": "HCPLive",
+        "year": 2022,
+        "url": "https://www.hcplive.com/view/phase-2-data-positive-pn-943-ulcerative-colitis-treatment",
+        "note": "News report of the IDEAL phase 2 topline results, April 2022"
+      },
+      {
+        "n": 2,
+        "title": "Single- and Multiple-Dose Pharmacokinetics and Pharmacodynamics of PN-943, a Gastrointestinal-Restricted Oral Peptide Antagonist of α4β7, in Healthy Volunteers.",
+        "source": "Clin Pharmacol Drug Dev",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33942566/",
+        "pmid": "33942566",
+        "doi": "10.1002/cpdd.946",
+        "note": "Healthy-volunteer study of the gut-restricted design"
+      },
+      {
+        "n": 3,
+        "title": "PN-943 in Adults With Moderate to Severe Active Ulcerative Colitis (UC)",
+        "source": "ClinicalTrials.gov",
+        "year": 2023,
+        "url": "https://clinicaltrials.gov/study/NCT04504383",
+        "note": "NCT04504383: phase 2 trial record, completed 2023"
+      },
+      {
+        "n": 4,
+        "title": "Protagonist Reports First Quarter 2022 Financial Results and Provides Corporate Update",
+        "source": "Protagonist Therapeutics (SEC exhibit)",
+        "year": 2022,
+        "url": "https://www.sec.gov/Archives/edgar/data/1377121/000110465922055918/tm2214413d1_ex99-1.htm",
+        "note": "Company plans for the 150 mg dose and a phase 3 partner"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

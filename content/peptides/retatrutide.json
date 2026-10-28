@@ -1,0 +1,258 @@
+{
+  "slug": "retatrutide",
+  "name": "Retatrutide",
+  "zone": "digestive",
+  "category": "clinical",
+  "aliases": [
+    "LY3437943"
+  ],
+  "brands": [],
+  "class": "GIP / GLP-1 / glucagon triple agonist",
+  "route": "Once-weekly injection under the skin in trials",
+  "status": "Not FDA-approved. Phase 3 results reported in 2026; Lilly plans to submit to the FDA in early 2027",
+  "evidence": 3,
+  "mechanism": "Activates three hormone receptors at once (GIP, GLP-1 and glucagon) to lower appetite and may also increase energy use",
+  "uses": [
+    "Obesity (investigational)",
+    "Type 2 diabetes with obesity",
+    "Sleep apnea with obesity",
+    "Knee osteoarthritis pain with obesity"
+  ],
+  "popular": 4,
+  "related": [
+    "tirzepatide",
+    "semaglutide",
+    "survodutide",
+    "mazdutide",
+    "cagrisema"
+  ],
+  "article": {
+    "summary": "Retatrutide is an investigational once-weekly injection from Eli Lilly that targets three hormone receptors. Phase 3 trials showed up to about 25% weight loss, but it is not FDA-approved.",
+    "takeaway": "Retatrutide (LY3437943) activates three receptors at once: GIP and GLP-1, the gut hormone targets of [tirzepatide](/peptides/tirzepatide), plus glucagon. In the first reported phase 3 trial, adults with obesity lost an average of **25.0% of body weight over 80 weeks** on the top dose, versus 3.9% on placebo.[^1] Weight loss was smaller, 18.8%, in people who also had type 2 diabetes.[^2] The drug is not FDA-approved: Lilly said in July 2026 that it plans to submit it for approval in early 2027.[^3] Retatrutide cannot lawfully be compounded, and vials sold online as \"research\" products carry no quality guarantee.[^4]",
+    "glance": [
+      [
+        "Status",
+        "Investigational; not approved by the FDA"
+      ],
+      [
+        "Developer",
+        "Eli Lilly"
+      ],
+      [
+        "How it's given",
+        "Once-weekly injection under the skin (in trials)"
+      ],
+      [
+        "Drug class",
+        "Triple GIP / GLP-1 / glucagon receptor agonist"
+      ],
+      [
+        "Research",
+        "Phase 2 and several phase 3 TRIUMPH trials, reported 2023-2026"
+      ],
+      [
+        "Related",
+        "[Tirzepatide](/peptides/tirzepatide), [semaglutide](/peptides/semaglutide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "After a meal, the gut releases incretin hormones that tell the pancreas to release insulin, slow stomach emptying and signal fullness to the brain. [Semaglutide](/peptides/semaglutide) copies one of them (GLP-1), and [tirzepatide](/peptides/tirzepatide) copies two (GLP-1 and GIP). Retatrutide adds a third target, the glucagon receptor."
+          },
+          {
+            "type": "ul",
+            "items": [
+              "**GLP-1 and GIP:** raise insulin when blood sugar is high, quiet appetite and slow digestion",
+              "**Glucagon:** best known for raising blood sugar, but it also acts on the liver and is thought to raise energy use and fat burning"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Eli Lilly runs a phase 3 program called TRIUMPH that tests retatrutide in obesity, type 2 diabetes, sleep apnea and knee osteoarthritis, with a separate trial in chronic kidney disease.[^5][^6] In July 2026 Lilly reported two more phase 3 obesity trials and said it expects to submit retatrutide to the FDA in the first quarter of 2027, once its manufacturing data package is complete.[^3] No retatrutide product is approved for sale in the US."
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Top dose vs placebo"
+              ],
+              [
+                "Phase 2, 48 weeks",
+                "338 adults with obesity",
+                "-24.2% vs -2.1% body weight[^7]"
+              ],
+              [
+                "TRIUMPH-1, 80 weeks",
+                "2,339 adults with obesity, no diabetes",
+                "-25.0% vs -3.9%[^1]"
+              ],
+              [
+                "TRIUMPH-2, 80 weeks",
+                "1,152 adults with obesity and type 2 diabetes",
+                "-18.8% vs -5.1%[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "TRIUMPH-1 also measured two conditions linked to weight. In people with sleep apnea, breathing interruptions per hour fell by about 32 to 34 on the higher doses versus 10 on placebo. In people with knee osteoarthritis, pain scores improved more than on placebo.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Digestive effects** were the most common. In TRIUMPH-2, diarrhea affected 34% of people on the top dose versus 13% on placebo, and nausea 28% versus 8%.[^2]",
+              "**Unusual skin sensations (dysesthesia)** occurred in 7% on the top dose versus 1% on placebo, and low blood pressure in 6% versus under 1%.[^2]",
+              "**Heart rate** rose in a dose-related way in the phase 2 trial, peaking at 24 weeks and declining afterward.[^7]",
+              "**Stopping early:** treatment ended for adverse events or death in 12% on 9 mg and 8% on 12 mg, versus 5% on placebo, in TRIUMPH-2.[^2]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Trials ran up to 80 weeks. Long-term safety, cardiovascular outcomes and what happens after stopping are not yet established."
+          }
+        ]
+      },
+      {
+        "id": "online-products",
+        "title": "Online and compounded products",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Retatrutide is widely sold online, but FDA states that it cannot be used in compounding under federal law because it is not a component of any approved drug. The agency has issued warning letters to telehealth companies marketing it, to suppliers selling the raw ingredient to compounders and to facilities repackaging it.[^4]"
+          },
+          {
+            "type": "p",
+            "text": "Vials labeled \"for research use only\" have been sold to consumers for human use, and FDA says products like these are of unknown quality and may be harmful.[^4] Purity, dose, sterility and identity cannot be assumed, and the trial safety data do not apply to an unverified product."
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The next milestone is Lilly's planned 2027 submission, followed by an FDA review.[^3] Open questions include safety beyond 80 weeks, effects on heart attacks and strokes, how much weight returns after stopping, and how dysesthesia and heart rate behave in larger populations."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong for weight loss; long-term safety unknown",
+      "text": "Two large randomized phase 3 trials published in 2026 show weight loss of roughly 19% to 25% on the top dose.[^1][^2] Follow-up is under two years, and cardiovascular outcome and long-term safety data are not yet available."
+    },
+    "faq": [
+      {
+        "q": "Is retatrutide approved?",
+        "a": "No. It is investigational. Lilly says it plans to submit it to the FDA in the first quarter of 2027, so a decision is not expected before then.[^3]"
+      },
+      {
+        "q": "Can I get retatrutide from a pharmacy?",
+        "a": "Not legally. FDA says retatrutide cannot be used in compounding, and online \"research\" vials are unapproved and of unknown quality.[^4]"
+      },
+      {
+        "q": "What side effects stand out?",
+        "a": "Nausea, diarrhea and vomiting are the most common. In TRIUMPH-2, unusual skin sensations and low blood pressure were also more frequent than on placebo.[^2]"
+      },
+      {
+        "q": "Why is it called a triple agonist?",
+        "a": "An agonist switches a receptor on. Retatrutide switches on three: GIP, GLP-1 and glucagon."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity.",
+        "source": "N Engl J Med",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42814954/",
+        "pmid": "42814954",
+        "doi": "10.1056/NEJMoa2604169",
+        "note": "TRIUMPH-1: 80-week weight, sleep apnea and knee pain results"
+      },
+      {
+        "n": 2,
+        "title": "Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial.",
+        "source": "Lancet",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42810372/",
+        "pmid": "42810372",
+        "doi": "10.1016/S0140-6736(26)01861-1",
+        "note": "TRIUMPH-2: weight loss and side effects in type 2 diabetes"
+      },
+      {
+        "n": 3,
+        "title": "Lilly's triple agonist, retatrutide, successful in two additional Phase 3 obesity trials, delivering significant improvements in weight and A1C",
+        "source": "Eli Lilly (press release)",
+        "year": 2026,
+        "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-successful-two-additional",
+        "note": "July 23, 2026 topline results and plan to submit in Q1 2027"
+      },
+      {
+        "n": 4,
+        "title": "FDA's Concerns with Unapproved GLP-1 Drugs Used for Weight Loss",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+        "note": "Retatrutide cannot be compounded; research-labeled products"
+      },
+      {
+        "n": 5,
+        "title": "Retatrutide for the treatment of obesity, obstructive sleep apnea and knee osteoarthritis: Rationale and design of the TRIUMPH registrational clinical trials.",
+        "source": "Diabetes Obes Metab",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41090431/",
+        "pmid": "41090431",
+        "doi": "10.1111/dom.70209",
+        "note": "Design of the TRIUMPH phase 3 program"
+      },
+      {
+        "n": 6,
+        "title": "Rationale, design and baseline characteristics of the TRANSCEND-CKD trial of retatrutide in patients with chronic kidney disease.",
+        "source": "Nephrol Dial Transplant",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41160422/",
+        "pmid": "41160422",
+        "doi": "10.1093/ndt/gfaf230",
+        "note": "Phase 3 kidney trial design"
+      },
+      {
+        "n": 7,
+        "title": "Triple-Hormone-Receptor Agonist Retatrutide for Obesity - A Phase 2 Trial.",
+        "source": "N Engl J Med",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37366315/",
+        "pmid": "37366315",
+        "doi": "10.1056/NEJMoa2301972",
+        "note": "Phase 2: 48-week weight loss and heart rate"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

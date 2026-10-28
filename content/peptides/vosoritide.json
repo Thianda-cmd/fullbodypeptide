@@ -1,0 +1,196 @@
+{
+  "slug": "vosoritide",
+  "name": "Vosoritide",
+  "zone": "bones",
+  "category": "fda",
+  "aliases": [],
+  "brands": [
+    "Voxzogo"
+  ],
+  "class": "C-type natriuretic peptide analog",
+  "route": "Daily injection under the skin, with the dose set by body weight",
+  "status": "FDA accelerated approval to increase linear growth in children with achondroplasia who have open growth plates",
+  "evidence": 4,
+  "mechanism": "Mimics C-type natriuretic peptide, which dampens the overactive FGFR3 growth-plate signal in achondroplasia and so promotes bone growth",
+  "uses": [
+    "Achondroplasia in children with open growth plates"
+  ],
+  "popular": null,
+  "related": [
+    "somatropin-rhgh",
+    "somapacitan",
+    "mecasermin",
+    "nesiritide"
+  ],
+  "article": {
+    "summary": "Vosoritide (Voxzogo) is a daily injection that speeds growth in children with achondroplasia whose growth plates are open. It is approved on an accelerated basis, and final adult height effects are still being established.",
+    "takeaway": "Vosoritide is a daily injection that mimics C-type natriuretic peptide (CNP), a natural signal that counters the overactive growth-plate brake behind achondroplasia, the most common cause of disproportionate short stature. In the pivotal trial, children on vosoritide grew 1.57 cm per year faster than children on placebo over 52 weeks.[^1] The FDA approved it on an accelerated basis because the evidence is growth rate, not final adult height, so a confirmatory trial is expected.[^2] Common problems are injection-site reactions and temporary drops in blood pressure.[^2]",
+    "glance": [
+      [
+        "FDA status",
+        "Accelerated approval (Voxzogo) for children with achondroplasia and open growth plates[^2]"
+      ],
+      [
+        "Main uses",
+        "Increasing linear growth in achondroplasia"
+      ],
+      [
+        "How it's taken",
+        "Daily injection under the skin, weight-based dose, mixed from powder before use"
+      ],
+      [
+        "Drug class",
+        "C-type natriuretic peptide (CNP) analog"
+      ],
+      [
+        "Research",
+        "52-week randomized phase 3 trial (121 children) and an extension of up to 6 years"
+      ],
+      [
+        "Related",
+        "[Somatropin](/peptides/somatropin-rhgh), [mecasermin](/peptides/mecasermin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Achondroplasia is caused by a gain-of-function change in the FGFR3 gene, which keeps growth plates from lengthening the long bones normally. CNP is a natural signal that binds natriuretic peptide receptor-B (NPR-B) and dampens FGFR3 signaling downstream. Vosoritide is a modified CNP designed to last longer in the body. By binding NPR-B it promotes the growth and maturation of cartilage cells, and so bone growth.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Voxzogo is approved to increase linear growth in children with achondroplasia whose growth plates (epiphyses) are still open. The approval is for growth, and it is not used once the growth plates have closed.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "Phase 3, 52 weeks",
+                "121 children with achondroplasia",
+                "Growth velocity 1.57 cm per year higher than placebo[^1]"
+              ],
+              [
+                "Extension, up to 6 years",
+                "119 children",
+                "About 5.75 cm more height after 3 years than untreated children; no long-term harms seen[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The first trial's authors noted it was unknown whether final adult height would increase, or what harms long-term use might cause.[^1] The extension compared treated children with untreated children rather than with a randomized control group.[^3]"
+          },
+          {
+            "type": "p",
+            "text": "A phase 3 trial reported in 2026 in children with hypochondroplasia, a related condition, found 2.33 cm per year more growth than placebo (81 children). That use is investigational.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Voxzogo is given as a daily injection under the skin, with the dose based on weight. It is supplied as a powder mixed before use. Children should be well hydrated and have eaten before the injection to lower the risk of low blood pressure.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Most common (over 10%):** redness, swelling or hives at the injection site, rash, vomiting, joint pain, lower blood pressure and gastroenteritis[^2]",
+              "**Low blood pressure:** temporary drops can cause dizziness, fatigue or nausea; people with significant heart or vascular disease or on blood pressure drugs were excluded from the trials[^2]",
+              "**Phase 3 trial:** no serious adverse event was judged treatment-related and there were no deaths[^1]",
+              "**Long term:** children were followed for up to 6 years without long-term harms or deaths observed[^3]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong for growth rate; adult height not yet proven",
+      "text": "A randomized, placebo-controlled phase 3 trial and a long extension support faster growth.[^1][^3] Whether treated children reach a taller adult height is not yet known.[^1]"
+    },
+    "faq": [
+      {
+        "q": "Does vosoritide cure achondroplasia?",
+        "a": "No. It speeds growth but does not correct the underlying gene change, and its effect on final adult height is not yet known.[^1]"
+      },
+      {
+        "q": "Is it the same as growth hormone?",
+        "a": "No. [Growth hormone](/peptides/somatropin-rhgh) works through IGF-1, and its labeled uses do not include achondroplasia. Vosoritide acts on the FGFR3 pathway through NPR-B.[^2]"
+      },
+      {
+        "q": "Who can take it?",
+        "a": "Children with achondroplasia whose growth plates are open. The current label covers pediatric patients with open epiphyses rather than a single age group.[^2]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Once-daily, subcutaneous vosoritide therapy in children with achondroplasia: a randomised, double-blind, phase 3, placebo-controlled, multicentre trial",
+        "source": "Lancet",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32891212/",
+        "pmid": "32891212",
+        "doi": "10.1016/S0140-6736(20)31541-5",
+        "note": "Pivotal 52-week trial against placebo"
+      },
+      {
+        "n": 2,
+        "title": "VOXZOGO (vosoritide) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=228e8560-04a4-4bb1-a81f-29531a9e4d27",
+        "note": "Indication, accelerated approval basis, mechanism and warnings"
+      },
+      {
+        "n": 3,
+        "title": "Sustained growth-promoting effects of vosoritide in children with achondroplasia from an ongoing phase 3 extension study",
+        "source": "Med",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39740666/",
+        "pmid": "39740666",
+        "doi": "10.1016/j.medj.2024.11.019",
+        "note": "Up to 6 years of treatment compared with untreated children"
+      },
+      {
+        "n": 4,
+        "title": "A Phase 3 Trial of Vosoritide in Children with Hypochondroplasia",
+        "source": "NEJM Evid",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42713641/",
+        "pmid": "42713641",
+        "doi": "10.1056/EVIDoa2600257",
+        "note": "Investigational use in a related skeletal condition"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

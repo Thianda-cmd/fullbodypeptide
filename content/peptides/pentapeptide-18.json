@@ -1,0 +1,220 @@
+{
+  "slug": "pentapeptide-18",
+  "name": "Pentapeptide-18",
+  "zone": "skin",
+  "category": "cosmetic",
+  "aliases": [
+    "Leuphasyl"
+  ],
+  "brands": [],
+  "class": "Neurotransmitter-inhibiting cosmetic peptide",
+  "route": "Applied to the skin in serums and creams",
+  "status": "Cosmetic ingredient; not an FDA-approved drug",
+  "evidence": 1,
+  "mechanism": "An enkephalin-like peptide proposed to calm the nerve signals that tighten facial muscles and so ease expression lines; shown mainly in lab settings",
+  "uses": [
+    "Expression lines",
+    "General anti-wrinkle skincare"
+  ],
+  "popular": null,
+  "related": [
+    "acetyl-hexapeptide-8",
+    "acetyl-octapeptide-3",
+    "dipeptide-diaminobutyroyl-benzylamide-diacetate"
+  ],
+  "article": {
+    "summary": "Pentapeptide-18 (Leuphasyl) is a skincare peptide marketed to relax expression lines by calming nerve signals. Published work is mostly lab characterization and formulation studies, not clinical trials.",
+    "takeaway": "Pentapeptide-18, sold as Leuphasyl, is a five-amino-acid cosmetic peptide marketed to soften expression lines by reducing nerve-to-muscle signaling, a design modeled on enkephalins, the body's own signaling peptides. A 2026 paper describes it as a neuromodulatory peptide that inhibits neurotransmitter release, then analyzes its structure with spectroscopy and computer modeling rather than testing it on skin.[^1] Other studies cover how to package it, such as in lipid nanoparticles with retinol,[^2] not wrinkle outcomes. **No clinical trial of the peptide on its own was found.**",
+    "glance": [
+      [
+        "Status",
+        "Cosmetic ingredient (not an FDA-approved drug)"
+      ],
+      [
+        "Used for",
+        "Expression lines around the eyes and forehead"
+      ],
+      [
+        "How it's used",
+        "Serums and eye creams, usually once or twice daily"
+      ],
+      [
+        "Peptide type",
+        "Neurotransmitter-inhibiting (\"Botox-like\") peptide"
+      ],
+      [
+        "Research",
+        "Lab and formulation studies; no clinical trial found"
+      ],
+      [
+        "Similar peptides",
+        "[Acetyl hexapeptide-8](/peptides/acetyl-hexapeptide-8), [acetyl octapeptide-3](/peptides/acetyl-octapeptide-3)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works-in-skin",
+        "title": "How it works in skin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Muscles contract when a nerve ending releases acetylcholine, a step that depends on calcium entering the nerve terminal. Enkephalins are natural peptides that act on opioid-type receptors and, among other effects, dampen nerve signaling. Pentapeptide-18 follows the enkephalin pattern and is proposed to reduce this release at the nerve-muscle junction, so muscles contract slightly less."
+          },
+          {
+            "type": "p",
+            "text": "Cosmetic chemists place it in the neurotransmitter-inhibitor class of topical peptides, one of four categories described in a 2009 review.[^3] Whether enough reaches nerve endings under the skin to matter has not been shown in people."
+          }
+        ]
+      },
+      {
+        "id": "what-the-studies-show",
+        "title": "What the studies show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Source",
+                "Finding"
+              ],
+              [
+                "Spectroscopy and computer modeling (2026)",
+                "Characterized the peptide's structure and interactions; no wrinkle testing in people[^1]"
+              ],
+              [
+                "Lipid nanoparticles with retinol (2024)",
+                "Produced stable particles holding both ingredients; a formulation study, not an efficacy trial[^2]"
+              ],
+              [
+                "Cells and a 3D skin model (2020)",
+                "Adding D-tyrosine to pentapeptide-18 gave it a pigment-lowering effect; this concerns a modified version[^4]"
+              ],
+              [
+                "Clinical trials of pentapeptide-18 alone",
+                "None found"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "A systematic review of over-the-counter anti-aging ingredients found that good supporting data are often missing.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-used",
+        "title": "How it's used",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pentapeptide-18 appears in serums and eye creams marketed for expression lines and is applied daily. Any change would be gradual and subtle, and the concentration is rarely printed on the label."
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Safety",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Peptide-specific safety data are scarce in published sources. Irritation or allergy to the formula is the usual risk. Because little peptide is expected to cross intact skin, effects on muscles elsewhere in the body are unlikely, though formal studies are lacking."
+          },
+          {
+            "type": "note",
+            "text": "Cosmetics do not need FDA approval before sale, and a product that claims to change how muscles or skin work can be treated as a drug.[^6]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pentapeptide-18 is a plausible but unproven Botox-style ingredient. The published work found is about chemistry and formulation, not outcomes in people, so expectations should stay modest."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Very limited: lab and formulation studies only",
+      "text": "The papers found deal with structure, modeling and formulation, not wrinkles in people.[^1][^2] Reviews of cosmetic anti-aging ingredients note that supporting data are often lacking.[^5]"
+    },
+    "faq": [
+      {
+        "q": "Does pentapeptide-18 contain opioids?",
+        "a": "It is modeled on enkephalin-type peptides but is a cosmetic ingredient, not a pain drug. Applied to skin it is not expected to have body-wide opioid effects, though dedicated studies are lacking."
+      },
+      {
+        "q": "Is it as good as Botox?",
+        "a": "Nothing found supports that. Botulinum toxin is injected into muscle, while a cream peptide must cross the skin first, and no clinical trial of pentapeptide-18 was located."
+      },
+      {
+        "q": "Can it lighten skin?",
+        "a": "A 2020 cell study found that a modified version with D-tyrosine reduced pigment, but the standard peptide was not shown to do so.[^4]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Pentapeptide-18 as an anti-aging candidate: Spectroscopic characterization and molecular interaction analysis.",
+        "source": "Comput Biol Chem",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41722287/",
+        "pmid": "41722287",
+        "doi": "10.1016/j.compbiolchem.2026.108952",
+        "note": "Structure and modeling study; no wrinkle testing in people"
+      },
+      {
+        "n": 2,
+        "title": "Solid Lipid Nanoparticles Incorporated with Retinol and Pentapeptide-18-Optimization, Characterization, and Cosmetic Application.",
+        "source": "Int J Mol Sci",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39337562/",
+        "pmid": "39337562",
+        "doi": "10.3390/ijms251810078",
+        "note": "Formulation and stability study"
+      },
+      {
+        "n": 3,
+        "title": "Role of topical peptides in preventing or treating aged skin.",
+        "source": "Int J Cosmet Sci",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19570099/",
+        "pmid": "19570099",
+        "doi": "10.1111/j.1468-2494.2009.00490.x",
+        "note": "Review sorting anti-aging peptides into four categories"
+      },
+      {
+        "n": 4,
+        "title": "D-tyrosine adds an anti-melanogenic effect to cosmetic peptides.",
+        "source": "Sci Rep",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31937863/",
+        "pmid": "31937863",
+        "doi": "10.1038/s41598-019-57159-3",
+        "note": "Cell and 3D-skin work on a modified pentapeptide-18"
+      },
+      {
+        "n": 5,
+        "title": "Topical Over-the-Counter Antiaging Agents: An Update and Systematic Review.",
+        "source": "Dermatology",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32882685/",
+        "pmid": "32882685",
+        "doi": "10.1159/000509296",
+        "note": "Systematic review of evidence for common anti-aging ingredients"
+      },
+      {
+        "n": 6,
+        "title": "Is It a Cosmetic, a Drug, or Both? (Or Is It Soap?)",
+        "source": "U.S. FDA",
+        "year": 2024,
+        "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+        "note": "How U.S. law separates cosmetics from drugs"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

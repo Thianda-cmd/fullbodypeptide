@@ -1,0 +1,162 @@
+{
+  "slug": "parathyroid-hormone",
+  "name": "Parathyroid hormone",
+  "zone": "bones",
+  "category": "fda",
+  "aliases": [
+    "PTH(1-84)",
+    "rhPTH(1-84)"
+  ],
+  "brands": [
+    "Natpara"
+  ],
+  "class": "Recombinant PTH(1-84)",
+  "route": "Daily injection under the skin (no longer supplied)",
+  "status": "FDA-approved in 2015 for hypoparathyroidism, but discontinued: manufacturing ended Dec 2024, US access program closed Dec 2025",
+  "evidence": 4,
+  "mechanism": "Replaces the full-length parathyroid hormone that people with hypoparathyroidism lack, helping hold blood calcium in range",
+  "uses": [
+    "Low calcium in hypoparathyroidism"
+  ],
+  "popular": null,
+  "related": [
+    "palopegteriparatide",
+    "teriparatide",
+    "abaloparatide",
+    "calcitonin-salmon"
+  ],
+  "article": {
+    "summary": "Natpara was recombinant parathyroid hormone (1-84), approved in 2015 for hypoparathyroidism. It worked in a phase 3 trial, but its maker stopped manufacturing it and the last US access program closed in 2025.",
+    "takeaway": "Natpara was recombinant human parathyroid hormone (PTH 1-84), approved by the FDA in 2015 as an add-on to calcium and vitamin D for people with hypoparathyroidism.[^1] In the REPLACE trial, 53% of patients met the main goal of needing much less calcium and active vitamin D with calcium kept in range, versus 2% on placebo.[^2] It carried a boxed warning about osteosarcoma seen in rats.[^1] Takeda ended manufacturing in December 2024 and closed its US Special Use Program on December 31, 2025, so it is no longer available.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved 2015; supply ended when the Special Use Program closed on December 31, 2025[^1][^3]"
+      ],
+      [
+        "Main uses",
+        "Add-on to calcium and vitamin D to control low calcium in hypoparathyroidism"
+      ],
+      [
+        "How it was taken",
+        "Daily injection under the skin from a multi-dose cartridge, through a restricted program[^1]"
+      ],
+      [
+        "Drug class",
+        "Recombinant full-length parathyroid hormone"
+      ],
+      [
+        "Research",
+        "REPLACE phase 3 trial in 134 adults"
+      ],
+      [
+        "Related",
+        "[Palopegteriparatide](/peptides/palopegteriparatide), [teriparatide](/peptides/teriparatide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Parathyroid hormone (PTH) is made by the four parathyroid glands in the neck. It keeps blood calcium steady by acting on bone and kidneys. People with hypoparathyroidism make too little, so calcium runs low. Natpara supplied the whole 84-amino-acid hormone, unlike [teriparatide](/peptides/teriparatide) and [palopegteriparatide](/peptides/palopegteriparatide), which carry only its first 34 amino acids.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it was used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Because of the osteosarcoma warning, the label limited Natpara to people who could not be well controlled on calcium and active vitamin D alone. It was not studied in hypoparathyroidism caused by calcium-sensing receptor mutations or in acute post-surgical hypoparathyroidism.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "REPLACE randomized 134 adults with hypoparathyroidism to PTH(1-84) or placebo for 24 weeks. The main goal was at least a 50% cut in daily oral calcium and active vitamin D while keeping blood calcium at or above baseline and within the normal range. It was met by 53% on PTH (48 of 90) and 2% on placebo (1 of 44). Serious adverse events were similar between groups (11% vs 9%).[^2]"
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "According to Takeda, Natpara was discontinued worldwide as a manufactured product in December 2024. In a final notice dated December 1, 2025, it said the US Special Use Program would close on December 31, 2025, with no shipments afterward. The notice warned that stopping abruptly can cause severe low calcium, asked prescribers to plan alternatives, and linked the label of an FDA-approved option for adults, [palopegteriparatide](/peptides/palopegteriparatide) (Yorvipath), while stating that Takeda could not recommend it.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Boxed warning:** osteosarcoma (a malignant bone tumor) in rats given PTH; a human risk could not be excluded, so it was reserved for people for whom benefit outweighed risk, and was available only through a REMS program[^1]",
+              "**Common (over 10%):** tingling, low calcium, headache, high calcium, nausea, numbness, diarrhea, vomiting, joint pain, high urine calcium and limb pain[^1]",
+              "**Calcium swings:** severe high calcium can occur, and severe low calcium can follow an interruption or stopping[^1]",
+              "**Digoxin:** high calcium raises the risk of digoxin toxicity[^1]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong trial evidence, but now of historical interest",
+      "text": "REPLACE was a randomized, placebo-controlled phase 3 trial with a clear effect on the main goal.[^2] The drug is no longer supplied, so the practical question is how patients are managed on alternatives."
+    },
+    "faq": [
+      {
+        "q": "Can I still get Natpara?",
+        "a": "No. Takeda ended manufacturing in December 2024, and its US Special Use Program closed on December 31, 2025.[^3] Stopping abruptly can cause severe low calcium, so people who used it should work with their endocrinologist on a plan.[^3]"
+      },
+      {
+        "q": "What replaced it?",
+        "a": "For adults, [palopegteriparatide](/peptides/palopegteriparatide) (Yorvipath) is the FDA-approved PTH-based option that Takeda's notice pointed to.[^3] Calcium plus active vitamin D remains the conventional baseline treatment."
+      },
+      {
+        "q": "Why was it restricted?",
+        "a": "Because PTH caused osteosarcoma in rats, the label carried a boxed warning and the drug was available only through a risk program.[^1]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "NATPARA (parathyroid hormone) for injection: prescribing information",
+        "source": "U.S. FDA",
+        "year": 2022,
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/125511s028lbl.pdf",
+        "note": "Boxed warning, REMS, indication and adverse reactions (label may not be the latest)"
+      },
+      {
+        "n": 2,
+        "title": "Efficacy and safety of recombinant human parathyroid hormone (1-84) in hypoparathyroidism (REPLACE): a double-blind, placebo-controlled, randomised, phase 3 study",
+        "source": "Lancet Diabetes Endocrinol",
+        "year": 2013,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24622413/",
+        "pmid": "24622413",
+        "doi": "10.1016/S2213-8587(13)70106-2",
+        "note": "REPLACE: 24-week phase 3 efficacy and safety"
+      },
+      {
+        "n": 3,
+        "title": "FINAL NOTICE: NATPARA Special Use Program closes December 31, 2025 (Takeda letter to health care providers)",
+        "source": "U.S. FDA",
+        "year": 2025,
+        "url": "https://www.fda.gov/media/189952/download",
+        "note": "Takeda notice on the end of Natpara supply and stopping safely"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

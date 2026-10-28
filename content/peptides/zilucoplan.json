@@ -1,0 +1,180 @@
+{
+  "slug": "zilucoplan",
+  "name": "Zilucoplan",
+  "zone": "bones",
+  "category": "fda",
+  "aliases": [],
+  "brands": [
+    "Zilbrysq"
+  ],
+  "class": "Complement C5 inhibitor peptide",
+  "route": "Daily injection under the skin from a prefilled syringe",
+  "status": "FDA-approved (2023) for generalized myasthenia gravis in adults with anti-AChR antibodies; boxed warning for meningococcal infection",
+  "evidence": 4,
+  "mechanism": "Binds complement protein C5 and blocks its cleavage, cutting off the immune attack on the nerve-muscle junction that drives weakness",
+  "uses": [
+    "Generalized myasthenia gravis (anti-AChR positive adults)"
+  ],
+  "popular": null,
+  "related": [
+    "pegcetacoplan",
+    "cyclosporine"
+  ],
+  "article": {
+    "summary": "Zilucoplan (Zilbrysq) is a daily self-injected peptide that blocks complement C5 in adults with anti-AChR-positive generalized myasthenia gravis. It carries a boxed warning for serious meningococcal infections.",
+    "takeaway": "Zilucoplan is a small, self-injected peptide that blocks complement protein C5, part of the immune cascade that damages the nerve-muscle junction in generalized myasthenia gravis (gMG). In the RAISE trial, the daily-living MG-ADL score improved by 4.39 points on zilucoplan versus 2.30 on placebo after 12 weeks.[^1] The biggest risk is life-threatening meningococcal infection, so the drug carries a boxed warning, requires vaccination and is available only through a restricted program.[^2]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved (Zilbrysq, 2023) for adults with anti-AChR antibody-positive gMG; boxed warning and REMS[^2]"
+      ],
+      [
+        "Main uses",
+        "Generalized myasthenia gravis"
+      ],
+      [
+        "How it's taken",
+        "Once-daily injection under the skin, dose set by body weight"
+      ],
+      [
+        "Drug class",
+        "Complement C5 inhibitor peptide"
+      ],
+      [
+        "Research",
+        "RAISE phase 3 (174 patients) and a long-term extension (200 patients)"
+      ],
+      [
+        "Related",
+        "[Pegcetacoplan](/peptides/pegcetacoplan), [cyclosporine](/peptides/cyclosporine)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In anti-AChR myasthenia gravis, antibodies attack acetylcholine receptors at the nerve-muscle junction, and the complement system helps damage the junction. Zilucoplan binds complement protein C5 and prevents its cleavage into C5a and C5b, which stops the terminal complement complex (C5b-9) from forming. The label says it is presumed to work by reducing C5b-9 deposition at the neuromuscular junction.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Zilbrysq is approved for generalized myasthenia gravis in adults who test positive for anti-acetylcholine receptor (AChR) antibodies.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "RAISE (12 weeks)",
+                "174 adults with AChR-positive gMG",
+                "MG-ADL score fell 4.39 points vs 2.30 on placebo (difference 2.09)[^1]"
+              ],
+              [
+                "RAISE-XT (open label)",
+                "200 patients, median 1.2 years of exposure",
+                "Improvements sustained through week 60, with no placebo group[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In RAISE, serious adverse events and serious infections were similar to placebo. One patient in each group died, and neither death was considered related to the study drug.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Zilucoplan is a once-daily injection under the skin from a prefilled syringe. The dose depends on weight: 16.6 mg under 56 kg, 23 mg from 56 to under 77 kg, and 32.4 mg at 77 kg or more. Baseline lipase and amylase are checked first. Meningococcal vaccines (serogroups A, C, W, Y and B) must be up to date at least 2 weeks before the first dose unless delay would be riskier.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Boxed warning:** serious and sometimes fatal meningococcal infections, even in vaccinated people; patients must be watched for early signs[^2]",
+              "**Restricted access:** available only through the Zilbrysq REMS program[^2]",
+              "**Common (10% or more):** injection-site reactions, upper respiratory infection and diarrhea; injection-site bruising was the top event in RAISE (16% vs 9% on placebo)[^2][^1]",
+              "**Other:** other infections, and pancreatitis or pancreatic cysts, have been reported[^2]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: randomized phase 3 plus long-term extension",
+      "text": "RAISE was randomized and placebo-controlled, with a clear benefit in daily-living scores at 12 weeks.[^1] Longer-term data are open label, without a control group.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Why is vaccination required?",
+        "a": "Blocking C5 weakens defenses against Neisseria meningitidis. The label requires meningococcal vaccination at least 2 weeks before the first dose unless delay is riskier, and vaccinated people can still become infected.[^2]"
+      },
+      {
+        "q": "Is it approved for children?",
+        "a": "No. The approval covers adults with anti-AChR antibody-positive generalized myasthenia gravis.[^2]"
+      },
+      {
+        "q": "What does the MG-ADL score measure?",
+        "a": "It is a short questionnaire about everyday abilities affected by myasthenia gravis, such as talking, chewing, swallowing, breathing and double vision. Lower scores mean fewer symptoms.[^1]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Safety and efficacy of zilucoplan in patients with generalised myasthenia gravis (RAISE): a randomised, double-blind, placebo-controlled, phase 3 study",
+        "source": "Lancet Neurol",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37059508/",
+        "pmid": "37059508",
+        "doi": "10.1016/S1474-4422(23)00080-7",
+        "note": "RAISE: 12-week efficacy and safety against placebo"
+      },
+      {
+        "n": 2,
+        "title": "ZILBRYSQ (zilucoplan) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9f1d53d6-e495-4a3a-8bb9-680a15d25034",
+        "note": "Boxed warning, REMS, dosing and adverse reactions"
+      },
+      {
+        "n": 3,
+        "title": "Long-term safety and efficacy of zilucoplan in patients with generalized myasthenia gravis: interim analysis of the RAISE-XT open-label extension study",
+        "source": "Ther Adv Neurol Disord",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38638673/",
+        "pmid": "38638673",
+        "doi": "10.1177/17562864241243186",
+        "note": "Open-label extension with sustained benefit through week 60"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

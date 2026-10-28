@@ -1,0 +1,175 @@
+{
+  "slug": "calcitonin-salmon",
+  "name": "Calcitonin-salmon",
+  "zone": "bones",
+  "category": "fda",
+  "aliases": [
+    "Salmon calcitonin"
+  ],
+  "brands": [
+    "Miacalcin",
+    "Fortical"
+  ],
+  "class": "Calcitonin receptor agonist",
+  "route": "Injection under the skin or into a muscle; nasal sprays were also approved",
+  "status": "FDA-approved (injection since 1975) for Paget's disease, hypercalcemia and, if other options are unsuitable, osteoporosis",
+  "evidence": 4,
+  "mechanism": "Mimics the thyroid hormone calcitonin to slow the osteoclasts that dissolve bone and to lower blood calcium",
+  "uses": [
+    "Symptomatic Paget's disease of bone",
+    "Hypercalcemia",
+    "Postmenopausal osteoporosis when alternatives are unsuitable"
+  ],
+  "popular": null,
+  "related": [
+    "teriparatide",
+    "abaloparatide",
+    "etelcalcetide",
+    "parathyroid-hormone"
+  ],
+  "article": {
+    "summary": "Salmon calcitonin (Miacalcin) is a hormone injection that slows bone breakdown and lowers blood calcium. It is used for Paget's disease, high calcium and, when other options are unsuitable, osteoporosis.",
+    "takeaway": "Calcitonin is a hormone made by the thyroid gland that slows the cells that break down bone, and salmon calcitonin is the form used as a drug. The injection is approved for symptomatic Paget's disease of bone, emergencies of high blood calcium, and postmenopausal osteoporosis only when other treatments are unsuitable, and its label says fracture reduction has not been shown.[^1] The best fracture data come from a nasal-spray trial in which only one of three doses cut spine fractures significantly.[^2] The label also flags a possible link with cancer, which a later review judged unlikely to be causal.[^1][^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved (Miacalcin injection, initial US approval 1975)[^1]"
+      ],
+      [
+        "Main uses",
+        "Paget's disease of bone, high blood calcium, some postmenopausal osteoporosis"
+      ],
+      [
+        "How it's taken",
+        "Injection under the skin or into a muscle; nasal sprays were also approved for osteoporosis"
+      ],
+      [
+        "Drug class",
+        "Calcitonin receptor agonist"
+      ],
+      [
+        "Research",
+        "One large nasal-spray fracture trial plus cancer-risk reviews"
+      ],
+      [
+        "Related",
+        "[Teriparatide](/peptides/teriparatide), [abaloparatide](/peptides/abaloparatide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Calcitonin is a hormone released by the thyroid gland. It binds to receptors on osteoclasts, the cells that dissolve bone, and slows them down. That reduces the calcium released from bone and lowers blood calcium. Salmon calcitonin is a close relative of the human hormone that acts on the same receptor."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Paget's disease of bone:** symptomatic, moderate to severe disease, when alternative treatments are not suitable[^1]",
+              "**Hypercalcemia:** early treatment of hypercalcemic emergencies, along with other measures[^1]",
+              "**Postmenopausal osteoporosis:** only when alternatives are not suitable; fracture-reduction efficacy has not been demonstrated for the injection[^1]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The 5-year PROOF trial tested a nasal spray in postmenopausal women with osteoporosis (1,108 had follow-up X-rays). The 200-unit dose cut new spine fractures by 33% compared with placebo (relative risk 0.67). The 100- and 400-unit doses did not differ significantly from placebo, so the dose response was inconsistent.[^2]"
+          },
+          {
+            "type": "p",
+            "text": "On cancer, the label cites a meta-analysis of 21 trials suggesting a higher overall rate of malignancy with calcitonin.[^1] A later review and meta-analysis found the association weak and a causal link unlikely, though it could not be excluded.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The injection goes under the skin or into a muscle, and the schedule depends on the condition. Adequate calcium and vitamin D intake is advised because calcitonin can lower blood calcium.[^1] Nasal sprays have also been approved for osteoporosis; availability varies, and the label reviewed for this entry covers the injection."
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** nausea with or without vomiting (about 10%), inflammation at the injection site (about 10%) and flushing of the face or hands (2% to 5%)[^1]",
+              "**Allergy:** serious reactions, including fatal anaphylaxis, have been reported; skin testing can be considered if sensitivity is suspected[^1]",
+              "**Low blood calcium** can occur[^1]",
+              "**Antibodies** to salmon calcitonin may develop and reduce the response[^1]",
+              "**Cancer:** a possible association, so the need for continued treatment should be reviewed periodically[^1]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Moderate: one nasal fracture trial, none for the injection",
+      "text": "Fracture evidence rests mainly on one nasal-spray trial with an inconsistent dose response.[^2] The injection label states that fracture-reduction efficacy has not been demonstrated.[^1]"
+    },
+    "faq": [
+      {
+        "q": "Is calcitonin still a first choice for osteoporosis?",
+        "a": "The injection label reserves it for postmenopausal osteoporosis when alternative treatments are not suitable.[^1] Bone-building drugs such as [teriparatide](/peptides/teriparatide) have direct fracture data in high-risk patients."
+      },
+      {
+        "q": "Does calcitonin cause cancer?",
+        "a": "The label notes a meta-analysis suggesting more malignancies, so continued need should be reviewed periodically.[^1] A later review concluded a causal link is unlikely but not excluded.[^3]"
+      },
+      {
+        "q": "Why does it lower blood calcium?",
+        "a": "By slowing osteoclasts it reduces calcium leaving bone. That is why it is used in hypercalcemic emergencies and why low calcium is a listed risk.[^1]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "MIACALCIN (calcitonin salmon) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=26caf31f-7f7c-48a8-a1ac-35d2ceefda2b",
+        "note": "Indications, malignancy and allergy warnings, common adverse reactions"
+      },
+      {
+        "n": 2,
+        "title": "A randomized trial of nasal spray salmon calcitonin in postmenopausal women with established osteoporosis: the prevent recurrence of osteoporotic fractures study. PROOF Study Group",
+        "source": "Am J Med",
+        "year": 2000,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10996576/",
+        "pmid": "10996576",
+        "doi": "10.1016/s0002-9343(00)00490-3",
+        "note": "PROOF: 5-year nasal spray fracture trial"
+      },
+      {
+        "n": 3,
+        "title": "Does salmon calcitonin cause cancer? A review and meta-analysis",
+        "source": "Osteoporos Int",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26438308/",
+        "pmid": "26438308",
+        "doi": "10.1007/s00198-015-3339-z",
+        "note": "Review of the calcitonin and cancer signal"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

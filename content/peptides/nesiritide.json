@@ -1,0 +1,212 @@
+{
+  "slug": "nesiritide",
+  "name": "Nesiritide",
+  "zone": "heart",
+  "category": "fda",
+  "aliases": [
+    "recombinant human B-type natriuretic peptide",
+    "hBNP"
+  ],
+  "brands": [
+    "Natrecor"
+  ],
+  "class": "Recombinant B-type natriuretic peptide",
+  "route": "Intravenous bolus followed by a continuous infusion in a hospital",
+  "status": "FDA-approved (2001) for acute decompensated heart failure; the Natrecor brand is discontinued",
+  "evidence": 4,
+  "mechanism": "A lab-made copy of the heart hormone BNP that relaxes blood vessels, lowering the pressure the heart works against, and promotes salt and water loss",
+  "uses": [
+    "Acute decompensated heart failure with breathlessness"
+  ],
+  "popular": null,
+  "related": [
+    "angiotensin-ii",
+    "vasopressin",
+    "eptifibatide"
+  ],
+  "article": {
+    "summary": "Nesiritide (Natrecor) is a lab-made version of the heart hormone BNP, approved in 2001 for acute heart failure. Large trials showed little benefit, and it is no longer sold in the US.",
+    "takeaway": "Nesiritide is a recombinant form of B-type natriuretic peptide (BNP), a hormone the heart releases when it is stretched. Given by IV in hospital, it widens blood vessels and can ease breathlessness in acute decompensated heart failure. The FDA approved it in 2001, but the 7,141-patient ASCEND-HF trial found only a small effect on breathlessness, below its prespecified bar, and no change in death or rehospitalization at 30 days (**9.4%** vs **10.1%**).[^1] Low blood pressure was more common, and the Natrecor brand is now discontinued.[^1][^2]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved August 2001 (Natrecor); marketing discontinued"
+      ],
+      [
+        "Main use",
+        "Short-term relief of breathlessness in acute decompensated heart failure"
+      ],
+      [
+        "How it's given",
+        "IV bolus then continuous infusion in a hospital"
+      ],
+      [
+        "Drug class",
+        "Recombinant B-type natriuretic peptide"
+      ],
+      [
+        "Research",
+        "VMAC (489 patients) and ASCEND-HF (7,141 patients)"
+      ],
+      [
+        "Related",
+        "[Angiotensin II](/peptides/angiotensin-ii), [vasopressin](/peptides/vasopressin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "BNP is a 32-amino-acid hormone released by the heart's pumping chambers when too much fluid stretches them. It acts on receptors in blood vessel walls and in the kidneys. In the vessels it relaxes smooth muscle, which lowers the pressure the heart pumps against and the pressure backing up into the lungs. In the kidneys it promotes loss of salt and water."
+          },
+          {
+            "type": "p",
+            "text": "Nesiritide has the same sequence as the human hormone and is made by recombinant DNA technology. In the VMAC trial it lowered pulmonary capillary wedge pressure, a measure of the back-pressure in the lungs, more than nitroglycerin or placebo did.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Natrecor was approved for early relief of breathlessness in people hospitalized with acute heart failure.[^1] It was a short-term, symptom-oriented treatment given alongside diuretics and other standard care. It was never a long-term heart failure medicine."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "VMAC (2002)",
+                "489 inpatients with breathlessness at rest",
+                "At 3 hours, wedge pressure fell 5.8 mm Hg with nesiritide vs 3.8 with nitroglycerin and 2 with placebo; breathlessness improved vs placebo[^3]"
+              ],
+              [
+                "Pooled analysis (2005)",
+                "3 trials: 485 nesiritide and 377 control patients",
+                "30-day deaths 7.2% vs 4.0%, raising a safety concern[^4]"
+              ],
+              [
+                "ASCEND-HF (2011)",
+                "7,141 hospitalized patients",
+                "Death or heart failure rehospitalization at 30 days 9.4% vs 10.1% on placebo; deaths 3.6% vs 4.0%[^1]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In ASCEND-HF, more nesiritide patients reported better breathlessness at 6 hours (44.5% vs 42.1%) and 24 hours (68.2% vs 66.1%), but the differences did not meet the trial's prespecified threshold. Worsening kidney function was similar (31.4% vs 29.5%), while low blood pressure was more common with nesiritide. The authors concluded that it cannot be recommended for routine use in the broad population of patients with acute heart failure.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Nesiritide was given only in a hospital, as an intravenous bolus followed by a continuous infusion, with blood pressure watched closely. In ASCEND-HF patients received it or placebo for 24 to 168 hours on top of standard care.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Low blood pressure (hypotension)** was the most consistent problem. ASCEND-HF found more of it with nesiritide than with placebo.[^1]",
+              "**Deaths:** a 2005 pooled analysis of small trials suggested higher 30-day mortality,[^4] but ASCEND-HF found no significant difference (3.6% vs 4.0%).[^1]",
+              "**Kidney function:** concern about kidney harm was not confirmed in ASCEND-HF, where worsening kidney function was 31.4% with nesiritide and 29.5% with placebo.[^1]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The FDA approved Natrecor (Scios) on August 10, 2001. The agency's Drugs@FDA database now lists it as discontinued, so nesiritide is not an option for US patients today.[^2]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong trial evidence, showing limited benefit",
+      "text": "A randomized trial of 7,141 patients gave a fairly clear answer: a small symptom effect and no clear gain in deaths or rehospitalization.[^1] Earlier hemodynamic data showed the drug lowers lung back-pressure, but that did not translate into better outcomes.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Is nesiritide still available?",
+        "a": "No. The FDA's database lists Natrecor as discontinued.[^2]"
+      },
+      {
+        "q": "Is it the same as the BNP blood test?",
+        "a": "No. Doctors measure the body's own BNP, or a related fragment called NT-proBNP, in a blood sample to help diagnose and track heart failure. Nesiritide is a drug copy of BNP given in much larger amounts to widen blood vessels."
+      },
+      {
+        "q": "Why did it fall out of favor?",
+        "a": "Early pooled data raised safety worries,[^4] and the large ASCEND-HF trial then showed only a modest symptom effect, no improvement in death or rehospitalization, and more low blood pressure.[^1]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Effect of nesiritide in patients with acute decompensated heart failure.",
+        "source": "N Engl J Med",
+        "year": 2011,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21732835/",
+        "pmid": "21732835",
+        "doi": "10.1056/NEJMoa1100171",
+        "note": "ASCEND-HF: symptoms, deaths and rehospitalization in 7,141 patients"
+      },
+      {
+        "n": 2,
+        "title": "Drugs@FDA: NATRECOR (nesiritide), NDA 020920",
+        "source": "U.S. FDA (Drugs@FDA)",
+        "year": 2026,
+        "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020920",
+        "note": "Original approval August 10, 2001; marketing status discontinued"
+      },
+      {
+        "n": 3,
+        "title": "Intravenous nesiritide vs nitroglycerin for treatment of decompensated congestive heart failure: a randomized controlled trial.",
+        "source": "JAMA",
+        "year": 2002,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11911755/",
+        "pmid": "11911755",
+        "doi": "10.1001/jama.287.12.1531",
+        "note": "VMAC: wedge pressure and breathlessness versus nitroglycerin and placebo"
+      },
+      {
+        "n": 4,
+        "title": "Short-term risk of death after treatment with nesiritide for decompensated heart failure: a pooled analysis of randomized controlled trials.",
+        "source": "JAMA",
+        "year": 2005,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15840865/",
+        "pmid": "15840865",
+        "doi": "10.1001/jama.293.15.1900",
+        "note": "Pooled 30-day mortality that raised the safety debate"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

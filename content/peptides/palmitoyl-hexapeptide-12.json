@@ -1,0 +1,221 @@
+{
+  "slug": "palmitoyl-hexapeptide-12",
+  "name": "Palmitoyl hexapeptide-12",
+  "zone": "skin",
+  "category": "cosmetic",
+  "aliases": [
+    "Pal-VGVAPG"
+  ],
+  "brands": [],
+  "class": "Signal peptide (elastin fragment mimic)",
+  "route": "Applied to the skin in serums and creams",
+  "status": "Cosmetic ingredient; not an FDA-approved drug",
+  "evidence": 1,
+  "mechanism": "Copies a repeating piece of elastin that, in cell studies, stimulates skin fibroblasts; benefit for wrinkles in people is unproven",
+  "uses": [
+    "Skin firmness and elasticity",
+    "Fine lines"
+  ],
+  "popular": null,
+  "related": [
+    "palmitoyl-pentapeptide-4",
+    "hexapeptide-9",
+    "tripeptide-10-citrulline",
+    "palmitoyl-tripeptide-38"
+  ],
+  "article": {
+    "summary": "Palmitoyl hexapeptide-12 is a skincare peptide modeled on a fragment of elastin, marketed for firmness and elasticity. Evidence is mainly cell and skin-sample work, with no large human trial found.",
+    "takeaway": "Palmitoyl hexapeptide-12 is a skincare peptide built on VGVAPG, a six-amino-acid sequence that repeats in elastin, the protein that lets skin spring back. In cultured cells, elastin fragments and the VGVAPG sequence itself stimulated skin fibroblasts to grow,[^1] but VGVAPG also raised production of collagenase (MMP-1), an enzyme that breaks collagen down.[^2] A 2025 study on human skin samples found that the palmitoylated peptide entered the outer layers and strengthened the barrier after lipids were stripped,[^3] which is a mechanical effect rather than proof of wrinkle reduction. **No large human trial** was found.",
+    "glance": [
+      [
+        "Status",
+        "Cosmetic ingredient (not an FDA-approved drug)"
+      ],
+      [
+        "Used for",
+        "Firmness, elasticity and fine lines"
+      ],
+      [
+        "How it's used",
+        "Serums and creams, usually once or twice daily"
+      ],
+      [
+        "Peptide type",
+        "Signal peptide modeled on elastin"
+      ],
+      [
+        "Research",
+        "Cell and skin-sample studies; no large human trial found"
+      ],
+      [
+        "Similar peptides",
+        "[Palmitoyl pentapeptide-4](/peptides/palmitoyl-pentapeptide-4), [hexapeptide-9](/peptides/hexapeptide-9)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works-in-skin",
+        "title": "How it works in skin",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Elastin gives skin its snap. When elastin breaks down, it releases fragments that carry a short motif, VGVAPG. Cells have a receptor that recognizes these fragments, and in lab dishes the signal tells fibroblasts to multiply.[^1] The theory behind this ingredient is that a skin product carrying the motif could trigger a repair response."
+          },
+          {
+            "type": "p",
+            "text": "The signal is double-edged. The same elastin-peptide receptor pathway turned on MMP-1, a collagen-degrading enzyme, in cultured fibroblasts,[^2] so what a cream would do in living skin is not obvious. Palmitic acid, a fatty acid, is attached to help the peptide mix with skin lipids."
+          }
+        ]
+      },
+      {
+        "id": "what-the-studies-show",
+        "title": "What the studies show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Source",
+                "Finding"
+              ],
+              [
+                "Cultured human skin fibroblasts (1995)",
+                "VGVAPG, but not two control sequences, stimulated fibroblast growth at sub-nanomolar concentrations[^1]"
+              ],
+              [
+                "Cultured fibroblasts (2001)",
+                "VGVAPG raised pro-collagenase-1 (pro-MMP-1) expression through the elastin-binding receptor[^2]"
+              ],
+              [
+                "Human skin samples (2025)",
+                "Palmitoyl hexapeptide-12 reached the outer layers, formed a gel, and strengthened and repaired the barrier after lipid removal[^3]"
+              ],
+              [
+                "Computer-based safety screen (2026)",
+                "Resembled collagen, elastin and fibronectin and lacked the toxin-like features of known harmful peptides[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "No randomized trial of wrinkle reduction with this peptide was found. Reviews of anti-aging cosmetics describe good supporting data as often missing.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-used",
+        "title": "How it's used",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "It appears in serums, eye creams and moisturizers marketed for firming. Ingredient lists seldom show its concentration, and any effect would take weeks of daily use."
+          }
+        ]
+      },
+      {
+        "id": "safety",
+        "title": "Safety",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The studies cited here include no human safety trial. Irritation or allergy to the formula is the main practical risk, and the collagenase finding is a reason to want longer, controlled human studies.[^2]"
+          },
+          {
+            "type": "note",
+            "text": "Cosmetics do not need FDA approval before sale, and a product that claims to change how skin works can be treated as a drug.[^6]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Palmitoyl hexapeptide-12 rests on elegant biology and early lab data, but its effect on wrinkles in people is unproven and the underlying signal has a possible downside in cell work. It is a reasonable low-risk ingredient to try in a moisturizer, with modest expectations."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Very limited: cell and skin-sample studies",
+      "text": "Cell work shows the elastin motif can both stimulate fibroblast growth and increase a collagen-degrading enzyme,[^1][^2] and skin-sample work shows barrier effects.[^3] Controlled wrinkle trials are lacking.[^5]"
+    },
+    "faq": [
+      {
+        "q": "Does palmitoyl hexapeptide-12 rebuild elastin?",
+        "a": "That has not been shown. The cell studies measured fibroblast growth and enzyme expression, not new elastic fibers in living skin.[^1][^2]"
+      },
+      {
+        "q": "Is it the same as palmitoyl pentapeptide-4?",
+        "a": "No. Both are palmitoylated signal peptides, but this one is modeled on elastin and the other on collagen, and each has a different, limited evidence base. See [palmitoyl pentapeptide-4](/peptides/palmitoyl-pentapeptide-4)."
+      },
+      {
+        "q": "Can I use it with retinoids or acids?",
+        "a": "Nothing in the cited studies tests combinations. Peptides are often used alongside other actives, and irritation from the stronger ingredient is the usual concern; a dermatologist can advise on a routine."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Growth stimulation of human skin fibroblasts by elastin-derived peptides.",
+        "source": "Cell Adhes Commun",
+        "year": 1995,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8821030/",
+        "pmid": "8821030",
+        "doi": "10.3109/15419069509081013",
+        "note": "VGVAPG stimulates skin fibroblast growth in culture"
+      },
+      {
+        "n": 2,
+        "title": "Conformational dependence of collagenase (matrix metalloproteinase-1) up-regulation by elastin peptides in cultured fibroblasts.",
+        "source": "J Biol Chem",
+        "year": 2001,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11084020/",
+        "pmid": "11084020",
+        "doi": "10.1074/jbc.M003642200",
+        "note": "VGVAPG raises a collagen-degrading enzyme in cells"
+      },
+      {
+        "n": 3,
+        "title": "Noninvasive Monitoring of Palmitoyl Hexapeptide-12 in Human Skin Layers: Mechanical Interaction with Skin Components and Its Potential Skincare Benefits.",
+        "source": "ACS Appl Bio Mater",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39964201/",
+        "pmid": "39964201",
+        "doi": "10.1021/acsabm.4c01816",
+        "note": "Human skin-sample study of penetration and barrier effects"
+      },
+      {
+        "n": 4,
+        "title": "A framework for the safety evaluation of peptides in cosmetics.",
+        "source": "Curr Res Toxicol",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41953401/",
+        "pmid": "41953401",
+        "doi": "10.1016/j.crtox.2026.100291",
+        "note": "Computer-based safety screen that included this peptide"
+      },
+      {
+        "n": 5,
+        "title": "Topical Over-the-Counter Antiaging Agents: An Update and Systematic Review.",
+        "source": "Dermatology",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32882685/",
+        "pmid": "32882685",
+        "doi": "10.1159/000509296",
+        "note": "Systematic review of evidence for common anti-aging ingredients"
+      },
+      {
+        "n": 6,
+        "title": "Is It a Cosmetic, a Drug, or Both? (Or Is It Soap?)",
+        "source": "U.S. FDA",
+        "year": 2024,
+        "url": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+        "note": "How U.S. law separates cosmetics from drugs"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

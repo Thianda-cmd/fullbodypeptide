@@ -16,7 +16,12 @@ const ART_POOL = 48;
 let missing = 0;
 const peptides = index.map((entry, i) => {
   const file = join(root, "content/peptides", `${entry.slug}.json`);
-  const d = existsSync(file) ? JSON.parse(readFileSync(file, "utf8")) : null;
+  let d = null;
+  try {
+    d = existsSync(file) ? JSON.parse(readFileSync(file, "utf8")) : null;
+  } catch (err) {
+    console.warn(`skipping unreadable ${entry.slug}.json: ${err.message}`);
+  }
   if (!d) missing++;
   return {
     slug: entry.slug,
