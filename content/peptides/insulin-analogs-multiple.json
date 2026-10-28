@@ -1,0 +1,307 @@
+{
+  "slug": "insulin-analogs-multiple",
+  "name": "Insulin analogs (multiple)",
+  "zone": "hormones",
+  "category": "fda",
+  "aliases": [
+    "Insulin lispro",
+    "Insulin aspart",
+    "Insulin glulisine",
+    "Insulin glargine",
+    "Insulin degludec",
+    "Insulin detemir",
+    "Insulin icodec",
+    "Insulin efsitora alfa"
+  ],
+  "brands": [
+    "Humalog",
+    "Lyumjev",
+    "Admelog",
+    "NovoLog",
+    "Fiasp",
+    "Apidra",
+    "Lantus",
+    "Basaglar",
+    "Semglee",
+    "Toujeo",
+    "Tresiba",
+    "Awiqli",
+    "Onswik"
+  ],
+  "class": "Insulins and insulin analogs",
+  "route": "Injection under the skin by pen, syringe or pump; regular insulin can also be given IV",
+  "status": "FDA-approved for type 1 and type 2 diabetes; first weekly basal insulins (icodec, efsitora) approved in 2026 for adults with type 2 diabetes",
+  "evidence": 4,
+  "mechanism": "Lab-made insulins with small structural changes that make them act faster or last longer, replacing the insulin the pancreas no longer makes in sufficient amounts",
+  "uses": [
+    "Type 1 diabetes (essential)",
+    "Type 2 diabetes",
+    "Diabetes in pregnancy",
+    "Hospital treatment of high blood sugar",
+    "Diabetic ketoacidosis (IV regular insulin)"
+  ],
+  "popular": null,
+  "related": [
+    "pramlintide",
+    "glucagon",
+    "dasiglucagon",
+    "semaglutide",
+    "tirzepatide"
+  ],
+  "article": {
+    "summary": "Insulin analogs are modified insulins, from rapid-acting mealtime types to daily and new once-weekly basal insulins, used to treat type 1 and type 2 diabetes in the US.",
+    "takeaway": "Insulin is the hormone that moves sugar from the blood into cells, and people with type 1 diabetes cannot survive without replacing it. Analogs are versions of human insulin with small changes that make them start faster, for meals, or last longer, for steady background coverage. Keeping blood sugar near target with insulin sharply cuts eye, kidney and nerve damage, as the landmark DCCT trial showed.[^1] The main risk is **low blood sugar (hypoglycemia)**, and newer long-acting analogs lower that risk somewhat compared with older human insulins.[^2][^3] In 2026 the FDA approved the first **once-weekly** insulins, but only for adults with type 2 diabetes.[^4][^5]",
+    "glance": [
+      [
+        "FDA status",
+        "Many approved products, including biosimilars; weekly icodec and efsitora approved in 2026"
+      ],
+      [
+        "Main uses",
+        "Type 1 diabetes, type 2 diabetes when other drugs are not enough, pregnancy, hospital care"
+      ],
+      [
+        "How it's taken",
+        "Injection under the skin by pen, syringe or pump; regular insulin by IV in hospitals"
+      ],
+      [
+        "Drug class",
+        "Insulin receptor agonists: rapid, short, intermediate, long-acting and weekly"
+      ],
+      [
+        "Research",
+        "A century of use; landmark DCCT trial; large trials comparing analogs"
+      ],
+      [
+        "Related",
+        "[Pramlintide](/peptides/pramlintide), used with mealtime insulin; [glucagon](/peptides/glucagon) for severe lows"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Insulin is a small protein made by beta cells in the pancreas. It signals muscle, fat and liver cells to take up glucose and tells the liver to stop releasing stored sugar. Type 1 diabetes destroys the beta cells; in type 2 diabetes the body resists insulin and production gradually falls."
+          },
+          {
+            "type": "p",
+            "text": "Human insulin injected under the skin clumps into groups of six molecules that absorb slowly and unevenly. Analogs tweak one or a few amino acids, or add a fatty-acid chain, to change that behavior: rapid-acting analogs break apart quickly to cover meals, while basal analogs release slowly or bind to albumin in the blood to provide steady background insulin."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "The main types",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Type",
+                "Examples (US)",
+                "Role"
+              ],
+              [
+                "Rapid-acting analogs",
+                "Lispro (Humalog, Admelog, Lyumjev), aspart (NovoLog, Fiasp, biosimilars), glulisine (Apidra)",
+                "Taken at meals; start within minutes and fade in a few hours; used in pumps"
+              ],
+              [
+                "Short-acting human",
+                "Regular insulin (Humulin R, Novolin R)",
+                "Slower mealtime insulin; given IV in hospitals"
+              ],
+              [
+                "Intermediate human",
+                "NPH (Humulin N, Novolin N)",
+                "Background insulin lasting about half a day, often given twice daily"
+              ],
+              [
+                "Long-acting analogs",
+                "Glargine (Lantus, Basaglar, Semglee, Toujeo), degludec (Tresiba)",
+                "Once-daily background insulin lasting a day or longer"
+              ],
+              [
+                "Once-weekly analogs",
+                "Icodec (Awiqli), efsitora alfa (Onswik)",
+                "Weekly background insulin for adults with type 2 diabetes"
+              ]
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Insulin detemir (Levemir) was discontinued in the US at the end of 2024. Premixed products combine an intermediate and a rapid component in one injection."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In the DCCT, people with type 1 diabetes on intensive insulin therapy had a 76% lower risk of developing eye disease than those on conventional treatment, along with less kidney and nerve damage, at the cost of two to three times more severe hypoglycemia.[^1]"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "**Long-acting analogs vs NPH:** a Cochrane review of 24 trials in type 2 diabetes found fewer hypoglycemia episodes with glargine or detemir, with similar HbA1c[^2]",
+              "**Degludec vs glargine:** in DEVOTE (7,637 high-risk adults), severe hypoglycemia occurred in 4.9% vs 6.6%, with no difference in heart events[^3]",
+              "**Weekly icodec, type 2:** HbA1c fell 1.55 points vs 1.35 with daily glargine over 52 weeks in people new to insulin[^6]",
+              "**Weekly icodec, type 1:** HbA1c matched daily degludec, but clinically significant lows were almost twice as frequent[^7]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Doses are individual and adjusted over time using glucose readings. Type 1 diabetes usually needs both background and mealtime insulin, given as several daily injections or through an insulin pump, often linked to a continuous glucose monitor. In type 2 diabetes, guidelines usually add a GLP-1 drug before or alongside insulin, then start a single daily basal dose if targets are still not met.[^8]"
+          },
+          {
+            "type": "p",
+            "text": "Rapid-acting insulin is injected shortly before (and for some products, right after starting) a meal. Daily basal insulin is given at the same time each day, and the weekly products on the same day each week.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Hypoglycemia:** shakiness, sweating, confusion; severe lows can cause seizures or loss of consciousness and need glucose or glucagon",
+              "**Weight gain** is common when insulin is started",
+              "**Skin changes:** lumps or dents where injections are repeated in one spot; rotating sites helps",
+              "**Low potassium,** allergic reactions and fluid retention when combined with pioglitazone-type drugs",
+              "**Mix-ups:** confusing mealtime with basal insulin, or concentrated with standard strengths, is a known cause of serious errors; pens must never be shared"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status, biosimilars and sport",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Since 2020, insulins have been regulated as biologics, which opened the door to biosimilars. Several glargine and aspart biosimilars are approved, some as interchangeable, meaning pharmacists may substitute them for the brand where state law allows."
+          },
+          {
+            "type": "p",
+            "text": "The two weekly insulins, Awiqli and Onswik, are labeled only for adults with type 2 diabetes, and Onswik's label advises against use in type 1 diabetes because of a higher risk of severe hypoglycemia.[^5] Insulin is also prohibited in sport, so athletes with diabetes need a therapeutic use exemption."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: essential medicine with decades of trial data",
+      "text": "Insulin's benefits on long-term complications are proven in randomized trials, and analogs have been compared head to head in large studies.[^1][^3] Differences between analogs are mainly about convenience and hypoglycemia risk rather than blood sugar control.[^2]"
+    },
+    "faq": [
+      {
+        "q": "Are insulin analogs better than human insulin?",
+        "a": "They control blood sugar about as well but tend to cause fewer lows, especially overnight, and offer more flexible timing.[^2] Human insulins remain cheaper and are still widely used."
+      },
+      {
+        "q": "Can people with type 1 diabetes use weekly insulin?",
+        "a": "Not on current US labels. In a type 1 trial, weekly icodec caused nearly twice as many significant lows as daily insulin, and both weekly products are approved only for type 2 diabetes in adults.[^7][^5]"
+      },
+      {
+        "q": "Is a biosimilar insulin the same as the brand?",
+        "a": "A biosimilar has no clinically meaningful differences from its reference insulin. Interchangeable ones can be swapped at the pharmacy where state law allows; switching any insulin should still be coordinated with the prescriber."
+      },
+      {
+        "q": "Why is insulin on the anti-doping list?",
+        "a": "Insulin can be misused to build muscle and is dangerous in people without diabetes, since it can cause severe hypoglycemia. Athletes who need it apply for a therapeutic use exemption."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus.",
+        "source": "N Engl J Med",
+        "year": 1993,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8366922/",
+        "pmid": "8366922",
+        "doi": "10.1056/NEJM199309303291401",
+        "note": "DCCT: intensive insulin therapy and long-term complications"
+      },
+      {
+        "n": 2,
+        "title": "(Ultra-)long-acting insulin analogues versus NPH insulin (human isophane insulin) for adults with type 2 diabetes mellitus.",
+        "source": "Cochrane Database Syst Rev",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33166419/",
+        "pmid": "33166419",
+        "doi": "10.1002/14651858.CD005613.pub4",
+        "note": "Systematic review comparing long-acting analogs with NPH"
+      },
+      {
+        "n": 3,
+        "title": "Efficacy and Safety of Degludec versus Glargine in Type 2 Diabetes.",
+        "source": "N Engl J Med",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28605603/",
+        "pmid": "28605603",
+        "doi": "10.1056/NEJMoa1615692",
+        "note": "DEVOTE: cardiovascular safety and severe hypoglycemia"
+      },
+      {
+        "n": 4,
+        "title": "AWIQLI (insulin icodec-abae) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5162b93e-5775-4581-a5e9-e8783ae0acd7",
+        "note": "First US weekly insulin label (2026): adults with type 2 diabetes"
+      },
+      {
+        "n": 5,
+        "title": "ONSWIK KWIKPEN (insulin efsitora alfa-gobe) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e02229e-262c-4e25-9240-9e9de4eb7c1d",
+        "note": "Second weekly insulin (2026); not recommended in type 1 diabetes"
+      },
+      {
+        "n": 6,
+        "title": "Weekly Icodec versus Daily Glargine U100 in Type 2 Diabetes without Previous Insulin.",
+        "source": "N Engl J Med",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37356066/",
+        "pmid": "37356066",
+        "doi": "10.1056/NEJMoa2303208",
+        "note": "ONWARDS 1: weekly icodec in type 2 diabetes"
+      },
+      {
+        "n": 7,
+        "title": "Once-weekly insulin icodec versus once-daily insulin degludec as part of a basal-bolus regimen in individuals with type 1 diabetes (ONWARDS 6): a phase 3a, randomised, open-label, treat-to-target trial.",
+        "source": "Lancet",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37863084/",
+        "pmid": "37863084",
+        "doi": "10.1016/S0140-6736(23)02179-7",
+        "note": "ONWARDS 6: higher hypoglycemia with weekly icodec in type 1 diabetes"
+      },
+      {
+        "n": 8,
+        "title": "9. Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes-2026.",
+        "source": "Diabetes Care",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41358900/",
+        "pmid": "41358900",
+        "doi": "10.2337/dc26-S009",
+        "note": "ADA 2026 guidance on insulin regimens in type 1 and type 2 diabetes"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "slug": "exenatide",
+  "name": "Exenatide",
+  "zone": "hormones",
+  "category": "fda",
+  "aliases": [
+    "Synthetic exendin-4",
+    "AC2993"
+  ],
+  "brands": [
+    "Byetta",
+    "Bydureon BCise"
+  ],
+  "class": "GLP-1 receptor agonist",
+  "route": "Injection under the skin twice daily before meals (a weekly form is no longer sold)",
+  "status": "FDA-approved for type 2 diabetes since 2005; Byetta and Bydureon BCise brands discontinued in 2024, generic twice-daily form remains",
+  "evidence": 4,
+  "mechanism": "Synthetic copy of a Gila monster venom peptide that activates GLP-1 receptors, raising insulin when glucose is high and slowing stomach emptying",
+  "uses": [
+    "Type 2 diabetes (blood sugar control)"
+  ],
+  "popular": null,
+  "related": [
+    "liraglutide",
+    "lixisenatide",
+    "dulaglutide",
+    "efpeglenatide",
+    "semaglutide"
+  ],
+  "article": {
+    "summary": "Exenatide was the first GLP-1 drug, approved in 2005 for type 2 diabetes. Its Byetta and Bydureon brands were discontinued in 2024, but a generic twice-daily version remains.",
+    "takeaway": "Exenatide is a synthetic version of exendin-4, a peptide discovered in the venom of the Gila monster lizard that happens to activate the human GLP-1 receptor.[^1] As Byetta, it became the first GLP-1 receptor agonist approved in the US in 2005, paving the way for later drugs such as semaglutide. Its large heart-safety trial showed it was safe but did not prove a significant reduction in heart attacks and strokes.[^2] AstraZeneca stopped selling both brand-name forms in 2024; a **generic twice-daily injection** is still available for adults with type 2 diabetes.[^3][^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved 2005 (Byetta), 2012 (Bydureon); brands discontinued 2024; generic twice-daily product available"
+      ],
+      [
+        "Main use",
+        "Blood sugar control in adults with type 2 diabetes"
+      ],
+      [
+        "How it's taken",
+        "Injection under the skin within an hour before the morning and evening meals"
+      ],
+      [
+        "Drug class",
+        "GLP-1 receptor agonist (exendin-4 based)"
+      ],
+      [
+        "Research",
+        "DURATION trials, the 14,752-person EXSCEL outcomes trial, and studies in youth and Parkinson's disease"
+      ],
+      [
+        "Related",
+        "[Lixisenatide](/peptides/lixisenatide), also built on exendin-4; [liraglutide](/peptides/liraglutide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In 1992 researchers isolated exendin-4 from Gila monster venom and found it acts on the same receptor as GLP-1, the human gut hormone that boosts insulin after meals.[^1] Exenatide is the lab-made version. It shares only about half its amino acid sequence with human GLP-1, but that difference makes it resistant to DPP-4, the enzyme that destroys natural GLP-1 within minutes."
+          },
+          {
+            "type": "ul",
+            "items": [
+              "**Pancreas:** more insulin and less glucagon when blood sugar is high",
+              "**Stomach:** slower emptying, which blunts the sugar spike after meals",
+              "**Brain:** reduced appetite, which often brings modest weight loss"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Exenatide is approved, with diet and exercise, to improve blood sugar in adults with type 2 diabetes.[^4] The weekly extended-release form (Bydureon BCise) had also been approved for children 10 and older, based on a 24-week trial in which HbA1c fell 0.36 points on exenatide while rising 0.49 points on placebo.[^5] It is not for type 1 diabetes, and it should not be combined with other exenatide products."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "DURATION-1",
+                "Adults with type 2 diabetes",
+                "Weekly form cut HbA1c 1.9 points vs 1.5 with twice-daily dosing over 30 weeks[^6]"
+              ],
+              [
+                "EXSCEL",
+                "14,752 adults, 73% with prior heart disease",
+                "Major cardiovascular events in 11.4% vs 12.2% on placebo; safe, but benefit not proven[^2]"
+              ],
+              [
+                "Exenatide-PD3",
+                "194 people with Parkinson's disease",
+                "No slowing of motor decline over 96 weeks compared with placebo[^7]"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The twice-daily product starts at 5 mcg injected under the skin within 60 minutes before the morning and evening meals (or the two main meals, at least six hours apart). After a month the dose can rise to 10 mcg twice daily. It should not be injected after a meal.[^4]"
+          },
+          {
+            "type": "note",
+            "text": "Bydureon BCise, the once-weekly autoinjector, and Byetta were discontinued by AstraZeneca in October 2024 as a business decision.[^3] Some older references still describe weekly exenatide dosing."
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** nausea (which usually eases over time), vomiting, diarrhea, jitteriness, dizziness, headache and indigestion",
+              "**Low blood sugar,** mainly when combined with a sulfonylurea or insulin",
+              "**Serious but rare:** pancreatitis, kidney injury from dehydration, gallbladder disease and severe allergic reactions",
+              "**Low platelets:** an immune reaction can cause dangerous bleeding; the drug must be stopped and never restarted",
+              "**Kidneys:** not recommended when kidney function is severely reduced[^4]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The weekly extended-release form carried a boxed warning about thyroid C-cell tumors seen in rodents; the twice-daily product does not."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong for glucose control; heart benefit unproven",
+      "text": "Exenatide's blood sugar effects are well established in randomized trials.[^6] Its large cardiovascular trial confirmed safety but narrowly missed showing benefit, and a phase 3 trial found no effect on Parkinson's disease progression.[^2][^7]"
+    },
+    "faq": [
+      {
+        "q": "Is it true exenatide comes from a lizard?",
+        "a": "Its design does. Exendin-4 was first found in Gila monster venom.[^1] The medicine is made synthetically in a lab, not extracted from animals."
+      },
+      {
+        "q": "Can I still get Byetta or Bydureon?",
+        "a": "No. AstraZeneca discontinued both in October 2024.[^3] A generic twice-daily exenatide is available, and many people have moved to other GLP-1 drugs."
+      },
+      {
+        "q": "Does exenatide help with Parkinson's disease?",
+        "a": "Early small studies raised hope, but a 96-week phase 3 trial found no difference from placebo in how fast symptoms progressed.[^7] It is not approved for Parkinson's disease."
+      },
+      {
+        "q": "Why take it before meals instead of after?",
+        "a": "Its main job is blunting the blood sugar rise that follows eating, so it needs to be on board before food arrives. Injecting after a meal is not recommended.[^4]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Isolation and characterization of exendin-4, an exendin-3 analogue, from Heloderma suspectum venom. Further evidence for an exendin receptor on dispersed acini from guinea pig pancreas.",
+        "source": "J Biol Chem",
+        "year": 1992,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1313797/",
+        "pmid": "1313797",
+        "note": "Discovery of exendin-4 in Gila monster venom"
+      },
+      {
+        "n": 2,
+        "title": "Effects of Once-Weekly Exenatide on Cardiovascular Outcomes in Type 2 Diabetes.",
+        "source": "N Engl J Med",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28910237/",
+        "pmid": "28910237",
+        "doi": "10.1056/NEJMoa1612917",
+        "note": "EXSCEL: cardiovascular outcomes trial"
+      },
+      {
+        "n": 3,
+        "title": "Discontinuation of Bydureon BCise and Byetta",
+        "source": "UnitedHealthcare Provider News",
+        "year": 2024,
+        "url": "https://www.uhcprovider.com/en/resource-library/news/2024/discontinuation-bydureon-bcise-byetta.html",
+        "note": "Dates AstraZeneca discontinued both brand products"
+      },
+      {
+        "n": 4,
+        "title": "EXENATIDE injection (twice-daily, generic): prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e6cb5c8f-e97f-4a6a-95a4-939fd2393949",
+        "note": "Current label for the twice-daily product: dosing and warnings"
+      },
+      {
+        "n": 5,
+        "title": "Once-Weekly Exenatide in Youth With Type 2 Diabetes.",
+        "source": "Diabetes Care",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35679098/",
+        "pmid": "35679098",
+        "doi": "10.2337/dc21-2275",
+        "note": "24-week placebo-controlled trial in youth aged 10-17"
+      },
+      {
+        "n": 6,
+        "title": "Exenatide once weekly versus twice daily for the treatment of type 2 diabetes: a randomised, open-label, non-inferiority study.",
+        "source": "Lancet",
+        "year": 2008,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18782641/",
+        "pmid": "18782641",
+        "doi": "10.1016/S0140-6736(08)61206-4",
+        "note": "DURATION-1: weekly versus twice-daily exenatide"
+      },
+      {
+        "n": 7,
+        "title": "Exenatide once a week versus placebo as a potential disease-modifying treatment for people with Parkinson's disease in the UK: a phase 3, multicentre, double-blind, parallel-group, randomised, placebo-controlled trial.",
+        "source": "Lancet",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39919773/",
+        "pmid": "39919773",
+        "doi": "10.1016/S0140-6736(24)02808-3",
+        "note": "Exenatide-PD3: no effect on Parkinson's progression"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

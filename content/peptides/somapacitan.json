@@ -1,0 +1,223 @@
+{
+  "slug": "somapacitan",
+  "name": "Somapacitan",
+  "zone": "hormones",
+  "category": "fda",
+  "aliases": [
+    "Somapacitan-beco",
+    "NN8640"
+  ],
+  "brands": [
+    "Sogroya"
+  ],
+  "class": "Long-acting growth hormone analog",
+  "route": "Once-weekly injection under the skin from a prefilled pen",
+  "status": "FDA-approved: adult GH deficiency (2020), childhood GH deficiency (2023), plus SGA, Noonan syndrome and idiopathic short stature (2026)",
+  "evidence": 4,
+  "mechanism": "Growth hormone carrying a small albumin-binding side chain that slows its clearance, so one weekly injection can replace daily shots",
+  "uses": [
+    "Growth hormone deficiency in children",
+    "Adult growth hormone deficiency",
+    "Short stature after being born small for gestational age",
+    "Noonan syndrome",
+    "Idiopathic short stature"
+  ],
+  "popular": null,
+  "related": [
+    "somatropin-rhgh",
+    "mecasermin",
+    "sermorelin",
+    "pegvisomant"
+  ],
+  "article": {
+    "summary": "Somapacitan (Sogroya) is a once-weekly growth hormone for adults and children with growth hormone deficiency, and since 2026 for several other causes of short stature in children.",
+    "takeaway": "Somapacitan is human growth hormone with one amino acid change and a fatty side chain that sticks to albumin in the blood, which stretches its action to a week.[^1] In children with growth hormone deficiency, weekly somapacitan grew children as fast as daily injections (11.2 vs 11.7 cm a year).[^3] In adults it reduced trunk fat compared with placebo.[^2] In 2026 the FDA added short stature after being born small for gestational age, Noonan syndrome and idiopathic short stature.[^1] Its safety profile mirrors daily growth hormone, and it is not a wellness or anti-aging product.",
+    "glance": [
+      [
+        "FDA status",
+        "Approved: adults 2020, children with GH deficiency 2023, three more pediatric uses 2026"
+      ],
+      [
+        "Main uses",
+        "Growth hormone deficiency in adults and children 2.5 years and older; other short-stature conditions in children"
+      ],
+      [
+        "How it's taken",
+        "Injection under the skin once a week, on the same day"
+      ],
+      [
+        "Drug class",
+        "Long-acting growth hormone (albumin-binding)"
+      ],
+      [
+        "Research",
+        "Phase 3 REAL trials in adults and children, including head-to-head comparisons with daily GH"
+      ],
+      [
+        "Related",
+        "[Somatropin](/peptides/somatropin-rhgh), the daily growth hormone"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Growth hormone from the pituitary drives childhood growth through IGF-1 and, in adults, helps regulate body fat, muscle, bone and energy. Daily growth hormone injections are cleared within hours, so they must be given every day, which many children and families find hard to sustain."
+          },
+          {
+            "type": "p",
+            "text": "Somapacitan adds a small fatty acid-based side chain that binds reversibly to albumin, the most abundant blood protein. That slows its removal and gives a steady effect across the week while the hormone itself acts on the same receptor as natural growth hormone.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Children 2.5 years and older:** growth failure from growth hormone deficiency; short stature after being born small for gestational age without catch-up growth by age 2; Noonan syndrome; idiopathic short stature",
+              "**Adults:** replacement of growth hormone in diagnosed growth hormone deficiency[^1]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "It is one of three long-acting growth hormones in the US, alongside lonapegsomatropin and somatrogon, each with somewhat different labels and technologies."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "REAL 1",
+                "Adults with GH deficiency",
+                "Less trunk fat than placebo at 34 weeks; benefits matched daily GH through 86 weeks[^2]"
+              ],
+              [
+                "REAL 4",
+                "Children with GH deficiency, new to treatment",
+                "Growth of 11.2 cm/year vs 11.7 with daily GH; noninferior at 52 weeks[^3]"
+              ],
+              [
+                "Noonan syndrome trial",
+                "Children with Noonan syndrome, new to treatment",
+                "Growth of 10.4 cm/year vs 9.2 with daily GH at 52 weeks[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Injection-site reactions were uncommon in REAL 4 (5.3% with somapacitan, 5.9% with daily GH), and families reported a lower treatment burden with weekly dosing.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Doses are weight-based for children: 0.16 mg/kg weekly for growth hormone deficiency and 0.24 mg/kg weekly for the other pediatric conditions. Adults usually start at 1.5 mg weekly (lower for people 65 and older, higher for women taking oral estrogen) and are adjusted every 2-4 weeks by IGF-1 levels and response, up to 8 mg.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Children:** colds and other infections, headache, fever, limb pain and injection-site reactions",
+              "**Adults:** joint and back pain, swelling from fluid retention, indigestion, sleep problems and dizziness",
+              "**Growth hormone class warnings:** raised blood sugar, raised pressure inside the skull, hip growth-plate slips and scoliosis in children, pancreatitis, and unmasking of low cortisol or thyroid hormone",
+              "**Not used with:** active cancer, acute critical illness, closed growth plates in children, advanced diabetic eye disease, or Prader-Willi syndrome with severe obesity or breathing problems[^1]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: phase 3 trials versus daily GH",
+      "text": "Randomized phase 3 trials in adults and children show weekly somapacitan works as well as daily growth hormone, with similar safety.[^2][^3] Long-term data beyond a few years are still accumulating, as with all long-acting growth hormones."
+    },
+    "faq": [
+      {
+        "q": "Is weekly growth hormone as effective as daily injections?",
+        "a": "In children with growth hormone deficiency, growth over a year was similar, and in Noonan syndrome it was slightly faster than daily growth hormone.[^3][^4]"
+      },
+      {
+        "q": "Can adults use somapacitan for anti-aging or muscle?",
+        "a": "No. It is approved only for diagnosed growth hormone deficiency in adults. Growth hormone analogs, including somapacitan by name, are also banned in sport at all times.[^5]"
+      },
+      {
+        "q": "How is IGF-1 monitored with a weekly drug?",
+        "a": "IGF-1 rises and falls over the week, so the label specifies when to draw blood relative to the last dose; the treating endocrinologist sets the timing.[^1]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "SOGROYA (somapacitan-beco) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=eadd03b4-adc3-4b88-8a24-9d205c5b85aa",
+        "note": "Current label including 2026 pediatric indications and dosing"
+      },
+      {
+        "n": 2,
+        "title": "Once-weekly Somapacitan is Effective and Well Tolerated in Adults with GH Deficiency: A Randomized Phase 3 Trial.",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32022863/",
+        "pmid": "32022863",
+        "doi": "10.1210/clinem/dgaa049",
+        "note": "REAL 1: adult GH deficiency versus placebo and daily GH"
+      },
+      {
+        "n": 3,
+        "title": "Weekly Somapacitan is Effective and Well Tolerated in Children With GH Deficiency: The Randomized Phase 3 REAL4 Trial.",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36062966/",
+        "pmid": "36062966",
+        "doi": "10.1210/clinem/dgac513",
+        "note": "REAL 4: children with GH deficiency versus daily GH"
+      },
+      {
+        "n": 4,
+        "title": "Once-weekly somapacitan in children with Noonan syndrome: randomized controlled phase 3 trial.",
+        "source": "Eur J Endocrinol",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41774755/",
+        "pmid": "41774755",
+        "doi": "10.1093/ejendo/lvag041",
+        "note": "Phase 3 trial in Noonan syndrome versus daily GH"
+      },
+      {
+        "n": 5,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "Growth hormone analogs, including somapacitan, are prohibited"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

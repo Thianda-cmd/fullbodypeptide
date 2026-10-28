@@ -1,0 +1,218 @@
+{
+  "slug": "ga-68-dotatate",
+  "name": "Ga-68 dotatate",
+  "zone": "digestive",
+  "category": "fda",
+  "aliases": [
+    "Gallium Ga 68 dotatate",
+    "68Ga-DOTATATE",
+    "Ga-68 DOTA-TATE"
+  ],
+  "brands": [
+    "NETSPOT"
+  ],
+  "class": "Somatostatin receptor PET tracer",
+  "route": "Single IV injection, followed by a PET scan 40-90 minutes later",
+  "status": "FDA-approved in 2016 (NETSPOT kit) to locate somatostatin receptor-positive neuroendocrine tumors",
+  "evidence": 4,
+  "mechanism": "A somatostatin look-alike tagged with radioactive gallium-68 that latches onto tumor cells rich in somatostatin receptors, making them glow on a PET scan",
+  "uses": [
+    "Finding and staging neuroendocrine tumors",
+    "Checking eligibility for radioligand therapy",
+    "Looking for neuroendocrine tumor recurrence"
+  ],
+  "popular": null,
+  "related": [
+    "lutetium-lu-177-dotatate",
+    "octreotide",
+    "lanreotide"
+  ],
+  "article": {
+    "summary": "Ga-68 dotatate (NETSPOT) is a radioactive peptide tracer used with PET scans to find neuroendocrine tumors. It was FDA-approved in 2016 for adults and children.",
+    "takeaway": "Ga-68 dotatate is a diagnostic agent, not a treatment. It pairs a somatostatin-like peptide with a short-lived radioactive metal so that neuroendocrine tumors, which usually carry many somatostatin receptors, show up on a PET scan. Pooled studies put its **sensitivity and specificity at about 91%**, better than the older octreotide scan it largely replaced.[^1] The scan changed the treatment plan for **roughly 44%** of patients in published series.[^2] Side effects are uncommon, and most of the radioactivity is gone within a few hours.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved June 2016 (NETSPOT kit)"
+      ],
+      [
+        "Main use",
+        "PET imaging of somatostatin receptor-positive neuroendocrine tumors"
+      ],
+      [
+        "How it's given",
+        "One IV injection by a nuclear medicine team, then a whole-body PET scan"
+      ],
+      [
+        "Drug class",
+        "Radioactive diagnostic agent (somatostatin receptor PET)"
+      ],
+      [
+        "Research",
+        "Single-center accuracy studies and several meta-analyses"
+      ],
+      [
+        "Related",
+        "[Lutetium Lu-177 dotatate](/peptides/lutetium-lu-177-dotatate), [octreotide](/peptides/octreotide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Neuroendocrine tumors (NETs) grow from hormone-producing cells, most often in the small intestine, pancreas or lungs. Most well-differentiated NETs are covered in somatostatin receptors, especially subtype 2, which is the same target used by drugs such as [octreotide](/peptides/octreotide)."
+          },
+          {
+            "type": "p",
+            "text": "Dotatate is a short peptide modeled on octreotide, attached to a chemical \"cage\" called DOTA that holds a radioactive gallium-68 atom. After injection it travels through the blood and binds wherever those receptors cluster. Gallium-68 gives off positrons, which a PET scanner detects, and it decays with a half-life of about an hour, so the radioactivity fades quickly."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "Locating a suspected NET and showing whether it has spread",
+              "Confirming that tumors take up the tracer before radioligand therapy with [lutetium Lu-177 dotatate](/peptides/lutetium-lu-177-dotatate), which uses the same targeting peptide",
+              "Checking for recurrence after surgery or other treatment"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Expert appropriate-use criteria from nuclear medicine and oncology societies list these as the main reasons to order a somatostatin receptor PET scan.[^4] NETSPOT is approved for adults and children.[^3]"
+          },
+          {
+            "type": "note",
+            "text": "Two similar tracers are also FDA-approved: Ga-68 DOTATOC and copper Cu-64 dotatate (Detectnet)."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Analysis",
+                "Main finding"
+              ],
+              [
+                "Meta-analysis, 42 studies (2016)",
+                "Sensitivity 90.9% and specificity 90.6%; more sensitive than indium-111 octreotide scans[^1]"
+              ],
+              [
+                "Meta-analysis, 1,561 patients (2017)",
+                "Management changed after the scan in 44% of patients (range 16-71%)[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "FDA approval rested on three single-center studies. In the largest, the scan was positive in 48 of 50 patients whose tumors were visible on CT or MRI, including 13 whose older octreotide scan had been negative.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's given",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The tracer is prepared on site from a kit and a gallium-68 generator, then given as a single IV injection. The label dose is 2 MBq per kilogram of body weight, up to 200 MBq. Patients are asked to drink water and empty the bladder often to clear the radioactivity, and the whole-body PET scan starts 40-90 minutes after the injection.[^3]"
+          },
+          {
+            "type": "p",
+            "text": "Because somatostatin drugs compete for the same receptors, scans are usually timed just before the next dose of a long-acting somatostatin analog."
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Uncommon:** nausea, vomiting, burning or pain at the injection site, and allergic reactions such as rash or itching",
+              "**Radiation:** adds to lifetime radiation exposure; close contact with infants and pregnant women is limited for 12 hours afterward",
+              "**False positives:** the tracer can also collect in other tumors, inflammation, extra spleen tissue and normal parts of the pancreas, so results are read alongside other imaging",
+              "**Steroids:** repeated high doses of glucocorticoids before the scan may weaken the image"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In a review of studies covering 974 people, possible harms linked to the tracer were reported in only 6, and none were serious.[^1]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved: strong diagnostic accuracy data",
+      "text": "Accuracy has been confirmed in several meta-analyses, and the scan often changes treatment decisions.[^1][^2] Most underlying studies were retrospective or single-center, which is common for imaging agents."
+    },
+    "faq": [
+      {
+        "q": "Is Ga-68 dotatate a treatment for cancer?",
+        "a": "No. It is only used to find and map tumors. The treatment version of the same targeting peptide is [lutetium Lu-177 dotatate](/peptides/lutetium-lu-177-dotatate), which carries a more powerful radioactive metal."
+      },
+      {
+        "q": "How much radiation does the scan involve?",
+        "a": "The tracer's dose is in the range of other common PET scans, and gallium-68 loses half its radioactivity in about an hour. Drinking water and urinating often afterward helps clear it.[^3]"
+      },
+      {
+        "q": "Do I need to stop octreotide or lanreotide before the scan?",
+        "a": "Long-acting somatostatin drugs can compete with the tracer, so the label suggests imaging just before the next scheduled dose.[^3] The care team will give specific timing."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "68Ga-DOTATATE Compared with 111In-DTPA-Octreotide and Conventional Imaging for Pulmonary and Gastroenteropancreatic Neuroendocrine Tumors: A Systematic Review and Meta-Analysis",
+        "source": "J Nucl Med",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26769864/",
+        "pmid": "26769864",
+        "doi": "10.2967/jnumed.115.165803",
+        "note": "Pooled accuracy and safety of Ga-68 dotatate PET"
+      },
+      {
+        "n": 2,
+        "title": "The Impact of Somatostatin Receptor-Directed PET/CT on the Management of Patients with Neuroendocrine Tumor: A Systematic Review and Meta-Analysis",
+        "source": "J Nucl Med",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28082438/",
+        "pmid": "28082438",
+        "doi": "10.2967/jnumed.116.185587",
+        "note": "How often the scan changes treatment plans"
+      },
+      {
+        "n": 3,
+        "title": "NETSPOT (kit for the preparation of gallium Ga 68 dotatate injection): prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b2b3be70-17d8-4093-896c-f1c54a2cf242",
+        "note": "Indication, dosing, imaging window, warnings and pivotal studies"
+      },
+      {
+        "n": 4,
+        "title": "Appropriate Use Criteria for Somatostatin Receptor PET Imaging in Neuroendocrine Tumors",
+        "source": "J Nucl Med",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29025982/",
+        "pmid": "29025982",
+        "doi": "10.2967/jnumed.117.202275",
+        "note": "Multisociety guidance on when to order the scan"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

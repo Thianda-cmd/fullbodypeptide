@@ -1,0 +1,244 @@
+{
+  "slug": "davunetide",
+  "name": "Davunetide",
+  "zone": "brain",
+  "category": "clinical",
+  "aliases": [
+    "NAP",
+    "AL-108",
+    "CP201"
+  ],
+  "brands": [],
+  "class": "ADNP-derived neuroprotective peptide",
+  "route": "Nasal spray (in clinical trials)",
+  "status": "Investigational; failed a phase 2/3 trial in progressive supranuclear palsy; now being pursued for ADNP syndrome",
+  "evidence": 2,
+  "mechanism": "An eight-amino-acid piece of the brain protein ADNP that interacts with microtubule-tracking proteins, supporting the nerve cell skeleton and tau",
+  "uses": [
+    "ADNP syndrome (in development)",
+    "Progressive supranuclear palsy (failed)",
+    "Memory and cognition (early trials)"
+  ],
+  "popular": null,
+  "related": [
+    "trofinetide-predecessor-programs",
+    "cerebrolysin",
+    "dihexa",
+    "nnz-2591",
+    "semax"
+  ],
+  "article": {
+    "summary": "Davunetide (NAP) is an experimental nasal-spray peptide from the brain protein ADNP. It failed in progressive supranuclear palsy and is now aimed at ADNP syndrome.",
+    "takeaway": "Davunetide is a short peptide copied from activity-dependent neuroprotective protein (ADNP), a protein brain cells need for normal development. In the lab it helps stabilize microtubules, the internal scaffolding of nerve cells, and limits abnormal tau.[^1] Despite that promise, a one-year trial in 313 people with **progressive supranuclear palsy** found no benefit,[^2] and earlier studies in memory problems and schizophrenia gave mixed signals.[^3] Its developers now hope to treat **ADNP syndrome**, a rare genetic cause of autism and intellectual disability, but as of October 2026 no trial for that use appeared on ClinicalTrials.gov.",
+    "glance": [
+      [
+        "Status",
+        "Investigational; not approved anywhere"
+      ],
+      [
+        "Conditions studied",
+        "PSP, mild cognitive impairment, schizophrenia; ADNP syndrome planned"
+      ],
+      [
+        "How it's given",
+        "Nasal spray in trials"
+      ],
+      [
+        "Drug class",
+        "Neuroprotective peptide derived from ADNP"
+      ],
+      [
+        "Research",
+        "Several phase 2 trials and one negative phase 2/3 trial"
+      ],
+      [
+        "Designations",
+        "FDA orphan drug and rare pediatric disease designations for ADNP syndrome"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ADNP was discovered at Tel Aviv University as a protein that nerve cells make when they are active and that protects them from damage. Its active core is an eight-amino-acid stretch, NAPVSIPQ, which became the drug candidate NAP and later davunetide.[^4]"
+          },
+          {
+            "type": "p",
+            "text": "Microtubules are hollow protein tubes that give nerve cells their shape and carry cargo along axons. Tau protein normally helps hold them steady; in diseases called tauopathies, tau detaches and clumps. Davunetide binds end-binding proteins that sit on the growing tips of microtubules, and in preclinical studies it supported microtubule stability, axonal transport and lower tau phosphorylation.[^1][^2] That made tauopathies such as progressive supranuclear palsy (PSP) its first major target."
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Program",
+                "Stage",
+                "Outcome"
+              ],
+              [
+                "Progressive supranuclear palsy",
+                "Phase 2/3, 313 people, 52 weeks",
+                "No benefit; development halted in 2012[^2][^5]"
+              ],
+              [
+                "Amnestic mild cognitive impairment",
+                "Phase 2, 144 people",
+                "Possible memory effects at some time points; not published in full[^5]"
+              ],
+              [
+                "Schizophrenia (cognition)",
+                "Phase 2, 63 people, 12 weeks",
+                "No effect on cognitive tests; better functional-skills scores[^3]"
+              ],
+              [
+                "ADNP syndrome",
+                "Planned or early pediatric trial",
+                "No registered trial found as of October 2026"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The original developer, Allon Therapeutics, became insolvent after the PSP failure. Davunetide has since been licensed by a new company from Tel Aviv University and holds FDA orphan drug and rare pediatric disease designations, plus EU orphan status, for ADNP syndrome.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The PSP trial randomized 313 people to 30 mg of nasal davunetide twice daily or placebo for a year at 48 centers. Neither main measure, a PSP rating scale and an activities-of-daily-living scale, differed between groups.[^2] A 2023 re-analysis by the drug's inventors reported slower decline in women on davunetide, but such after-the-fact subgroup findings often fail to hold up and would need a new trial.[^6]"
+          },
+          {
+            "type": "p",
+            "text": "In ADNP syndrome, mutations in one copy of the ADNP gene cause developmental delay, autism features and other problems. The rationale for davunetide is to replace some of the lost protein's activity, and mouse models carrying ADNP mutations improved with NAP.[^7] No human efficacy data exist yet for this use."
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Across trials in adults, nasal davunetide was generally well tolerated. The schizophrenia study reported no significant side effects,[^3] and headache and nasal irritation were the main complaints in the memory study.[^5] Safety in children, the group now being targeted, has not been reported in peer-reviewed studies."
+          },
+          {
+            "type": "note",
+            "text": "Davunetide also appears on some research-peptide websites. Those products are not approved, and nothing supports using them for memory or brain health."
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The licensing company has said a pediatric trial in ADNP syndrome began in 2024, but independent trackers could not find it in trial registries.[^5] Until a registered, controlled trial reports, davunetide remains an unproven idea for ADNP syndrome and a failed one for PSP."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Mixed: human trials, mostly negative",
+      "text": "Davunetide has been tested in several randomized trials, but the largest, in PSP, was clearly negative,[^2] and smaller studies produced inconsistent results.[^3] Support for its newest target, ADNP syndrome, comes from laboratory and animal work.[^7]"
+    },
+    "faq": [
+      {
+        "q": "Is davunetide approved for any condition?",
+        "a": "No. It is not approved by the FDA or any other major regulator."
+      },
+      {
+        "q": "Why did it fail in progressive supranuclear palsy?",
+        "a": "The reasons are unclear. Preventing tau damage in animals has not translated into benefit for people with PSP for several drugs, possibly because treatment starts too late or the target is not the main driver of disease.[^2]"
+      },
+      {
+        "q": "What is ADNP syndrome?",
+        "a": "Also called Helsmoortel-Van der Aa syndrome, it is a rare genetic condition caused by changes in the ADNP gene that leads to developmental delay, intellectual disability and autism features.[^7]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Activity-dependent neuroprotective protein (ADNP)-end-binding protein (EB) interactions regulate microtubule dynamics toward protection against tauopathy",
+        "source": "Prog Mol Biol Transl Sci",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33453943/",
+        "pmid": "33453943",
+        "doi": "10.1016/bs.pmbts.2020.07.008",
+        "note": "How NAP interacts with microtubule end-binding proteins and tau"
+      },
+      {
+        "n": 2,
+        "title": "Davunetide in patients with progressive supranuclear palsy: a randomised, double-blind, placebo-controlled phase 2/3 trial",
+        "source": "Lancet Neurol",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24873720/",
+        "pmid": "24873720",
+        "doi": "10.1016/S1474-4422(14)70088-2",
+        "note": "One-year trial in 313 people with PSP: no benefit"
+      },
+      {
+        "n": 3,
+        "title": "Effect of the neuroprotective peptide davunetide (AL-108) on cognition and functional capacity in schizophrenia",
+        "source": "Schizophr Res",
+        "year": 2012,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22169248/",
+        "pmid": "22169248",
+        "doi": "10.1016/j.schres.2011.11.001",
+        "note": "Phase 2 trial of cognition in schizophrenia"
+      },
+      {
+        "n": 4,
+        "title": "Davunetide: Peptide therapeutic in neurological disorders",
+        "source": "Curr Med Chem",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24533805/",
+        "pmid": "24533805",
+        "doi": "10.2174/0929867321666140217124945",
+        "note": "Review of davunetide's origin and mechanism"
+      },
+      {
+        "n": 5,
+        "title": "Therapeutics: Davunetide",
+        "source": "Alzforum",
+        "year": 2025,
+        "url": "https://www.alzforum.org/therapeutics/davunetide",
+        "note": "Development history, designations and trial status"
+      },
+      {
+        "n": 6,
+        "title": "Unexpected gender differences in progressive supranuclear palsy reveal efficacy for davunetide in women",
+        "source": "Transl Psychiatry",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37845254/",
+        "pmid": "37845254",
+        "doi": "10.1038/s41398-023-02618-9",
+        "note": "Post hoc sex-based re-analysis of the PSP trial"
+      },
+      {
+        "n": 7,
+        "title": "The ADNP Syndrome and CP201 (NAP) Potential and Hope",
+        "source": "Front Neurol",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33329371/",
+        "pmid": "33329371",
+        "doi": "10.3389/fneur.2020.608444",
+        "note": "Rationale for davunetide in ADNP syndrome"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

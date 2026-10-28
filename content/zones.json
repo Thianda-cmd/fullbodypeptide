@@ -1,0 +1,10 @@
+[
+  { "id": "brain", "short": "Brain", "name": "Brain & sleep", "blurb": "Peptides that act on the nervous system: cognition, mood, pain signalling, sleep and neurodevelopment." },
+  { "id": "skin", "short": "Skin", "name": "Skin & aging", "blurb": "Topicals, pigment-acting peptides and the antibiotics that treat skin infections." },
+  { "id": "digestive", "short": "Digestive", "name": "Digestive & weight", "blurb": "Gut hormones, incretins and the peptides behind modern weight-loss and GI medicine." },
+  { "id": "immune", "short": "Immune", "name": "Immune & defense", "blurb": "Antimicrobial, antiviral and immune-modulating peptides." },
+  { "id": "hormones", "short": "Hormones", "name": "Hormones & metabolism", "blurb": "Insulin, growth hormone, pituitary and adrenal signalling, and mitochondrial peptides." },
+  { "id": "bones", "short": "Bones", "name": "Bones & muscles", "blurb": "Bone builders, growth-hormone secretagogues and tissue-repair peptides." },
+  { "id": "heart", "short": "Heart", "name": "Heart & blood", "blurb": "Blood pressure, clotting, blood cells and the vascular system." },
+  { "id": "sex", "short": "Sexual", "name": "Sexual & reproductive", "blurb": "Fertility, reproductive hormones, hormone-driven cancers and libido." }
+]

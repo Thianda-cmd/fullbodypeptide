@@ -1,0 +1,210 @@
+{
+  "slug": "lixisenatide",
+  "name": "Lixisenatide",
+  "zone": "hormones",
+  "category": "fda",
+  "aliases": [
+    "AVE0010",
+    "ZP10",
+    "Lyxumia (EU brand)"
+  ],
+  "brands": [
+    "Adlyxin",
+    "Soliqua 100/33"
+  ],
+  "class": "GLP-1 receptor agonist (short-acting)",
+  "route": "Once-daily injection under the skin within an hour before the first meal",
+  "status": "FDA-approved 2016; standalone Adlyxin discontinued in 2023, still sold combined with insulin glargine as Soliqua 100/33",
+  "evidence": 4,
+  "mechanism": "Short-acting exendin-4-based GLP-1 agonist that mainly blunts the blood sugar rise after meals by slowing stomach emptying and boosting insulin",
+  "uses": [
+    "Type 2 diabetes (with insulin glargine in Soliqua)",
+    "Post-meal blood sugar control"
+  ],
+  "popular": null,
+  "related": [
+    "exenatide",
+    "insulin-analogs-multiple",
+    "liraglutide",
+    "dulaglutide"
+  ],
+  "article": {
+    "summary": "Lixisenatide is a short-acting, once-daily GLP-1 drug for type 2 diabetes. Sold alone as Adlyxin until 2023, it is now available in the US only in Soliqua 100/33.",
+    "takeaway": "Lixisenatide is a GLP-1 receptor agonist modeled on exendin-4, the Gila monster peptide behind exenatide. Unlike weekly GLP-1 drugs, it acts for only part of the day, so its main effect is taming the **blood sugar spike after a meal** by slowing the stomach.[^1] Its heart outcomes trial showed it was safe after a recent heart attack but gave no cardiovascular benefit.[^2] Sanofi stopped selling standalone Adlyxin in the US in 2023; lixisenatide lives on in Soliqua 100/33, a once-daily pen that pairs it with long-acting insulin glargine.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved 2016 (Adlyxin and Soliqua 100/33); Adlyxin discontinued in the US in 2023"
+      ],
+      [
+        "Main use",
+        "Type 2 diabetes, now as part of the insulin glargine combination Soliqua 100/33"
+      ],
+      [
+        "How it's taken",
+        "Once a day under the skin, within the hour before the first meal"
+      ],
+      [
+        "Drug class",
+        "Short-acting GLP-1 receptor agonist"
+      ],
+      [
+        "Research",
+        "GetGoal and LixiLan programs, the 6,068-person ELIXA trial, and a Parkinson's disease trial"
+      ],
+      [
+        "Related",
+        "[Exenatide](/peptides/exenatide), [insulin analogs](/peptides/insulin-analogs-multiple)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GLP-1 is a gut hormone that boosts insulin when glucose is high, curbs glucagon and slows digestion. Lixisenatide is a 44-amino-acid peptide based on exendin-4, with a short tail of lysines added to its end, which makes it resistant to the enzyme that breaks down natural GLP-1."
+          },
+          {
+            "type": "p",
+            "text": "GLP-1 drugs fall into two groups. Long-acting ones such as dulaglutide keep the receptor switched on around the clock and mostly lower fasting glucose. Short-acting ones such as lixisenatide and twice-daily exenatide work in bursts and mainly lower post-meal glucose by holding food in the stomach longer.[^1] That makes lixisenatide a natural partner for basal insulin, which handles fasting glucose but not meals."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In the US, lixisenatide is now available only in Soliqua 100/33, approved with diet and exercise to improve blood sugar in adults with type 2 diabetes. Soliqua is not meant for type 1 diabetes or ketoacidosis, and it should not be combined with mealtime insulin or another GLP-1 drug.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "ELIXA",
+                "6,068 adults with type 2 diabetes and a recent heart attack or unstable angina",
+                "Major cardiovascular events in 13.4% vs 13.2% on placebo over about 2 years: safe, no benefit[^2]"
+              ],
+              [
+                "LIXIPARK",
+                "156 people with early Parkinson's disease",
+                "Motor scores held steady (change -0.04) vs worsening of 3.04 points on placebo at 12 months[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "ELIXA's neutral result contrasts with the heart benefits later shown for several long-acting GLP-1 drugs. The Parkinson's trial was a small phase 2 study with frequent nausea, and its authors called for longer, larger trials before drawing conclusions.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Soliqua 100/33 pens hold insulin glargine and lixisenatide in a fixed ratio, so every dial setting delivers both. It is injected once a day within an hour before the first meal. Depending on prior insulin use, people start at 15 or 30 units and adjust by 2-4 units a week based on fasting glucose, up to 60 units (which carries 20 mcg of lixisenatide). Any previous basal insulin or GLP-1 drug is stopped first.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** low blood sugar, nausea, diarrhea, colds and headache",
+              "**Serious but uncommon:** pancreatitis, severe allergic reactions including anaphylaxis, gallbladder disease and kidney injury from dehydration",
+              "**Insulin-related risks:** hypoglycemia, low potassium, and dosing errors if pens are confused",
+              "**Not recommended** with severe gastroparesis or end-stage kidney disease; tell anesthesia teams because of slowed stomach emptying[^3]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In ELIXA, lixisenatide did not raise rates of severe hypoglycemia, pancreatitis, pancreatic tumors or allergic reactions compared with placebo.[^2]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong for glucose control; neutral heart outcomes",
+      "text": "Lixisenatide's effects on blood sugar and its cardiovascular safety were established in randomized trials, including ELIXA.[^2] It has not shown heart protection, and its Parkinson's data come from one phase 2 trial.[^4]"
+    },
+    "faq": [
+      {
+        "q": "Can I still buy Adlyxin?",
+        "a": "No. Sanofi discontinued standalone Adlyxin in the US at the start of 2023 for business reasons. Lixisenatide is still available inside Soliqua 100/33."
+      },
+      {
+        "q": "Why combine lixisenatide with insulin?",
+        "a": "Basal insulin mainly controls fasting glucose, while a short-acting GLP-1 drug targets the rise after meals.[^1] Combining them in one pen means a single injection a day."
+      },
+      {
+        "q": "Is lixisenatide used for Parkinson's disease?",
+        "a": "Not outside research. A 2024 phase 2 trial found less motor decline over 12 months, but nausea was common and a larger trial is needed.[^4]"
+      },
+      {
+        "q": "How is it different from semaglutide?",
+        "a": "Lixisenatide is short-acting and taken daily, mostly affects post-meal glucose and showed no heart benefit. [Semaglutide](/peptides/semaglutide) is weekly, lowers glucose and weight more and has proven cardiovascular benefit."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "GLP-1 receptor agonists for individualized treatment of type 2 diabetes mellitus.",
+        "source": "Nat Rev Endocrinol",
+        "year": 2012,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22945360/",
+        "pmid": "22945360",
+        "doi": "10.1038/nrendo.2012.140",
+        "note": "Review of short-acting versus long-acting GLP-1 drugs"
+      },
+      {
+        "n": 2,
+        "title": "Lixisenatide in Patients with Type 2 Diabetes and Acute Coronary Syndrome.",
+        "source": "N Engl J Med",
+        "year": 2015,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26630143/",
+        "pmid": "26630143",
+        "doi": "10.1056/NEJMoa1509225",
+        "note": "ELIXA: cardiovascular outcomes after acute coronary syndrome"
+      },
+      {
+        "n": 3,
+        "title": "SOLIQUA 100/33 (insulin glargine and lixisenatide) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4bba538b-cf7c-4310-ae8f-cb711ed21bcc",
+        "note": "Current US label for the only lixisenatide product still sold"
+      },
+      {
+        "n": 4,
+        "title": "Trial of Lixisenatide in Early Parkinson's Disease.",
+        "source": "N Engl J Med",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38598572/",
+        "pmid": "38598572",
+        "doi": "10.1056/NEJMoa2312323",
+        "note": "LIXIPARK: phase 2 trial in early Parkinson's disease"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

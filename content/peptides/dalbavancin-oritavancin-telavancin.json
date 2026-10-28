@@ -1,0 +1,269 @@
+{
+  "slug": "dalbavancin-oritavancin-telavancin",
+  "name": "Dalbavancin / Oritavancin / Telavancin",
+  "zone": "skin",
+  "category": "fda",
+  "aliases": [
+    "Lipoglycopeptides",
+    "Oritavancin diphosphate"
+  ],
+  "brands": [
+    "Dalvance",
+    "Orbactiv",
+    "Kimyrsa",
+    "Vibativ"
+  ],
+  "class": "Lipoglycopeptide antibiotics",
+  "route": "Intravenous infusion: one or two doses (dalbavancin, oritavancin) or daily (telavancin)",
+  "status": "FDA-approved: telavancin (2009), dalbavancin and oritavancin (2014) for serious bacterial skin infections",
+  "evidence": 4,
+  "mechanism": "Block bacterial cell-wall assembly like vancomycin, while a fatty side chain anchors them to the bacterial membrane for added potency and staying power",
+  "uses": [
+    "Acute bacterial skin and skin structure infections",
+    "Infections caused by MRSA and other Gram-positive bacteria",
+    "Hospital-acquired S. aureus pneumonia (telavancin only)"
+  ],
+  "popular": null,
+  "related": [
+    "vancomycin",
+    "daptomycin",
+    "bacitracin",
+    "polymyxin-b-colistin"
+  ],
+  "article": {
+    "summary": "Dalbavancin, oritavancin and telavancin are IV lipoglycopeptide antibiotics for serious skin infections, including MRSA. The first two can treat an infection in one or two doses.",
+    "takeaway": "These three antibiotics are chemical relatives of vancomycin with a fatty tail added, which strengthens their grip on Gram-positive bacteria such as **MRSA** (methicillin-resistant Staphylococcus aureus). Dalbavancin and oritavancin stay in the body so long that a single infusion, or two a week apart for dalbavancin, can replace one to two weeks of daily IV therapy.[^1][^2] Telavancin is given daily and carries boxed warnings about kidney harm, higher death rates in some pneumonia patients and risk to a developing fetus.[^3] All three are reserved for infections where their particular advantages matter, guided by an infectious disease or hospital team.",
+    "glance": [
+      [
+        "FDA status",
+        "Vibativ (2009); Dalvance and Orbactiv (2014); Kimyrsa (2021)"
+      ],
+      [
+        "Main use",
+        "Serious skin and soft-tissue infections caused by Gram-positive bacteria, including MRSA"
+      ],
+      [
+        "How it's given",
+        "IV infusion: a single dose or two weekly doses (dalbavancin, oritavancin) or once daily for 7-14 days (telavancin)"
+      ],
+      [
+        "Drug class",
+        "Lipoglycopeptide antibiotics"
+      ],
+      [
+        "Research",
+        "Large randomized trials against vancomycin for each drug"
+      ],
+      [
+        "Related",
+        "[Vancomycin](/peptides/vancomycin), [daptomycin](/peptides/daptomycin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Bacteria build their protective cell wall from chains of sugars and short peptides. Like vancomycin, these drugs latch onto the end of each new peptide strand so it cannot be stitched into the wall, and the weakened bacterium bursts. Each also carries a lipid (fatty) side chain that tucks into the bacterial membrane, holding the drug where the wall is being built."
+          },
+          {
+            "type": "ul",
+            "items": [
+              "**Dalbavancin:** the lipid tail and tight binding to blood proteins give it a very long half-life, about 8.5 days in patients[^4]",
+              "**Oritavancin:** also disrupts the bacterial membrane directly and lingers for roughly 10 days (terminal half-life about 245 hours)[^5]",
+              "**Telavancin:** adds membrane-disrupting activity but is cleared much faster, so it is given once a day"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "None of the three works against Gram-negative bacteria such as E. coli or Pseudomonas."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "DISCOVER 1 and 2 (dalbavancin)",
+                "1,312 adults with skin infections",
+                "Early response 79.7% with two weekly doses vs 79.8% with vancomycin then linezolid[^1]"
+              ],
+              [
+                "SOLO I (oritavancin)",
+                "954 adults with skin infections",
+                "One dose matched 7-10 days of twice-daily vancomycin: 82.3% vs 78.9% early response[^2]"
+              ],
+              [
+                "ATLAS (telavancin)",
+                "1,867 adults with complicated skin infections",
+                "Cure in 88% vs 87% on vancomycin; 91% vs 86% in MRSA infections[^6]"
+              ],
+              [
+                "DOTS (dalbavancin, off-label)",
+                "200 adults with complicated S. aureus bloodstream infection",
+                "Not superior to standard IV therapy overall; clinical efficacy similar (73% vs 72%)[^7]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The skin-infection trials were designed to show these drugs were not meaningfully worse than vancomycin, and they met that bar. Their main practical advantage is convenience: fewer infusions, shorter hospital stays and no need for a long-term IV line."
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's given",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Dalvance:** 1,500 mg once, or 1,000 mg followed by 500 mg a week later, each infused over 30 minutes; lower doses for poor kidney function; approved for adults and children from birth[^4]",
+              "**Orbactiv:** a single 1,200 mg infusion over 3 hours[^5]",
+              "**Kimyrsa:** a reformulated oritavancin, 1,200 mg once over 1 hour[^8]",
+              "**Vibativ:** 10 mg/kg once daily over 60 minutes for 7-14 days for skin infections, adjusted for kidney function[^3]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**All three:** allergic reactions (use caution with vancomycin allergy), flushing-type infusion reactions if given too fast, and C. difficile diarrhea",
+              "**Dalbavancin:** nausea, headache and diarrhea are most common; liver enzyme rises have been seen[^4]",
+              "**Oritavancin:** falsely prolongs some clotting tests, so IV heparin is contraindicated for 5 days after a dose and warfarin users need bleeding checks; more bone infections were reported than with vancomycin in trials[^5]",
+              "**Telavancin:** boxed warnings for kidney toxicity, increased deaths in pneumonia patients with moderate to severe kidney impairment, and fetal harm (a pregnancy test is needed before use); also taste changes, foamy urine and QT prolongation[^3]"
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Because dalbavancin and oritavancin remain in the body for weeks, side effects that develop cannot be stopped by ending an infusion."
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "All three are approved for acute bacterial skin and skin structure infections caused by susceptible Gram-positive bacteria. Telavancin is also approved for hospital-acquired and ventilator-associated pneumonia caused by S. aureus when other options are unsuitable.[^3] Long-acting dalbavancin is increasingly used off-label to finish treatment of bone, joint and bloodstream infections, an approach the DOTS trial tested for bloodstream infections, though it is not on the label.[^7]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: large randomized trials versus vancomycin",
+      "text": "Each drug was approved after phase 3 trials enrolling hundreds to nearly 2,000 patients, showing results comparable to vancomycin for skin infections.[^1][^2][^6] Evidence for off-label uses such as bloodstream infections is newer and narrower.[^7]"
+    },
+    "faq": [
+      {
+        "q": "Can one infusion really cure a skin infection?",
+        "a": "In trials, a single oritavancin dose worked about as well as 7-10 days of twice-daily vancomycin for serious skin infections.[^2] Drainage of abscesses and follow-up are still needed."
+      },
+      {
+        "q": "Do these drugs treat MRSA?",
+        "a": "Yes. All three are active against MRSA, which was common in the pivotal trials.[^6] They do not treat Gram-negative bacteria."
+      },
+      {
+        "q": "Why isn't telavancin used as often?",
+        "a": "Its boxed warnings for kidney harm, higher mortality in some kidney-impaired pneumonia patients and fetal risk make it a narrower choice than the long-acting alternatives.[^3]"
+      },
+      {
+        "q": "Are these given at home?",
+        "a": "They are given by infusion in clinics, infusion centers or hospitals. The one- or two-dose schedules can let some patients avoid a hospital stay or a long-term IV line."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Once-weekly dalbavancin versus daily conventional therapy for skin infection.",
+        "source": "N Engl J Med",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24897082/",
+        "pmid": "24897082",
+        "doi": "10.1056/NEJMoa1310480",
+        "note": "DISCOVER 1 and 2: dalbavancin vs vancomycin-linezolid"
+      },
+      {
+        "n": 2,
+        "title": "Single-dose oritavancin in the treatment of acute bacterial skin infections.",
+        "source": "N Engl J Med",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24897083/",
+        "pmid": "24897083",
+        "doi": "10.1056/NEJMoa1310422",
+        "note": "SOLO I: single-dose oritavancin vs 7-10 days of vancomycin"
+      },
+      {
+        "n": 3,
+        "title": "VIBATIV (telavancin) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5359b759-db7c-4672-9e8a-59c93869bd91",
+        "note": "Telavancin indications, dosing and boxed warnings"
+      },
+      {
+        "n": 4,
+        "title": "DALVANCE (dalbavancin) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4b4674d8-4d1e-4728-8465-d42ada33fa5c",
+        "note": "Dalbavancin dosing, pediatric use, half-life and warnings"
+      },
+      {
+        "n": 5,
+        "title": "ORBACTIV (oritavancin) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ff09a726-9f9b-4e30-b509-396781293220",
+        "note": "Oritavancin dosing, heparin contraindication, clotting-test interference"
+      },
+      {
+        "n": 6,
+        "title": "Telavancin versus vancomycin for the treatment of complicated skin and skin-structure infections caused by gram-positive organisms.",
+        "source": "Clin Infect Dis",
+        "year": 2008,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18444791/",
+        "pmid": "18444791",
+        "doi": "10.1086/587896",
+        "note": "ATLAS phase 3 trials: telavancin vs vancomycin"
+      },
+      {
+        "n": 7,
+        "title": "Dalbavancin for Treatment of Staphylococcus aureus Bacteremia: The DOTS Randomized Clinical Trial.",
+        "source": "JAMA",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40802264/",
+        "pmid": "40802264",
+        "doi": "10.1001/jama.2025.12543",
+        "note": "Two-dose dalbavancin vs standard therapy for S. aureus bloodstream infection"
+      },
+      {
+        "n": 8,
+        "title": "KIMYRSA (oritavancin) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5e755c40-6e73-4572-b474-4d8a131693d1",
+        "note": "One-hour oritavancin formulation"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

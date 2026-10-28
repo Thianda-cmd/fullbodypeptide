@@ -1,0 +1,236 @@
+{
+  "slug": "pasireotide",
+  "name": "Pasireotide",
+  "zone": "hormones",
+  "category": "fda",
+  "aliases": [
+    "SOM230"
+  ],
+  "brands": [
+    "Signifor",
+    "Signifor LAR"
+  ],
+  "class": "Somatostatin analog (multi-receptor)",
+  "route": "Twice-daily injection under the skin, or a monthly muscle injection given in a clinic",
+  "status": "FDA-approved (since 2012) for Cushing's disease and acromegaly when pituitary surgery is not an option or has not worked",
+  "evidence": 4,
+  "mechanism": "Mimics the hormone somatostatin at several receptor types, especially SSTR5, to turn down ACTH and growth hormone release from pituitary tumors",
+  "uses": [
+    "Cushing's disease",
+    "Acromegaly"
+  ],
+  "popular": null,
+  "related": [
+    "octreotide",
+    "lanreotide",
+    "pegvisomant",
+    "corticotropin"
+  ],
+  "article": {
+    "summary": "Pasireotide (Signifor, Signifor LAR) is a somatostatin analog for Cushing's disease and acromegaly when pituitary surgery is not an option or has failed. High blood sugar is its main drawback.",
+    "takeaway": "Pasireotide is a lab-made relative of somatostatin, a natural hormone that switches off other hormones. Older drugs in this class mainly hit one somatostatin receptor; pasireotide binds several, including SSTR5, which is common on the pituitary tumors that cause Cushing's disease.[^1] It normalized cortisol in about 15-42% of trial patients with Cushing's disease, depending on dose and formulation, and outperformed octreotide in acromegaly.[^2][^3][^4] The catch is **high blood sugar**, which affected most patients in trials and often needed diabetes medicine.[^2]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved: Signifor (2012) and monthly Signifor LAR"
+      ],
+      [
+        "Main uses",
+        "Cushing's disease and acromegaly not cured by pituitary surgery"
+      ],
+      [
+        "How it's taken",
+        "Signifor: twice-daily injection under the skin; Signifor LAR: muscle injection every 4 weeks by a health professional"
+      ],
+      [
+        "Drug class",
+        "Somatostatin analog (second generation)"
+      ],
+      [
+        "Research",
+        "Phase 3 trials in Cushing's disease and acromegaly, including head-to-head studies"
+      ],
+      [
+        "Related",
+        "[Octreotide](/peptides/octreotide), [pegvisomant](/peptides/pegvisomant)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Cushing's disease is caused by a pituitary tumor that over-produces ACTH, which drives the adrenal glands to make too much cortisol. Acromegaly comes from a pituitary tumor that makes too much growth hormone, which raises IGF-1. Both tumors often carry somatostatin receptors, which act as an off switch."
+          },
+          {
+            "type": "p",
+            "text": "Octreotide and lanreotide bind mainly to receptor subtype 2. Pasireotide binds subtypes 1, 2, 3 and 5, with especially strong pull at subtype 5, the type most common on ACTH-producing tumors. That broader reach is why it can lower cortisol in Cushing's disease and help some people with acromegaly whose disease escaped older drugs."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Cushing's disease (adults):** when pituitary surgery is not an option or has not been curative; both Signifor and Signifor LAR[^1][^5]",
+              "**Acromegaly:** when surgery has not worked well enough or is not an option; Signifor LAR only[^5]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Surgery to remove the tumor remains the first choice for both conditions. Pasireotide is one of several medical options, alongside adrenal-blocking drugs for Cushing's disease and [pegvisomant](/peptides/pegvisomant) or other somatostatin analogs for acromegaly."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "Cushing's, twice daily",
+                "162 adults",
+                "Normal urine cortisol at 6 months in 15% (600 mcg) and 26% (900 mcg); median cortisol fell about half[^2]"
+              ],
+              [
+                "Cushing's, monthly",
+                "150 adults",
+                "Cortisol normalized in about 41-42% at month 7[^3]"
+              ],
+              [
+                "Acromegaly, untreated",
+                "Adults new to medical therapy",
+                "Biochemical control in 31% vs 19% with octreotide LAR[^4]"
+              ],
+              [
+                "PAOLA",
+                "198 adults not controlled on older analogs",
+                "Control in 15-20% vs none who continued their old drug[^6]"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Signifor is self-injected under the skin twice a day, usually starting at 0.6 or 0.9 mg per dose within a range of 0.3-0.9 mg.[^1] Signifor LAR is a monthly injection into the buttock muscle given by a health professional: 40 mg (up to 60 mg) for acromegaly and 10 mg (up to 40 mg) for Cushing's disease. Lower doses are used with moderate liver impairment, and severe liver disease is a reason to avoid it.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**High blood sugar and diabetes:** the defining side effect; in the twice-daily Cushing's trial, 118 of 162 patients had a blood sugar-related event and 74 started glucose-lowering medicine[^2]",
+              "**Digestive:** diarrhea, nausea, stomach pain and fatty stools from fat malabsorption",
+              "**Gallstones:** common with long-term use; periodic ultrasound is advised",
+              "**Heart rhythm:** slow heart rate and QT prolongation, so ECGs are checked",
+              "**Too little cortisol** and other pituitary hormone deficits, plus liver test changes[^1]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Glucose is checked before starting and often during treatment, and diabetes medicines are adjusted early. People with poorly controlled diabetes need careful planning before starting."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved; works for a subset, with a metabolic cost",
+      "text": "Randomized phase 3 trials show pasireotide normalizes hormone levels in a meaningful minority of patients with Cushing's disease and acromegaly, and beats octreotide in acromegaly.[^2][^4] Hyperglycemia limits its use for many people.[^6]"
+    },
+    "faq": [
+      {
+        "q": "How is pasireotide different from octreotide?",
+        "a": "[Octreotide](/peptides/octreotide) mainly targets somatostatin receptor 2. Pasireotide covers four receptor types, which helps with Cushing's disease, but it raises blood sugar much more often.[^4]"
+      },
+      {
+        "q": "Why does pasireotide raise blood sugar?",
+        "a": "Activating receptor 5 cuts insulin release and the gut hormones that boost it after meals, while glucagon falls less. In the main Cushing's trial, 74 of 162 patients needed a new glucose-lowering medicine.[^2]"
+      },
+      {
+        "q": "Does it shrink the tumor?",
+        "a": "It mainly controls hormone levels. Some patients see tumor shrinkage, but surgery and radiation remain the main ways to treat the tumor itself."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "SIGNIFOR (pasireotide) injection, for subcutaneous use: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a09a25fc-a5a3-0c82-e053-2995a90a5d74",
+        "note": "Twice-daily form: Cushing's disease indication, dosing and warnings"
+      },
+      {
+        "n": 2,
+        "title": "A 12-month phase 3 study of pasireotide in Cushing's disease.",
+        "source": "N Engl J Med",
+        "year": 2012,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22397653/",
+        "pmid": "22397653",
+        "doi": "10.1056/NEJMoa1105743",
+        "note": "Pivotal trial of twice-daily pasireotide in Cushing's disease"
+      },
+      {
+        "n": 3,
+        "title": "Efficacy and safety of once-monthly pasireotide in Cushing's disease: a 12 month clinical trial.",
+        "source": "Lancet Diabetes Endocrinol",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29032078/",
+        "pmid": "29032078",
+        "doi": "10.1016/S2213-8587(17)30326-1",
+        "note": "Monthly pasireotide in Cushing's disease"
+      },
+      {
+        "n": 4,
+        "title": "Pasireotide versus octreotide in acromegaly: a head-to-head superiority study.",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24423324/",
+        "pmid": "24423324",
+        "doi": "10.1210/jc.2013-2480",
+        "note": "Pasireotide LAR versus octreotide LAR in untreated acromegaly"
+      },
+      {
+        "n": 5,
+        "title": "SIGNIFOR LAR (pasireotide) for injectable suspension: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2024,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a0aad470-3f38-af97-e053-2995a90a383a",
+        "note": "Monthly form: acromegaly and Cushing's disease dosing"
+      },
+      {
+        "n": 6,
+        "title": "Pasireotide versus continued treatment with octreotide or lanreotide in patients with inadequately controlled acromegaly (PAOLA): a randomised, phase 3 trial.",
+        "source": "Lancet Diabetes Endocrinol",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25260838/",
+        "pmid": "25260838",
+        "doi": "10.1016/S2213-8587(14)70169-X",
+        "note": "PAOLA: switching patients not controlled on older analogs"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

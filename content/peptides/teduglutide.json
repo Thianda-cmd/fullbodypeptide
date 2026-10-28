@@ -1,0 +1,205 @@
+{
+  "slug": "teduglutide",
+  "name": "Teduglutide",
+  "zone": "digestive",
+  "category": "fda",
+  "aliases": [
+    "ALX-0600",
+    "[Gly2]-GLP-2"
+  ],
+  "brands": [
+    "Gattex"
+  ],
+  "class": "GLP-2 analog",
+  "route": "Daily injection under the skin, dosed by body weight",
+  "status": "FDA-approved for short bowel syndrome in adults (2012) and children 1 year and older (2019)",
+  "evidence": 4,
+  "mechanism": "Mimics GLP-2, a gut hormone that thickens the intestinal lining and boosts absorption, so a shortened bowel can take in more fluid and nutrients",
+  "uses": [
+    "Short bowel syndrome dependent on IV nutrition or fluids"
+  ],
+  "popular": null,
+  "related": [
+    "apraglutide",
+    "glepaglutide",
+    "linaclotide"
+  ],
+  "article": {
+    "summary": "Teduglutide (Gattex) is a daily GLP-2 injection that helps the remaining bowel absorb more in short bowel syndrome, cutting the need for IV nutrition. FDA-approved since 2012.",
+    "takeaway": "Teduglutide copies GLP-2, a hormone that signals the gut lining to grow and absorb more. For people with short bowel syndrome who depend on IV feeding or fluids, it can shrink that need. In its pivotal trial, **63% of patients cut their weekly IV volume by more than 20%**, versus 30% on placebo.[^1] A minority eventually stopped IV support entirely.[^2] Because it stimulates gut growth, it requires colon checks for polyps before and during treatment.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved December 2012; children 1 year and older since 2019"
+      ],
+      [
+        "Main use",
+        "Short bowel syndrome in people who rely on parenteral (IV) support"
+      ],
+      [
+        "How it's taken",
+        "Injection under the skin once daily, 0.05 mg/kg"
+      ],
+      [
+        "Drug class",
+        "Glucagon-like peptide-2 (GLP-2) analog"
+      ],
+      [
+        "Research",
+        "Randomized phase 3 trials in adults and children plus long-term extensions"
+      ],
+      [
+        "Related",
+        "[Apraglutide](/peptides/apraglutide), [glepaglutide](/peptides/glepaglutide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Short bowel syndrome (SBS) happens when surgery or disease leaves too little working small intestine to absorb enough water and nutrients. Many people then need parenteral support: nutrition or fluids delivered through a vein, often for hours every night, with risks such as line infections and liver damage."
+          },
+          {
+            "type": "p",
+            "text": "GLP-2 is a hormone made by cells in the lower gut. It makes the finger-like villi taller, improves blood flow to the bowel, slows stomach emptying and reduces stomach acid secretion. Natural GLP-2 lasts only minutes. Teduglutide differs by one amino acid, which protects it from the enzyme DPP-4 and lets a single daily injection work."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Teduglutide is approved for adults and children 1 year and older with SBS who depend on parenteral support.[^3] It is used alongside careful nutrition management, and IV volumes are lowered step by step as absorption improves. Newer, longer-acting GLP-2 drugs such as [apraglutide](/peptides/apraglutide) and [glepaglutide](/peptides/glepaglutide) are in development."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "STEPS (24 weeks)",
+                "86 adults with SBS on IV support",
+                "Responders: 63% vs 30% on placebo; IV volume cut by 4.4 vs 2.3 liters a week[^1]"
+              ],
+              [
+                "STEPS-2 (up to 30 months)",
+                "88 adults in an open-label extension",
+                "93% of those treated from the start responded; 13 people stopped IV support entirely[^2]"
+              ],
+              [
+                "Pediatric phase 3 (24 weeks)",
+                "59 children with SBS",
+                "69% on the approved dose cut IV support by 20% or more, vs 11% on standard care[^4]"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The dose for adults and children is 0.05 mg per kilogram once a day, injected under the skin of the belly, thigh or arm, rotating sites. People with moderate to severe kidney impairment use half the dose.[^3] It comes as a powder that is mixed with the supplied liquid before each injection."
+          },
+          {
+            "type": "p",
+            "text": "Before starting, adults need a colonoscopy and upper endoscopy with removal of any polyps, and children need a stool blood test. Lab tests for the liver, gallbladder and pancreas are checked at baseline and every six months.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** belly pain, nausea, bloating, vomiting, injection-site reactions, swelling from fluid build-up and colds",
+              "**Gut growth:** it may speed the growth of existing polyps or tumors; repeat colonoscopy after 1 year and at least every 5 years",
+              "**Blockage:** intestinal or stoma obstruction can occur, especially early",
+              "**Gallbladder, bile duct and pancreas problems,** monitored with regular blood tests",
+              "**Fluid overload:** better absorption can strain the heart if IV volumes are not reduced in time",
+              "**Other medicines** may be absorbed more, so drugs with a narrow safety margin need closer monitoring[^3]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved: randomized trials plus long-term data",
+      "text": "A placebo-controlled phase 3 trial in adults and a randomized pediatric trial showed meaningful reductions in IV support, and extensions show the effect holds for years.[^1][^4][^2] Benefits vary widely depending on how much bowel remains."
+    },
+    "faq": [
+      {
+        "q": "Will teduglutide let me stop IV nutrition completely?",
+        "a": "Some people do. In the long-term STEPS-2 extension, 13 of 88 patients reached full independence from IV support, but most reduced rather than stopped it.[^2]"
+      },
+      {
+        "q": "How long does it take to work?",
+        "a": "In the main trial, IV volumes were reduced in steps over 24 weeks as urine output rose, and responses kept improving with longer treatment.[^1][^2]"
+      },
+      {
+        "q": "Why do I need colonoscopies while on teduglutide?",
+        "a": "Because it makes the gut lining grow, it could speed the growth of polyps. The label calls for colonoscopy before starting, after one year and at least every five years after that.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Teduglutide reduces need for parenteral support among patients with short bowel syndrome with intestinal failure",
+        "source": "Gastroenterology",
+        "year": 2012,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22982184/",
+        "pmid": "22982184",
+        "doi": "10.1053/j.gastro.2012.09.007",
+        "note": "STEPS: pivotal 24-week placebo-controlled trial"
+      },
+      {
+        "n": 2,
+        "title": "Long-Term Teduglutide for the Treatment of Patients With Intestinal Failure Associated With Short Bowel Syndrome",
+        "source": "Clin Transl Gastroenterol",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26844839/",
+        "pmid": "26844839",
+        "doi": "10.1038/ctg.2015.69",
+        "note": "STEPS-2: two-year open-label extension"
+      },
+      {
+        "n": 3,
+        "title": "GATTEX (teduglutide) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=66b69c1e-b25c-44d3-b5ff-1c1de9a516fa",
+        "note": "Indication, dosing, screening and warnings"
+      },
+      {
+        "n": 4,
+        "title": "Safety and Efficacy of Teduglutide in Pediatric Patients With Intestinal Failure due to Short Bowel Syndrome: A 24-Week, Phase III Study",
+        "source": "JPEN J Parenter Enteral Nutr",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31495952/",
+        "pmid": "31495952",
+        "doi": "10.1002/jpen.1690",
+        "note": "Pediatric phase 3 trial"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

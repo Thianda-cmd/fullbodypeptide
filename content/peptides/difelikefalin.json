@@ -1,0 +1,209 @@
+{
+  "slug": "difelikefalin",
+  "name": "Difelikefalin",
+  "zone": "skin",
+  "category": "fda",
+  "aliases": [
+    "CR845",
+    "MR13A9"
+  ],
+  "brands": [
+    "Korsuva"
+  ],
+  "class": "Peripheral kappa-opioid receptor agonist",
+  "route": "IV injection into the dialysis line at the end of each hemodialysis session",
+  "status": "FDA-approved (2021) for moderate-to-severe itch from chronic kidney disease in adults on hemodialysis",
+  "evidence": 4,
+  "mechanism": "Activates kappa-opioid receptors on nerves and immune cells outside the brain, damping itch signals without the euphoria of brain-acting opioids",
+  "uses": [
+    "Itch from chronic kidney disease in adults on hemodialysis"
+  ],
+  "popular": null,
+  "related": [
+    "etelcalcetide",
+    "ziconotide",
+    "afamelanotide"
+  ],
+  "article": {
+    "summary": "Difelikefalin (Korsuva) is an IV peptide given after hemodialysis to relieve moderate-to-severe itch caused by chronic kidney disease. FDA-approved in 2021.",
+    "takeaway": "Difelikefalin is a small synthetic peptide that activates kappa-opioid receptors, which help regulate itch, while staying largely outside the brain. It was the first FDA-approved treatment for **itch linked to chronic kidney disease** in people on hemodialysis, a common and often sleep-wrecking symptom. In phase 3 trials, about half of treated patients had a clinically meaningful drop in itch, compared with about a third on placebo.[^1][^2] It is injected into the dialysis line three times a week, so there is nothing to take at home.[^3] Dizziness, sleepiness and diarrhea are the main side effects, and it is not a controlled substance.",
+    "glance": [
+      [
+        "FDA status",
+        "Approved August 2021 (Korsuva)"
+      ],
+      [
+        "Main use",
+        "Moderate-to-severe CKD-associated itch in adults on hemodialysis"
+      ],
+      [
+        "How it's given",
+        "IV bolus into the dialysis circuit at the end of each session, usually three times a week"
+      ],
+      [
+        "Drug class",
+        "Peripherally acting kappa-opioid receptor agonist"
+      ],
+      [
+        "Research",
+        "Two phase 3 placebo-controlled trials (KALM-1 and KALM-2) with 851 participants"
+      ],
+      [
+        "Controlled substance",
+        "No"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Kidney failure leaves many people with persistent, often whole-body itch. Its causes are not fully understood, but an imbalance in the body's opioid signaling appears to play a part: activity at mu-opioid receptors tends to promote itch, while kappa-opioid receptors tend to suppress it."
+          },
+          {
+            "type": "p",
+            "text": "Difelikefalin is built from D-amino acids, mirror-image building blocks that resist breakdown, and it is water-loving enough that little of it crosses into the brain. It switches on kappa-opioid receptors on sensory nerve endings and immune cells in the skin and body, turning down itch signals at their source. Because it does not act on the brain's mu-opioid reward pathways, it was not expected to cause euphoria or dependence, and it is not scheduled by the DEA.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result at 12 weeks"
+              ],
+              [
+                "KALM-1",
+                "378 U.S. adults on hemodialysis with moderate-to-severe itch",
+                "At least a 3-point itch drop (0-10 scale) in 49.1% vs 27.9% on placebo[^1]"
+              ],
+              [
+                "KALM-1 and KALM-2 pooled",
+                "851 adults in North America, Europe and Asia-Pacific",
+                "3-point drop in 51.1% vs 35.2%; 4-point drop in 38.7% vs 23.4%[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Patients also reported better itch-related quality of life, and benefit began within the first week and held through an open-label extension of up to 64 weeks.[^2] The placebo response was substantial, which is typical of itch studies."
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's given",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The dose is 0.5 micrograms per kilogram of body weight, given by the dialysis team as a quick injection into the venous line of the dialysis circuit at the end of each session. If a session is missed, the dose is simply given after the next one. It has not been studied in people on peritoneal dialysis and is not recommended for them.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Most common:** diarrhea (9% vs 6% on placebo), dizziness, nausea, unsteady walking, headache and high potassium[^3]",
+              "**Nervous system:** sleepiness, confusion and falls; sleepiness was more common in people 65 and older (7% vs about 3%), and sedatives, sedating antihistamines or opioid pain medicines can add to these effects[^3]",
+              "**Daily life:** the label advises caution with driving or operating machinery until the effect on alertness is known[^3]"
+            ]
+          },
+          {
+            "type": "note",
+            "text": "It is not recommended for people with severe liver impairment, and human data in pregnancy are too limited to judge the risk."
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Korsuva was approved in August 2021 for adults on hemodialysis. An oral version was studied for other itchy conditions: it modestly reduced itch in a phase 2 trial in notalgia paresthetica, an itchy patch on the upper back,[^4] but the developer ended that program in 2024 after a larger dose-finding study showed no meaningful benefit over placebo.[^5] No oral form is approved."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: two phase 3 placebo-controlled trials",
+      "text": "Two randomized phase 3 trials with 851 participants showed consistent, moderate itch relief over placebo.[^1][^2] The effect is real but not universal: roughly half of treated patients reached a meaningful improvement."
+    },
+    "faq": [
+      {
+        "q": "Is difelikefalin an opioid? Can it be addictive?",
+        "a": "It acts on kappa-opioid receptors, a different branch of the opioid system from morphine-like drugs, and it mostly stays out of the brain. It is not a controlled substance.[^3]"
+      },
+      {
+        "q": "How quickly does it work?",
+        "a": "In the pooled trials, itch scores began separating from placebo within the first week.[^2]"
+      },
+      {
+        "q": "Can I use it if I'm on peritoneal dialysis or not on dialysis?",
+        "a": "It is approved only for adults on hemodialysis. It has not been studied in peritoneal dialysis, and no version is approved for people with kidney disease who are not on dialysis.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "A Phase 3 Trial of Difelikefalin in Hemodialysis Patients with Pruritus.",
+        "source": "N Engl J Med",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31702883/",
+        "pmid": "31702883",
+        "doi": "10.1056/NEJMoa1912770",
+        "note": "KALM-1: 12-week placebo-controlled trial"
+      },
+      {
+        "n": 2,
+        "title": "Efficacy of Difelikefalin for the Treatment of Moderate to Severe Pruritus in Hemodialysis Patients: Pooled Analysis of KALM-1 and KALM-2 Phase 3 Studies.",
+        "source": "Kidney Med",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36016762/",
+        "pmid": "36016762",
+        "doi": "10.1016/j.xkme.2022.100512",
+        "note": "Pooled results from both phase 3 trials"
+      },
+      {
+        "n": 3,
+        "title": "KORSUVA (difelikefalin) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0c7b81f2-0fd3-47cb-8b0f-185e07f19c87",
+        "note": "Dose, administration, warnings and side-effect rates"
+      },
+      {
+        "n": 4,
+        "title": "Phase 2 Trial of Difelikefalin in Notalgia Paresthetica.",
+        "source": "N Engl J Med",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36780675/",
+        "pmid": "36780675",
+        "doi": "10.1056/NEJMoa2210699",
+        "note": "Oral difelikefalin in a localized itch disorder"
+      },
+      {
+        "n": 5,
+        "title": "Cara Therapeutics Announces Outcome of Part A of KOURAGE-1 Study Evaluating Oral Difelikefalin in Notalgia Paresthetica",
+        "source": "BioSpace (company press release)",
+        "year": 2024,
+        "url": "https://www.biospace.com/cara-therapeutics-announces-outcome-of-part-a-of-kourage-1-study-evaluating-oral-difelikefalin-in-notalgia-paresthetica",
+        "note": "Developer ends the oral notalgia paresthetica program"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "slug": "afamelanotide",
+  "name": "Afamelanotide",
+  "zone": "skin",
+  "category": "fda",
+  "aliases": [
+    "[Nle4, D-Phe7]-alpha-MSH",
+    "NDP-MSH",
+    "CUV1647",
+    "Melanotan I (early research name)"
+  ],
+  "brands": [
+    "Scenesse"
+  ],
+  "class": "Melanocortin-1 receptor (MC1R) agonist",
+  "route": "Small implant placed under the skin by a trained clinician every 2 months",
+  "status": "FDA-approved (2019) to increase pain-free light exposure in adults with erythropoietic protoporphyria",
+  "evidence": 4,
+  "mechanism": "Copies the hormone alpha-MSH at the MC1R receptor on pigment cells, raising dark eumelanin that filters the light which triggers EPP pain",
+  "uses": [
+    "Erythropoietic protoporphyria (EPP)",
+    "Vitiligo (investigational, with phototherapy)"
+  ],
+  "popular": null,
+  "related": [
+    "melanotan-i",
+    "melanotan-ii",
+    "bremelanotide",
+    "setmelanotide"
+  ],
+  "article": {
+    "summary": "Afamelanotide (Scenesse) is a dissolving implant that darkens skin pigment so adults with erythropoietic protoporphyria can spend more time in light without pain. FDA-approved in 2019.",
+    "takeaway": "Afamelanotide is a lab-made, longer-lasting version of alpha-MSH, the hormone that tells pigment cells to make melanin. It is the first FDA-approved treatment for **erythropoietic protoporphyria (EPP)**, a rare inherited condition in which visible light causes burning skin pain. In two randomized trials it modestly but meaningfully increased the time patients could spend in sunlight without pain.[^1] It comes as a rice-grain-sized implant inserted every two months by a trained clinician, and it does not replace sun protection.[^2] The same molecule circulates online as unregulated \"Melanotan I\" for cosmetic tanning, which is a different matter entirely.",
+    "glance": [
+      [
+        "FDA status",
+        "Approved October 2019 (Scenesse); adults only"
+      ],
+      [
+        "Main use",
+        "Preventing light-triggered pain in erythropoietic protoporphyria"
+      ],
+      [
+        "How it's taken",
+        "16 mg implant under the skin of the lower abdomen or hip area, every 2 months"
+      ],
+      [
+        "Drug class",
+        "Melanocortin-1 receptor agonist (alpha-MSH analog)"
+      ],
+      [
+        "Research",
+        "Two randomized placebo-controlled trials plus long-term observational data"
+      ],
+      [
+        "Related",
+        "[Melanotan I](/peptides/melanotan-i), [Melanotan II](/peptides/melanotan-ii)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In EPP, a genetic enzyme defect lets a compound called protoporphyrin IX build up in the blood and skin. Protoporphyrin absorbs visible light, especially blue-violet wavelengths that pass through window glass and ordinary sunscreen, and turns that energy into tissue-damaging reactions. The result is intense burning pain, often with few visible marks, after minutes of light exposure."
+          },
+          {
+            "type": "p",
+            "text": "Afamelanotide is a 13-amino-acid copy of alpha-melanocyte-stimulating hormone (alpha-MSH) with two swapped amino acids that make it more potent and slower to break down. It switches on the melanocortin-1 receptor (MC1R) on melanocytes, the skin's pigment cells, which then make more eumelanin, the brown-black form of melanin. That added pigment absorbs and scatters incoming light before it reaches protoporphyrin. The drug does not lower protoporphyrin levels; it shields the skin from the trigger."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "U.S. phase 3 trial",
+                "94 adults with EPP, 6 months",
+                "Median pain-free time in direct sun 69.4 hours vs 40.8 hours on placebo[^1]"
+              ],
+              [
+                "European phase 3 trial",
+                "74 adults with EPP, 9 months",
+                "Median pain-free time 6.0 vs 0.8 hours; 77 vs 146 phototoxic reactions[^1]"
+              ],
+              [
+                "Long-term follow-up",
+                "115 patients in Italy and Switzerland, up to 8 years",
+                "Quality-of-life scores rose from about 31% to 74% of maximum and stayed there[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The gains in the controlled trials look small in hours, but for people who previously avoided daylight entirely, the long-term data suggest the benefit is felt in daily life: few patients stopped because the drug failed to help.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Each implant holds 16 mg of afamelanotide in a dissolving rod about 1.7 cm long. A clinician who has completed the manufacturer's training places it under the skin just above the front of the hip bone, typically every two months, and watches the patient for 30 minutes afterward. Skin pigment builds gradually after each implant and fades once treatment stops.[^2]"
+          },
+          {
+            "type": "note",
+            "text": "Sun and light protection, such as clothing and shade, is still part of EPP care during treatment. The implant reduces sensitivity but does not remove it."
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** reactions at the implant site (about 21% vs 10% on placebo implants) and nausea (19% vs 14%)[^2]",
+              "**Also reported:** sore throat, cough, tiredness, dizziness, drowsiness and skin darkening",
+              "**Moles and freckles:** existing spots can darken and new ones can appear, so the label recommends a full-body skin exam twice a year[^2]",
+              "**Allergic reactions:** serious hypersensitivity, including anaphylaxis, has been reported since approval; people with a prior severe reaction should not receive it[^2]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Safety and effectiveness have not been established in children, and there are no human data in pregnancy.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The FDA approved Scenesse in October 2019, several years after its European authorization. Its only U.S. indication is EPP in adults with a history of phototoxic reactions. The maker is also testing it in vitiligo alongside narrowband UVB light therapy: a phase 2 trial found faster and greater repigmentation with the combination,[^4] and a phase 3 trial was still active as of 2026.[^5] Vitiligo is not an approved use."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved: two randomized trials in a rare disease",
+      "text": "For a rare disease, the evidence is solid: two placebo-controlled trials met their main goal,[^1] and years of routine use in Europe support durable benefit and a mild side-effect profile.[^3] The trials were small, and pain-free light exposure is a hard outcome to measure precisely."
+    },
+    "faq": [
+      {
+        "q": "Is afamelanotide the same thing as Melanotan I?",
+        "a": "Chemically, yes. \"Melanotan I\" was its early research name. Scenesse is a manufactured, quality-controlled implant for a specific disease, while products sold online as [Melanotan I](/peptides/melanotan-i) for tanning are unregulated and of unknown purity and dose."
+      },
+      {
+        "q": "Will it make my skin noticeably darker?",
+        "a": "Usually somewhat, since raising pigment is how it works. The change is generally gradual and fades after treatment stops; freckles and moles may darken more than surrounding skin.[^2]"
+      },
+      {
+        "q": "Can I stop using sunscreen and protective clothing?",
+        "a": "No. The label advises continuing light protection, and ordinary UV sunscreens offer limited protection against the visible light that triggers EPP."
+      },
+      {
+        "q": "Is it approved for vitiligo?",
+        "a": "Not as of 2026. It is being studied with UVB phototherapy in a phase 3 trial.[^5]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Afamelanotide for Erythropoietic Protoporphyria.",
+        "source": "N Engl J Med",
+        "year": 2015,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26132941/",
+        "pmid": "26132941",
+        "doi": "10.1056/NEJMoa1411481",
+        "note": "The U.S. and European randomized placebo-controlled trials"
+      },
+      {
+        "n": 2,
+        "title": "SCENESSE (afamelanotide) implant: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48",
+        "note": "Current label: dosing, warnings, side-effect rates"
+      },
+      {
+        "n": 3,
+        "title": "Long-term observational study of afamelanotide in 115 patients with erythropoietic protoporphyria.",
+        "source": "Br J Dermatol",
+        "year": 2015,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25494545/",
+        "pmid": "25494545",
+        "doi": "10.1111/bjd.13598",
+        "note": "Up to 8 years of routine use: adherence, quality of life, safety"
+      },
+      {
+        "n": 4,
+        "title": "Afamelanotide and narrowband UV-B phototherapy for the treatment of vitiligo: a randomized multicenter trial.",
+        "source": "JAMA Dermatol",
+        "year": 2015,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25230094/",
+        "pmid": "25230094",
+        "doi": "10.1001/jamadermatol.2014.1875",
+        "note": "Phase 2 vitiligo trial combining the implant with UVB light"
+      },
+      {
+        "n": 5,
+        "title": "A Study to Compare the Efficacy and Safety of SCENESSE and Narrow-Band Ultraviolet (NB-UVB) Light Versus NB-UVB Light Alone in Patients With Vitiligo",
+        "source": "ClinicalTrials.gov",
+        "year": 2023,
+        "url": "https://clinicaltrials.gov/study/NCT06109649",
+        "note": "Phase 3 vitiligo trial (NCT06109649), active as of 2026"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

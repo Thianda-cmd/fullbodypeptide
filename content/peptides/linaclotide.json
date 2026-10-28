@@ -1,0 +1,254 @@
+{
+  "slug": "linaclotide",
+  "name": "Linaclotide",
+  "zone": "digestive",
+  "category": "fda",
+  "aliases": [],
+  "brands": [
+    "Linzess"
+  ],
+  "class": "Guanylate cyclase-C agonist",
+  "route": "Capsule by mouth once a day, on an empty stomach",
+  "status": "FDA-approved in 2012 for IBS-C and chronic constipation in adults; pediatric uses added since 2023",
+  "evidence": 4,
+  "mechanism": "Activates the guanylate cyclase-C receptor on the gut lining, drawing water into the bowel to soften stool and calming pain-sensing nerves",
+  "uses": [
+    "Irritable bowel syndrome with constipation (IBS-C)",
+    "Chronic idiopathic constipation in adults",
+    "Functional constipation in children 2 and older"
+  ],
+  "popular": null,
+  "related": [
+    "plecanatide",
+    "teduglutide",
+    "larazotide-acetate"
+  ],
+  "article": {
+    "summary": "Linaclotide (Linzess) is a daily capsule that adds fluid to the bowel. It is FDA-approved for IBS with constipation, chronic idiopathic constipation and childhood functional constipation.",
+    "takeaway": "Linaclotide is a small peptide that works almost entirely inside the gut, where it switches on a receptor that pulls salt and water into the intestine. In a 26-week trial in IBS with constipation, about **one in three** people met the FDA's combined pain-and-bowel response goal, versus about one in seven on placebo.[^1] US gastroenterology guidelines give it a strong recommendation for both IBS-C and chronic constipation.[^2][^3] Diarrhea is the main side effect, and it must not be given to children under 2.[^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved August 2012 (Linzess)"
+      ],
+      [
+        "Main uses",
+        "IBS-C (adults and children 7+), chronic idiopathic constipation (adults), functional constipation (children 2+)"
+      ],
+      [
+        "How it's taken",
+        "One capsule daily, at least 30 minutes before the first meal"
+      ],
+      [
+        "Drug class",
+        "Guanylate cyclase-C (GC-C) agonist"
+      ],
+      [
+        "Research",
+        "Several large 12-26 week placebo-controlled phase 3 trials, plus a pediatric trial"
+      ],
+      [
+        "Related",
+        "[Plecanatide](/peptides/plecanatide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The intestinal lining carries a receptor called guanylate cyclase-C (GC-C). It normally responds to the gut's own hormones guanylin and uroguanylin. When switched on, it raises a messenger molecule called cyclic GMP inside the cells, which opens a channel (CFTR) that releases chloride and bicarbonate into the bowel. Water follows, stool softens and things move faster."
+          },
+          {
+            "type": "p",
+            "text": "Linaclotide is a 14-amino-acid peptide modeled on these hormones. Very little is absorbed into the blood, so it acts locally. Some of the cyclic GMP it generates also leaves the cells and appears to dampen pain-sensing nerves in the gut wall, which may explain its effect on abdominal pain."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Condition",
+                "Who",
+                "Label dose"
+              ],
+              [
+                "IBS-C",
+                "Adults",
+                "290 mcg once daily"
+              ],
+              [
+                "IBS-C",
+                "Children 7 and older",
+                "145 mcg once daily"
+              ],
+              [
+                "Chronic idiopathic constipation",
+                "Adults",
+                "145 mcg, or 72 mcg if better tolerated"
+              ],
+              [
+                "Functional constipation",
+                "Children 2 and older",
+                "72 mcg once daily"
+              ]
+            ]
+          },
+          {
+            "type": "note",
+            "text": "The pediatric indications were added in 2023 and later; check the current label for age-specific details.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "IBS-C, 26 weeks",
+                "804 adults with IBS-C",
+                "33.7% met the FDA responder goal vs 13.9% on placebo[^1]"
+              ],
+              [
+                "Two CIC trials, 12 weeks",
+                "1,276 adults with chronic constipation",
+                "16-21% hit the strict bowel goal vs 3-6% on placebo[^5]"
+              ],
+              [
+                "Pediatric functional constipation",
+                "328 children aged 6-17",
+                "About 1.2 more spontaneous bowel movements per week than placebo[^6]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The response bar in these trials was demanding, such as improvement in both pain and bowel habits in the same week for at least half the study. Many more people reported partial relief of bloating, straining and stool consistency.[^1][^5]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The capsule is swallowed whole once a day on an empty stomach, at least 30 minutes before the first meal, at roughly the same time each day. For people who cannot swallow capsules, the label allows opening the capsule onto applesauce or into water, or giving it through a feeding tube.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Diarrhea** is the most common side effect: in pooled IBS-C trials it affected 20% of people on linaclotide versus 3% on placebo, usually starting in the first two weeks[^4]",
+              "**Severe diarrhea** (about 2% in trials) calls for stopping the drug and seeking care, because of the risk of dehydration",
+              "**Other effects:** belly pain, gas and bloating",
+              "**Boxed warning:** not for children under 2, because in newborn mice a single adult-equivalent dose caused fatal dehydration[^4]",
+              "**Not for** people with a known or suspected bowel blockage"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved: high-certainty evidence from large RCTs",
+      "text": "Multiple large, randomized, placebo-controlled trials support linaclotide, and the American Gastroenterological Association rates the certainty of evidence for IBS-C as high.[^2] Most trials lasted 12-26 weeks, so very long-term comparative data are more limited."
+    },
+    "faq": [
+      {
+        "q": "Why does linaclotide cause diarrhea?",
+        "a": "It works by drawing extra fluid into the bowel, so loose stools are an extension of its main effect. Most diarrhea starts in the first two weeks, and only about 1 in 20 adults with IBS-C stopped treatment because of it.[^4]"
+      },
+      {
+        "q": "What is the difference between Linzess and Trulance?",
+        "a": "Both activate the same GC-C receptor. [Plecanatide](/peptides/plecanatide) (Trulance) mimics uroguanylin and is designed to act mainly in the upper small intestine. Guidelines support both, with the strongest recommendation for linaclotide in IBS-C.[^2]"
+      },
+      {
+        "q": "Is linaclotide a laxative?",
+        "a": "Not in the traditional sense. It increases fluid secretion in the gut through a hormone receptor, and it is also designed to ease pain in IBS, which ordinary laxatives do not target."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Linaclotide for irritable bowel syndrome with constipation: a 26-week, randomized, double-blind, placebo-controlled trial to evaluate efficacy and safety",
+        "source": "Am J Gastroenterol",
+        "year": 2012,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22986437/",
+        "pmid": "22986437",
+        "doi": "10.1038/ajg.2012.254",
+        "note": "Pivotal 26-week IBS-C trial"
+      },
+      {
+        "n": 2,
+        "title": "AGA Clinical Practice Guideline on the Pharmacological Management of Irritable Bowel Syndrome With Constipation",
+        "source": "Gastroenterology",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35738724/",
+        "pmid": "35738724",
+        "doi": "10.1053/j.gastro.2022.04.016",
+        "note": "Strong recommendation for linaclotide in IBS-C"
+      },
+      {
+        "n": 3,
+        "title": "American Gastroenterological Association-American College of Gastroenterology Clinical Practice Guideline: Pharmacological Management of Chronic Idiopathic Constipation",
+        "source": "Gastroenterology",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37211380/",
+        "pmid": "37211380",
+        "doi": "10.1053/j.gastro.2023.03.214",
+        "note": "Strong recommendation for linaclotide in chronic constipation"
+      },
+      {
+        "n": 4,
+        "title": "LINZESS (linaclotide) capsules: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=09beda19-56d6-4a56-afdc-9a77b70b2ef3",
+        "note": "Current indications, pediatric dosing and boxed warning"
+      },
+      {
+        "n": 5,
+        "title": "Two randomized trials of linaclotide for chronic constipation",
+        "source": "N Engl J Med",
+        "year": 2011,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21830967/",
+        "pmid": "21830967",
+        "doi": "10.1056/NEJMoa1010863",
+        "note": "Two 12-week phase 3 trials in chronic constipation"
+      },
+      {
+        "n": 6,
+        "title": "Efficacy and safety of linaclotide in treating functional constipation in paediatric patients: a randomised, double-blind, placebo-controlled, multicentre, phase 3 trial",
+        "source": "Lancet Gastroenterol Hepatol",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38211604/",
+        "pmid": "38211604",
+        "doi": "10.1016/S2468-1253(23)00398-9",
+        "note": "Pediatric functional constipation trial, ages 6-17"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

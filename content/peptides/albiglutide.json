@@ -1,0 +1,220 @@
+{
+  "slug": "albiglutide",
+  "name": "Albiglutide",
+  "zone": "hormones",
+  "category": "fda",
+  "aliases": [
+    "Eperzan (former EU brand)"
+  ],
+  "brands": [
+    "Tanzeum"
+  ],
+  "class": "GLP-1 receptor agonist (albumin fusion)",
+  "route": "Weekly injection under the skin (no longer sold)",
+  "status": "FDA-approved for type 2 diabetes (2014); discontinued by its maker in 2017-2018 for commercial, not safety, reasons",
+  "evidence": 4,
+  "mechanism": "Two linked copies of a modified GLP-1 hormone fused to human albumin, which keeps GLP-1 receptors switched on for about a week per dose",
+  "uses": [
+    "Type 2 diabetes (blood sugar control)"
+  ],
+  "popular": null,
+  "related": [
+    "dulaglutide",
+    "semaglutide",
+    "liraglutide",
+    "exenatide"
+  ],
+  "article": {
+    "summary": "Albiglutide (Tanzeum) was a once-weekly GLP-1 drug approved in 2014 for type 2 diabetes. It cut heart attack and stroke risk in a large trial but left the market in 2018.",
+    "takeaway": "Albiglutide is a GLP-1 receptor agonist built by fusing two copies of a modified GLP-1 hormone to albumin, the most plentiful protein in blood, so one injection lasted a week.[^1] It was approved in 2014 as Tanzeum for adults with type 2 diabetes, but GSK stopped selling it in 2017-2018 because of low use, not because of a safety problem. Its heart outcomes trial, reported after the drug was gone, found **22% fewer heart attacks, strokes and cardiovascular deaths** than placebo.[^2] Head to head, it lowered blood sugar slightly less than daily liraglutide but caused less nausea and diarrhea.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved 2014 (Tanzeum); no longer sold in the US since 2018"
+      ],
+      [
+        "Main use",
+        "Blood sugar control in adults with type 2 diabetes"
+      ],
+      [
+        "How it was taken",
+        "Once-weekly injection under the skin from a pen that mixed powder with liquid"
+      ],
+      [
+        "Drug class",
+        "GLP-1 receptor agonist (albumin fusion protein)"
+      ],
+      [
+        "Research",
+        "Phase 3 HARMONY program plus the 9,463-person Harmony Outcomes trial"
+      ],
+      [
+        "Related",
+        "[Dulaglutide](/peptides/dulaglutide), [semaglutide](/peptides/semaglutide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GLP-1 is a hormone the gut releases after meals. It prompts the pancreas to release insulin when blood sugar is high, holds back glucagon (a hormone that raises blood sugar), slows stomach emptying and adds to the feeling of fullness. The body's own GLP-1 lasts only minutes because an enzyme called DPP-4 cuts it apart."
+          },
+          {
+            "type": "p",
+            "text": "Albiglutide got around that in two ways. Each GLP-1 copy carries a single amino acid swap that DPP-4 cannot easily cut, and the pair is fused to human albumin, which the body clears slowly. The result was a half-life of about five days, long enough for weekly dosing.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it was used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Tanzeum was approved as an add-on to diet and exercise to improve blood sugar in adults with type 2 diabetes. The label advised against using it as a first medicine for people who had not tried other treatments, and it was not meant for type 1 diabetes or diabetic ketoacidosis.[^1] It was never approved for weight loss."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "HARMONY 7",
+                "841 adults on oral diabetes pills",
+                "HbA1c fell 0.78 points vs 0.99 with daily liraglutide over 32 weeks; it did not prove equal[^3]"
+              ],
+              [
+                "Harmony Outcomes",
+                "9,463 adults with type 2 diabetes and heart or blood vessel disease",
+                "Heart attack, stroke or cardiovascular death in 7% vs 9% on placebo over a median 1.6 years[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Harmony Outcomes was one of seven large heart-safety trials of GLP-1 drugs. Pooled together, those trials showed about **12% fewer major cardiovascular events** across the class, and albiglutide's result was among the larger effects.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it was taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Tanzeum came as a single-dose pen holding a powder and a diluent. Patients twisted the pen to mix them, then waited 15 minutes (30 mg pen) or 30 minutes (50 mg pen) for the powder to dissolve before injecting. The usual start was 30 mg once a week, raised to 50 mg if more blood sugar control was needed, given at any time of day with or without food.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** upper respiratory infections, diarrhea, nausea and injection-site reactions",
+              "**Boxed warning:** other GLP-1 drugs caused thyroid C-cell tumors in rodents; not for people with a personal or family history of medullary thyroid cancer or MEN2",
+              "**Other warnings:** pancreatitis, serious allergic reactions including swelling of the face and throat, and kidney strain after severe vomiting or diarrhea",
+              "**Low blood sugar** when combined with insulin or sulfonylureas"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Compared with liraglutide, stomach side effects were less frequent (36% vs 49%) but injection-site reactions were more common (13% vs 5%).[^3]"
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "FDA approved Tanzeum in 2014. In 2017 GSK announced it would stop making the drug, citing limited prescribing, and US supplies ran out in 2018. The approval was never pulled for safety reasons, but no albiglutide product is sold in the United States as of 2026."
+          },
+          {
+            "type": "p",
+            "text": "The heart trial results arrived after the drug had left the market. They still added to the evidence behind current advice to favor GLP-1 drugs with proven heart benefit for people who have type 2 diabetes and heart disease."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong, though the drug is no longer sold",
+      "text": "Albiglutide went through a full phase 3 program and a large placebo-controlled outcomes trial showing fewer major cardiovascular events.[^2] The data are solid, but they mainly matter today as part of the wider case for the GLP-1 class.[^4]"
+    },
+    "faq": [
+      {
+        "q": "Is Tanzeum still available?",
+        "a": "No. GSK stopped making it and US supplies ran out in 2018. The decision was commercial; FDA did not remove it over safety concerns."
+      },
+      {
+        "q": "Why was it discontinued if it reduced heart attacks?",
+        "a": "The decision was announced in 2017, before the heart trial reported in 2018, and the drug faced strong competition from other weekly GLP-1 medicines. In a head-to-head trial it also lowered blood sugar a little less than liraglutide.[^3]"
+      },
+      {
+        "q": "What do people with type 2 diabetes use instead?",
+        "a": "Other GLP-1 receptor agonists, such as weekly [dulaglutide](/peptides/dulaglutide) or [semaglutide](/peptides/semaglutide), have their own proven heart benefits. Which drug fits depends on the person and is a decision for their clinician."
+      },
+      {
+        "q": "How was albiglutide different from other GLP-1 drugs?",
+        "a": "It was a large fusion protein, with GLP-1 bolted onto albumin. Dulaglutide uses a similar idea with an antibody fragment, while semaglutide uses a fatty-acid chain that grips albumin in the blood."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "TANZEUM (albiglutide) for injection: prescribing information (revised 8/2017)",
+        "source": "U.S. FDA (Drugs@FDA label)",
+        "year": 2017,
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/125431s019lbl.pdf",
+        "note": "Last US label: indication, dosing, pen mixing steps and warnings"
+      },
+      {
+        "n": 2,
+        "title": "Albiglutide and cardiovascular outcomes in patients with type 2 diabetes and cardiovascular disease (Harmony Outcomes): a double-blind, randomised placebo-controlled trial.",
+        "source": "Lancet",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30291013/",
+        "pmid": "30291013",
+        "doi": "10.1016/S0140-6736(18)32261-X",
+        "note": "Harmony Outcomes: major cardiovascular events versus placebo"
+      },
+      {
+        "n": 3,
+        "title": "Once-weekly albiglutide versus once-daily liraglutide in patients with type 2 diabetes inadequately controlled on oral drugs (HARMONY 7): a randomised, open-label, multicentre, non-inferiority phase 3 study.",
+        "source": "Lancet Diabetes Endocrinol",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24703047/",
+        "pmid": "24703047",
+        "doi": "10.1016/S2213-8587(13)70214-6",
+        "note": "HARMONY 7: head-to-head comparison with liraglutide"
+      },
+      {
+        "n": 4,
+        "title": "Cardiovascular, mortality, and kidney outcomes with GLP-1 receptor agonists in patients with type 2 diabetes: a systematic review and meta-analysis of cardiovascular outcome trials.",
+        "source": "Lancet Diabetes Endocrinol",
+        "year": 2019,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31422062/",
+        "pmid": "31422062",
+        "doi": "10.1016/S2213-8587(19)30249-9",
+        "note": "Pooled results of seven GLP-1 cardiovascular outcome trials"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

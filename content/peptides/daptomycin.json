@@ -1,0 +1,230 @@
+{
+  "slug": "daptomycin",
+  "name": "Daptomycin",
+  "zone": "skin",
+  "category": "fda",
+  "aliases": [
+    "LY146032",
+    "Cyclic lipopeptide antibiotic"
+  ],
+  "brands": [
+    "Cubicin",
+    "Cubicin RF"
+  ],
+  "class": "Cyclic lipopeptide antibiotic",
+  "route": "IV infusion or 2-minute IV injection, once a day (adults)",
+  "status": "FDA-approved for complicated skin infections (2003) and S. aureus bloodstream infections (2006); generics available",
+  "evidence": 4,
+  "mechanism": "With calcium, inserts into Gram-positive bacterial membranes and seizes cell-wall building blocks, collapsing the membrane and killing the cell",
+  "uses": [
+    "Complicated skin and skin structure infections",
+    "S. aureus bloodstream infections",
+    "Right-sided S. aureus endocarditis"
+  ],
+  "popular": null,
+  "related": [
+    "vancomycin",
+    "dalbavancin-oritavancin-telavancin",
+    "polymyxin-b-colistin",
+    "bacitracin"
+  ],
+  "article": {
+    "summary": "Daptomycin (Cubicin) is a once-daily IV antibiotic for serious skin infections and Staphylococcus aureus bloodstream infections, including MRSA. It is not used for pneumonia.",
+    "takeaway": "Daptomycin was the first of a class called cyclic lipopeptides, made by a soil bacterium. It kills Gram-positive bacteria, including **MRSA** and many vancomycin-resistant strains, and is given as a single daily IV dose. It matched standard antibiotics in large trials for complicated skin infections and for S. aureus bloodstream infections.[^1][^2] Lung surfactant inactivates it, so it does not work for pneumonia.[^3] The main safety watch-points are **muscle injury**, tracked with weekly blood tests, and a rare allergic lung reaction.[^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved 2003 (skin infections) and 2006 (S. aureus bloodstream infections); generics available"
+      ],
+      [
+        "Main uses",
+        "Complicated skin infections; S. aureus bacteremia including right-sided endocarditis"
+      ],
+      [
+        "How it's given",
+        "Once daily IV; 7-14 days for skin infections, 2-6 weeks for bloodstream infections"
+      ],
+      [
+        "Drug class",
+        "Cyclic lipopeptide antibiotic"
+      ],
+      [
+        "Not for",
+        "Pneumonia or left-sided heart valve infections"
+      ],
+      [
+        "Related",
+        "[Vancomycin](/peptides/vancomycin), [dalbavancin, oritavancin, telavancin](/peptides/dalbavancin-oritavancin-telavancin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Daptomycin is a chain of 13 amino acids, mostly closed into a ring, with a fatty-acid tail. It was originally isolated from Streptomyces roseosporus, a soil bacterium. In the presence of calcium, it inserts into the outer membrane of Gram-positive bacteria. Research published in 2020 showed it clusters at the site where the cell divides, grabbing carrier-bound cell-wall building blocks along with membrane lipids.[^5] Wall construction stalls, the membrane is rearranged and leaks, and the bacterium dies quickly."
+          },
+          {
+            "type": "p",
+            "text": "Because Gram-negative bacteria have a different outer envelope, daptomycin has no useful activity against them. It is also neutralized by surfactant, the fatty coating inside the lungs, which is why it failed in a pneumonia trial despite working well elsewhere.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "Two skin-infection trials",
+                "1,092 adults with complicated skin infections",
+                "Clinical success 83.4% vs 84.2% with penicillins or vancomycin; more patients finished in 4-7 days[^1]"
+              ],
+              [
+                "S. aureus bacteremia trial",
+                "246 adults with bloodstream infection, with or without endocarditis",
+                "Success 44.2% vs 41.7% with standard therapy; kidney problems 11% vs 26%[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The bacteremia trial also showed a weakness: some patients whose infection persisted developed bacteria with reduced sensitivity to daptomycin.[^2] Clinicians often use higher-than-label doses for difficult infections, a practice based on observational data rather than the label."
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's given",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Adults receive 4 mg/kg once daily for 7-14 days for complicated skin infections, or 6 mg/kg once daily for 2-6 weeks for S. aureus bloodstream infections. It can be infused over 30 minutes or, in adults, pushed over 2 minutes, which makes it practical for home IV therapy. People with poor kidney function get the dose every 48 hours instead. Children aged 1-17 receive age-based doses as an infusion.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Muscle:** creatine kinase (CPK) rises, muscle pain and, rarely, rhabdomyolysis; CPK is checked weekly and statins are often paused during treatment[^4]",
+              "**Eosinophilic pneumonia:** a rare allergic lung reaction with fever, cough and breathlessness; most cases improve quickly once the drug is stopped[^6]",
+              "**Other serious reactions:** anaphylaxis, DRESS (a severe drug rash with organ involvement), kidney inflammation, peripheral nerve symptoms and C. difficile diarrhea[^4]",
+              "**Common:** diarrhea, headache, dizziness, rash and abnormal liver tests"
+            ]
+          },
+          {
+            "type": "note",
+            "text": "It is avoided in babies under 12 months because of muscle and nerve effects seen in newborn animal studies.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Daptomycin was approved in 2003 for complicated skin infections and in 2006 for S. aureus bloodstream infections, including right-sided endocarditis. Pediatric approvals for ages 1-17 followed. Cubicin RF is a room-temperature-stable version, and generic daptomycin is widely available.[^4]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: randomized trials against standard therapy",
+      "text": "Randomized trials involving more than 1,300 patients showed daptomycin performed as well as standard antibiotics for skin and S. aureus bloodstream infections.[^1][^2] Its failure in pneumonia is equally well documented and explained.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Why can't daptomycin treat pneumonia?",
+        "a": "Lung surfactant binds and inactivates it, so it cannot reach effective levels in the air sacs.[^3]"
+      },
+      {
+        "q": "Why do I need weekly blood tests on daptomycin?",
+        "a": "To check creatine kinase, a marker of muscle damage. Muscle injury is the drug's best-known serious side effect, and catching it early lets the team stop treatment in time.[^4]"
+      },
+      {
+        "q": "Is daptomycin stronger than vancomycin?",
+        "a": "Not overall: trials showed similar results.[^2] It is often chosen when vancomycin is failing, poorly tolerated, or the bacteria are less sensitive to vancomycin."
+      },
+      {
+        "q": "Can it be given at home?",
+        "a": "Yes. Once-daily dosing and a short injection time make it common in home and outpatient IV programs, with regular blood monitoring."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "The safety and efficacy of daptomycin for the treatment of complicated skin and skin-structure infections.",
+        "source": "Clin Infect Dis",
+        "year": 2004,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15227611/",
+        "pmid": "15227611",
+        "doi": "10.1086/420818",
+        "note": "Two phase 3 skin-infection trials vs conventional antibiotics"
+      },
+      {
+        "n": 2,
+        "title": "Daptomycin versus standard therapy for bacteremia and endocarditis caused by Staphylococcus aureus.",
+        "source": "N Engl J Med",
+        "year": 2006,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16914701/",
+        "pmid": "16914701",
+        "doi": "10.1056/NEJMoa053783",
+        "note": "Randomized trial behind the bloodstream-infection approval"
+      },
+      {
+        "n": 3,
+        "title": "Inhibition of daptomycin by pulmonary surfactant: in vitro modeling and clinical impact.",
+        "source": "J Infect Dis",
+        "year": 2005,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15898002/",
+        "pmid": "15898002",
+        "doi": "10.1086/430352",
+        "note": "Why daptomycin fails in pneumonia"
+      },
+      {
+        "n": 4,
+        "title": "CUBICIN RF (daptomycin) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b1a8885-2198-4a0e-8105-0c76c1cba6c2",
+        "note": "Indications, dosing, CPK monitoring and warnings"
+      },
+      {
+        "n": 5,
+        "title": "Ca(2+)-Daptomycin targets cell wall biosynthesis by forming a tripartite complex with undecaprenyl-coupled intermediates and membrane lipids.",
+        "source": "Nat Commun",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32193379/",
+        "pmid": "32193379",
+        "doi": "10.1038/s41467-020-15257-1",
+        "note": "Clarifies how daptomycin attacks the bacterial cell envelope"
+      },
+      {
+        "n": 6,
+        "title": "Daptomycin eosinophilic pneumonia, a systematic review of the literature and case series.",
+        "source": "Infection",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39028390/",
+        "pmid": "39028390",
+        "doi": "10.1007/s15010-024-02349-z",
+        "note": "Review of 74 cases of daptomycin-related eosinophilic pneumonia"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

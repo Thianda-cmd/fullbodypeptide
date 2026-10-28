@@ -1,0 +1,218 @@
+{
+  "slug": "pegvisomant",
+  "name": "Pegvisomant",
+  "zone": "hormones",
+  "category": "fda",
+  "aliases": [
+    "B2036-PEG"
+  ],
+  "brands": [
+    "Somavert"
+  ],
+  "class": "Growth hormone receptor antagonist",
+  "route": "Daily injection under the skin after a supervised loading dose",
+  "status": "FDA-approved (2003) for acromegaly not controlled by surgery or radiation",
+  "evidence": 4,
+  "mechanism": "Modified growth hormone that occupies the growth hormone receptor without switching it on, so the liver makes far less IGF-1",
+  "uses": [
+    "Acromegaly"
+  ],
+  "popular": null,
+  "related": [
+    "pasireotide",
+    "octreotide",
+    "lanreotide",
+    "somatropin-rhgh"
+  ],
+  "article": {
+    "summary": "Pegvisomant (Somavert) is a daily injection for acromegaly that blocks the growth hormone receptor, normalizing IGF-1 in most patients when surgery or radiation has not worked.",
+    "takeaway": "Acromegaly is caused by a pituitary tumor that makes too much growth hormone, which raises IGF-1 and enlarges hands, feet, face and organs. Pegvisomant takes a different approach from other drugs: rather than reducing growth hormone, it **blocks the receptor** that growth hormone acts on.[^1] In early trials IGF-1 became normal in up to 89% of patients on the highest dose, and in 97% of those treated for a year or more.[^2][^3] Real-world rates are lower but still substantial, and liver tests and tumor size need monitoring.[^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved 2003"
+      ],
+      [
+        "Main use",
+        "Acromegaly with an inadequate response to surgery or radiation, or when those are not appropriate"
+      ],
+      [
+        "How it's taken",
+        "40 mg loading dose, then a daily injection under the skin adjusted by IGF-1 levels"
+      ],
+      [
+        "Drug class",
+        "Growth hormone receptor antagonist"
+      ],
+      [
+        "Research",
+        "Randomized trial, long-term studies and a 2,221-patient real-world registry"
+      ],
+      [
+        "Related",
+        "[Pasireotide](/peptides/pasireotide), [octreotide](/peptides/octreotide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Growth hormone switches on its receptor by binding two receptor units at once. Pegvisomant is growth hormone with several amino acid changes: it still binds the receptor tightly but cannot trigger the shape change that sends the signal. Polyethylene glycol (PEG) chains attached to it slow its clearance."
+          },
+          {
+            "type": "p",
+            "text": "The result is a steep fall in IGF-1, the hormone behind most acromegaly symptoms. Growth hormone levels in the blood actually rise during treatment, and pegvisomant also interferes with standard growth hormone tests, so doctors track IGF-1 instead.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Somavert is approved for acromegaly in people whose disease is not controlled after surgery or radiation, or for whom those treatments are not appropriate. The goal is a normal IGF-1 level.[^1] It is often used when somatostatin analogs such as [octreotide](/peptides/octreotide) or [lanreotide](/peptides/lanreotide) are not enough, and sometimes in combination with them."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "12-week randomized trial",
+                "112 adults with active acromegaly",
+                "Normal IGF-1 in 54%, 81% and 89% on 10, 15 and 20 mg daily vs 10% on placebo[^2]"
+              ],
+              [
+                "Long-term extension",
+                "152 patients on daily injections for up to 18 months",
+                "97% of those treated for 12 months or more reached normal IGF-1[^3]"
+              ],
+              [
+                "ACROSTUDY registry",
+                "2,221 patients, median 9.3 years",
+                "Normal IGF-1 in 54% at one year and 75% at ten years[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Registry control rates climbed over the years as more patients moved to higher doses.[^4] In the randomized trial, ring size, soft-tissue swelling, sweating and fatigue also improved.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Treatment begins with a 40 mg loading dose given under medical supervision, followed by 10 mg injected under the skin each day. The dose is adjusted in 5 mg steps every 4-6 weeks based on IGF-1, usually within 10-30 mg a day, with 30 mg as the label maximum.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** infections, pain, nausea, diarrhea, flu-like symptoms and injection-site reactions",
+              "**Liver:** raised liver enzymes; tests are checked before and during treatment[^1]",
+              "**Low blood sugar** in people with diabetes, because insulin sensitivity improves; diabetes drugs may need lowering",
+              "**Fat changes under the skin** where injections are repeated; rotate sites",
+              "**Tumor growth:** the drug does not act on the tumor, so pituitary MRI scans continue"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In the ACROSTUDY registry, tumor enlargement was seen on imaging in 7.1% of patients and abnormal liver tests in 3.2%; side effects led to stopping the drug in 1.3%.[^4]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: effective IGF-1 control over two decades",
+      "text": "A randomized placebo-controlled trial and long-term follow-up show that pegvisomant lowers IGF-1 in a dose-dependent way.[^2][^3] A large registry spanning more than a decade confirms durable control and a manageable safety profile.[^4]"
+    },
+    "faq": [
+      {
+        "q": "Does pegvisomant shrink the pituitary tumor?",
+        "a": "No. It blocks growth hormone's effects but does not act on the tumor, so regular MRI scans are part of treatment. Most tumors stay stable.[^4]"
+      },
+      {
+        "q": "Why is growth hormone not used to check whether it works?",
+        "a": "Growth hormone levels rise on treatment and the drug interferes with growth hormone tests. IGF-1 is the marker used to adjust the dose.[^1]"
+      },
+      {
+        "q": "Can it be combined with other acromegaly drugs?",
+        "a": "Yes. Combining it with somatostatin analogs became increasingly common in real-world practice, although that goes beyond the label.[^5] The choice is made by the treating endocrinologist."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "SOMAVERT (pegvisomant) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3cbb485b-6df1-49ce-8747-592b395b1988",
+        "note": "Indication, dosing by IGF-1, liver monitoring and warnings"
+      },
+      {
+        "n": 2,
+        "title": "Treatment of acromegaly with the growth hormone-receptor antagonist pegvisomant.",
+        "source": "N Engl J Med",
+        "year": 2000,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10770982/",
+        "pmid": "10770982",
+        "doi": "10.1056/NEJM200004203421604",
+        "note": "12-week randomized placebo-controlled dose trial"
+      },
+      {
+        "n": 3,
+        "title": "Long-term treatment of acromegaly with pegvisomant, a growth hormone receptor antagonist.",
+        "source": "Lancet",
+        "year": 2001,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11734231/",
+        "pmid": "11734231",
+        "doi": "10.1016/s0140-6736(01)06844-1",
+        "note": "IGF-1 control and safety with up to 18 months of treatment"
+      },
+      {
+        "n": 4,
+        "title": "More than a decade of real-world experience of pegvisomant for acromegaly: ACROSTUDY.",
+        "source": "Eur J Endocrinol",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34342594/",
+        "pmid": "34342594",
+        "doi": "10.1530/EJE-21-0239",
+        "note": "ACROSTUDY: long-term real-world efficacy and safety"
+      },
+      {
+        "n": 5,
+        "title": "Increasing frequency of combination medical therapy in the treatment of acromegaly with the GH receptor antagonist pegvisomant.",
+        "source": "Eur J Endocrinol",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29371335/",
+        "pmid": "29371335",
+        "doi": "10.1530/EJE-17-0996",
+        "note": "ACROSTUDY data on combining pegvisomant with other drugs"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

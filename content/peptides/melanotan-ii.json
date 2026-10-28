@@ -1,0 +1,226 @@
+{
+  "slug": "melanotan-ii",
+  "name": "Melanotan II",
+  "zone": "skin",
+  "category": "wellness",
+  "aliases": [
+    "MT-II",
+    "MT2",
+    "Ac-Nle4-cyclo[Asp5-D-Phe7-Lys10]-alpha-MSH(4-10)-NH2"
+  ],
+  "brands": [],
+  "class": "Non-selective melanocortin receptor agonist",
+  "route": "Injected under the skin or used as a nasal spray (unapproved, gray-market)",
+  "status": "Not approved anywhere; never cleared by the FDA, which lists serious reported harms; under FDA advisory review for compounding in 2026-27",
+  "evidence": 1,
+  "mechanism": "Mimics alpha-MSH at several melanocortin receptors, darkening skin through MC1R and acting on brain receptors that affect appetite and sexual arousal",
+  "uses": [
+    "Sunless tanning (unapproved)",
+    "Libido and erections (unapproved)",
+    "Appetite suppression (unapproved)"
+  ],
+  "popular": 23,
+  "related": [
+    "melanotan-i",
+    "afamelanotide",
+    "bremelanotide",
+    "pt-141"
+  ],
+  "article": {
+    "summary": "Melanotan II is an unapproved synthetic hormone analog sold online as a tanning injection or nasal spray. It darkens skin and moles and has been linked to melanoma and other serious harms.",
+    "takeaway": "Melanotan II is a lab-made copy of alpha-MSH, the hormone that tells skin to tan, built in the 1990s to research sunless tanning.[^1] It also acts on brain receptors, which is why users report nausea, flushing, loss of appetite and spontaneous erections. It never completed clinical development and is **not approved anywhere**. Dermatologists have published cases of rapidly changing moles and **melanoma** in users, and the FDA lists serious reported harms.[^2][^3] Products sold online are unregulated, so their contents and doses are uncertain.",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; FDA advisory committee review of compounding planned before end of February 2027"
+      ],
+      [
+        "Claimed uses",
+        "Tanning, libido, appetite control"
+      ],
+      [
+        "How it's used",
+        "Gray-market injections or nasal sprays"
+      ],
+      [
+        "Research",
+        "Tiny pilot studies in the 1990s, then case reports"
+      ],
+      [
+        "Main risks",
+        "Mole changes, melanoma reports, nausea, priapism, kidney injury"
+      ],
+      [
+        "Approved relatives",
+        "[Afamelanotide](/peptides/afamelanotide), [bremelanotide](/peptides/bremelanotide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Melanotan II is a ring-shaped, seven-amino-acid fragment of alpha-melanocyte-stimulating hormone (alpha-MSH), engineered to be far more potent and longer-lasting than the natural hormone.[^1] Unlike its cousin afamelanotide, it is not selective. It switches on several melanocortin receptors:"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "**MC1R** on pigment cells, increasing dark eumelanin and producing a tan without sun",
+              "**MC3R and MC4R** in the brain, which influence appetite, energy use and sexual arousal",
+              "**Other tissues,** contributing to flushing, nausea and yawning"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In a 1996 pilot study, three healthy men received low doses under the skin. Two developed measurable darkening of the face and upper body after just five doses. Spontaneous erections came and went for 1-5 hours after dosing, along with yawning, stretching and mild nausea, and one man had marked sleepiness and fatigue at the top dose.[^1] A small follow-up crossover study found it could trigger erections in men with psychological erectile dysfunction.[^4]"
+          },
+          {
+            "type": "p",
+            "text": "Development for tanning stopped there. The sexual-function line continued with bremelanotide, a closely related molecule, which became an approved drug for low sexual desire in premenopausal women. No controlled trials have tested gray-market melanotan II for tanning, safety or skin cancer prevention."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Moles and melanoma:** case reports describe darkening and new atypical moles, and several melanomas arising in moles during or soon after use; a causal link is not proven[^2][^5]",
+              "**Serious reported events:** the FDA cites melanoma, posterior reversible encephalopathy syndrome (a brain-swelling disorder), sympathomimetic toxidrome (racing heart, agitation, high blood pressure) and priapism[^3]",
+              "**Kidneys and muscles:** case reports of kidney infarction, muscle breakdown and kidney failure[^6]",
+              "**Common effects:** nausea, facial flushing, fatigue, reduced appetite and unwanted erections[^1]"
+            ]
+          },
+          {
+            "type": "note",
+            "text": "A tan from melanotan II does not mean safe sun exposure. Some users combine it with sunbeds or sunbathing, adding ultraviolet damage on top of a drug that stimulates pigment cells.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Melanotan II has never been approved by the FDA or any other major regulator, and health agencies in several countries have warned against it.[^2] In 2023 the FDA placed it on its list of compounding substances with significant safety concerns; that listing was dropped in 2026 after the nomination was withdrawn, which did not make it legal to compound.[^3] The FDA has said its Pharmacy Compounding Advisory Committee will consider it before the end of February 2027.[^7]"
+          },
+          {
+            "type": "p",
+            "text": "Vials and sprays sold online as \"research chemicals\" are not made under drug manufacturing standards, and their purity, sterility and dose are unknown."
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Melanotan II reliably darkens skin, but it does so by stimulating pigment cells throughout the body, including in moles, with no long-term safety data and a trail of worrying case reports. For people who need medical protection from light, an approved and tested relative, [afamelanotide](/peptides/afamelanotide), exists for a specific disease. For cosmetic tanning, sunless tanning lotions avoid the drug risks entirely."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Low: tiny pilot studies and case reports",
+      "text": "Human data consist of a three-person pilot study,[^1] small erectile function studies,[^4] and a growing set of case reports of harm.[^5][^6] There is no controlled evidence on long-term safety, including skin cancer risk."
+    },
+    "faq": [
+      {
+        "q": "Is melanotan II the same as PT-141?",
+        "a": "No, but they are related. [PT-141](/peptides/pt-141) (bremelanotide) was derived from melanotan II and developed for sexual desire, and it is approved in that form as an injection for premenopausal women."
+      },
+      {
+        "q": "Does melanotan II cause skin cancer?",
+        "a": "That has not been proven. But it darkens and changes moles, and melanomas have been reported in users, which is why dermatologists urge caution and skin checks.[^2][^5]"
+      },
+      {
+        "q": "Will a melanotan tan protect me from sunburn?",
+        "a": "Possibly a little, as any tan does, but that has not been tested for gray-market products, and many users increase their sun or sunbed exposure, which raises skin cancer risk."
+      },
+      {
+        "q": "Are nasal sprays safer than injections?",
+        "a": "There is no evidence they are. Doses from sprays are even less predictable, and both forms are unregulated."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Evaluation of melanotan-II, a superpotent cyclic melanotropic peptide in a pilot phase-I clinical study.",
+        "source": "Life Sci",
+        "year": 1996,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8637402/",
+        "pmid": "8637402",
+        "doi": "10.1016/0024-3205(96)00160-9",
+        "note": "Three-person pilot: tanning, erections and side effects"
+      },
+      {
+        "n": 2,
+        "title": "Risks of unregulated use of alpha-melanocyte-stimulating hormone analogues: a review.",
+        "source": "Int J Dermatol",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28266027/",
+        "pmid": "28266027",
+        "doi": "10.1111/ijd.13585",
+        "note": "Review of skin complications, melanoma reports and official warnings"
+      },
+      {
+        "n": 3,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA summary of serious adverse events and compounding status"
+      },
+      {
+        "n": 4,
+        "title": "Synthetic melanotropic peptide initiates erections in men with psychogenic erectile dysfunction: double-blind, placebo controlled crossover study.",
+        "source": "J Urol",
+        "year": 1998,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9679884/",
+        "pmid": "9679884",
+        "note": "Small crossover study of erectile effects"
+      },
+      {
+        "n": 5,
+        "title": "Melanoma associated with the use of melanotan-II.",
+        "source": "Dermatology",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24355990/",
+        "pmid": "24355990",
+        "doi": "10.1159/000356389",
+        "note": "Case report: melanoma after self-injection combined with sunbeds"
+      },
+      {
+        "n": 6,
+        "title": "Melanotan II: a possible cause of renal infarction: review of the literature and case report.",
+        "source": "CEN Case Rep",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31953620/",
+        "pmid": "31953620",
+        "doi": "10.1007/s13730-020-00447-z",
+        "note": "Kidney infarction case and review of kidney and muscle injury"
+      },
+      {
+        "n": 7,
+        "title": "Meeting of the Pharmacy Compounding Advisory Committee",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/advisory-committees/pharmacy-compounding-advisory-committee/meeting-pharmacy-compounding-advisory-committee",
+        "note": "Planned advisory review including melanotan II"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

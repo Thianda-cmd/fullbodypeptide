@@ -1,0 +1,183 @@
+{
+  "slug": "sincalide",
+  "name": "Sincalide",
+  "zone": "digestive",
+  "category": "fda",
+  "aliases": [
+    "CCK-8",
+    "Cholecystokinin octapeptide"
+  ],
+  "brands": [
+    "Kinevac"
+  ],
+  "class": "Cholecystokinin (CCK) analog",
+  "route": "IV injection or slow IV infusion during a diagnostic test",
+  "status": "FDA-approved diagnostic agent (Kinevac, first approved 1976); generic versions available",
+  "evidence": 4,
+  "mechanism": "Copies the active end of the gut hormone cholecystokinin, making the gallbladder squeeze, the pancreas secrete enzymes and the small bowel speed up",
+  "uses": [
+    "Gallbladder emptying test (HIDA scan)",
+    "Collecting bile or pancreatic fluid for analysis",
+    "Speeding barium through the small bowel"
+  ],
+  "popular": null,
+  "related": [
+    "secretin",
+    "ga-68-dotatate",
+    "octreotide"
+  ],
+  "article": {
+    "summary": "Sincalide (Kinevac) is a synthetic piece of the gut hormone cholecystokinin, given IV during diagnostic tests to make the gallbladder contract and the pancreas secrete.",
+    "takeaway": "Sincalide is a diagnostic drug, not a treatment. It reproduces the eight-amino-acid active tip of cholecystokinin (CCK), the hormone that empties the gallbladder after a fatty meal. Its main use is during a HIDA scan to measure how well the gallbladder empties.[^1] Given slowly, it produces more consistent results and fewer side effects; in healthy volunteers a 60-minute infusion set the lower limit of normal emptying at **38%**.[^2] Cramping and nausea are common during injection, and serious allergic reactions are rare.[^1]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved diagnostic agent (Kinevac and generics)"
+      ],
+      [
+        "Main uses",
+        "Gallbladder emptying studies, bile and pancreatic fluid sampling, small-bowel barium studies"
+      ],
+      [
+        "How it's given",
+        "IV, by a nuclear medicine or radiology team"
+      ],
+      [
+        "Drug class",
+        "Cholecystokinin analog"
+      ],
+      [
+        "Research",
+        "Decades of diagnostic use; studies standardizing how it is infused"
+      ],
+      [
+        "Related",
+        "[Secretin](/peptides/secretin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Cholecystokinin (CCK) is released by the upper small intestine when fat and protein arrive from the stomach. It makes the gallbladder contract and push bile into the gut, relaxes the valve at the end of the bile duct, prompts the pancreas to release digestive enzymes and speeds movement through the bowel."
+          },
+          {
+            "type": "p",
+            "text": "Sincalide is the C-terminal octapeptide of CCK (often called CCK-8), the shortest fragment that keeps the hormone's full activity. Given IV, it acts within minutes and wears off quickly, which makes it practical for timed tests."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Gallbladder function:** during cholescintigraphy (a HIDA scan) or other imaging, to measure the gallbladder ejection fraction, the share of bile squeezed out",
+              "**Bile sampling:** to collect concentrated bile through a tube in the duodenum, to look for crystals or other changes",
+              "**Pancreatic testing:** together with [secretin](/peptides/secretin), to collect pancreatic juice for enzyme and cell analysis",
+              "**Barium studies:** to move barium through the small intestine faster and cut x-ray time"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "All approved uses are in adults.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A four-center study in 60 healthy volunteers compared 15-, 30- and 60-minute infusions of the same sincalide dose. The 60-minute infusion gave the least variable results and set the lower limit of normal gallbladder emptying at 38%, which nuclear medicine groups adopted as a standard.[^2]"
+          },
+          {
+            "type": "p",
+            "text": "How useful the test is for deciding on surgery is less clear. A meta-analysis of 974 people with suspected gallbladder pain found that low emptying did not reliably predict who would feel better after gallbladder removal (94% versus 85% good outcomes, not a significant difference).[^3]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's given",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Sincalide comes as a powder that is mixed and given IV, with doses measured in micrograms per kilogram of body weight. For gallbladder studies the label allows a quick injection of 0.02 mcg/kg over 30-60 seconds, or a slower infusion that lowers the chance of cramping and nausea. For pancreatic testing it is infused over 30 minutes after secretin.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** abdominal discomfort or cramping and nausea, especially with fast injection; these do not by themselves mean the gallbladder is diseased",
+              "**Less common:** dizziness, flushing, sweating, slow heart rate and fainting",
+              "**Allergy:** anaphylaxis can occur; the product contains a sulfite, so people with sulfite or sincalide allergy should not receive it",
+              "**Gallstones:** contraction can push small stones into the bile ducts",
+              "**Not for:** people with intestinal obstruction; pregnant patients should know of a possible risk of preterm labor or miscarriage[^1]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved: established diagnostic agent",
+      "text": "Sincalide reliably makes the gallbladder contract, and standardized infusion methods have defined normal values.[^2] Evidence that test results should guide surgery is weaker.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Why do I feel cramping during a HIDA scan?",
+        "a": "Sincalide makes the gallbladder and bowel contract, so cramping and nausea are expected, especially if it is given quickly. A slower infusion reduces these effects.[^1]"
+      },
+      {
+        "q": "Is sincalide the same as cholecystokinin?",
+        "a": "It is the eight-amino-acid active end of cholecystokinin, made synthetically. It has the same effects as the natural hormone but acts briefly."
+      },
+      {
+        "q": "Does a low gallbladder ejection fraction mean I need surgery?",
+        "a": "Not necessarily. Studies have not shown that a low result reliably predicts relief after gallbladder removal, so the result is weighed alongside symptoms and other tests.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "KINEVAC (sincalide for injection): prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2023,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1408aabb-6982-48e5-ae9f-504ec43b0003",
+        "note": "Indications, dosing, contraindications and warnings"
+      },
+      {
+        "n": 2,
+        "title": "Sincalide-stimulated cholescintigraphy: a multicenter investigation to determine optimal infusion methodology and gallbladder ejection fraction normal values",
+        "source": "J Nucl Med",
+        "year": 2010,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20080900/",
+        "pmid": "20080900",
+        "doi": "10.2967/jnumed.109.069393",
+        "note": "Infusion method and normal gallbladder ejection fraction"
+      },
+      {
+        "n": 3,
+        "title": "Systematic review and meta-analysis: does gall-bladder ejection fraction on cholecystokinin cholescintigraphy predict outcome after cholecystectomy in suspected functional biliary pain?",
+        "source": "Aliment Pharmacol Ther",
+        "year": 2003,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12869076/",
+        "pmid": "12869076",
+        "doi": "10.1046/j.1365-2036.2003.01654.x",
+        "note": "Whether low ejection fraction predicts benefit from surgery"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

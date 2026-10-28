@@ -1,0 +1,212 @@
+{
+  "slug": "lutetium-lu-177-dotatate",
+  "name": "Lutetium Lu-177 dotatate",
+  "zone": "digestive",
+  "category": "fda",
+  "aliases": [
+    "177Lu-DOTATATE",
+    "Lu-177 dotatate",
+    "[177Lu]Lu-DOTA-TATE"
+  ],
+  "brands": [
+    "Lutathera"
+  ],
+  "class": "Radiolabeled somatostatin analog",
+  "route": "IV infusion every 8 weeks for 4 doses, in a nuclear medicine unit",
+  "status": "FDA-approved in 2018 for somatostatin receptor-positive GEP-NETs; extended to children 12 and older in 2024",
+  "evidence": 4,
+  "mechanism": "A somatostatin look-alike that carries radioactive lutetium-177 into neuroendocrine tumor cells, where its radiation damages their DNA",
+  "uses": [
+    "Advanced gastroenteropancreatic neuroendocrine tumors",
+    "First-line treatment of grade 2-3 GEP-NETs"
+  ],
+  "popular": null,
+  "related": [
+    "ga-68-dotatate",
+    "octreotide",
+    "lanreotide",
+    "lutetium-lu-177-vipivotide-tetraxetan"
+  ],
+  "article": {
+    "summary": "Lutetium Lu-177 dotatate (Lutathera) is a radioactive peptide drug that targets neuroendocrine tumors. FDA-approved in 2018, it is given as four IV infusions eight weeks apart.",
+    "takeaway": "Lutathera is a form of radioligand therapy: a targeting peptide that delivers radiation straight to tumor cells that carry somatostatin receptors. In the NETTER-1 trial for advanced midgut tumors, **65% of patients were progression-free at 20 months**, versus 11% on high-dose octreotide alone.[^1] Given first-line for higher-grade tumors in NETTER-2, it lengthened median progression-free survival from 8.5 to **22.8 months**.[^2] It can lower blood counts and, rarely, lead to bone marrow cancers years later.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved January 2018; ages 12 and older since 2024"
+      ],
+      [
+        "Main use",
+        "Somatostatin receptor-positive gastroenteropancreatic neuroendocrine tumors (GEP-NETs)"
+      ],
+      [
+        "How it's given",
+        "Four IV infusions, 8 weeks apart, with kidney-protecting amino acids"
+      ],
+      [
+        "Drug class",
+        "Radiolabeled somatostatin analog (radioligand therapy)"
+      ],
+      [
+        "Research",
+        "Two randomized phase 3 trials (NETTER-1 and NETTER-2)"
+      ],
+      [
+        "Related",
+        "[Ga-68 dotatate](/peptides/ga-68-dotatate), [octreotide](/peptides/octreotide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Most well-differentiated neuroendocrine tumors are studded with somatostatin receptors. Lutathera uses dotatate, a peptide modeled on the hormone somatostatin, to find those receptors. Attached to it is lutetium-177, a radioactive metal that gives off short-range beta radiation."
+          },
+          {
+            "type": "p",
+            "text": "Once the drug binds, it is pulled inside the tumor cell, and the radiation breaks DNA in that cell and its close neighbors. Because the beta particles travel only a few millimeters, most of the dose stays in the tumor, although the kidneys and bone marrow also receive some. The same peptide labeled with gallium-68 is used for [PET scans](/peptides/ga-68-dotatate) to confirm a tumor is a good target first."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Lutathera is approved for adults and children 12 and older with GEP-NETs that show somatostatin receptors on imaging, including tumors of the foregut, midgut and hindgut.[^3] It is typically used when tumors are advanced or cannot be removed with surgery, either after progression on a somatostatin drug or, for some higher-grade tumors, as a first treatment."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "NETTER-1",
+                "229 adults with progressing midgut NETs",
+                "Progression-free at 20 months: 65.2% vs 10.8% on high-dose octreotide; tumors shrank in 18% vs 3%[^1]"
+              ],
+              [
+                "NETTER-1 final",
+                "Same trial, about 6 years of follow-up",
+                "Median survival 48.0 vs 36.3 months, a difference that was not statistically significant[^4]"
+              ],
+              [
+                "NETTER-2",
+                "226 adults with newly diagnosed grade 2-3 GEP-NETs",
+                "Median progression-free survival 22.8 vs 8.5 months[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The investigators judged the 11.7-month difference in median survival to be clinically relevant, even though it missed statistical significance. No new safety signals appeared during long-term follow-up.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's given",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Each dose is 7.4 GBq (200 mCi), infused into a vein every 8 weeks for four doses. An amino acid solution runs from 30 minutes before until at least 3 hours after each infusion to reduce radiation to the kidneys, and anti-nausea medicine is given first. Long-acting octreotide is given after each dose and continued between and after treatments.[^3]"
+          },
+          {
+            "type": "p",
+            "text": "Patients are radioactive for a short time afterward and receive instructions on limiting close contact, especially with children and pregnant people, and on hygiene for the days that follow."
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** nausea and vomiting (partly from the amino acid infusion), fatigue, low blood counts, and changes in liver tests",
+              "**Bone marrow:** blood counts are checked before each dose; doses may be delayed or reduced",
+              "**Secondary blood cancers:** myelodysplastic syndrome developed in 2 of 111 treated patients in NETTER-1;[^4] across studies it appeared a median of 29 months after treatment, and acute leukemia a median of 55 months[^3]",
+              "**Kidneys and liver:** function is monitored throughout treatment",
+              "**Hormonal crisis:** flushing, diarrhea or low blood pressure can flare as tumors release hormones",
+              "**Pregnancy and fertility:** can harm a fetus and may cause infertility; effective contraception is needed"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved: two randomized phase 3 trials",
+      "text": "Large progression-free survival benefits were shown in two randomized phase 3 trials, one after somatostatin drug failure and one as a first treatment.[^1][^2] An overall survival advantage has not been statistically proven."
+    },
+    "faq": [
+      {
+        "q": "How do doctors know whether Lutathera will work?",
+        "a": "A somatostatin receptor PET scan, such as [Ga-68 dotatate](/peptides/ga-68-dotatate), shows whether the tumors take up this type of peptide. Strong uptake is required before treatment."
+      },
+      {
+        "q": "Is Lutathera chemotherapy?",
+        "a": "No. It is targeted radiation delivered by a peptide, often called peptide receptor radionuclide therapy (PRRT). Side effects differ from chemotherapy, though blood counts can still drop."
+      },
+      {
+        "q": "Will I be radioactive after treatment?",
+        "a": "Yes, for a limited time. The treatment team gives instructions on distance, sleeping arrangements and bathroom hygiene for the days after each dose."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Phase 3 Trial of 177Lu-Dotatate for Midgut Neuroendocrine Tumors",
+        "source": "N Engl J Med",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28076709/",
+        "pmid": "28076709",
+        "doi": "10.1056/NEJMoa1607427",
+        "note": "NETTER-1: progression-free survival in midgut NETs"
+      },
+      {
+        "n": 2,
+        "title": "[177Lu]Lu-DOTA-TATE plus long-acting octreotide versus high-dose long-acting octreotide for the treatment of newly diagnosed, advanced grade 2-3, well-differentiated, gastroenteropancreatic neuroendocrine tumours (NETTER-2): an open-label, randomised, phase 3 study",
+        "source": "Lancet",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38851203/",
+        "pmid": "38851203",
+        "doi": "10.1016/S0140-6736(24)00701-3",
+        "note": "NETTER-2: first-line use in grade 2-3 GEP-NETs"
+      },
+      {
+        "n": 3,
+        "title": "LUTATHERA (lutetium Lu 177 dotatate) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=72d1a024-00b7-418a-b36e-b2cb48f2ab55",
+        "note": "Indication, dosing, kidney protection and warnings"
+      },
+      {
+        "n": 4,
+        "title": "177Lu-Dotatate plus long-acting octreotide versus high-dose long-acting octreotide in patients with midgut neuroendocrine tumours (NETTER-1): final overall survival and long-term safety results from an open-label, randomised, controlled, phase 3 trial",
+        "source": "Lancet Oncol",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34793718/",
+        "pmid": "34793718",
+        "doi": "10.1016/S1470-2045(21)00572-6",
+        "note": "NETTER-1 final survival and long-term safety"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

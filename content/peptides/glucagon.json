@@ -1,0 +1,241 @@
+{
+  "slug": "glucagon",
+  "name": "Glucagon",
+  "zone": "digestive",
+  "category": "fda",
+  "aliases": [],
+  "brands": [
+    "Baqsimi",
+    "Gvoke",
+    "Gvoke VialDx"
+  ],
+  "class": "Antihypoglycemic hormone",
+  "route": "Injection (under the skin, into muscle or IV) or a one-puff nasal powder",
+  "status": "FDA-approved since 1960; nasal powder and ready-to-use injection versions approved in 2019",
+  "evidence": 4,
+  "mechanism": "Activates glucagon receptors in the liver to release stored glucose and raise blood sugar within minutes; it also briefly relaxes the gut wall",
+  "uses": [
+    "Severe hypoglycemia rescue",
+    "Relaxing the gut during radiology exams"
+  ],
+  "popular": null,
+  "related": [
+    "dasiglucagon",
+    "survodutide",
+    "retatrutide",
+    "pemvidutide"
+  ],
+  "article": {
+    "summary": "Glucagon is the pancreatic hormone that raises blood sugar. FDA-approved forms, including Baqsimi nasal powder and Gvoke injections, treat severe hypoglycemia in diabetes.",
+    "takeaway": "Glucagon is the body's own emergency signal for low blood sugar, and synthetic versions have been used for decades to rescue people with diabetes who are too impaired to eat. Older kits require mixing a powder under pressure, which even trained helpers often get wrong.[^1] Newer options, a **nasal powder** and **ready-to-use injections**, worked about as well as the traditional kit in clinical testing.[^2][^3] Nausea and vomiting are common afterward, and emergency help should still be called.[^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved; first US approval 1960"
+      ],
+      [
+        "Main uses",
+        "Severe low blood sugar in diabetes; diagnostic aid in imaging of the stomach and bowel"
+      ],
+      [
+        "How it's taken",
+        "Nasal powder, autoinjector, prefilled syringe or mix-and-inject kit"
+      ],
+      [
+        "Drug class",
+        "Antihypoglycemic hormone"
+      ],
+      [
+        "Research",
+        "Decades of use plus randomized crossover trials of newer forms"
+      ],
+      [
+        "Related",
+        "[Dasiglucagon](/peptides/dasiglucagon)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Glucagon is a 29-amino-acid hormone made by alpha cells in the pancreas. When blood sugar falls, it tells the liver to break down glycogen, its stored form of glucose, and to make new glucose. This is the reverse of what insulin does."
+          },
+          {
+            "type": "p",
+            "text": "In people who take insulin, a dose that is too large can drive blood sugar so low that they become confused, pass out or have a seizure. A rescue dose of glucagon pushes the liver to release sugar quickly. It only works if the liver has glycogen to give, so it is less reliable after prolonged fasting or heavy drinking."
+          },
+          {
+            "type": "p",
+            "text": "At higher doses glucagon also relaxes the smooth muscle of the stomach and intestines for a short time, which is why radiologists use it to keep the bowel still during some scans."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Product",
+                "Form",
+                "Approved for"
+              ],
+              [
+                "Baqsimi",
+                "3 mg nasal powder",
+                "Severe hypoglycemia, ages 1 and up[^5]"
+              ],
+              [
+                "Gvoke",
+                "Autoinjector, prefilled syringe or kit",
+                "Severe hypoglycemia, ages 2 and up[^6]"
+              ],
+              [
+                "Gvoke VialDx",
+                "IV vial",
+                "Pausing gut movement during radiology exams in adults[^6]"
+              ],
+              [
+                "Generic glucagon kits",
+                "Powder plus diluent",
+                "Severe hypoglycemia and as a radiology aid[^4]"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Rescue products are tested by lowering blood sugar with insulin in a supervised clinic, then checking how often and how quickly glucose recovers."
+          },
+          {
+            "type": "ul",
+            "items": [
+              "**Nasal powder:** in 75 adults with type 1 diabetes, 3 mg nasal glucagon succeeded in 98.7% of episodes versus 100% for a 1 mg muscle injection; recovery took 16 versus 13 minutes on average[^2]",
+              "**Autoinjector:** in two trials with 161 adults, the ready-to-use pen was noninferior to the mix-and-inject kit and took about 27 seconds to prepare and give, versus 97 seconds[^3]",
+              "**Ease of use:** in a small simulated emergency, 14 of 16 experienced caregivers and first responders gave a full dose with the autoinjector, versus 5 of 16 with traditional kits[^1]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Baqsimi is a single 3 mg puff into one nostril, and it does not need to be inhaled, so it works in someone who is unconscious.[^5] Gvoke injections use 1 mg for people 12 and older, and 0.5 mg or 1 mg for children 2-11 depending on weight.[^6] Generic kits are mixed just before use and can be injected under the skin or into muscle; IV use is for medical settings.[^4]"
+          },
+          {
+            "type": "p",
+            "text": "For every product the steps afterward are the same: call emergency services, turn the person on their side in case they vomit, give a second dose after 15 minutes if there is no response, and offer food once they can swallow safely."
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** nausea, vomiting and headache; the nasal form can also cause watery eyes, nasal irritation and facial discomfort",
+              "**Allergic reactions,** rarely severe, have been reported",
+              "**Do not use** with pheochromocytoma (risk of a blood pressure surge) or insulinoma (risk of a rebound low)",
+              "**Diagnostic use:** avoided in glucagonoma, and used with caution in people with heart disease because it can raise heart rate and blood pressure"
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Glucagon is only as useful as its availability. Diabetes groups advise that anyone on insulin or a sulfonylurea keep a rescue dose on hand and show family, friends or coworkers how to use it."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved: long track record, newer forms well tested",
+      "text": "Glucagon has been in clinical use for over 60 years. Its newer nasal and ready-to-use forms were approved on randomized crossover trials against the standard kit, which showed similar effectiveness.[^2][^3]"
+    },
+    "faq": [
+      {
+        "q": "What is the difference between Baqsimi and Gvoke?",
+        "a": "Both contain glucagon. Baqsimi is a dry powder sprayed into the nose, while Gvoke is a premixed liquid injected under the skin. Neither requires mixing, unlike older kits."
+      },
+      {
+        "q": "Can nasal glucagon work if the person is unconscious?",
+        "a": "Yes. The powder is absorbed through the lining of the nose, so the person does not need to breathe it in.[^5]"
+      },
+      {
+        "q": "How is glucagon different from dasiglucagon?",
+        "a": "[Dasiglucagon](/peptides/dasiglucagon) is a modified glucagon designed to stay stable in liquid. It works through the same receptor and is used for the same emergencies."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Human Factors Usability and Validation Studies of a Glucagon Autoinjector in a Simulated Severe Hypoglycemia Rescue Situation",
+        "source": "Diabetes Technol Ther",
+        "year": 2019,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31219349/",
+        "pmid": "31219349",
+        "doi": "10.1089/dia.2019.0148",
+        "note": "Simulated rescue success with autoinjector versus kits"
+      },
+      {
+        "n": 2,
+        "title": "Intranasal Glucagon for Treatment of Insulin-Induced Hypoglycemia in Adults With Type 1 Diabetes: A Randomized Crossover Noninferiority Study",
+        "source": "Diabetes Care",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26681725/",
+        "pmid": "26681725",
+        "doi": "10.2337/dc15-1498",
+        "note": "Nasal versus intramuscular glucagon in 75 adults"
+      },
+      {
+        "n": 3,
+        "title": "Comparison of a ready-to-use liquid glucagon injection administered by autoinjector to glucagon emergency kit for the symptomatic relief of severe hypoglycemia: two randomized crossover non-inferiority studies",
+        "source": "BMJ Open Diabetes Res Care",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34620618/",
+        "pmid": "34620618",
+        "doi": "10.1136/bmjdrc-2021-002137",
+        "note": "Autoinjector versus emergency kit in 161 adults"
+      },
+      {
+        "n": 4,
+        "title": "GLUCAGON for injection (emergency kit): prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8cc40354-b5ac-45b6-a211-93b44444f2a3",
+        "note": "Generic kit: hypoglycemia and radiology uses, contraindications"
+      },
+      {
+        "n": 5,
+        "title": "BAQSIMI (glucagon) nasal powder: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1f5df9b-872f-44e5-a18f-f0b68e7e9254",
+        "note": "Nasal glucagon label, including the 2025 expansion to age 1"
+      },
+      {
+        "n": 6,
+        "title": "GVOKE (glucagon) injection and GVOKE VialDx: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=92385737-dbad-98c5-e053-2995a90a2805",
+        "note": "Ready-to-use glucagon: indications, ages and dosing"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

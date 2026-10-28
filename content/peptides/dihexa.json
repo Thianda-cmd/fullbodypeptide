@@ -1,0 +1,218 @@
+{
+  "slug": "dihexa",
+  "name": "Dihexa",
+  "zone": "brain",
+  "category": "wellness",
+  "aliases": [
+    "N-hexanoic-Tyr-Ile-(6) aminohexanoic amide",
+    "PNB-0408",
+    "Dihexa acetate"
+  ],
+  "brands": [],
+  "class": "Angiotensin IV-derived peptide analog",
+  "route": "Taken by mouth, applied to skin or injected (unapproved products)",
+  "status": "Not FDA-approved; never tested in human trials; not eligible for US compounding",
+  "evidence": 1,
+  "mechanism": "Claimed to boost hepatocyte growth factor (HGF) signaling through its receptor c-Met to grow new synapses, though a key study was retracted",
+  "uses": [
+    "Memory and cognition",
+    "Brain injury recovery (claimed)"
+  ],
+  "popular": 26,
+  "related": [
+    "semax",
+    "cerebrolysin",
+    "davunetide",
+    "angiotensin-ii"
+  ],
+  "article": {
+    "summary": "Dihexa is a lab-made angiotensin IV analog sold online as a memory booster. It has never been tested in people, a key study was retracted, and it is not FDA-approved.",
+    "takeaway": "Dihexa is a small, modified peptide designed at Washington State University from angiotensin IV, a fragment of a blood-pressure hormone. In rats it reversed drug-induced and age-related memory problems and spurred new synapses, which made it popular online as a nootropic.[^1] It has **never been tested in a human trial**. The study that tied its effects to the HGF/c-Met growth-factor system was retracted in 2025, after an investigation found altered images in work from the same research program.[^2][^3] A related drug built to boost the same pathway failed in a large Alzheimer's trial.[^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; no human trials"
+      ],
+      [
+        "Marketed for",
+        "Memory, learning and \"neuroregeneration\""
+      ],
+      [
+        "Forms sold",
+        "Capsules, powders and creams from research-chemical vendors"
+      ],
+      [
+        "Drug class",
+        "Angiotensin IV-derived peptide analog"
+      ],
+      [
+        "Research",
+        "Rat studies only, from one research group; key paper retracted"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Angiotensin IV is a breakdown product of angiotensin II, the hormone that raises blood pressure (see [angiotensin II](/peptides/angiotensin-ii)). In animal studies, angiotensin IV and its analogs improved performance on memory tasks, especially when injected directly into the brain.[^5] Natural angiotensin IV breaks down quickly and does not cross into the brain, so researchers trimmed it to three amino acids and chemically capped both ends. The result, dihexa, was stable, could be taken by mouth and reached the brain in rats.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "The group later proposed that dihexa binds hepatocyte growth factor (HGF) and amplifies signaling through its receptor, c-Met, which helps neurons form new connections. That paper was retracted in 2025, and an earlier dihexa paper carries an expression of concern, so the mechanism should be treated as unconfirmed.[^2][^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Evidence",
+                "Status"
+              ],
+              [
+                "Rat memory and synapse studies",
+                "Positive, but from one group; one paper flagged, another retracted[^1][^2]"
+              ],
+              [
+                "Human trials of dihexa",
+                "None"
+              ],
+              [
+                "Fosgonimeton, a related HGF/c-Met booster",
+                "Phase 2/3 Alzheimer's trial missed all main goals (2024)[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Dihexa's research was commercialized by M3 Biotechnology, which became Athira Pharma. In 2021 an investigation found altered images in the dissertation and several papers of the company's chief executive, who had co-authored dihexa research, and she resigned.[^3] Athira's lead drug fosgonimeton, which the company has said grew out of the same line of work, did not improve memory or daily function in 549 people with Alzheimer's disease.[^4][^3]"
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**No human safety data at all:** the FDA noted there is no human exposure information and that safety issues are unknown[^6]",
+              "**Cancer concern:** the HGF/c-Met pathway it is meant to amplify also drives growth and spread of several cancers, so long-term stimulation is a theoretical risk",
+              "**Product quality:** gray-market powders, capsules and creams are not made to drug standards; content and purity are unverified",
+              "**Unknown dosing:** rat doses do not translate into safe or effective human amounts"
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Athletes: WADA bans substances with no government approval for human use (S0) and modulators of hepatocyte growth factor (S2), categories that would likely capture dihexa."
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Dihexa is not an FDA-approved drug and has no approved use anywhere. Dihexa acetate had been nominated for use by compounding pharmacies, but the FDA listed it among substances that may pose significant safety risks, and the nomination was later withdrawn.[^6] It is not on the list of bulk substances US compounding pharmacies may use, and it was not among the peptides FDA advisers reviewed in July 2026. Products sold online for \"research\" are unapproved drugs when marketed for people."
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Dihexa is one of the least-tested compounds in the nootropic market: rat studies from a single program, a retracted mechanism paper, no human trials and a related drug that failed in Alzheimer's disease. Anyone taking it is, in effect, the first test subject, with an unresolved question about cancer-pathway stimulation."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Very low: rat studies only, integrity concerns",
+      "text": "All efficacy data come from rodent studies by one research program, one of which was retracted and another flagged with an expression of concern.[^2][^1] No human study of dihexa has been published."
+    },
+    "faq": [
+      {
+        "q": "Has dihexa been tested in humans?",
+        "a": "No. There are no published human trials of dihexa. A related compound, fosgonimeton, failed to improve memory or function in a large Alzheimer's trial.[^4]"
+      },
+      {
+        "q": "Is dihexa \"millions of times more potent than BDNF\"?",
+        "a": "That marketing claim traces back to lab comparisons from the original research group, including work now retracted or questioned.[^2] It has no clinical meaning."
+      },
+      {
+        "q": "Is dihexa legal to buy?",
+        "a": "It is not FDA-approved, cannot be compounded by US pharmacies, and is sold only as a research chemical, which is not legal to market for human use.[^6]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Evaluation of metabolically stabilized angiotensin IV analogs as procognitive/antidementia agents",
+        "source": "J Pharmacol Exp Ther",
+        "year": 2013,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23055539/",
+        "pmid": "23055539",
+        "doi": "10.1124/jpet.112.199497",
+        "note": "Rat studies that introduced dihexa (now with an expression of concern)"
+      },
+      {
+        "n": 2,
+        "title": "Retraction notice to \"The Procognitive and Synaptogenic Effects of Angiotensin IV-Derived Peptides Are Dependent on Activation of the Hepatocyte Growth Factor/c-Met System\"",
+        "source": "J Pharmacol Exp Ther",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40312093/",
+        "pmid": "40312093",
+        "doi": "10.1016/j.jpet.2025.103567",
+        "note": "Retraction of the key HGF/c-Met mechanism paper"
+      },
+      {
+        "n": 3,
+        "title": "Therapeutics: Fosgonimeton",
+        "source": "Alzforum",
+        "year": 2024,
+        "url": "https://www.alzforum.org/therapeutics/fosgonimeton",
+        "note": "History linking dihexa, M3 Biotechnology and Athira Pharma"
+      },
+      {
+        "n": 4,
+        "title": "Fosgonimeton in mild-to-moderate Alzheimer's disease",
+        "source": "J Alzheimers Dis Rep",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41393340/",
+        "pmid": "41393340",
+        "doi": "10.1177/25424823251405817",
+        "note": "LIFT-AD phase 2/3 trial of a related HGF/c-Met modulator"
+      },
+      {
+        "n": 5,
+        "title": "Cognitive benefits of angiotensin IV and angiotensin-(1-7): A systematic review of experimental studies",
+        "source": "Neurosci Biobehav Rev",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29733881/",
+        "pmid": "29733881",
+        "doi": "10.1016/j.neubiorev.2018.05.005",
+        "note": "Independent review of animal memory studies"
+      },
+      {
+        "n": 6,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA's stated concerns about dihexa acetate"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

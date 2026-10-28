@@ -1,0 +1,224 @@
+{
+  "slug": "semax",
+  "name": "Semax",
+  "zone": "brain",
+  "category": "wellness",
+  "aliases": [
+    "Met-Glu-His-Phe-Pro-Gly-Pro",
+    "ACTH(4-7)-Pro-Gly-Pro"
+  ],
+  "brands": [],
+  "class": "Synthetic ACTH-fragment peptide (nootropic)",
+  "route": "Nasal drops or spray (unapproved products in the US)",
+  "status": "Not FDA-approved; FDA advisers backed allowing compounding in July 2026, but no final FDA action yet; approved in Russia",
+  "evidence": 1,
+  "mechanism": "A stabilized fragment of the stress hormone ACTH, without its hormonal effect, that raises the brain growth factor BDNF in animal studies",
+  "uses": [
+    "Focus, memory and mental energy",
+    "Stroke recovery (Russian medical use)"
+  ],
+  "popular": 10,
+  "related": [
+    "selank",
+    "cerebrolysin",
+    "dihexa",
+    "epitalon",
+    "davunetide"
+  ],
+  "article": {
+    "summary": "Semax is a nasal peptide developed in Russia for stroke and cognition and sold online as a nootropic. It is not FDA-approved, and Western clinical trials are lacking.",
+    "takeaway": "Semax is a seven-amino-acid peptide built from a piece of ACTH, a pituitary stress hormone, with a stabilizing tail that removes the hormone's effect on the adrenal glands. In rats it raises BDNF, a growth factor tied to learning and nerve repair,[^1] and in Russia it has been used as nasal drops after stroke for decades. Human evidence comes from small Russian studies, often without proper placebo groups.[^2] It is not FDA-approved; in July 2026 an FDA advisory committee voted 8-5 to allow compounding, but the FDA had not finalized that as of October 2026.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; compounding not yet permitted"
+      ],
+      [
+        "Marketed for",
+        "Focus, memory, mood and brain protection"
+      ],
+      [
+        "Forms sold",
+        "Nasal sprays and powders, sometimes as modified versions"
+      ],
+      [
+        "Drug class",
+        "Synthetic ACTH-fragment peptide"
+      ],
+      [
+        "Research",
+        "Rat studies and small Russian clinical studies; no Western randomized trials"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Semax was designed in Moscow in the 1980s. Researchers took amino acids 4-7 of ACTH (adrenocorticotropic hormone), a stretch linked to attention and learning in animals but not to cortisol release, and added a proline-glycine-proline tail so it would resist breakdown. The result, Met-Glu-His-Phe-Pro-Gly-Pro, is given as nasal drops.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "In rats, a single nasal dose raised levels of BDNF (brain-derived neurotrophic factor) and activated its receptor, TrkB, in the hippocampus, a memory center; treated animals also learned an avoidance task faster.[^1] In rat stroke models it shifted the activity of hundreds of genes involved in immune and blood-vessel responses.[^4] Whether these effects occur in people at the doses sold online is unknown."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Evidence",
+                "What was found"
+              ],
+              [
+                "Rat studies",
+                "Higher hippocampal BDNF and better learning; protective gene changes after experimental stroke[^1][^4]"
+              ],
+              [
+                "Russian stroke study, 110 patients",
+                "Those given semax had higher blood BDNF and better daily-function scores, but the study was not blinded[^2]"
+              ],
+              [
+                "Healthy people seeking cognitive gains",
+                "No controlled trials"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "At the 2026 FDA advisory meeting, agency reviewers noted that much of the semax literature is in Russian and often omits basic details such as dose, route and study design.[^3] Supporters pointed to roughly three decades of use abroad, which is experience, not proof of benefit."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Limited safety data:** the FDA flagged a possible immune-reaction risk and little safety information[^5]",
+              "**Long-term effects** of repeatedly raising brain growth factors are unknown",
+              "**Product quality:** gray-market sprays and powders are not made to drug standards, and dose, purity and sterility are unverified",
+              "**Modified versions**, such as \"N-acetyl semax amidate,\" have essentially no published human research"
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Semax should not be confused with semaxanib, an unrelated experimental cancer drug, a mix-up FDA advisers specifically warned about.[^3] Semax is not named on the World Anti-Doping Agency's 2026 Prohibited List."
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Semax has never been approved by the FDA. The agency had listed it among compounding substances that may pose significant safety risks; after the nomination was withdrawn, it came off that list in April 2026.[^5]"
+          },
+          {
+            "type": "p",
+            "text": "On July 24, 2026, the FDA's Pharmacy Compounding Advisory Committee reviewed semax for cerebral ischemia, migraine and trigeminal neuralgia and voted 8-5, with one abstention, to recommend adding it to the list of bulk substances 503A compounding pharmacies may use.[^3][^6] The vote is advisory; the FDA must still issue a rule. Until then, semax is not legally available through US pharmacies, and products sold as research chemicals are unapproved drugs when marketed for people."
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Semax has a plausible mechanism and a long track record in Russian medicine, but the clinical evidence would not meet modern standards for proving benefit, and there is no evidence that it sharpens thinking in healthy people. A favorable advisory vote is not an approval, and gray-market products add quality risks."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Low: animal data and small Russian studies",
+      "text": "Mechanistic work in rats is consistent,[^1][^4] but human studies are small, mostly unblinded and published in Russian journals.[^2] No independent, placebo-controlled trial has tested semax for cognition or stroke recovery."
+    },
+    "faq": [
+      {
+        "q": "Does semax improve focus or memory in healthy people?",
+        "a": "There is no good evidence that it does. The learning effects come from animal studies, and human studies focused on stroke and brain disorders.[^1][^2]"
+      },
+      {
+        "q": "Is semax legal in the US?",
+        "a": "It is not FDA-approved. FDA advisers voted in July 2026 to allow compounding, but the FDA has not finalized that, so it is not yet legally available through pharmacies.[^3]"
+      },
+      {
+        "q": "How is semax different from selank?",
+        "a": "Both are Russian nasal peptides with the same stabilizing tail. Semax is based on an ACTH fragment and promoted for cognition, while [selank](/peptides/selank) is based on tuftsin, an immune peptide, and promoted for anxiety."
+      },
+      {
+        "q": "Is semax a stimulant?",
+        "a": "No. It does not act like caffeine or amphetamines; its proposed effects run through brain growth factors and gene activity, which have been shown mainly in animals.[^1]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Semax, an analog of ACTH(4-10) with cognitive effects, regulates BDNF and trkB expression in the rat hippocampus",
+        "source": "Brain Res",
+        "year": 2006,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16996037/",
+        "pmid": "16996037",
+        "doi": "10.1016/j.brainres.2006.07.108",
+        "note": "Rat study of BDNF and learning after nasal semax"
+      },
+      {
+        "n": 2,
+        "title": "The efficacy of semax in the treatment of patients at different stages of ischemic stroke",
+        "source": "Zh Nevrol Psikhiatr Im S S Korsakova",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29798983/",
+        "pmid": "29798983",
+        "doi": "10.17116/jnevro20181183261-68",
+        "note": "Russian study of 110 stroke patients in rehabilitation"
+      },
+      {
+        "n": 3,
+        "title": "The PEPTIDE-L Wave Rolls On! PCAC Adds Two More Bulk Drug Substances for the 503A List",
+        "source": "FDA Law Blog (Hyman, Phelps & McNamara)",
+        "year": 2026,
+        "url": "https://www.thefdalawblog.com/2026/07/the-peptide-l-wave-rolls-on-pcac-adds-two-more-bulk-drug-substances-for-the-503a-list/",
+        "note": "Vote counts and arguments at the July 2026 advisory meeting"
+      },
+      {
+        "n": 4,
+        "title": "The peptide semax affects the expression of genes related to the immune and vascular systems in rat brain focal ischemia: genome-wide transcriptional analysis",
+        "source": "BMC Genomics",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24661604/",
+        "pmid": "24661604",
+        "doi": "10.1186/1471-2164-15-228",
+        "note": "Gene-expression effects in a rat stroke model"
+      },
+      {
+        "n": 5,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA's stated safety concerns and withdrawn nominations"
+      },
+      {
+        "n": 6,
+        "title": "July 23-24, 2026 Meeting of the Pharmacy Compounding Advisory Committee",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+        "note": "Official meeting page listing semax and its proposed uses"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

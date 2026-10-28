@@ -1,0 +1,250 @@
+{
+  "slug": "pt-141",
+  "name": "PT-141",
+  "zone": "brain",
+  "category": "wellness",
+  "aliases": [
+    "Bremelanotide"
+  ],
+  "brands": [],
+  "class": "Melanocortin receptor agonist",
+  "route": "Injected under the skin or sprayed in the nose (unapproved products)",
+  "status": "Not FDA-approved as sold online or as PT-141; the same molecule is approved as Vyleesi for HSDD in premenopausal women",
+  "evidence": 2,
+  "mechanism": "Activates brain melanocortin receptors, mainly MC4R, that influence sexual desire and erections; chemically identical to approved bremelanotide",
+  "uses": [
+    "Low sexual desire (off-label)",
+    "Erectile problems (studied, never approved)"
+  ],
+  "popular": 12,
+  "related": [
+    "bremelanotide",
+    "melanotan-ii",
+    "kisspeptin-10",
+    "oxytocin",
+    "melanotan-i"
+  ],
+  "article": {
+    "summary": "PT-141 is the research name for bremelanotide, sold online and by some clinics for libido. Only the Vyleesi injection is FDA-approved, and only for premenopausal women.",
+    "takeaway": "PT-141 is the original lab code for bremelanotide, a melanocortin peptide that acts on desire pathways in the brain. The FDA-approved version, [Vyleesi](/peptides/bremelanotide), is limited to premenopausal women with hypoactive sexual desire disorder; vials and sprays sold as PT-141 are not approved and their strength and purity are unverified. Small early studies in men produced erections, but no erectile dysfunction treatment came out of them.[^1] Every form carries the same known risks: nausea, flushing, a brief blood-pressure rise and skin darkening that may not fade.[^2]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved as PT-141; the same molecule is approved as Vyleesi (2019) for one use"
+      ],
+      [
+        "Marketed for",
+        "Libido and arousal in women and men, and erections"
+      ],
+      [
+        "Forms sold",
+        "Freeze-dried vials for injection, nasal sprays and compounded preparations"
+      ],
+      [
+        "Drug class",
+        "Melanocortin receptor agonist"
+      ],
+      [
+        "Research",
+        "Phase 3 trials in women (approved injection); small early studies in men"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "PT-141 grew out of melanotan II, a tanning peptide tested at the University of Arizona in the 1990s. Volunteers given melanotan II reported spontaneous erections along with yawning and mild nausea, which pointed researchers toward the brain's melanocortin system as a driver of sexual response.[^3] PT-141 is a close chemical relative of melanotan II that was developed specifically for sexual dysfunction."
+          },
+          {
+            "type": "p",
+            "text": "It activates melanocortin receptors, especially MC4R, in the hypothalamus and connected circuits that shape sexual motivation. Unlike sildenafil and similar pills, it does not act directly on blood vessels in the genitals. Its activity at the MC1 receptor in skin is why it can cause dark patches."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Who was studied",
+                "What was found"
+              ],
+              [
+                "About 1,270 premenopausal women with HSDD (two phase 3 trials, injection)",
+                "Modest gains in desire and less distress than placebo[^4]"
+              ],
+              [
+                "Healthy men and men with mild to moderate erectile dysfunction (nasal spray)",
+                "Erections began about 30 minutes after higher doses; flushing and nausea were common[^1]"
+              ],
+              [
+                "19 men with erectile dysfunction, lab crossover study",
+                "Adding PT-141 to low-dose sildenafil gave a larger erectile response than sildenafil alone[^5]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "A nasal spray for men and women was dropped in the late 2000s amid concerns about blood-pressure spikes and uneven absorption, and the approved product became an injection for women only. No published trials have tested the vials and sprays sold as PT-141 today."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Nausea** affected about 40% of women on the approved injection; flushing and headache were also common[^2]",
+              "**Blood pressure** rises briefly and heart rate dips after each dose, so the approved drug is contraindicated with uncontrolled hypertension or heart disease[^2]",
+              "**Skin darkening** of the face, gums or breasts was seen in about 1% at approved doses, but in more than a third of people dosed daily for up to 16 days[^6]",
+              "**Interactions:** it sharply lowers blood levels of oral naltrexone and can slow absorption of other pills[^2]",
+              "**Product quality:** research-grade vials are not made to drug standards, so dose, purity, sterility and even the identity of the peptide are not assured"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "A 2026 review of peptides used in sexual medicine flagged unregulated sourcing, variable dosing and thin long-term safety data as the main problems with gray-market peptides.[^7] Vendors often sell melanotan II alongside PT-141, and the two are easy to confuse."
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Bremelanotide is FDA-approved only as Vyleesi for premenopausal women with HSDD. Because it is the active ingredient of an approved drug, licensed compounding pharmacies can prepare it for individual patients with a prescription, including as nasal sprays. Those compounded versions are not FDA-approved and have not been reviewed for safety, effectiveness or quality."
+          },
+          {
+            "type": "p",
+            "text": "Products sold online as PT-141 \"for research use only\" are treated differently. In August 2026 the FDA sent warning letters to online peptide sellers; one listed a PT-141 (bremelanotide) product among unapproved new drugs and said research-only disclaimers did not outweigh evidence that the products were marketed for people.[^8]"
+          },
+          {
+            "type": "note",
+            "text": "Bremelanotide is not named on the World Anti-Doping Agency's 2026 Prohibited List, but unlabeled gray-market products can contain other substances."
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "PT-141 is not a mysterious research chemical: it is an approved drug with a known record of modest benefit and frequent side effects in one group of women. Vials and sprays bought online add uncertainty about dose and purity on top of those risks. A clinician can look for underlying causes of low desire or erection problems and discuss approved options."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Moderate: approved for one use, thin data beyond it",
+      "text": "The molecule has phase 3 data in premenopausal women, which supported approval of the injection.[^4] Evidence in men comes from small early studies of a nasal spray that never reached approval,[^1][^5] and there is no clinical research on gray-market or compounded products."
+    },
+    "faq": [
+      {
+        "q": "Is PT-141 the same as Vyleesi?",
+        "a": "It is the same molecule, bremelanotide. Vyleesi is the FDA-approved autoinjector made to drug standards, while PT-141 vials and sprays are not FDA-approved. See [bremelanotide](/peptides/bremelanotide)."
+      },
+      {
+        "q": "Does PT-141 work for erectile dysfunction?",
+        "a": "Early nasal-spray studies in men showed erections at higher doses,[^1] but no product for erectile dysfunction was approved. Erection problems can be an early sign of heart disease, so a medical evaluation is worthwhile."
+      },
+      {
+        "q": "Is PT-141 legal to buy online?",
+        "a": "Bremelanotide requires a prescription. The FDA considers peptides sold online as research chemicals for human use to be unapproved drugs and has sent warning letters to sellers.[^8]"
+      },
+      {
+        "q": "Is PT-141 the same as melanotan II?",
+        "a": "No. They are close chemical relatives, but [melanotan II](/peptides/melanotan-ii) has much stronger tanning effects, was never approved and is sold only through gray markets."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Double-blind, placebo-controlled evaluation of the safety, pharmacokinetic properties and pharmacodynamic effects of intranasal PT-141, a melanocortin receptor agonist, in healthy males and patients with mild-to-moderate erectile dysfunction",
+        "source": "Int J Impot Res",
+        "year": 2004,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14963471/",
+        "pmid": "14963471",
+        "doi": "10.1038/sj.ijir.3901139",
+        "note": "Early nasal-spray study in men: erection effects and side effects"
+      },
+      {
+        "n": 2,
+        "title": "VYLEESI (bremelanotide) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d0c1b5-2f39-4bad-a6a4-0066e3ad5dcf",
+        "note": "Approved product label: warnings, side effects and interactions"
+      },
+      {
+        "n": 3,
+        "title": "Evaluation of melanotan-II, a superpotent cyclic melanotropic peptide in a pilot phase-I clinical study",
+        "source": "Life Sci",
+        "year": 1996,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8637402/",
+        "pmid": "8637402",
+        "doi": "10.1016/0024-3205(96)00160-9",
+        "note": "Melanotan II pilot study where erections were first noted"
+      },
+      {
+        "n": 4,
+        "title": "Bremelanotide for the Treatment of Hypoactive Sexual Desire Disorder: Two Randomized Phase 3 Trials",
+        "source": "Obstet Gynecol",
+        "year": 2019,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31599840/",
+        "pmid": "31599840",
+        "doi": "10.1097/AOG.0000000000003500",
+        "note": "RECONNECT phase 3 trials in premenopausal women"
+      },
+      {
+        "n": 5,
+        "title": "Co-administration of low doses of intranasal PT-141, a melanocortin receptor agonist, and sildenafil to men with erectile dysfunction results in an enhanced erectile response",
+        "source": "Urology",
+        "year": 2005,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15833522/",
+        "pmid": "15833522",
+        "doi": "10.1016/j.urology.2004.10.060",
+        "note": "Small crossover study combining PT-141 with sildenafil"
+      },
+      {
+        "n": 6,
+        "title": "Safety Profile of Bremelanotide Across the Clinical Development Program",
+        "source": "J Womens Health (Larchmt)",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35147466/",
+        "pmid": "35147466",
+        "doi": "10.1089/jwh.2021.0191",
+        "note": "Pooled safety data, including hyperpigmentation with daily dosing"
+      },
+      {
+        "n": 7,
+        "title": "Peptides in urology and sexual medicine: clinical effectiveness, dosing, indications, and safety: a narrative review",
+        "source": "Sex Med Rev",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42862021/",
+        "pmid": "42862021",
+        "doi": "10.1093/sxmrev/qeag078",
+        "note": "Review of sexual-medicine peptides and unregulated-market concerns"
+      },
+      {
+        "n": 8,
+        "title": "Warning Letter: NuScience Peptides LLC (MARCS-CMS 733652)",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/nuscience-peptides-llc-733652-08242026",
+        "note": "August 2026 letter naming a PT-141 product as an unapproved new drug"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

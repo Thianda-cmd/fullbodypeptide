@@ -1,0 +1,1066 @@
+[
+  {
+    "slug": "bremelanotide",
+    "name": "Bremelanotide",
+    "zone": "brain",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "trofinetide",
+    "name": "Trofinetide",
+    "zone": "brain",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "ziconotide",
+    "name": "Ziconotide",
+    "zone": "brain",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "davunetide",
+    "name": "Davunetide",
+    "zone": "brain",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "nnz-2591",
+    "name": "NNZ-2591",
+    "zone": "brain",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "trofinetide-predecessor-programs",
+    "name": "Trofinetide (investigational uses)",
+    "zone": "brain",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "epitalon",
+    "name": "Epitalon",
+    "zone": "brain",
+    "category": "wellness",
+    "popular": 9
+  },
+  {
+    "slug": "semax",
+    "name": "Semax",
+    "zone": "brain",
+    "category": "wellness",
+    "popular": 10
+  },
+  {
+    "slug": "selank",
+    "name": "Selank",
+    "zone": "brain",
+    "category": "wellness",
+    "popular": 11
+  },
+  {
+    "slug": "pt-141",
+    "name": "PT-141",
+    "zone": "brain",
+    "category": "wellness",
+    "popular": 12
+  },
+  {
+    "slug": "dsip",
+    "name": "DSIP",
+    "zone": "brain",
+    "category": "wellness",
+    "popular": 18
+  },
+  {
+    "slug": "dihexa",
+    "name": "Dihexa",
+    "zone": "brain",
+    "category": "wellness",
+    "popular": 26
+  },
+  {
+    "slug": "cerebrolysin",
+    "name": "Cerebrolysin",
+    "zone": "brain",
+    "category": "wellness",
+    "popular": null
+  },
+  {
+    "slug": "afamelanotide",
+    "name": "Afamelanotide",
+    "zone": "skin",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "bacitracin",
+    "name": "Bacitracin",
+    "zone": "skin",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "dalbavancin-oritavancin-telavancin",
+    "name": "Dalbavancin / Oritavancin / Telavancin",
+    "zone": "skin",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "daptomycin",
+    "name": "Daptomycin",
+    "zone": "skin",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "difelikefalin",
+    "name": "Difelikefalin",
+    "zone": "skin",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "ecallantide",
+    "name": "Ecallantide",
+    "zone": "skin",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "icatibant",
+    "name": "Icatibant",
+    "zone": "skin",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "ltx-315",
+    "name": "LTX-315",
+    "zone": "skin",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "ghk-cu",
+    "name": "GHK-Cu",
+    "zone": "skin",
+    "category": "wellness",
+    "popular": 8
+  },
+  {
+    "slug": "melanotan-ii",
+    "name": "Melanotan II",
+    "zone": "skin",
+    "category": "wellness",
+    "popular": 23
+  },
+  {
+    "slug": "glutathione",
+    "name": "Glutathione",
+    "zone": "skin",
+    "category": "wellness",
+    "popular": 24
+  },
+  {
+    "slug": "melanotan-i",
+    "name": "Melanotan I",
+    "zone": "skin",
+    "category": "wellness",
+    "popular": null
+  },
+  {
+    "slug": "acetyl-hexapeptide-8",
+    "name": "Acetyl hexapeptide-8",
+    "zone": "skin",
+    "category": "cosmetic",
+    "popular": 30
+  },
+  {
+    "slug": "palmitoyl-pentapeptide-4",
+    "name": "Palmitoyl pentapeptide-4",
+    "zone": "skin",
+    "category": "cosmetic",
+    "popular": 31
+  },
+  {
+    "slug": "copper-tripeptide-1",
+    "name": "Copper tripeptide-1",
+    "zone": "skin",
+    "category": "cosmetic",
+    "popular": 32
+  },
+  {
+    "slug": "acetyl-octapeptide-3",
+    "name": "Acetyl octapeptide-3",
+    "zone": "skin",
+    "category": "cosmetic",
+    "popular": null
+  },
+  {
+    "slug": "acetyl-tetrapeptide-5",
+    "name": "Acetyl tetrapeptide-5",
+    "zone": "skin",
+    "category": "cosmetic",
+    "popular": null
+  },
+  {
+    "slug": "carnosine",
+    "name": "Carnosine",
+    "zone": "skin",
+    "category": "cosmetic",
+    "popular": null
+  },
+  {
+    "slug": "dipeptide-diaminobutyroyl-benzylamide-diacetate",
+    "name": "Dipeptide diaminobutyroyl benzylamide diacetate",
+    "zone": "skin",
+    "category": "cosmetic",
+    "popular": null
+  },
+  {
+    "slug": "hexapeptide-9",
+    "name": "Hexapeptide-9",
+    "zone": "skin",
+    "category": "cosmetic",
+    "popular": null
+  },
+  {
+    "slug": "nonapeptide-1",
+    "name": "Nonapeptide-1",
+    "zone": "skin",
+    "category": "cosmetic",
+    "popular": null
+  },
+  {
+    "slug": "oligopeptide-1",
+    "name": "Oligopeptide-1",
+    "zone": "skin",
+    "category": "cosmetic",
+    "popular": null
+  },
+  {
+    "slug": "palmitoyl-hexapeptide-12",
+    "name": "Palmitoyl hexapeptide-12",
+    "zone": "skin",
+    "category": "cosmetic",
+    "popular": null
+  },
+  {
+    "slug": "palmitoyl-tetrapeptide-7",
+    "name": "Palmitoyl tetrapeptide-7",
+    "zone": "skin",
+    "category": "cosmetic",
+    "popular": null
+  },
+  {
+    "slug": "palmitoyl-tripeptide-1",
+    "name": "Palmitoyl tripeptide-1",
+    "zone": "skin",
+    "category": "cosmetic",
+    "popular": null
+  },
+  {
+    "slug": "palmitoyl-tripeptide-38",
+    "name": "Palmitoyl tripeptide-38",
+    "zone": "skin",
+    "category": "cosmetic",
+    "popular": null
+  },
+  {
+    "slug": "pentapeptide-18",
+    "name": "Pentapeptide-18",
+    "zone": "skin",
+    "category": "cosmetic",
+    "popular": null
+  },
+  {
+    "slug": "tripeptide-10-citrulline",
+    "name": "Tripeptide-10 citrulline",
+    "zone": "skin",
+    "category": "cosmetic",
+    "popular": null
+  },
+  {
+    "slug": "semaglutide",
+    "name": "Semaglutide",
+    "zone": "digestive",
+    "category": "fda",
+    "popular": 2
+  },
+  {
+    "slug": "tirzepatide",
+    "name": "Tirzepatide",
+    "zone": "digestive",
+    "category": "fda",
+    "popular": 3
+  },
+  {
+    "slug": "dasiglucagon",
+    "name": "Dasiglucagon",
+    "zone": "digestive",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "ga-68-dotatate",
+    "name": "Ga-68 dotatate",
+    "zone": "digestive",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "glucagon",
+    "name": "Glucagon",
+    "zone": "digestive",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "lanreotide",
+    "name": "Lanreotide",
+    "zone": "digestive",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "linaclotide",
+    "name": "Linaclotide",
+    "zone": "digestive",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "liraglutide",
+    "name": "Liraglutide",
+    "zone": "digestive",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "lutetium-lu-177-dotatate",
+    "name": "Lutetium Lu-177 dotatate",
+    "zone": "digestive",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "octreotide",
+    "name": "Octreotide",
+    "zone": "digestive",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "plecanatide",
+    "name": "Plecanatide",
+    "zone": "digestive",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "setmelanotide",
+    "name": "Setmelanotide",
+    "zone": "digestive",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "sincalide",
+    "name": "Sincalide",
+    "zone": "digestive",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "teduglutide",
+    "name": "Teduglutide",
+    "zone": "digestive",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "terlipressin",
+    "name": "Terlipressin",
+    "zone": "digestive",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "tesamorelin",
+    "name": "Tesamorelin",
+    "zone": "digestive",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "retatrutide",
+    "name": "Retatrutide",
+    "zone": "digestive",
+    "category": "clinical",
+    "popular": 4
+  },
+  {
+    "slug": "cagrilintide",
+    "name": "Cagrilintide",
+    "zone": "digestive",
+    "category": "clinical",
+    "popular": 22
+  },
+  {
+    "slug": "amycretin",
+    "name": "Amycretin",
+    "zone": "digestive",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "apraglutide",
+    "name": "Apraglutide",
+    "zone": "digestive",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "brilacidin",
+    "name": "Brilacidin",
+    "zone": "digestive",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "cagrisema",
+    "name": "CagriSema",
+    "zone": "digestive",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "enlicitide",
+    "name": "Enlicitide",
+    "zone": "digestive",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "glepaglutide",
+    "name": "Glepaglutide",
+    "zone": "digestive",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "larazotide-acetate",
+    "name": "Larazotide acetate",
+    "zone": "digestive",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "mazdutide",
+    "name": "Mazdutide",
+    "zone": "digestive",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "pn-943",
+    "name": "PN-943",
+    "zone": "digestive",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "pemvidutide",
+    "name": "Pemvidutide",
+    "zone": "digestive",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "petrelintide",
+    "name": "Petrelintide",
+    "zone": "digestive",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "survodutide",
+    "name": "Survodutide",
+    "zone": "digestive",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "bpc-157",
+    "name": "BPC-157",
+    "zone": "digestive",
+    "category": "wellness",
+    "popular": 0
+  },
+  {
+    "slug": "kpv",
+    "name": "KPV",
+    "zone": "digestive",
+    "category": "wellness",
+    "popular": 13
+  },
+  {
+    "slug": "aod-9604",
+    "name": "AOD-9604",
+    "zone": "digestive",
+    "category": "wellness",
+    "popular": 16
+  },
+  {
+    "slug": "5-amino-1mq",
+    "name": "5-Amino-1MQ",
+    "zone": "digestive",
+    "category": "wellness",
+    "popular": 28
+  },
+  {
+    "slug": "fragment-176-191",
+    "name": "Fragment 176-191",
+    "zone": "digestive",
+    "category": "wellness",
+    "popular": null
+  },
+  {
+    "slug": "cyclosporine",
+    "name": "Cyclosporine",
+    "zone": "immune",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "enfuvirtide",
+    "name": "Enfuvirtide",
+    "zone": "immune",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "polymyxin-b-colistin",
+    "name": "Polymyxin B / Colistin",
+    "zone": "immune",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "aviptadil",
+    "name": "Aviptadil",
+    "zone": "immune",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "murepavadin",
+    "name": "Murepavadin",
+    "zone": "immune",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "nangibotide",
+    "name": "Nangibotide",
+    "zone": "immune",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "thymosin-alpha-1",
+    "name": "Thymosin alpha-1",
+    "zone": "immune",
+    "category": "wellness",
+    "popular": 14
+  },
+  {
+    "slug": "ll-37",
+    "name": "LL-37",
+    "zone": "immune",
+    "category": "wellness",
+    "popular": 19
+  },
+  {
+    "slug": "thymulin",
+    "name": "Thymulin",
+    "zone": "immune",
+    "category": "wellness",
+    "popular": null
+  },
+  {
+    "slug": "albiglutide",
+    "name": "Albiglutide",
+    "zone": "hormones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "corticotropin",
+    "name": "Corticotropin",
+    "zone": "hormones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "cosyntropin",
+    "name": "Cosyntropin",
+    "zone": "hormones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "dulaglutide",
+    "name": "Dulaglutide",
+    "zone": "hormones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "exenatide",
+    "name": "Exenatide",
+    "zone": "hormones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "insulin-analogs-multiple",
+    "name": "Insulin analogs (multiple)",
+    "zone": "hormones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "lixisenatide",
+    "name": "Lixisenatide",
+    "zone": "hormones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "mecasermin",
+    "name": "Mecasermin",
+    "zone": "hormones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "pasireotide",
+    "name": "Pasireotide",
+    "zone": "hormones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "pegvisomant",
+    "name": "Pegvisomant",
+    "zone": "hormones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "pramlintide",
+    "name": "Pramlintide",
+    "zone": "hormones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "secretin",
+    "name": "Secretin",
+    "zone": "hormones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "somapacitan",
+    "name": "Somapacitan",
+    "zone": "hormones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "somatropin-rhgh",
+    "name": "Somatropin (rhGH)",
+    "zone": "hormones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "efpeglenatide",
+    "name": "Efpeglenatide",
+    "zone": "hormones",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "elamipretide",
+    "name": "Elamipretide",
+    "zone": "hormones",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "mots-c",
+    "name": "MOTS-c",
+    "zone": "hormones",
+    "category": "wellness",
+    "popular": 7
+  },
+  {
+    "slug": "compounded-tesamorelin",
+    "name": "Tesamorelin (off-label)",
+    "zone": "hormones",
+    "category": "wellness",
+    "popular": 15
+  },
+  {
+    "slug": "humanin",
+    "name": "Humanin",
+    "zone": "hormones",
+    "category": "wellness",
+    "popular": 27
+  },
+  {
+    "slug": "abaloparatide",
+    "name": "Abaloparatide",
+    "zone": "bones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "calcitonin-salmon",
+    "name": "Calcitonin-salmon",
+    "zone": "bones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "etelcalcetide",
+    "name": "Etelcalcetide",
+    "zone": "bones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "palopegteriparatide",
+    "name": "Palopegteriparatide",
+    "zone": "bones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "parathyroid-hormone",
+    "name": "Parathyroid hormone",
+    "zone": "bones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "teriparatide",
+    "name": "Teriparatide",
+    "zone": "bones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "vosoritide",
+    "name": "Vosoritide",
+    "zone": "bones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "zilucoplan",
+    "name": "Zilucoplan",
+    "zone": "bones",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "tb-500",
+    "name": "TB-500",
+    "zone": "bones",
+    "category": "wellness",
+    "popular": 1
+  },
+  {
+    "slug": "cjc-1295",
+    "name": "CJC-1295",
+    "zone": "bones",
+    "category": "wellness",
+    "popular": 5
+  },
+  {
+    "slug": "ipamorelin",
+    "name": "Ipamorelin",
+    "zone": "bones",
+    "category": "wellness",
+    "popular": 6
+  },
+  {
+    "slug": "sermorelin",
+    "name": "Sermorelin",
+    "zone": "bones",
+    "category": "wellness",
+    "popular": 17
+  },
+  {
+    "slug": "mk-677-ibutamoren",
+    "name": "MK-677 (ibutamoren)",
+    "zone": "bones",
+    "category": "wellness",
+    "popular": 21
+  },
+  {
+    "slug": "thymosin-beta-4",
+    "name": "Thymosin beta-4",
+    "zone": "bones",
+    "category": "wellness",
+    "popular": 25
+  },
+  {
+    "slug": "follistatin-344",
+    "name": "Follistatin-344",
+    "zone": "bones",
+    "category": "wellness",
+    "popular": null
+  },
+  {
+    "slug": "ghrp-2",
+    "name": "GHRP-2",
+    "zone": "bones",
+    "category": "wellness",
+    "popular": null
+  },
+  {
+    "slug": "ghrp-6",
+    "name": "GHRP-6",
+    "zone": "bones",
+    "category": "wellness",
+    "popular": null
+  },
+  {
+    "slug": "hexarelin",
+    "name": "Hexarelin",
+    "zone": "bones",
+    "category": "wellness",
+    "popular": null
+  },
+  {
+    "slug": "igf-1-des",
+    "name": "IGF-1 DES",
+    "zone": "bones",
+    "category": "wellness",
+    "popular": null
+  },
+  {
+    "slug": "igf-1-lr3",
+    "name": "IGF-1 LR3",
+    "zone": "bones",
+    "category": "wellness",
+    "popular": null
+  },
+  {
+    "slug": "mechano-growth-factor",
+    "name": "Mechano growth factor",
+    "zone": "bones",
+    "category": "wellness",
+    "popular": null
+  },
+  {
+    "slug": "angiotensin-ii",
+    "name": "Angiotensin II",
+    "zone": "heart",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "bivalirudin",
+    "name": "Bivalirudin",
+    "zone": "heart",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "desirudin",
+    "name": "Desirudin",
+    "zone": "heart",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "desmopressin",
+    "name": "Desmopressin",
+    "zone": "heart",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "echinocandins",
+    "name": "Echinocandins",
+    "zone": "heart",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "eptifibatide",
+    "name": "Eptifibatide",
+    "zone": "heart",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "motixafortide",
+    "name": "Motixafortide",
+    "zone": "heart",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "nesiritide",
+    "name": "Nesiritide",
+    "zone": "heart",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "pegcetacoplan",
+    "name": "Pegcetacoplan",
+    "zone": "heart",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "vancomycin",
+    "name": "Vancomycin",
+    "zone": "heart",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "vasopressin",
+    "name": "Vasopressin",
+    "zone": "heart",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "balixafortide",
+    "name": "Balixafortide",
+    "zone": "heart",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "rusfertide",
+    "name": "Rusfertide",
+    "zone": "heart",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "selepressin",
+    "name": "Selepressin",
+    "zone": "heart",
+    "category": "clinical",
+    "popular": null
+  },
+  {
+    "slug": "cetrorelix",
+    "name": "Cetrorelix",
+    "zone": "sex",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "degarelix",
+    "name": "Degarelix",
+    "zone": "sex",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "ganirelix",
+    "name": "Ganirelix",
+    "zone": "sex",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "goserelin",
+    "name": "Goserelin",
+    "zone": "sex",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "histrelin",
+    "name": "Histrelin",
+    "zone": "sex",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "human-chorionic-gonadotropin",
+    "name": "Human chorionic gonadotropin",
+    "zone": "sex",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "leuprolide",
+    "name": "Leuprolide",
+    "zone": "sex",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "lutetium-lu-177-vipivotide-tetraxetan",
+    "name": "Lutetium Lu-177 vipivotide tetraxetan",
+    "zone": "sex",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "nafarelin",
+    "name": "Nafarelin",
+    "zone": "sex",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "oxytocin",
+    "name": "Oxytocin",
+    "zone": "sex",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "triptorelin",
+    "name": "Triptorelin",
+    "zone": "sex",
+    "category": "fda",
+    "popular": null
+  },
+  {
+    "slug": "kisspeptin-10",
+    "name": "Kisspeptin-10",
+    "zone": "sex",
+    "category": "wellness",
+    "popular": 20
+  },
+  {
+    "slug": "compounded-gonadorelin",
+    "name": "Gonadorelin (compounded)",
+    "zone": "sex",
+    "category": "wellness",
+    "popular": 29
+  }
+]

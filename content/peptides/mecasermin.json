@@ -1,0 +1,203 @@
+{
+  "slug": "mecasermin",
+  "name": "Mecasermin",
+  "zone": "hormones",
+  "category": "fda",
+  "aliases": [
+    "rhIGF-1",
+    "Recombinant human insulin-like growth factor-1"
+  ],
+  "brands": [
+    "Increlex"
+  ],
+  "class": "Recombinant IGF-1",
+  "route": "Injection under the skin twice daily, within 20 minutes of a meal or snack",
+  "status": "FDA-approved (2005) for growth failure in children 2 and older with severe primary IGF-1 deficiency",
+  "evidence": 4,
+  "mechanism": "Lab-made copy of IGF-1, the growth factor that growth hormone normally triggers, given directly when the body cannot respond to growth hormone",
+  "uses": [
+    "Severe primary IGF-1 deficiency (such as Laron syndrome)",
+    "GH gene deletion with growth hormone antibodies"
+  ],
+  "popular": null,
+  "related": [
+    "somatropin-rhgh",
+    "igf-1-lr3",
+    "igf-1-des",
+    "pegvisomant"
+  ],
+  "article": {
+    "summary": "Mecasermin (Increlex) is lab-made IGF-1, FDA-approved for children with severe primary IGF-1 deficiency whose bodies cannot respond to growth hormone. It is given by injection twice daily.",
+    "takeaway": "Most growth hormone effects on height are carried out by IGF-1, a growth factor made mainly in the liver. A few children, such as those with Laron syndrome, have growth hormone but cannot respond to it, so they make very little IGF-1. Mecasermin supplies IGF-1 directly: in a long-term study, average growth speed rose from **2.8 to 8.0 cm a year** in the first year of treatment.[^1] Because IGF-1 also acts like insulin, **low blood sugar** is the main risk, so each dose must be taken with food.[^2] It is a narrow specialist treatment, not a substitute for growth hormone.",
+    "glance": [
+      [
+        "FDA status",
+        "Approved 2005 for children 2 and older; marketed in the US by Eton Pharmaceuticals as of 2026"
+      ],
+      [
+        "Main use",
+        "Growth failure from severe primary IGF-1 deficiency"
+      ],
+      [
+        "How it's taken",
+        "Injection under the skin twice a day, shortly before or after a meal or snack"
+      ],
+      [
+        "Drug class",
+        "Recombinant insulin-like growth factor-1"
+      ],
+      [
+        "Research",
+        "Small long-term studies in a rare condition; growth benefit well documented"
+      ],
+      [
+        "Related",
+        "[Somatropin](/peptides/somatropin-rhgh), the growth hormone that normally drives IGF-1"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Growth hormone from the pituitary binds receptors in the liver and growth plates and switches on IGF-1 production. IGF-1 then drives bone lengthening and tissue growth. It circulates mostly bound to a carrier protein, IGFBP-3, which gives it a long life in the blood.[^3]"
+          },
+          {
+            "type": "p",
+            "text": "When the growth hormone receptor or its signaling pathway is broken, extra growth hormone does nothing. Mecasermin bypasses the block by delivering IGF-1 itself. People with this condition also lack the carrier protein, so injected IGF-1 is cleared faster, which is one reason it is given twice a day.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Increlex is approved for children 2 and older with growth failure due to:[^2]"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "**Severe primary IGF-1 deficiency:** height and IGF-1 both at least 3 standard deviations below average, with normal or high growth hormone",
+              "**Growth hormone gene deletion** in children who have developed antibodies that neutralize growth hormone treatment"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "It is not for low IGF-1 caused by growth hormone deficiency, malnutrition, an underactive thyroid or long-term steroid use, and it does not replace growth hormone for its approved uses.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Evidence comes from small studies, as expected for a rare disease. In 76 children with growth hormone insensitivity followed for up to 8 years, growth speed more than doubled in the first year and stayed above pretreatment levels in later years, though it slowed over time.[^1] Adverse events were common but rarely serious enough to stop treatment: hypoglycemia was reported by 49%, fat lumps at injection sites by 32% and enlarged tonsils or adenoids by 22%.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Mecasermin comes in a multi-dose vial and is drawn up with a syringe. Treatment starts at 0.04-0.08 mg/kg twice daily and can be raised weekly in small steps to a maximum of 0.12 mg/kg twice daily. Each dose is given within 20 minutes before or after a meal or snack, and skipped if the child cannot eat.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Hypoglycemia:** the most common problem; families learn to recognize and treat it, especially early in treatment",
+              "**Lymphoid overgrowth:** enlarged tonsils and adenoids, sometimes causing snoring, sleep apnea or ear fluid",
+              "**Raised pressure in the skull:** headache, vision changes or vomiting need prompt review",
+              "**Bones:** slipped capital femoral epiphysis (a hip growth-plate injury) and worsening scoliosis",
+              "**Tumors:** IGF-1 promotes cell growth, and tumors, including cancers, have been reported in treated children"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "It must not be used in children with active or past cancer, closed growth plates or allergy to its ingredients, and its benzyl alcohol preservative makes it unsuitable for infants.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status and misuse",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Increlex is a prescription specialist drug. IGF-1 and its analogs are banned in sport at all times, and unapproved versions such as [IGF-1 LR3](/peptides/igf-1-lr3) and [IGF-1 DES](/peptides/igf-1-des) are sold online as muscle-building research chemicals with no quality control.[^4] Using IGF-1 without a medical need carries the same hypoglycemia and growth-promotion risks seen in treated children."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved; small but consistent studies in a rare disease",
+      "text": "Long-term observational data show clear gains in growth speed for children who cannot respond to growth hormone.[^1] Because the condition is rare, there are no large randomized trials, and growth speed tends to slow after the first year."
+    },
+    "faq": [
+      {
+        "q": "Why not just give more growth hormone?",
+        "a": "In primary IGF-1 deficiency the body cannot respond to growth hormone, so extra growth hormone does not raise IGF-1. Mecasermin supplies the end product directly.[^3]"
+      },
+      {
+        "q": "Why must it be taken with food?",
+        "a": "IGF-1 lowers blood sugar much like insulin. Taking it within 20 minutes of a meal or snack reduces the risk of hypoglycemia.[^2]"
+      },
+      {
+        "q": "Does mecasermin help adults build muscle or slow aging?",
+        "a": "It is not approved or studied for those uses. It is prohibited in sport, and taking it without a deficiency brings risks such as low blood sugar and unwanted tissue growth.[^4]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Long-term treatment with recombinant insulin-like growth factor (IGF)-I in children with severe IGF-I deficiency due to growth hormone insensitivity.",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2007,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17192294/",
+        "pmid": "17192294",
+        "doi": "10.1210/jc.2006-1610",
+        "note": "Growth and safety in 76 children treated for up to 8 years"
+      },
+      {
+        "n": 2,
+        "title": "INCRELEX (mecasermin) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d5b2b0e1-c523-468d-9a0b-4ae4e4a8dbce",
+        "note": "Current label: indications, dosing with meals, contraindications and warnings"
+      },
+      {
+        "n": 3,
+        "title": "Insulin-like growth factor-I deficiency in children with growth hormone insensitivity: current and future treatment options.",
+        "source": "BioDrugs",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19627167/",
+        "pmid": "19627167",
+        "doi": "10.2165/00063030-200923030-00002",
+        "note": "Review of GH-IGF-1 physiology and mecasermin treatment"
+      },
+      {
+        "n": 4,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "IGF-1, mecasermin and IGF-1 analogs are prohibited at all times"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "slug": "trofinetide",
+  "name": "Trofinetide",
+  "zone": "brain",
+  "category": "fda",
+  "aliases": [
+    "NNZ-2566"
+  ],
+  "brands": [
+    "Daybue",
+    "Daybue Stix"
+  ],
+  "class": "IGF-1-derived tripeptide analog",
+  "route": "Liquid taken twice daily by mouth or through a feeding tube",
+  "status": "FDA-approved in March 2023 for Rett syndrome in people 2 years and older; authorized in the EU in 2026",
+  "evidence": 4,
+  "mechanism": "Mimics GPE, a three-amino-acid fragment of IGF-1 made in the brain, which may ease brain inflammation and support synapses; its exact action is unknown",
+  "uses": [
+    "Rett syndrome (adults and children 2 years and older)"
+  ],
+  "popular": null,
+  "related": [
+    "nnz-2591",
+    "trofinetide-predecessor-programs",
+    "mecasermin",
+    "davunetide"
+  ],
+  "article": {
+    "summary": "Trofinetide (Daybue) is a twice-daily oral drug approved in 2023 as the first treatment for Rett syndrome. It is a modified fragment of IGF-1, and diarrhea is very common.",
+    "takeaway": "Trofinetide is a lab-made version of a three-amino-acid fragment (glycine-proline-glutamate) that the brain clips from insulin-like growth factor 1. In March 2023 it became the **first FDA-approved treatment for Rett syndrome**, a rare genetic disorder that mainly affects girls.[^1] In the 12-week LAVENDER trial it improved caregiver-rated symptoms and clinicians' overall ratings more than placebo, though the gains were modest.[^2] Diarrhea affects about **4 in 5** people who take it and is the most common reason for stopping.[^2][^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved March 2023 (Daybue); a powder form, Daybue Stix, followed in 2025"
+      ],
+      [
+        "Main use",
+        "Rett syndrome in adults and children aged 2 and older"
+      ],
+      [
+        "How it's taken",
+        "Weight-based liquid dose twice a day, by mouth or gastrostomy tube"
+      ],
+      [
+        "Drug class",
+        "IGF-1-derived tripeptide analog"
+      ],
+      [
+        "Research",
+        "Phase 3 LAVENDER trial in 187 girls and young women, plus open-label extensions"
+      ],
+      [
+        "Related",
+        "[NNZ-2591](/peptides/nnz-2591), [trofinetide's other investigational uses](/peptides/trofinetide-predecessor-programs)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Rett syndrome is usually caused by a change in the MECP2 gene, which controls how many other brain genes are switched on. After early development that looks typical, children lose spoken language and purposeful hand use and develop repetitive hand movements and walking problems; seizures, breathing irregularities, anxiety and constipation are also common.[^4]"
+          },
+          {
+            "type": "p",
+            "text": "IGF-1 (insulin-like growth factor 1) supports brain growth and the maturation of synapses, the junctions between nerve cells. When IGF-1 is broken down in the brain it releases a tiny peptide called GPE. Trofinetide is GPE with one added methyl group, which slows its breakdown and allows it to be taken by mouth.[^1] How it helps in Rett syndrome is not established; laboratory work suggests it calms inflammation from brain immune cells and supports synapse function."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Daybue is approved in the US for Rett syndrome in adults and children aged 2 years and older.[^5] It does not correct the underlying gene change; it is used to ease symptoms such as communication problems, behavior and mood. In August 2026 the European Union authorized it as Daybu for neurobehavioral symptoms in people aged 5 and older, after a re-examination by the European Medicines Agency's scientific committee.[^6]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "LAVENDER (phase 3)",
+                "187 girls and young women aged 5-20, 12 weeks",
+                "Symptom questionnaire score fell 4.9 points vs 1.7 on placebo; clinician rating 3.5 vs 3.8 (lower is better)[^2]"
+              ],
+              [
+                "LILAC (open-label extension)",
+                "154 participants, 40 weeks",
+                "Symptom scores kept improving; 21% withdrew because of diarrhea[^3]"
+              ],
+              [
+                "Phase 2",
+                "82 girls aged 5-15, 6 weeks",
+                "The highest dose beat placebo on behavior and clinician ratings[^7]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Effect sizes in LAVENDER were small to moderate, and a key secondary measure of social communication also favored trofinetide.[^2] Longer-term results come from open-label studies without a placebo group, so they are harder to interpret."
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Trofinetide comes as an oral solution (200 mg per mL) and as Daybue Stix powder packets that are dissolved in water. It is given twice a day, morning and evening, with or without food, and can go through a gastrostomy tube.[^5]"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Doses are set by body weight, from **5 g to 12 g per dose** for people weighing 9 kg or more",
+              "Laxatives are stopped before starting, because diarrhea is expected",
+              "Doses are reduced for moderate kidney impairment, and it is not recommended with severe kidney impairment"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Diarrhea:** 82% vs 20% on placebo in the phase 3 trial, mostly mild to moderate; families are advised to start antidiarrheal treatment and extra fluids early[^5]",
+              "**Vomiting:** 29% vs 12%; aspiration pneumonia has occurred after vomiting, and a dose should not be repeated if it comes back up[^5]",
+              "**Weight loss:** weight is monitored, and the dose may be paused or lowered",
+              "**Other effects:** fever, seizures, anxiety, reduced appetite and fatigue were somewhat more common than on placebo[^5]",
+              "**Interactions:** trofinetide weakly blocks the CYP3A enzyme and the P-gp transporter, so some oral drugs can reach higher levels[^5]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved on one phase 3 trial with modest gains",
+      "text": "Approval rested on a single 12-week placebo-controlled phase 3 trial, backed by two earlier phase 2 studies.[^2][^7] The benefit was statistically clear but moderate in size, and long-term data come from open-label extensions.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Does trofinetide cure Rett syndrome?",
+        "a": "No. It does not fix the MECP2 gene change. It modestly improves some symptoms for some people, and gene therapies aimed at the cause are still being studied.[^4]"
+      },
+      {
+        "q": "Is trofinetide a peptide?",
+        "a": "Yes, a modified tripeptide (three amino acids). It is small and stable enough to be taken by mouth, which is unusual for peptide drugs."
+      },
+      {
+        "q": "Can the diarrhea be managed?",
+        "a": "Usually. The label advises stopping laxatives beforehand, using antidiarrheal medicine and fluids at the first sign of loose stools, and pausing or lowering the dose if diarrhea is severe.[^5]"
+      },
+      {
+        "q": "Was trofinetide tested for other conditions?",
+        "a": "Yes. Before Rett syndrome it was studied in traumatic brain injury, concussion and fragile X syndrome, but none of those programs led to approval. See [trofinetide's investigational uses](/peptides/trofinetide-predecessor-programs)."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Trofinetide: First Approval",
+        "source": "Drugs",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37191913/",
+        "pmid": "37191913",
+        "doi": "10.1007/s40265-023-01883-8",
+        "note": "Development history and March 2023 US approval"
+      },
+      {
+        "n": 2,
+        "title": "Trofinetide for the treatment of Rett syndrome: a randomized phase 3 study",
+        "source": "Nat Med",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37291210/",
+        "pmid": "37291210",
+        "doi": "10.1038/s41591-023-02398-1",
+        "note": "LAVENDER: the 12-week phase 3 trial behind approval"
+      },
+      {
+        "n": 3,
+        "title": "Trofinetide for the treatment of Rett syndrome: Results from the open-label extension LILAC study",
+        "source": "Med",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38917793/",
+        "pmid": "38917793",
+        "doi": "10.1016/j.medj.2024.05.018",
+        "note": "40-week open-label extension: safety and withdrawals"
+      },
+      {
+        "n": 4,
+        "title": "Rett syndrome",
+        "source": "Nat Rev Dis Primers",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39511247/",
+        "pmid": "39511247",
+        "doi": "10.1038/s41572-024-00568-0",
+        "note": "Overview of Rett syndrome, its cause and treatments"
+      },
+      {
+        "n": 5,
+        "title": "DAYBUE (trofinetide) oral solution and DAYBUE STIX (trofinetide) for oral solution: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=67e6f2d9-21f6-466f-9def-826c6a4b8257",
+        "note": "Current US label: dosing, warnings and side effects"
+      },
+      {
+        "n": 6,
+        "title": "Daybu: EPAR (European public assessment report)",
+        "source": "European Medicines Agency",
+        "year": 2026,
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/daybu",
+        "note": "EU authorization in August 2026"
+      },
+      {
+        "n": 7,
+        "title": "Double-blind, randomized, placebo-controlled study of trofinetide in pediatric Rett syndrome",
+        "source": "Neurology",
+        "year": 2019,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30918097/",
+        "pmid": "30918097",
+        "doi": "10.1212/WNL.0000000000007316",
+        "note": "Phase 2 dose-finding study in girls aged 5-15"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

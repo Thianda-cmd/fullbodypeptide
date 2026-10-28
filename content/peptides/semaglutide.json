@@ -1,0 +1,302 @@
+{
+  "slug": "semaglutide",
+  "name": "Semaglutide",
+  "zone": "digestive",
+  "category": "fda",
+  "aliases": [
+    "NN9535",
+    "NN9536"
+  ],
+  "brands": [
+    "Ozempic",
+    "Wegovy",
+    "Rybelsus"
+  ],
+  "class": "GLP-1 receptor agonist",
+  "route": "Weekly injection under the skin, or a daily tablet",
+  "status": "FDA-approved: type 2 diabetes (2017), weight management (2021), heart, kidney and liver indications since",
+  "evidence": 4,
+  "mechanism": "Mimics the gut hormone GLP-1 to release insulin when blood sugar is high, slow stomach emptying and quiet appetite signals in the brain",
+  "uses": [
+    "Type 2 diabetes",
+    "Chronic weight management",
+    "Cutting heart attack and stroke risk",
+    "Kidney disease in type 2 diabetes",
+    "MASH (fatty liver inflammation)"
+  ],
+  "popular": 2,
+  "related": [
+    "tirzepatide",
+    "liraglutide",
+    "retatrutide",
+    "cagrisema"
+  ],
+  "article": {
+    "summary": "Semaglutide is a once-weekly GLP-1 drug (Ozempic, Wegovy, Rybelsus) approved for type 2 diabetes and weight loss, with proven heart and kidney benefits.",
+    "takeaway": "Semaglutide is a long-acting copy of GLP-1, a hormone your gut releases after eating. In people with obesity it produced an average weight loss of about **15% over 68 weeks** in its pivotal trial, far beyond older drugs.[^1] It also lowered the risk of heart attack, stroke and cardiovascular death by **20%** in people with heart disease and excess weight.[^2] Most side effects are digestive and fade with slow dose increases, but much of the weight tends to return if the drug is stopped.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved (Ozempic 2017, Rybelsus 2019, Wegovy 2021)"
+      ],
+      [
+        "Main uses",
+        "Type 2 diabetes, weight management, cardiovascular and kidney risk reduction, MASH"
+      ],
+      [
+        "How it's taken",
+        "Injection under the skin once a week, or a daily tablet on an empty stomach"
+      ],
+      [
+        "Drug class",
+        "GLP-1 receptor agonist"
+      ],
+      [
+        "Research",
+        "Tens of thousands of people across the SUSTAIN, STEP, SELECT and FLOW trial programs"
+      ],
+      [
+        "Related",
+        "[Tirzepatide](/peptides/tirzepatide), [liraglutide](/peptides/liraglutide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GLP-1 (glucagon-like peptide-1) is released by the intestine after a meal. It tells the pancreas to release insulin when glucose is rising, holds back glucagon, slows how quickly the stomach empties and signals fullness to appetite centers in the brain. Natural GLP-1 is broken down within minutes."
+          },
+          {
+            "type": "p",
+            "text": "Semaglutide shares about 94% of its structure with human GLP-1 but carries two key changes: one amino acid swap that shields it from the enzyme DPP-4, and a fatty-acid side chain that lets it ride on albumin in the blood. Together they stretch its half-life to roughly a week, which is what makes weekly dosing possible."
+          },
+          {
+            "type": "ul",
+            "items": [
+              "**Pancreas:** more insulin and less glucagon, only when glucose is elevated",
+              "**Stomach:** slower emptying, so meals feel more filling",
+              "**Brain:** reduced hunger and food cravings"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The same molecule is sold under three brand names with different doses and labels."
+          },
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Brand",
+                "Approved for"
+              ],
+              [
+                "Ozempic",
+                "Type 2 diabetes; lowering cardiovascular risk and slowing kidney disease in type 2 diabetes"
+              ],
+              [
+                "Wegovy",
+                "Chronic weight management; cutting cardiovascular risk in people with heart disease and excess weight; MASH with liver fibrosis"
+              ],
+              [
+                "Rybelsus",
+                "Type 2 diabetes, as a daily tablet"
+              ]
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Wegovy is also available as a daily tablet for weight management. Labels change as new trials report, so check the current prescribing information."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "STEP 1",
+                "1,961 adults with obesity, no diabetes",
+                "Weight fell 14.9% vs 2.4% on placebo at 68 weeks[^1]"
+              ],
+              [
+                "SELECT",
+                "17,604 adults with heart disease and excess weight",
+                "20% fewer heart attacks, strokes and cardiovascular deaths[^2]"
+              ],
+              [
+                "SUSTAIN-6",
+                "3,297 adults with type 2 diabetes",
+                "26% fewer major cardiovascular events[^4]"
+              ],
+              [
+                "FLOW",
+                "3,533 adults with type 2 diabetes and kidney disease",
+                "24% lower risk of major kidney events[^5]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In the ESSENCE trial in people with MASH and moderate to advanced liver scarring, inflammation resolved in about 63% of those on semaglutide compared with 34% on placebo after 72 weeks.[^6]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The injectable forms come in prefilled pens used once a week on the same day. Doses start low and rise every four weeks; for Wegovy the climb to the 2.4 mg maintenance dose takes about four months. Starting slowly is what keeps nausea manageable.[^7]"
+          },
+          {
+            "type": "p",
+            "text": "Tablets are taken every morning with a small sip of water at least 30 minutes before food, drink or other medicines, because food blocks absorption."
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** nausea, diarrhea, vomiting, constipation and stomach pain, mostly during dose increases",
+              "**Less common:** gallbladder problems, pancreatitis, and kidney strain from dehydration",
+              "**Boxed warning:** thyroid C-cell tumors in rodent studies; not used by people with a personal or family history of medullary thyroid cancer or MEN2",
+              "**Low blood sugar** when combined with insulin or sulfonylureas",
+              "**Surgery:** slowed stomach emptying can raise aspiration risk under anesthesia, so tell the care team before procedures"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Weight comes back for many people after stopping. A year after STEP 1 participants came off the drug, they had regained about two-thirds of the weight they lost.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Semaglutide came off the FDA drug shortage list in February 2025, which ended the period when pharmacies could mass-produce copies. Compounded versions are still sold by some telehealth companies, but they are not FDA-approved and their quality is not reviewed."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: multiple large outcome trials",
+      "text": "Semaglutide is one of the most thoroughly studied drugs in metabolic medicine, with randomized trials measuring hard outcomes such as heart attacks, kidney failure and liver scarring, not just weight or blood sugar.[^2][^5]"
+    },
+    "faq": [
+      {
+        "q": "Is Ozempic the same drug as Wegovy?",
+        "a": "Yes. Both are semaglutide injections, but Wegovy is dosed higher (up to 2.4 mg weekly) and labeled for weight management, while Ozempic is labeled for type 2 diabetes."
+      },
+      {
+        "q": "How much weight do people lose on semaglutide?",
+        "a": "In STEP 1 the average was about 15% of body weight after 68 weeks, though individual results ranged widely.[^1]"
+      },
+      {
+        "q": "What happens if I stop taking it?",
+        "a": "Appetite usually returns and most people regain a large share of the weight within a year.[^3] Many people stay on it long term, the way they would with a blood pressure drug."
+      },
+      {
+        "q": "How is semaglutide different from tirzepatide?",
+        "a": "Semaglutide acts on the GLP-1 receptor only. [Tirzepatide](/peptides/tirzepatide) also activates the GIP receptor and produced larger average weight loss in head-to-head testing."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Once-Weekly Semaglutide in Adults with Overweight or Obesity",
+        "source": "N Engl J Med",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33567185/",
+        "pmid": "33567185",
+        "doi": "10.1056/NEJMoa2032183",
+        "note": "STEP 1: 68-week weight loss versus placebo"
+      },
+      {
+        "n": 2,
+        "title": "Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes",
+        "source": "N Engl J Med",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37952131/",
+        "pmid": "37952131",
+        "doi": "10.1056/NEJMoa2307563",
+        "note": "SELECT: cardiovascular events in people with heart disease and excess weight"
+      },
+      {
+        "n": 3,
+        "title": "Weight regain and cardiometabolic effects after withdrawal of semaglutide: The STEP 1 trial extension",
+        "source": "Diabetes Obes Metab",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35441470/",
+        "pmid": "35441470",
+        "doi": "10.1111/dom.14725",
+        "note": "What happened one year after stopping treatment"
+      },
+      {
+        "n": 4,
+        "title": "Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes",
+        "source": "N Engl J Med",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27633186/",
+        "pmid": "27633186",
+        "doi": "10.1056/NEJMoa1607141",
+        "note": "SUSTAIN-6: cardiovascular safety and benefit in type 2 diabetes"
+      },
+      {
+        "n": 5,
+        "title": "Effects of Semaglutide on Chronic Kidney Disease in Patients with Type 2 Diabetes",
+        "source": "N Engl J Med",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38785209/",
+        "pmid": "38785209",
+        "doi": "10.1056/NEJMoa2403347",
+        "note": "FLOW: kidney outcomes in type 2 diabetes with chronic kidney disease"
+      },
+      {
+        "n": 6,
+        "title": "Phase 3 Trial of Semaglutide in Metabolic Dysfunction-Associated Steatohepatitis",
+        "source": "N Engl J Med",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40305708/",
+        "pmid": "40305708",
+        "doi": "10.1056/NEJMoa2413258",
+        "note": "ESSENCE: liver inflammation and fibrosis at 72 weeks"
+      },
+      {
+        "n": 7,
+        "title": "WEGOVY (semaglutide) injection and tablet: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ee06186f-2aa3-4990-a760-757579d8f77b",
+        "note": "Current Wegovy label: dosing, warnings and indications"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "slug": "ghk-cu",
+  "name": "GHK-Cu",
+  "zone": "skin",
+  "category": "wellness",
+  "aliases": [
+    "Glycyl-L-histidyl-L-lysine copper",
+    "Copper tripeptide-1",
+    "Copper peptide",
+    "Prezatide copper"
+  ],
+  "brands": [],
+  "class": "Copper-binding tripeptide",
+  "route": "Injected under the skin (unapproved) or applied to skin in cosmetics",
+  "status": "Not FDA-approved as a drug; injectable use is unapproved and its compounding status was under FDA review as of 2026",
+  "evidence": 1,
+  "mechanism": "Carries copper into cells and appears to switch on repair programs in skin cells, raising collagen and blood-vessel growth in lab and animal studies",
+  "uses": [
+    "Skin aging and repair (cosmetic)",
+    "Wound healing (experimental)",
+    "Hair growth (experimental)"
+  ],
+  "popular": 8,
+  "related": [
+    "copper-tripeptide-1",
+    "palmitoyl-tripeptide-1",
+    "bpc-157",
+    "tb-500"
+  ],
+  "article": {
+    "summary": "GHK-Cu is a natural copper-binding tripeptide used in skincare and sold as an unapproved injectable for skin, hair and healing. Human evidence for injection is essentially absent.",
+    "takeaway": "GHK-Cu is a three-amino-acid peptide that occurs naturally in blood and grabs copper tightly. In lab and animal work it boosts collagen, wound repair and blood-vessel growth, and its levels fall with age.[^1] Human evidence is thin: one older trial found faster healing of diabetic foot ulcers with a GHK-Cu gel,[^2] and cosmetic studies are small. **No controlled human studies support injecting it**, and the FDA has flagged a possible immune-reaction risk with injectable products.[^3] Topical copper peptide skincare is a separate, lower-stakes question covered under [copper tripeptide-1](/peptides/copper-tripeptide-1).",
+    "glance": [
+      [
+        "FDA status",
+        "Not an approved drug; injectable compounding status under review as of 2026"
+      ],
+      [
+        "Claimed uses",
+        "Skin rejuvenation, wound healing, hair growth, general anti-aging"
+      ],
+      [
+        "How it's used",
+        "Skincare products; unapproved injections sold online or through some clinics"
+      ],
+      [
+        "Research",
+        "Mostly lab and animal studies; a few small human skin and wound trials"
+      ],
+      [
+        "Main unknowns",
+        "Safety and benefit of injections, long-term copper exposure, product quality"
+      ],
+      [
+        "Topical form",
+        "[Copper tripeptide-1](/peptides/copper-tripeptide-1)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GHK (glycine-histidine-lysine) was identified in human plasma in the 1970s and is also found in saliva and urine. It binds copper with an affinity similar to albumin's copper-carrying site, forming GHK-Cu. Researchers have proposed that it is released from tissue proteins after injury and acts as a local repair signal.[^1]"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "**Skin matrix:** raises production of collagen, elastin and other support molecules by fibroblasts, while also adjusting the enzymes that break them down[^1]",
+              "**Repair cells:** attracts immune and blood-vessel cells to wounds in animal models[^1]",
+              "**Gene activity:** computer analyses of gene-expression databases suggest it nudges thousands of genes, a finding that has not been tested as a treatment[^1]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "What was found"
+              ],
+              [
+                "Diabetic foot ulcers, randomized trial with GHK-Cu gel (1994)",
+                "Median ulcer closure 98.5% vs 60.8% with a placebo gel, plus fewer infections; the product never became an approved drug[^2]"
+              ],
+              [
+                "Skin after CO2 laser resurfacing, 13 patients",
+                "No objective difference in redness or wrinkles; patients using GHK-Cu reported higher satisfaction[^4]"
+              ],
+              [
+                "Systematic evidence map (2026)",
+                "Lab and animal effects are consistent, but human evidence is sparse and often poorly characterized[^5]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Much of the enthusiastic literature comes from a small number of groups, including the peptide's discoverer, and many claims rest on cell or animal experiments. There are no published randomized trials of injected GHK-Cu for skin, hair, healing or aging in people."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Injections:** the FDA notes limited human safety data and a risk that peptide aggregates in compounded injectables could trigger immune reactions[^3]",
+              "**Product quality:** online \"research use only\" vials have no FDA oversight for purity, dose, sterility or copper content",
+              "**Topical use:** skincare concentrations appear well tolerated, though irritation is possible"
+            ]
+          },
+          {
+            "type": "note",
+            "text": "The long-term effects of repeatedly injecting a copper complex are unknown, and no studies have examined use during pregnancy or in people with a history of cancer."
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GHK-Cu is not an FDA-approved drug for any use. In 2023 the FDA placed injectable GHK-Cu on its list of compounding substances that raise significant safety concerns. In April 2026 that listing was dropped after the nominations were withdrawn, but that did not make injectable GHK-Cu eligible for compounding.[^3] Non-injectable (topical) GHK-Cu remains under evaluation for compounding,[^6] and the FDA said it would ask its Pharmacy Compounding Advisory Committee to review GHK-Cu before the end of February 2027.[^7]"
+          },
+          {
+            "type": "p",
+            "text": "Cosmetic copper peptide products are legal to sell as cosmetics as long as they make no drug claims."
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GHK-Cu is a real, biologically interesting molecule with decades of lab research and modest support as a skincare ingredient. The leap to injecting it for anti-aging or healing is not backed by human trials, and gray-market products add quality risks. Anyone considering it should discuss it with a clinician who knows their medical history."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Low: lab and animal data, few small human studies",
+      "text": "Laboratory and animal findings are plentiful,[^1] but human evidence is limited to one older wound trial and small cosmetic studies, and a 2026 review judged the clinical evidence sparse.[^2][^5] Injected use has no controlled human data."
+    },
+    "faq": [
+      {
+        "q": "Is GHK-Cu the same as the copper peptide in my serum?",
+        "a": "Yes, chemically. On ingredient lists it appears as copper tripeptide-1. Applying it to skin is a different proposition from injecting it, with different risks and evidence."
+      },
+      {
+        "q": "Does GHK-Cu grow hair?",
+        "a": "Lab and animal studies suggest effects on hair follicles, and a few small human cosmetic studies exist,[^5] but there is no solid evidence that it treats hair loss."
+      },
+      {
+        "q": "Is injectable GHK-Cu legal?",
+        "a": "It is not FDA-approved, and as of 2026 it is not an accepted substance for pharmacy compounding.[^3] Vials sold as research chemicals are not meant for human use."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "GHK Peptide as a Natural Modulator of Multiple Cellular Pathways in Skin Regeneration.",
+        "source": "Biomed Res Int",
+        "year": 2015,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26236730/",
+        "pmid": "26236730",
+        "doi": "10.1155/2015/648108",
+        "note": "Review of GHK biology, mainly lab and animal data"
+      },
+      {
+        "n": 2,
+        "title": "Enhanced healing of ulcers in patients with diabetes by topical treatment with glycyl-l-histidyl-l-lysine copper.",
+        "source": "Wound Repair Regen",
+        "year": 1994,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17147644/",
+        "pmid": "17147644",
+        "doi": "10.1046/j.1524-475X.1994.20406.x",
+        "note": "Randomized trial of a GHK-Cu gel in diabetic foot ulcers"
+      },
+      {
+        "n": 3,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA safety concerns for injectable GHK-Cu and its withdrawn status"
+      },
+      {
+        "n": 4,
+        "title": "Effects of topical copper tripeptide complex on CO2 laser-resurfaced skin.",
+        "source": "Arch Facial Plast Surg",
+        "year": 2006,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16847171/",
+        "pmid": "16847171",
+        "doi": "10.1001/archfaci.8.4.252",
+        "note": "Small randomized study after laser resurfacing"
+      },
+      {
+        "n": 5,
+        "title": "GHK-Cu as a Bioactive Metallopeptide and Drug-Delivery Cargo: Coordination Chemistry, Formulation Science, Therapeutic Evidence, and a Translational Roadmap.",
+        "source": "Pharmaceutics",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42797253/",
+        "pmid": "42797253",
+        "doi": "10.3390/pharmaceutics18091077",
+        "note": "2026 evidence map: strong preclinical, sparse clinical data"
+      },
+      {
+        "n": 6,
+        "title": "Bulk Drug Substances Nominated for Use in Compounding Under Section 503A of the Federal Food, Drug, and Cosmetic Act (updated May 14, 2026)",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/media/94155/download",
+        "note": "Current 503A categories, including topical GHK-Cu"
+      },
+      {
+        "n": 7,
+        "title": "Meeting of the Pharmacy Compounding Advisory Committee",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/advisory-committees/pharmacy-compounding-advisory-committee/meeting-pharmacy-compounding-advisory-committee",
+        "note": "Planned advisory review of GHK-Cu, LL-37, melanotan II and others"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "slug": "cosyntropin",
+  "name": "Cosyntropin",
+  "zone": "hormones",
+  "category": "fda",
+  "aliases": [
+    "Tetracosactide",
+    "Tetracosactrin",
+    "ACTH(1-24)",
+    "Synacthen (non-US brand)"
+  ],
+  "brands": [
+    "Cortrosyn"
+  ],
+  "class": "Synthetic ACTH fragment (diagnostic agent)",
+  "route": "Single injection into a vein or muscle during an adrenal function test",
+  "status": "FDA-approved for diagnostic use only: screening for adrenal insufficiency (Cortrosyn and generic versions)",
+  "evidence": 4,
+  "mechanism": "Copies the first 24 amino acids of ACTH, which prompt healthy adrenal glands to release cortisol within an hour, revealing whether they can respond",
+  "uses": [
+    "Testing for adrenal insufficiency",
+    "Workup of congenital adrenal hyperplasia"
+  ],
+  "popular": null,
+  "related": [
+    "corticotropin",
+    "secretin",
+    "pasireotide"
+  ],
+  "article": {
+    "summary": "Cosyntropin (Cortrosyn) is a synthetic piece of the hormone ACTH used in the ACTH stimulation test, the standard FDA-approved way to check whether the adrenal glands make enough cortisol.",
+    "takeaway": "Cosyntropin is a lab-made copy of the active first 24 amino acids of ACTH, the pituitary hormone that drives cortisol production.[^1] It is not a treatment: it is injected once, and blood cortisol is measured 30 and 60 minutes later to see whether the adrenal glands respond. A **weak cortisol rise** points toward adrenal insufficiency, a condition that can be life-threatening if missed.[^2] The test is good at confirming the problem but can miss early or mild pituitary-related cases, and newer cortisol assays need **lower cutoffs** than the traditional 18 mcg/dL.[^3][^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved as a diagnostic agent; labeled for diagnostic use only"
+      ],
+      [
+        "Main use",
+        "ACTH stimulation test for suspected adrenal insufficiency"
+      ],
+      [
+        "How it's given",
+        "One injection into a vein or muscle, with blood drawn before and at 30 and 60 minutes"
+      ],
+      [
+        "Drug class",
+        "Synthetic ACTH(1-24) peptide"
+      ],
+      [
+        "Research",
+        "Decades of diagnostic use; meta-analyses of test accuracy and assay-specific cutoffs"
+      ],
+      [
+        "Related",
+        "[Corticotropin](/peptides/corticotropin), the full-length ACTH used as treatment"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Natural ACTH has 39 amino acids, but its full hormonal activity sits in the first 24. Cosyntropin reproduces that stretch, so it binds the ACTH receptor on the adrenal cortex and triggers cortisol release just as the pituitary signal would.[^1]"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "**Healthy adrenals:** cortisol climbs briskly within 30-60 minutes",
+              "**Primary adrenal insufficiency (Addison's disease):** damaged glands cannot respond, so cortisol barely moves",
+              "**Secondary adrenal insufficiency:** when the pituitary has made too little ACTH for weeks, the adrenals shrink and respond weakly; very recent pituitary damage may still give a normal-looking result"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Cosyntropin is labeled only as a diagnostic agent for screening adrenal insufficiency in adults and children, used together with other tests.[^1] Endocrinologists also use it to measure precursor hormones such as 17-hydroxyprogesterone when checking for milder forms of congenital adrenal hyperplasia, an inherited cortisol-production disorder.[^5]"
+          },
+          {
+            "type": "p",
+            "text": "Guidelines advise a low threshold for testing in people with unexplained fatigue, weight loss, low blood pressure, salt craving or abnormal sodium and potassium, and they warn against delaying steroid treatment in someone who is acutely ill while waiting for results.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How the test is done",
+        "blocks": [
+          {
+            "type": "ol",
+            "items": [
+              "A baseline blood sample is drawn for cortisol (and often ACTH)",
+              "Cosyntropin 0.25 mg is injected into a vein or muscle (0.125 mg for children under 2)",
+              "Cortisol is measured again at exactly 30 and 60 minutes[^1]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Steroid medicines and spironolactone can distort results, so they are usually held on test day if it is safe to do so, and estrogen-containing drugs such as birth control pills raise total cortisol and are ideally stopped 4-6 weeks beforehand.[^1] Some centers use a low-dose version with 1 mcg, which performs similarly in studies.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A meta-analysis of 30 studies found that standard-dose (250 mcg) and low-dose (1 mcg) tests have similar accuracy. Both are reliable for ruling in secondary adrenal insufficiency but cannot safely rule it out. For primary adrenal insufficiency, the standard test caught about 92% of cases.[^3]"
+          },
+          {
+            "type": "p",
+            "text": "The traditional pass mark of 18 mcg/dL was set with older cortisol assays. Newer, more specific assays read lower, and one study found that using 18 mcg/dL with them labeled up to a third of tested patients as abnormal; it proposed cutoffs of about 14-15 mcg/dL depending on the assay.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A single test dose is usually well tolerated. Reported reactions include allergic reactions up to rare anaphylaxis, rash, swelling, high blood pressure and slow or fast heart rate.[^1] Results are less reliable in conditions that change cortisol-binding protein levels, such as cirrhosis or nephrotic syndrome, and interpretation belongs with a clinician who knows which assay the lab uses."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Established diagnostic tool with known limits",
+      "text": "Cosyntropin testing is the standard first-line confirmatory test for adrenal insufficiency.[^2] Pooled studies show it is better at confirming than excluding the diagnosis, and accuracy depends on using cutoffs matched to the cortisol assay.[^3][^4]"
+    },
+    "faq": [
+      {
+        "q": "Is cosyntropin the same as Acthar Gel?",
+        "a": "No. Cosyntropin is a short synthetic fragment given once for testing. [Acthar Gel](/peptides/corticotropin) is full-length animal-derived ACTH in a slow-release gel used as a treatment."
+      },
+      {
+        "q": "Do I need to fast before an ACTH stimulation test?",
+        "a": "Fasting is not required by the label, but labs often schedule the test in the morning. The bigger issue is medication: steroids, spironolactone and estrogen can skew the result, so the ordering clinician gives specific instructions.[^1]"
+      },
+      {
+        "q": "Can a normal result rule out adrenal insufficiency?",
+        "a": "Not always. A normal response makes primary adrenal failure unlikely, but early or partial pituitary-related insufficiency can still pass the test.[^3]"
+      },
+      {
+        "q": "Is cosyntropin banned in sport?",
+        "a": "Tetracosactide, its international name, is listed by WADA among prohibited corticotrophins, so athletes having the test should check whether a therapeutic use exemption is needed.[^6]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "CORTROSYN (cosyntropin) injection, powder, lyophilized, for solution: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=746856e9-3930-4f6a-b8e6-a03845d6dd0b",
+        "note": "Label: indication, doses, sampling times and interfering drugs"
+      },
+      {
+        "n": 2,
+        "title": "Diagnosis and Treatment of Primary Adrenal Insufficiency: An Endocrine Society Clinical Practice Guideline.",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26760044/",
+        "pmid": "26760044",
+        "doi": "10.1210/jc.2015-1710",
+        "note": "When to test and the role of the ACTH stimulation test"
+      },
+      {
+        "n": 3,
+        "title": "ACTH Stimulation Tests for the Diagnosis of Adrenal Insufficiency: Systematic Review and Meta-Analysis.",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26649617/",
+        "pmid": "26649617",
+        "doi": "10.1210/jc.2015-1700",
+        "note": "Accuracy of standard-dose and low-dose tests"
+      },
+      {
+        "n": 4,
+        "title": "New Cutoffs for the Biochemical Diagnosis of Adrenal Insufficiency after ACTH Stimulation using Specific Cortisol Assays.",
+        "source": "J Endocr Soc",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33768189/",
+        "pmid": "33768189",
+        "doi": "10.1210/jendso/bvab022",
+        "note": "Why newer cortisol assays need lower cutoffs"
+      },
+      {
+        "n": 5,
+        "title": "Congenital Adrenal Hyperplasia Due to Steroid 21-Hydroxylase Deficiency: An Endocrine Society Clinical Practice Guideline.",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30272171/",
+        "pmid": "30272171",
+        "doi": "10.1210/jc.2018-01865",
+        "note": "Use of cosyntropin stimulation in diagnosing CAH"
+      },
+      {
+        "n": 6,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "Anti-doping list that includes corticotrophins such as tetracosactide"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

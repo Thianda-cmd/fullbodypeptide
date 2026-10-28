@@ -1,0 +1,214 @@
+{
+  "slug": "setmelanotide",
+  "name": "Setmelanotide",
+  "zone": "digestive",
+  "category": "fda",
+  "aliases": [
+    "RM-493"
+  ],
+  "brands": [
+    "Imcivree"
+  ],
+  "class": "MC4 receptor agonist",
+  "route": "Daily injection under the skin",
+  "status": "FDA-approved for rare genetic obesity (2020), Bardet-Biedl syndrome (2022) and acquired hypothalamic obesity (2026)",
+  "evidence": 4,
+  "mechanism": "Activates the melanocortin-4 receptor in the hypothalamus, restoring a fullness signal that is broken in certain genetic and brain-injury forms of obesity",
+  "uses": [
+    "Obesity from POMC, PCSK1 or LEPR deficiency",
+    "Obesity in Bardet-Biedl syndrome",
+    "Acquired hypothalamic obesity"
+  ],
+  "popular": null,
+  "related": [
+    "semaglutide",
+    "tirzepatide",
+    "bremelanotide",
+    "afamelanotide"
+  ],
+  "article": {
+    "summary": "Setmelanotide (Imcivree) is a daily injection that restores a brain fullness signal. It is FDA-approved for rare genetic obesity, Bardet-Biedl syndrome and acquired hypothalamic obesity.",
+    "takeaway": "Setmelanotide is a precision obesity drug: it works only where the problem lies in one specific appetite pathway in the brain, the leptin-melanocortin system. In people with POMC deficiency, **8 of 10 lost at least 10% of their weight** in about a year, and extreme hunger eased.[^1] In acquired hypothalamic obesity, usually caused by brain tumors or their treatment, BMI fell **16.5% versus a 3.3% rise on placebo**.[^2] It is not meant for common obesity, and skin darkening is one of its most frequent side effects.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved November 2020; expanded in 2022, 2024 and 2026"
+      ],
+      [
+        "Main uses",
+        "POMC, PCSK1 or LEPR deficiency; Bardet-Biedl syndrome; acquired hypothalamic obesity"
+      ],
+      [
+        "How it's taken",
+        "Injection under the skin once a day"
+      ],
+      [
+        "Drug class",
+        "Melanocortin-4 (MC4) receptor agonist"
+      ],
+      [
+        "Research",
+        "Small open-label and placebo-controlled phase 3 trials in rare conditions"
+      ],
+      [
+        "Related",
+        "[Semaglutide](/peptides/semaglutide), [bremelanotide](/peptides/bremelanotide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Fat tissue releases leptin, which tells the hypothalamus how much energy the body has stored. Leptin acts through a relay: nerve cells make POMC, which is cut by the enzyme PCSK1 into melanocortin hormones, which then switch on the melanocortin-4 (MC4) receptor to signal fullness. When any link in that chain is broken, people feel relentless hunger (hyperphagia) and gain weight from early childhood."
+          },
+          {
+            "type": "p",
+            "text": "Setmelanotide is an eight-amino-acid ring peptide that activates MC4 receptors directly, bypassing the broken steps. Because it also touches the related MC1 receptor on pigment cells, it tends to darken the skin."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Monogenic obesity (ages 2 and up):** POMC, PCSK1 or LEPR deficiency confirmed by genetic testing",
+              "**Bardet-Biedl syndrome (ages 2 and up):** a rare inherited disorder that affects vision, kidneys and appetite",
+              "**Acquired hypothalamic obesity (ages 4 and up):** weight gain after damage to the hypothalamus, often from tumors such as craniopharyngioma or their surgery or radiation"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The label states that it is not expected to work for general obesity or for other genetic syndromes, and that harmless gene variants do not qualify.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result at about 1 year"
+              ],
+              [
+                "POMC and LEPR trials",
+                "21 people aged 6+ with POMC or LEPR deficiency",
+                "10%+ weight loss in 80% (POMC) and 45% (LEPR)[^1]"
+              ],
+              [
+                "Bardet-Biedl trial",
+                "38 people with BBS or Alström syndrome",
+                "10%+ weight loss in 32% of BBS patients aged 12+[^4]"
+              ],
+              [
+                "TRANSCEND",
+                "120 people aged 4-66 with acquired hypothalamic obesity",
+                "BMI -16.5% vs +3.3% on placebo; hunger scores fell more[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Because these conditions are rare, the first trials were small and partly open-label. TRANSCEND, published in 2026, was a larger randomized, placebo-controlled study."
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Setmelanotide is injected under the skin once a day. Starting doses depend on age and condition, typically 0.5-2 mg for two weeks, and are raised toward a 3 mg maintenance dose for most people aged 6 and older. Younger children's doses are based on body weight, and kidney problems call for adjustments.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Very common:** skin darkening, darkening of existing moles and new moles, so a full skin exam is advised before and during treatment",
+              "**Common:** injection-site reactions, nausea, vomiting and headache",
+              "**Sexual effects:** spontaneous erections in males (seek care for one lasting over 4 hours) and sexual side effects in females",
+              "**Mood:** depression and suicidal thoughts have occurred and should be monitored",
+              "**Hypothalamic obesity:** watch for adrenal crisis and sodium swings in people with central diabetes insipidus[^3]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved: small but consistent trials in rare diseases",
+      "text": "Evidence comes from small single-arm trials in genetic obesity and placebo-controlled trials in Bardet-Biedl syndrome and hypothalamic obesity.[^1][^4][^2] Effects are large in the right patients, but long-term outcomes beyond a few years are still being collected."
+    },
+    "faq": [
+      {
+        "q": "Can setmelanotide be used for ordinary obesity?",
+        "a": "No. It is designed for people whose obesity comes from a defect in the MC4 pathway or hypothalamic damage. For common obesity, drugs such as [semaglutide](/peptides/semaglutide) and [tirzepatide](/peptides/tirzepatide) are used instead."
+      },
+      {
+        "q": "How do I know if I have one of the qualifying conditions?",
+        "a": "Monogenic forms are confirmed by genetic testing, Bardet-Biedl syndrome by clinical features and genetics, and hypothalamic obesity by a history of hypothalamic injury followed by weight gain. A specialist can help decide whether testing makes sense."
+      },
+      {
+        "q": "Why does setmelanotide darken the skin?",
+        "a": "Besides MC4, it activates MC1 receptors on pigment cells, the receptor involved in tanning. The label advises full skin exams before and during treatment to track existing and new moles.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Efficacy and safety of setmelanotide, an MC4R agonist, in individuals with severe obesity due to LEPR or POMC deficiency: single-arm, open-label, multicentre, phase 3 trials",
+        "source": "Lancet Diabetes Endocrinol",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33137293/",
+        "pmid": "33137293",
+        "doi": "10.1016/S2213-8587(20)30364-8",
+        "note": "Pivotal trials in POMC and LEPR deficiency"
+      },
+      {
+        "n": 2,
+        "title": "Setmelanotide for the Treatment of Acquired Hypothalamic Obesity",
+        "source": "N Engl J Med",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42418774/",
+        "pmid": "42418774",
+        "doi": "10.1056/NEJMoa2512275",
+        "note": "TRANSCEND: 52-week placebo-controlled phase 3 trial"
+      },
+      {
+        "n": 3,
+        "title": "IMCIVREE (setmelanotide) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70c3ccf7-4df0-4c75-ba07-fede9970c8d9",
+        "note": "Current indications including hypothalamic obesity, dosing and warnings"
+      },
+      {
+        "n": 4,
+        "title": "Efficacy and safety of setmelanotide, a melanocortin-4 receptor agonist, in patients with Bardet-Biedl syndrome and Alström syndrome: a multicentre, randomised, double-blind, placebo-controlled, phase 3 trial with an open-label period",
+        "source": "Lancet Diabetes Endocrinol",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36356613/",
+        "pmid": "36356613",
+        "doi": "10.1016/S2213-8587(22)00277-7",
+        "note": "Phase 3 trial in Bardet-Biedl and Alström syndromes"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

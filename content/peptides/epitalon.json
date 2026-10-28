@@ -1,0 +1,248 @@
+{
+  "slug": "epitalon",
+  "name": "Epitalon",
+  "zone": "brain",
+  "category": "wellness",
+  "aliases": [
+    "Epithalon",
+    "Epithalone",
+    "AEDG peptide",
+    "Ala-Glu-Asp-Gly"
+  ],
+  "brands": [],
+  "class": "Synthetic pineal tetrapeptide",
+  "route": "Usually injected under the skin (unapproved products)",
+  "status": "Not FDA-approved; FDA advisers backed allowing compounding in July 2026, but the FDA has not acted on that vote",
+  "evidence": 1,
+  "mechanism": "Proposed to switch on telomerase and influence melatonin and gene activity, based mainly on cell and animal studies",
+  "uses": [
+    "Anti-aging and longevity",
+    "Sleep and circadian rhythm"
+  ],
+  "popular": 9,
+  "related": [
+    "semax",
+    "dsip",
+    "thymulin",
+    "mots-c",
+    "humanin"
+  ],
+  "article": {
+    "summary": "Epitalon is a four-amino-acid peptide from Russian aging research, sold for longevity and sleep. Evidence comes mostly from cells and animals, and it is not FDA-approved.",
+    "takeaway": "Epitalon (Ala-Glu-Asp-Gly) is a synthetic peptide modeled on epithalamin, a cattle pineal-gland extract studied in Russia since the 1980s. Its longevity reputation rests largely on a small 2003 cell study reporting that it switched on telomerase, the enzyme that rebuilds the protective ends of chromosomes.[^1] Rodent results were mixed, and human data come from small, older studies, many using the extract rather than epitalon itself; a 2026 review called it biologically active but clinically unproven.[^2] It is not FDA-approved. In July 2026 an FDA advisory committee voted 7-4 to let compounding pharmacies use it, but the agency had not acted on that advice as of October 2026.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; compounding not yet permitted"
+      ],
+      [
+        "Marketed for",
+        "Longevity, telomeres, sleep and melatonin rhythm"
+      ],
+      [
+        "Forms sold",
+        "Freeze-dried vials for injection from research-peptide vendors"
+      ],
+      [
+        "Drug class",
+        "Synthetic pineal tetrapeptide"
+      ],
+      [
+        "Research",
+        "Cell and rodent studies plus small, older human studies, mostly from one Russian group"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The pineal gland, a small structure deep in the brain, makes melatonin and helps set daily rhythms. Russian researchers led by Vladimir Khavinson prepared peptide extracts from animal pineal glands (epithalamin) and later built epitalon, a single four-amino-acid peptide, from that extract's amino acid makeup.[^2]"
+          },
+          {
+            "type": "p",
+            "text": "Proposed effects include switching on telomerase, adjusting melatonin production and circadian signaling, and reducing oxidative stress.[^2] Telomeres are protective caps on chromosomes that shorten as cells divide, which is why telomerase activation became the main marketing claim. Most of these findings come from the group that developed the peptide and have not been confirmed in people."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Type of evidence",
+                "What was found"
+              ],
+              [
+                "Cell culture",
+                "Telomerase switched on and telomeres lengthened in human fetal lung cells[^1]"
+              ],
+              [
+                "Mouse lifespan study, 54 per group",
+                "No change in average lifespan; the longest-lived tenth lived about 13% longer and leukemia was less common[^4]"
+              ],
+              [
+                "Elderly heart patients, 12 years (extract)",
+                "Fewer deaths reported, but the study used epithalamin, not epitalon[^5]"
+              ],
+              [
+                "2026 narrative review",
+                "No adequately powered randomized trial; dose and long-term safety data inadequate[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "None of these studies tested the vials sold online today, and nothing is known about the doses and schedules people use. Lifespan claims for humans are extrapolated from cells, rodents and an older extract."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**No reliable human safety data:** absorption, dose-finding and long-term safety studies are lacking[^2]",
+              "**Cancer question:** telomerase activation, the effect it is sold for, is also a hallmark of cancer cells; FDA advisers who voted against it raised this concern[^3]",
+              "**Immune reactions:** the FDA flagged a risk that injected epitalon could provoke an immune response, with no safety information for the proposed route[^6]",
+              "**Product quality:** gray-market vials can be underdosed, contaminated or mislabeled, and sterility is not guaranteed"
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Athletes: the World Anti-Doping Agency bans at all times any substance with no current government approval for human therapeutic use (category S0), which can capture unapproved peptides like this one."
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Epitalon is not an FDA-approved drug. The FDA had listed it among compounding substances that may pose significant safety risks (Category 2); after its nomination was withdrawn, the FDA took it off that list in April 2026, which by itself did not make compounding legal.[^6][^7]"
+          },
+          {
+            "type": "p",
+            "text": "At a July 2026 meeting, the FDA's Pharmacy Compounding Advisory Committee voted 7-4, with one abstention, to recommend adding epitalon, reviewed as a possible insomnia treatment, to the list of bulk substances that 503A compounding pharmacies may use.[^8][^3] The vote is advisory: the FDA must still propose and finalize a rule. Vials sold online as \"research peptides\" remain unapproved drugs when marketed for human use."
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Epitalon has interesting laboratory data and a long history in Russian gerontology, but no rigorous human trial shows that it slows aging, extends life or improves sleep. Its headline mechanism raises an unstudied cancer question. Even if compounding is eventually allowed, that would not make it a proven or approved treatment."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Low: mostly cell and animal studies",
+      "text": "Support comes from cell experiments, rodent studies and small, older human studies of a related extract, largely from one research group.[^1][^4][^5] A 2026 review concluded that epitalon is biologically active but clinically unproven.[^2]"
+    },
+    "faq": [
+      {
+        "q": "Does epitalon lengthen telomeres in people?",
+        "a": "That has not been shown. The telomerase finding comes from cells grown in a dish, and no controlled human trial has established a benefit.[^1][^2]"
+      },
+      {
+        "q": "Is epitalon legal in the US?",
+        "a": "It is not FDA-approved. FDA advisers recommended allowing compounding in July 2026, but the FDA has not finalized that decision, and \"research\" vials are not legal to sell for human use.[^3]"
+      },
+      {
+        "q": "Is epitalon the same as epithalamin?",
+        "a": "No. Epithalamin is a mixture extracted from animal pineal glands; epitalon is one synthetic peptide designed from it. Results from one do not automatically apply to the other.[^2]"
+      },
+      {
+        "q": "Does epitalon help with sleep?",
+        "a": "Russian studies suggested effects on melatonin rhythms, but no good-quality trial has tested epitalon for insomnia or sleep quality.[^2]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Epithalon peptide induces telomerase activity and telomere elongation in human somatic cells",
+        "source": "Bull Exp Biol Med",
+        "year": 2003,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12937682/",
+        "pmid": "12937682",
+        "doi": "10.1023/a:1025493705728",
+        "note": "Cell study behind the telomerase claim"
+      },
+      {
+        "n": 2,
+        "title": "Epitalon and Epithalamin: A Narrative Review of Mechanistic, Preclinical, and Clinical Evidence",
+        "source": "Int J Mol Sci",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42884164/",
+        "pmid": "42884164",
+        "doi": "10.3390/ijms27198922",
+        "note": "2026 review: biologically active but clinically unproven"
+      },
+      {
+        "n": 3,
+        "title": "The PEPTIDE-L Wave Rolls On! PCAC Adds Two More Bulk Drug Substances for the 503A List",
+        "source": "FDA Law Blog (Hyman, Phelps & McNamara)",
+        "year": 2026,
+        "url": "https://www.thefdalawblog.com/2026/07/the-peptide-l-wave-rolls-on-pcac-adds-two-more-bulk-drug-substances-for-the-503a-list/",
+        "note": "Vote counts and arguments at the July 2026 advisory meeting"
+      },
+      {
+        "n": 4,
+        "title": "Effect of Epitalon on biomarkers of aging, life span and spontaneous tumor incidence in female Swiss-derived SHR mice",
+        "source": "Biogerontology",
+        "year": 2003,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14501183/",
+        "pmid": "14501183",
+        "doi": "10.1023/a:1025114230714",
+        "note": "Mouse lifespan and tumor study"
+      },
+      {
+        "n": 5,
+        "title": "Geroprotective effect of epithalamine (pineal gland peptide preparation) in elderly subjects with accelerated aging",
+        "source": "Bull Exp Biol Med",
+        "year": 2006,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17426848/",
+        "pmid": "17426848",
+        "doi": "10.1007/s10517-006-0365-z",
+        "note": "Long-term study of the pineal extract in elderly patients"
+      },
+      {
+        "n": 6,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA's stated safety concerns and withdrawn nominations"
+      },
+      {
+        "n": 7,
+        "title": "FDA Announces Removal of 12 Peptides from Category 2 and Schedules PCAC Meetings",
+        "source": "Orrick",
+        "year": 2026,
+        "url": "https://www.orrick.com/en/Insights/2026/04/FDA-Announces-Removal-of-12-Peptides-from-Category-2-and-Schedules-PCAC-Meetings",
+        "note": "Legal summary of the April 2026 Category 2 removals"
+      },
+      {
+        "n": 8,
+        "title": "July 23-24, 2026 Meeting of the Pharmacy Compounding Advisory Committee",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+        "note": "Official meeting page for the July 2026 peptide review"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

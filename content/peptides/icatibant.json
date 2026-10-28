@@ -1,0 +1,228 @@
+{
+  "slug": "icatibant",
+  "name": "Icatibant",
+  "zone": "skin",
+  "category": "fda",
+  "aliases": [
+    "HOE 140",
+    "Icatibant acetate"
+  ],
+  "brands": [
+    "Firazyr"
+  ],
+  "class": "Bradykinin B2 receptor antagonist",
+  "route": "Self-injected under the skin of the abdomen during an attack",
+  "status": "FDA-approved (2011) for acute hereditary angioedema attacks in adults; generic versions available since 2019",
+  "evidence": 4,
+  "mechanism": "Sits in the bradykinin B2 receptor without activating it, so bradykinin cannot trigger the blood-vessel leak that causes HAE swelling",
+  "uses": [
+    "Acute attacks of hereditary angioedema in adults"
+  ],
+  "popular": null,
+  "related": [
+    "ecallantide",
+    "cetrorelix"
+  ],
+  "article": {
+    "summary": "Icatibant (Firazyr and generics) is a self-injected peptide that blocks bradykinin receptors to stop swelling attacks of hereditary angioedema in adults. FDA-approved in 2011.",
+    "takeaway": "Icatibant is a lab-designed 10-amino-acid peptide that blocks the receptor for bradykinin, the chemical behind **hereditary angioedema (HAE)** swelling. Its big practical advantage is that patients can **inject it themselves** at the first sign of an attack. In its strongest placebo-controlled trial, half of the symptom burden eased in a median of 2 hours, versus almost 20 hours on placebo.[^1] Nearly everyone gets brief redness, swelling or burning at the injection site.[^2] It did not help the similar-looking swelling caused by ACE inhibitor blood pressure drugs.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved August 2011 (Firazyr); generics available"
+      ],
+      [
+        "Main use",
+        "Treating acute HAE attacks in adults 18 and older"
+      ],
+      [
+        "How it's taken",
+        "30 mg injection under the skin of the abdomen; may repeat after 6 hours, up to 3 doses a day"
+      ],
+      [
+        "Drug class",
+        "Bradykinin B2 receptor antagonist (synthetic peptide)"
+      ],
+      [
+        "Research",
+        "Three phase 3 trials (FAST-1, FAST-2, FAST-3)"
+      ],
+      [
+        "Related",
+        "[Ecallantide](/peptides/ecallantide), which blocks bradykinin production"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In HAE, a shortage or malfunction of the C1 inhibitor protein lets the body overproduce bradykinin, a small peptide that loosens the walls of tiny blood vessels. Fluid floods into the skin, gut wall or airway, causing swelling that can last days if untreated."
+          },
+          {
+            "type": "p",
+            "text": "Icatibant is a decapeptide, a chain of 10 amino acids shaped like bradykinin, but with five unnatural building blocks swapped in. Those swaps let it occupy the bradykinin B2 receptor without switching it on and protect it from rapid breakdown. While icatibant fills the receptor, bradykinin cannot deliver its signal, and the swelling recedes as the body clears the excess fluid.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Comparison",
+                "Median time to meaningful relief"
+              ],
+              [
+                "FAST-1 (56 patients)",
+                "Icatibant vs placebo",
+                "2.5 vs 4.6 hours; not statistically significant, partly because many placebo patients took rescue drugs early[^4]"
+              ],
+              [
+                "FAST-2 (74 patients)",
+                "Icatibant vs oral tranexamic acid",
+                "2.0 vs 12.0 hours[^4]"
+              ],
+              [
+                "FAST-3 (88 patients, skin or abdominal attacks)",
+                "Icatibant vs placebo",
+                "2.0 vs 19.8 hours to a 50% drop in symptoms; first relief at 0.8 vs 3.5 hours[^1]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "A separate randomized trial in 121 adults with throat swelling caused by ACE inhibitors found no difference from placebo: both groups met discharge criteria in a median of 4 hours.[^3] ACE inhibitor angioedema is not an approved use."
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The dose is 30 mg in a prefilled syringe, injected slowly under the skin of the abdomen. After training, patients can give it to themselves when they recognize an attack. If symptoms come back or relief is not enough, another dose can be given at least 6 hours later, with no more than three doses in 24 hours.[^2]"
+          },
+          {
+            "type": "note",
+            "text": "For a throat (laryngeal) attack, the label advises going to a medical facility right away after injecting, because airway swelling can become life-threatening.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Injection-site reactions:** redness, swelling, burning, itching or pain in 97% of patients vs 33% on placebo, usually fading within hours[^2]",
+              "**Less common:** fever, raised liver enzymes, dizziness and rash[^2]",
+              "**Blood pressure drugs:** in theory it may blunt the effect of ACE inhibitors, and people taking them were excluded from the HAE trials[^2]",
+              "**Children and pregnancy:** not approved for under-18s in the U.S., and data in pregnancy are limited"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Firazyr was approved in August 2011 and generic icatibant syringes followed from 2019, lowering the cost of on-demand treatment. Other on-demand options include clinician-given [ecallantide](/peptides/ecallantide), C1 inhibitor concentrates and, since 2025, an oral kallikrein inhibitor, sebetralstat.[^5] International guidelines recommend that people with HAE keep on-demand treatment on hand and use it early in an attack.[^6]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved: three phase 3 trials",
+      "text": "Icatibant clearly beat tranexamic acid and placebo in two of its three phase 3 trials, and the third was muddied by early rescue treatment.[^4][^1] It is a standard on-demand option in HAE guidelines, but evidence does not support it for ACE inhibitor swelling.[^6][^3]"
+    },
+    "faq": [
+      {
+        "q": "How fast does icatibant work?",
+        "a": "In FAST-3, first symptom relief came at a median of under an hour, and half the symptoms eased by about 2 hours.[^1] Treating early in an attack tends to work best."
+      },
+      {
+        "q": "Can I use icatibant to prevent attacks?",
+        "a": "No. It is an on-demand treatment for attacks in progress. Long-term prevention uses other medicines."
+      },
+      {
+        "q": "Does it work for swelling from lisinopril or other ACE inhibitors?",
+        "a": "A randomized trial found it was no better than placebo for ACE inhibitor-related throat swelling.[^3]"
+      },
+      {
+        "q": "Is the injection painful?",
+        "a": "Most people feel stinging, burning or swelling at the site, which usually settles within a few hours.[^2] Injecting slowly can help."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Randomized placebo-controlled trial of the bradykinin B₂ receptor antagonist icatibant for the treatment of acute attacks of hereditary angioedema: the FAST-3 trial.",
+        "source": "Ann Allergy Asthma Immunol",
+        "year": 2011,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22123383/",
+        "pmid": "22123383",
+        "doi": "10.1016/j.anai.2011.08.015",
+        "note": "FAST-3: placebo-controlled phase 3 trial"
+      },
+      {
+        "n": 2,
+        "title": "FIRAZYR (icatibant) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540",
+        "note": "Dosing, self-administration, laryngeal attack warning, side effects"
+      },
+      {
+        "n": 3,
+        "title": "Randomized Trial of Icatibant for Angiotensin-Converting Enzyme Inhibitor-Induced Upper Airway Angioedema.",
+        "source": "J Allergy Clin Immunol Pract",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28552382/",
+        "pmid": "28552382",
+        "doi": "10.1016/j.jaip.2017.03.003",
+        "note": "Negative trial in ACE inhibitor-induced angioedema"
+      },
+      {
+        "n": 4,
+        "title": "Icatibant, a new bradykinin-receptor antagonist, in hereditary angioedema.",
+        "source": "N Engl J Med",
+        "year": 2010,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20818888/",
+        "pmid": "20818888",
+        "doi": "10.1056/NEJMoa0906393",
+        "note": "FAST-1 and FAST-2 trials"
+      },
+      {
+        "n": 5,
+        "title": "EKTERLY (sebetralstat) tablets: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1d145e2f-8e7e-2e90-e063-6294a90a4449",
+        "note": "Oral on-demand alternative approved in 2025"
+      },
+      {
+        "n": 6,
+        "title": "The international WAO/EAACI guideline for the management of hereditary angioedema-The 2021 revision and update.",
+        "source": "Allergy",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35006617/",
+        "pmid": "35006617",
+        "doi": "10.1111/all.15214",
+        "note": "International HAE management guideline"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

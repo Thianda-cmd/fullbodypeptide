@@ -1,0 +1,225 @@
+{
+  "slug": "plecanatide",
+  "name": "Plecanatide",
+  "zone": "digestive",
+  "category": "fda",
+  "aliases": [
+    "SP-304"
+  ],
+  "brands": [
+    "Trulance"
+  ],
+  "class": "Guanylate cyclase-C agonist",
+  "route": "One 3 mg tablet by mouth daily, with or without food",
+  "status": "FDA-approved for adults: chronic idiopathic constipation (2017) and IBS with constipation (2018)",
+  "evidence": 4,
+  "mechanism": "Copies the gut hormone uroguanylin to switch on guanylate cyclase-C receptors in the small intestine, which pulls water into the bowel and softens stool",
+  "uses": [
+    "Chronic idiopathic constipation in adults",
+    "Irritable bowel syndrome with constipation (IBS-C) in adults"
+  ],
+  "popular": null,
+  "related": [
+    "linaclotide",
+    "teduglutide",
+    "larazotide-acetate"
+  ],
+  "article": {
+    "summary": "Plecanatide (Trulance) is a once-daily tablet that mimics the gut hormone uroguanylin. It is FDA-approved for chronic idiopathic constipation and IBS with constipation in adults.",
+    "takeaway": "Plecanatide is a near copy of uroguanylin, a hormone the small intestine makes to control fluid in the gut. By switching on its receptor, it draws water into the bowel and makes stools easier to pass. In a 12-week trial in chronic constipation, **21% met a strict response goal versus 10% on placebo**.[^1] Diarrhea is the main side effect, affecting about 4-6% of people in trials.[^1][^2] It is approved only for adults and must not be used in children under 6.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved January 2017 (Trulance)"
+      ],
+      [
+        "Main uses",
+        "Chronic idiopathic constipation and IBS-C in adults"
+      ],
+      [
+        "How it's taken",
+        "One 3 mg tablet daily; can be crushed into applesauce or water"
+      ],
+      [
+        "Drug class",
+        "Guanylate cyclase-C (GC-C) agonist"
+      ],
+      [
+        "Research",
+        "Three large 12-week placebo-controlled phase 3 trials"
+      ],
+      [
+        "Related",
+        "[Linaclotide](/peptides/linaclotide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Cells lining the small intestine release uroguanylin, a short peptide hormone that binds the guanylate cyclase-C (GC-C) receptor. That raises cyclic GMP inside the cells and opens a chloride channel called CFTR. Chloride and bicarbonate flow into the gut, water follows, and the stool becomes softer and moves faster."
+          },
+          {
+            "type": "p",
+            "text": "Plecanatide is a 16-amino-acid peptide identical to uroguanylin except for one amino acid swap. Like the natural hormone, it binds best in the slightly acidic environment of the upper small intestine. It is barely absorbed, so it acts almost entirely inside the gut."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Chronic idiopathic constipation (CIC):** long-term hard, infrequent or incomplete bowel movements without another cause",
+              "**IBS with constipation (IBS-C):** recurring belly pain linked to constipation"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "US gastroenterology guidelines give plecanatide a strong recommendation for chronic idiopathic constipation and a conditional one for IBS-C, where the evidence for [linaclotide](/peptides/linaclotide) is rated stronger.[^4][^5]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result at 12 weeks"
+              ],
+              [
+                "CIC phase 3",
+                "1,394 adults with chronic constipation",
+                "Durable responders: 21.0% on 3 mg vs 10.2% on placebo; about 2.5 more complete bowel movements per week[^1]"
+              ],
+              [
+                "IBS-C, two phase 3 trials",
+                "2,189 adults with IBS-C",
+                "Pain-plus-bowel responders: 30.2% vs 17.8% and 21.5% vs 14.2% on placebo[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "A 6 mg dose was also tested and worked no better than 3 mg, and the approved dose is 3 mg.[^1][^2] In a 2025 pooled analysis of 605 adults aged 18-40 with IBS-C and bloating, 23% improved in pain, bloating and bowel movements at the same time, versus 13% on placebo.[^6]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The dose for both conditions is one 3 mg tablet a day, with or without food. People who have trouble swallowing can crush the tablet and mix it with applesauce or water, and it can be given through a feeding tube following the label instructions.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Diarrhea** is the most common side effect (about 4-6% in trials versus 1% on placebo), and only 1-2% stopped treatment because of it[^1][^2]",
+              "**Severe diarrhea:** stop the drug and get medical advice, because of the risk of dehydration",
+              "**Boxed warning:** contraindicated in children under 6 after young mice died of dehydration, and should be avoided from 6 to 17 years; it is not approved for anyone under 18[^3]",
+              "**Not for** people with a known or suspected bowel obstruction"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved: several large phase 3 trials",
+      "text": "Three randomized, double-blind, placebo-controlled phase 3 trials with more than 3,500 adults support plecanatide.[^1][^2] As with most constipation drugs, the absolute gain over placebo is moderate, and long-term comparisons with other agents are limited."
+    },
+    "faq": [
+      {
+        "q": "How does plecanatide compare with linaclotide?",
+        "a": "Both act on the same GC-C receptor and have similar results in trials. [Linaclotide](/peptides/linaclotide) comes in several doses and has pediatric approvals, while plecanatide has one adult dose. No large head-to-head trial has compared them."
+      },
+      {
+        "q": "Can plecanatide be taken with food?",
+        "a": "Yes. Unlike some constipation medicines, it can be taken with or without a meal.[^3]"
+      },
+      {
+        "q": "Can children take plecanatide?",
+        "a": "No. It is contraindicated under age 6 and should be avoided from 6 to 17 because of the risk of serious dehydration.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "A Randomized Phase III Clinical Trial of Plecanatide, a Uroguanylin Analog, in Patients With Chronic Idiopathic Constipation",
+        "source": "Am J Gastroenterol",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28169285/",
+        "pmid": "28169285",
+        "doi": "10.1038/ajg.2016.611",
+        "note": "Pivotal 12-week trial in chronic idiopathic constipation"
+      },
+      {
+        "n": 2,
+        "title": "Efficacy, safety, and tolerability of plecanatide in patients with irritable bowel syndrome with constipation: results of two phase 3 randomized clinical trials",
+        "source": "Am J Gastroenterol",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29545635/",
+        "pmid": "29545635",
+        "doi": "10.1038/s41395-018-0026-7",
+        "note": "Two phase 3 trials in IBS with constipation"
+      },
+      {
+        "n": 3,
+        "title": "TRULANCE (plecanatide) tablets: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2024,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe2895bf-71a6-493a-b0ca-e06b2dfefc82",
+        "note": "Indications, dosing and pediatric boxed warning"
+      },
+      {
+        "n": 4,
+        "title": "American Gastroenterological Association-American College of Gastroenterology Clinical Practice Guideline: Pharmacological Management of Chronic Idiopathic Constipation",
+        "source": "Gastroenterology",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37211380/",
+        "pmid": "37211380",
+        "doi": "10.1053/j.gastro.2023.03.214",
+        "note": "Strong recommendation for plecanatide in chronic constipation"
+      },
+      {
+        "n": 5,
+        "title": "AGA Clinical Practice Guideline on the Pharmacological Management of Irritable Bowel Syndrome With Constipation",
+        "source": "Gastroenterology",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35738724/",
+        "pmid": "35738724",
+        "doi": "10.1053/j.gastro.2022.04.016",
+        "note": "Conditional recommendation for plecanatide in IBS-C"
+      },
+      {
+        "n": 6,
+        "title": "The Effectiveness of Plecanatide for Treating Constipation and Bloating in Patients Aged 18 to 40 Years With Irritable Bowel Syndrome: Utilization of a New Composite Trisymptom Endpoint",
+        "source": "J Gastroenterol Hepatol",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41214272/",
+        "pmid": "41214272",
+        "doi": "10.1111/jgh.70119",
+        "note": "Pooled analysis: pain, bloating and bowel response in young adults"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

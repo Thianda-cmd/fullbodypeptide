@@ -1,0 +1,223 @@
+{
+  "slug": "ecallantide",
+  "name": "Ecallantide",
+  "zone": "skin",
+  "category": "fda",
+  "aliases": [
+    "DX-88"
+  ],
+  "brands": [
+    "Kalbitor"
+  ],
+  "class": "Plasma kallikrein inhibitor",
+  "route": "Three injections under the skin, given by a healthcare professional during an attack",
+  "status": "FDA-approved (2009) for acute hereditary angioedema attacks in people 12 and older; boxed warning for anaphylaxis",
+  "evidence": 4,
+  "mechanism": "Blocks plasma kallikrein, the enzyme that releases bradykinin, so the fluid leak behind hereditary angioedema swelling slows and stops",
+  "uses": [
+    "Acute attacks of hereditary angioedema"
+  ],
+  "popular": null,
+  "related": [
+    "icatibant",
+    "desirudin",
+    "bivalirudin"
+  ],
+  "article": {
+    "summary": "Ecallantide (Kalbitor) is an injected kallikrein blocker that treats sudden swelling attacks of hereditary angioedema. It is FDA-approved but must be given by a clinician because of anaphylaxis risk.",
+    "takeaway": "Ecallantide is a small engineered protein that switches off plasma kallikrein, the enzyme driving the bradykinin surge behind **hereditary angioedema (HAE)** attacks. In two placebo-controlled trials it eased swelling symptoms within about four hours.[^1][^2] Its main drawback is a **boxed warning for anaphylaxis**, seen in about 4% of patients, so it must be given by a healthcare professional prepared to treat an allergic emergency.[^3] Because several self-injected or oral options now exist, it is used less often than when it was approved in 2009.",
+    "glance": [
+      [
+        "FDA status",
+        "Approved December 2009; ages 12 and older"
+      ],
+      [
+        "Main use",
+        "Treating an HAE swelling attack once it starts (not prevention)"
+      ],
+      [
+        "How it's given",
+        "30 mg as three 1 mL injections under the skin; a second dose can follow within 24 hours"
+      ],
+      [
+        "Drug class",
+        "Plasma kallikrein inhibitor (recombinant protein)"
+      ],
+      [
+        "Key warning",
+        "Anaphylaxis in about 4% of patients; clinician-administered only"
+      ],
+      [
+        "Related",
+        "[Icatibant](/peptides/icatibant), which blocks the bradykinin receptor instead"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "HAE is a rare inherited condition in which C1 inhibitor, a protein that keeps the blood's kallikrein system in check, is missing or faulty. During an attack, unchecked plasma kallikrein cuts a precursor protein to release bradykinin, which makes small blood vessels leak. The result is deep swelling of the skin, belly-cramping swelling of the gut wall, or dangerous swelling of the throat. Because histamine is not the driver, antihistamines, steroids and epinephrine work poorly."
+          },
+          {
+            "type": "p",
+            "text": "Ecallantide is a 60-amino-acid protein produced in yeast. It was designed from a natural human protease inhibitor and tuned to bind plasma kallikrein tightly. With kallikrein blocked, bradykinin production falls and the leak can close."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result at 4 hours"
+              ],
+              [
+                "EDEMA3",
+                "72 patients with an acute HAE attack",
+                "Median treatment outcome score 50 vs 0 on placebo (higher is better)[^1]"
+              ],
+              [
+                "EDEMA4",
+                "96 patients with moderate to severe attacks",
+                "Greater symptom improvement than placebo, seen within 2 hours and maintained at 24 hours[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Both trials relied on patient-reported symptom scores, and the size of the benefit was moderate. In EDEMA3 the estimated time to significant improvement was 165 minutes with ecallantide, compared with more than 240 minutes on placebo, though that difference was not statistically significant.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's given",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Each 30 mg dose is given as three separate 10 mg injections under the skin of the abdomen, thigh or upper arm. If the attack continues, one more 30 mg dose may be given within 24 hours. A healthcare professional must give it, in a setting equipped to manage anaphylaxis, and the patient is observed afterward.[^3]"
+          },
+          {
+            "type": "note",
+            "text": "International guidelines recommend that people with HAE have on-demand treatment available and treat attacks as early as possible; ecallantide is one of several accepted options.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Boxed warning, anaphylaxis:** occurred in 10 of 255 patients (4%) in studies; symptoms can resemble an HAE attack, which makes close observation essential[^3]",
+              "**Timing:** in a review of trial cases, every anaphylaxis episode began within an hour of the dose, and none happened on a patient's first exposure[^5]",
+              "**Common:** headache (16%), nausea (13%), fatigue (12%), diarrhea (11%) and upper respiratory infections[^3]",
+              "**Antibodies:** some patients develop antibodies to the drug with repeated use"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The FDA approved Kalbitor in December 2009 for HAE attacks in people 16 and older and later extended it to age 12. It remains on the market as of 2026, but self-injected [icatibant](/peptides/icatibant), intravenous C1 inhibitor concentrates and, since 2025, an oral kallikrein inhibitor (sebetralstat) give patients alternatives that can be used at home.[^6]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved: two positive randomized trials",
+      "text": "Two double-blind placebo-controlled trials showed faster symptom relief,[^1][^2] and pooled safety data characterize the anaphylaxis risk well.[^5] The trials were small, as is typical for a rare disease."
+    },
+    "faq": [
+      {
+        "q": "Can I give ecallantide to myself at home?",
+        "a": "No. Because of the anaphylaxis risk, the label requires a healthcare professional to give it with emergency treatment available.[^3] Self-injected and oral alternatives exist."
+      },
+      {
+        "q": "Does ecallantide prevent HAE attacks?",
+        "a": "No. It treats an attack that has started. Preventive HAE therapies are different drugs."
+      },
+      {
+        "q": "Why don't antihistamines or epinephrine help an HAE attack?",
+        "a": "HAE swelling is driven by bradykinin, not histamine, so allergy medicines rarely help. Drugs that act on the kallikrein-bradykinin pathway, such as ecallantide or icatibant, are needed."
+      },
+      {
+        "q": "How is ecallantide different from icatibant?",
+        "a": "Ecallantide stops bradykinin from being made by blocking kallikrein, while [icatibant](/peptides/icatibant) blocks the receptor bradykinin acts on. Icatibant can be self-injected; ecallantide cannot."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Ecallantide for the treatment of acute attacks in hereditary angioedema.",
+        "source": "N Engl J Med",
+        "year": 2010,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20818887/",
+        "pmid": "20818887",
+        "doi": "10.1056/NEJMoa0905079",
+        "note": "EDEMA3: randomized placebo-controlled trial"
+      },
+      {
+        "n": 2,
+        "title": "EDEMA4: a phase 3, double-blind study of subcutaneous ecallantide treatment for acute attacks of hereditary angioedema.",
+        "source": "Ann Allergy Asthma Immunol",
+        "year": 2010,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20568386/",
+        "pmid": "20568386",
+        "doi": "10.1016/j.anai.2010.04.012",
+        "note": "EDEMA4: second phase 3 placebo-controlled trial"
+      },
+      {
+        "n": 3,
+        "title": "KALBITOR (ecallantide) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f56aec67-c662-477c-b866-bfc23e8809cf",
+        "note": "Boxed warning, dosing and side-effect rates"
+      },
+      {
+        "n": 4,
+        "title": "The international WAO/EAACI guideline for the management of hereditary angioedema-The 2021 revision and update.",
+        "source": "Allergy",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35006617/",
+        "pmid": "35006617",
+        "doi": "10.1111/all.15214",
+        "note": "International HAE management guideline"
+      },
+      {
+        "n": 5,
+        "title": "Characterization of anaphylaxis after ecallantide treatment of hereditary angioedema attacks.",
+        "source": "J Allergy Clin Immunol Pract",
+        "year": 2015,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25609335/",
+        "pmid": "25609335",
+        "doi": "10.1016/j.jaip.2014.09.001",
+        "note": "Detailed review of anaphylaxis cases in the trial program"
+      },
+      {
+        "n": 6,
+        "title": "EKTERLY (sebetralstat) tablets: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1d145e2f-8e7e-2e90-e063-6294a90a4449",
+        "note": "Oral on-demand kallikrein inhibitor approved in 2025"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

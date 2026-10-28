@@ -1,0 +1,246 @@
+{
+  "slug": "dulaglutide",
+  "name": "Dulaglutide",
+  "zone": "hormones",
+  "category": "fda",
+  "aliases": [
+    "LY2189265"
+  ],
+  "brands": [
+    "Trulicity"
+  ],
+  "class": "GLP-1 receptor agonist",
+  "route": "Once-weekly injection under the skin from a single-dose pen",
+  "status": "FDA-approved for type 2 diabetes in adults (2014) and children 10 and older (2022), and to lower cardiovascular risk",
+  "evidence": 4,
+  "mechanism": "Two GLP-1-like peptides joined to an antibody fragment, which raise insulin when glucose is high, curb glucagon and slow stomach emptying for a week",
+  "uses": [
+    "Type 2 diabetes in adults",
+    "Type 2 diabetes in children 10 and older",
+    "Lowering heart attack and stroke risk"
+  ],
+  "popular": null,
+  "related": [
+    "semaglutide",
+    "liraglutide",
+    "exenatide",
+    "tirzepatide"
+  ],
+  "article": {
+    "summary": "Dulaglutide (Trulicity) is a once-weekly GLP-1 injection for type 2 diabetes in adults and children 10 and older, also approved to lower the risk of heart attack and stroke.",
+    "takeaway": "Dulaglutide is a long-acting GLP-1 receptor agonist that has been used for type 2 diabetes since 2014 and is one of the most widely prescribed drugs in its class.[^1] In the REWIND trial, which followed nearly 10,000 people for a median of 5.4 years, it modestly lowered the rate of heart attack, stroke and cardiovascular death (**hazard ratio 0.88**).[^2] Higher doses of 3 and 4.5 mg added extra blood sugar and weight benefit.[^3] Stomach side effects are common, and like other GLP-1 drugs it carries a boxed warning about thyroid C-cell tumors seen in rats.",
+    "glance": [
+      [
+        "FDA status",
+        "Approved (2014); cardiovascular risk claim added later; children 10+ since 2022"
+      ],
+      [
+        "Main uses",
+        "Blood sugar control in type 2 diabetes; reducing major cardiovascular events"
+      ],
+      [
+        "How it's taken",
+        "Injection under the skin once a week, any time of day, with or without food"
+      ],
+      [
+        "Drug class",
+        "GLP-1 receptor agonist (Fc fusion protein)"
+      ],
+      [
+        "Research",
+        "AWARD trial program, the REWIND outcomes trial and a pediatric trial"
+      ],
+      [
+        "Related",
+        "[Semaglutide](/peptides/semaglutide), [liraglutide](/peptides/liraglutide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GLP-1 is a gut hormone released after meals that boosts insulin when blood sugar is rising, holds back glucagon, slows stomach emptying and dampens appetite. Natural GLP-1 lasts only minutes."
+          },
+          {
+            "type": "p",
+            "text": "Dulaglutide links two modified GLP-1 peptides to the Fc portion of a human antibody (IgG4). The altered peptides resist breakdown by the enzyme DPP-4, and the large antibody fragment slows clearance by the kidneys, giving a half-life of about five days and allowing weekly doses.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Blood sugar control** with diet and exercise in adults and children 10 years and older with type 2 diabetes",
+              "**Cardiovascular protection:** lowering the risk of cardiovascular death, heart attack and stroke in adults with type 2 diabetes who have heart disease or several risk factors[^1]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "It is not approved for type 1 diabetes or for weight loss on its own, although many people lose a few kilograms."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "REWIND",
+                "9,901 adults, most with risk factors rather than prior heart disease",
+                "Major cardiovascular events in 12.0% vs 13.4% on placebo over 5.4 years[^2]"
+              ],
+              [
+                "AWARD-11",
+                "1,842 adults on metformin",
+                "4.5 mg cut HbA1c 1.77 points vs 1.54 with 1.5 mg; weight 4.6 vs 3.0 kg lower[^3]"
+              ],
+              [
+                "AWARD-PEDS",
+                "154 youths aged 10-17",
+                "HbA1c fell 0.6-0.9 points while it rose 0.6 on placebo over 26 weeks[^4]"
+              ],
+              [
+                "SUSTAIN 7",
+                "1,201 adults",
+                "Semaglutide lowered HbA1c and weight more than dulaglutide at matched dose steps[^5]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "An exploratory REWIND analysis also found fewer kidney events, driven mainly by less new heavy protein leakage into the urine.[^6]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Adults start at 0.75 mg once a week. After at least four weeks the dose can rise to 1.5 mg, then in 1.5 mg steps every four weeks or more to a maximum of 4.5 mg. Children 10 and older start at 0.75 mg and can go up to 1.5 mg. Each dose comes in a single-use pen with a hidden, pre-attached needle.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** nausea, diarrhea, vomiting, stomach pain and reduced appetite, mostly early or after dose increases",
+              "**Boxed warning:** thyroid C-cell tumors in rats; not for people with a personal or family history of medullary thyroid cancer or MEN2",
+              "**Serious but uncommon:** pancreatitis, gallbladder disease, kidney injury from dehydration, severe allergic reactions and worsening diabetic eye disease in people who already have it",
+              "**Low blood sugar** when used with insulin or sulfonylureas",
+              "**Anesthesia:** slowed stomach emptying may raise aspiration risk, so surgical teams should know about it"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In REWIND, 47% of people on dulaglutide reported a digestive side effect at some point, compared with 34% on placebo.[^2] It is not recommended for people with severe gastroparesis.[^1]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: large outcome trial plus phase 3 program",
+      "text": "Dulaglutide is backed by a long-term placebo-controlled outcomes trial with hard cardiovascular endpoints and a broad set of randomized trials in adults and youths.[^2][^4] Head-to-head data show newer agents such as semaglutide lower glucose and weight somewhat more.[^5]"
+    },
+    "faq": [
+      {
+        "q": "Is Trulicity a weight-loss drug?",
+        "a": "No. It is approved for type 2 diabetes. Weight often drops by a few kilograms, more at the 4.5 mg dose, but less than with drugs approved for obesity.[^3]"
+      },
+      {
+        "q": "What should I do if I miss a dose?",
+        "a": "The label says a missed dose can still be taken if the next scheduled dose is at least three days away; otherwise skip it and resume the usual day.[^1] The pharmacist or prescriber can confirm the plan."
+      },
+      {
+        "q": "How does dulaglutide compare with semaglutide?",
+        "a": "Both are weekly GLP-1 drugs with heart benefit data. In a direct comparison, [semaglutide](/peptides/semaglutide) produced larger drops in HbA1c and weight.[^5]"
+      },
+      {
+        "q": "Can teenagers use it?",
+        "a": "Yes. Since 2022 it has been approved for type 2 diabetes from age 10, after a trial showed better blood sugar control than placebo.[^4]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "TRULICITY (dulaglutide) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=463050bd-2b1c-40f5-b3c3-0a04bb433309",
+        "note": "Current label: indications, dose steps, boxed warning and precautions"
+      },
+      {
+        "n": 2,
+        "title": "Dulaglutide and cardiovascular outcomes in type 2 diabetes (REWIND): a double-blind, randomised placebo-controlled trial.",
+        "source": "Lancet",
+        "year": 2019,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31189511/",
+        "pmid": "31189511",
+        "doi": "10.1016/S0140-6736(19)31149-3",
+        "note": "REWIND: major cardiovascular events over 5.4 years"
+      },
+      {
+        "n": 3,
+        "title": "Efficacy and Safety of Dulaglutide 3.0 mg and 4.5 mg Versus Dulaglutide 1.5 mg in Metformin-Treated Patients With Type 2 Diabetes in a Randomized Controlled Trial (AWARD-11).",
+        "source": "Diabetes Care",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33397768/",
+        "pmid": "33397768",
+        "doi": "10.2337/dc20-1473",
+        "note": "AWARD-11: higher doses and their effect on HbA1c and weight"
+      },
+      {
+        "n": 4,
+        "title": "Once-Weekly Dulaglutide for the Treatment of Youths with Type 2 Diabetes.",
+        "source": "N Engl J Med",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35658022/",
+        "pmid": "35658022",
+        "doi": "10.1056/NEJMoa2204601",
+        "note": "AWARD-PEDS: 26-week trial in youths with type 2 diabetes"
+      },
+      {
+        "n": 5,
+        "title": "Semaglutide versus dulaglutide once weekly in patients with type 2 diabetes (SUSTAIN 7): a randomised, open-label, phase 3b trial.",
+        "source": "Lancet Diabetes Endocrinol",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29397376/",
+        "pmid": "29397376",
+        "doi": "10.1016/S2213-8587(18)30024-X",
+        "note": "SUSTAIN 7: head-to-head comparison with semaglutide"
+      },
+      {
+        "n": 6,
+        "title": "Dulaglutide and renal outcomes in type 2 diabetes: an exploratory analysis of the REWIND randomised, placebo-controlled trial.",
+        "source": "Lancet",
+        "year": 2019,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31189509/",
+        "pmid": "31189509",
+        "doi": "10.1016/S0140-6736(19)31150-X",
+        "note": "Exploratory kidney outcomes from REWIND"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

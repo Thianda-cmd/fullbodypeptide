@@ -1,0 +1,213 @@
+{
+  "slug": "pramlintide",
+  "name": "Pramlintide",
+  "zone": "hormones",
+  "category": "fda",
+  "aliases": [
+    "Pramlintide acetate",
+    "AC137"
+  ],
+  "brands": [
+    "SymlinPen"
+  ],
+  "class": "Amylin analog",
+  "route": "Injection under the skin immediately before major meals",
+  "status": "FDA-approved (2005) as an add-on to mealtime insulin in adults with type 1 or type 2 diabetes; boxed warning for severe hypoglycemia",
+  "evidence": 4,
+  "mechanism": "Stable copy of amylin, a hormone released with insulin, that slows stomach emptying, curbs glucagon after meals and increases fullness",
+  "uses": [
+    "Type 1 diabetes (with mealtime insulin)",
+    "Type 2 diabetes (with mealtime insulin)"
+  ],
+  "popular": null,
+  "related": [
+    "insulin-analogs-multiple",
+    "cagrilintide",
+    "petrelintide",
+    "exenatide"
+  ],
+  "article": {
+    "summary": "Pramlintide (SymlinPen) is an injectable copy of the hormone amylin, approved since 2005 as an add-on to mealtime insulin to smooth post-meal blood sugar in type 1 and type 2 diabetes.",
+    "takeaway": "Amylin is a hormone made by the same pancreatic cells that make insulin, so people with type 1 diabetes lack it too. Pramlintide replaces it at meals, slowing digestion and blunting the sugar spike after eating. Added to insulin, it lowered HbA1c by roughly 0.6-0.7 points in trials lasting up to a year and tended to cause **slight weight loss** rather than gain.[^1][^2] The trade-off is a boxed warning for **severe low blood sugar**, especially in type 1 diabetes, so mealtime insulin is cut by half when it starts.[^3] Today it is mostly a niche option; newer amylin drugs are being developed mainly for obesity.",
+    "glance": [
+      [
+        "FDA status",
+        "Approved 2005; boxed warning for severe hypoglycemia"
+      ],
+      [
+        "Main use",
+        "Adults using mealtime insulin whose blood sugar is still not at target"
+      ],
+      [
+        "How it's taken",
+        "Pen injection under the skin right before each major meal, separate from insulin"
+      ],
+      [
+        "Drug class",
+        "Amylin analog"
+      ],
+      [
+        "Research",
+        "Year-long randomized trials in type 1 and type 2 diabetes"
+      ],
+      [
+        "Related",
+        "[Insulin analogs](/peptides/insulin-analogs-multiple), [cagrilintide](/peptides/cagrilintide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Amylin is co-released with insulin from beta cells after meals. Human amylin clumps easily, which makes it unusable as a drug, so pramlintide swaps in three prolines borrowed from rat amylin to keep it soluble while preserving its action."
+          },
+          {
+            "type": "ul",
+            "items": [
+              "**Stomach:** slows emptying, so glucose enters the blood more gradually",
+              "**Liver:** suppresses the glucagon surge after meals, so less sugar is released",
+              "**Brain:** increases fullness, which helps explain the small weight loss seen in trials"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "SymlinPen is approved for adults with type 1 or type 2 diabetes who use mealtime insulin but have not reached their glucose targets despite optimized insulin.[^3] The label advises against it for people with an HbA1c above 9%, frequent severe lows, poor adherence to insulin and glucose monitoring, or who take drugs that speed up the gut. It is not approved for children."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "Type 1, 52 weeks",
+                "Adults on insulin",
+                "HbA1c fell 0.67 points by week 13 vs 0.16 on placebo, with lasting benefit and slight weight loss[^1]"
+              ],
+              [
+                "Type 2, 52 weeks",
+                "Insulin-treated adults",
+                "HbA1c fell about 0.6 points; weight -1.4 kg vs +0.7 kg on placebo[^2]"
+              ],
+              [
+                "Type 1, intensive insulin",
+                "Adults on modern basal-bolus therapy",
+                "Similar HbA1c drop to placebo, but smaller post-meal spikes, 28% less insulin and weight loss[^4]"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "It is injected under the skin immediately before each major meal (at least 250 calories or 30 g of carbohydrate), never mixed with insulin. In type 1 diabetes it starts at 15 mcg and rises in 15 mcg steps to 30 or 60 mcg; in type 2 diabetes it starts at 60 mcg and rises to 120 mcg. Steps are at least three days apart to limit nausea, and mealtime insulin is reduced by 50% at the start.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Boxed warning:** severe hypoglycemia with insulin, most often within three hours of a dose and especially in type 1 diabetes",
+              "**Common:** nausea, vomiting, poor appetite and headache, usually easing over the first weeks",
+              "**Do not use** with gastroparesis, hypoglycemia unawareness or a serious allergy to the drug[^3]",
+              "**Absorption:** slowed digestion can delay oral drugs that need to act fast, such as pain relievers"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In the intensive-insulin type 1 trial, nausea affected 63% of people on pramlintide versus 36% on placebo, and severe hypoglycemia was more frequent in those who stayed at 30 mcg.[^4]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved; modest glucose benefit with real risks",
+      "text": "Randomized trials lasting up to a year show modest HbA1c reductions and small weight loss when pramlintide is added to insulin.[^1][^2] Benefits must be weighed against nausea, extra injections at each main meal and the risk of severe lows.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Is pramlintide a type of insulin?",
+        "a": "No. It mimics amylin, a separate hormone, and is always used alongside mealtime insulin, never instead of it or mixed with it."
+      },
+      {
+        "q": "Why must mealtime insulin be cut when starting?",
+        "a": "Pramlintide slows how quickly food raises blood sugar. Without lowering insulin, the insulin can act before the glucose arrives and cause a dangerous low.[^3]"
+      },
+      {
+        "q": "Does pramlintide cause weight loss?",
+        "a": "Usually a little. Trials found weight loss of around 1-1.5 kg, compared with slight gain on placebo, but it is not approved for weight management.[^2]"
+      },
+      {
+        "q": "How does it relate to newer amylin drugs?",
+        "a": "Long-acting amylin analogs such as [cagrilintide](/peptides/cagrilintide) and [petrelintide](/peptides/petrelintide) build on the same hormone and are being studied mainly for obesity."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "A randomized study and open-label extension evaluating the long-term efficacy of pramlintide as an adjunct to insulin therapy in type 1 diabetes.",
+        "source": "Diabetes Care",
+        "year": 2002,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11919132/",
+        "pmid": "11919132",
+        "doi": "10.2337/diacare.25.4.724",
+        "note": "52-week trial of pramlintide added to insulin in type 1 diabetes"
+      },
+      {
+        "n": 2,
+        "title": "Pramlintide as an adjunct to insulin therapy improves long-term glycemic and weight control in patients with type 2 diabetes: a 1-year randomized controlled trial.",
+        "source": "Diabetes Care",
+        "year": 2003,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12610038/",
+        "pmid": "12610038",
+        "doi": "10.2337/diacare.26.3.784",
+        "note": "1-year trial in insulin-treated type 2 diabetes"
+      },
+      {
+        "n": 3,
+        "title": "SYMLINPEN (pramlintide acetate) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2024,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4aea30ff-eb0d-45c1-b114-3127966328ff",
+        "note": "Indication, boxed warning, dosing and patient selection"
+      },
+      {
+        "n": 4,
+        "title": "A double-blind, placebo-controlled trial assessing pramlintide treatment in the setting of intensive insulin therapy in type 1 diabetes.",
+        "source": "Diabetes Care",
+        "year": 2006,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17003291/",
+        "pmid": "17003291",
+        "doi": "10.2337/dc06-0042",
+        "note": "Pramlintide with reduced mealtime insulin in type 1 diabetes"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

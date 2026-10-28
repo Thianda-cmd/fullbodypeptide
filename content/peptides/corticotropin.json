@@ -1,0 +1,251 @@
+{
+  "slug": "corticotropin",
+  "name": "Corticotropin",
+  "zone": "hormones",
+  "category": "fda",
+  "aliases": [
+    "ACTH",
+    "Adrenocorticotropic hormone",
+    "Repository corticotropin injection (RCI)"
+  ],
+  "brands": [
+    "Acthar Gel",
+    "Purified Cortrophin Gel"
+  ],
+  "class": "Adrenocorticotropic hormone (ACTH)",
+  "route": "Injection into a muscle or under the skin, daily or every 1-3 days",
+  "status": "FDA-approved (Acthar Gel since 1952; Purified Cortrophin Gel relaunched in 2021) for infantile spasms, MS flares and other conditions",
+  "evidence": 4,
+  "mechanism": "Purified pituitary hormone that signals the adrenal glands to make cortisol, damping inflammation; it may also act on immune cells via melanocortin receptors",
+  "uses": [
+    "Infantile spasms",
+    "Multiple sclerosis flares",
+    "Rheumatic and autoimmune flares",
+    "Sarcoidosis and nephrotic syndrome",
+    "Severe eye inflammation"
+  ],
+  "popular": null,
+  "related": [
+    "cosyntropin",
+    "pasireotide",
+    "somatropin-rhgh"
+  ],
+  "article": {
+    "summary": "Corticotropin (Acthar Gel, Purified Cortrophin Gel) is an injectable form of the pituitary hormone ACTH, FDA-approved for infantile spasms, MS flares and inflammatory diseases.",
+    "takeaway": "Corticotropin is ACTH, the pituitary hormone that tells the adrenal glands to make cortisol, purified from pig pituitaries and given as a slow-release gel injection.[^1] Its best-supported use is infantile spasms, a severe seizure disorder of babies, where a small randomized trial found **13 of 15 infants** responded to high-dose ACTH compared with 4 of 14 on prednisone.[^2] It also carries a long list of older adult approvals, from multiple sclerosis flares to lupus and sarcoidosis, but modern trial support for those is thin.[^3] Because it works largely by raising cortisol, its side effects mirror those of steroid treatment, and its high price has drawn scrutiny.[^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved (Acthar Gel since 1952; Purified Cortrophin Gel back on the market since 2021)"
+      ],
+      [
+        "Main uses",
+        "Infantile spasms (Acthar only), MS flares, and short-term add-on treatment for several inflammatory conditions"
+      ],
+      [
+        "How it's taken",
+        "Injection into a muscle or under the skin; never into a vein"
+      ],
+      [
+        "Drug class",
+        "Adrenocorticotropic hormone (melanocortin peptide)"
+      ],
+      [
+        "Research",
+        "One small randomized trial supports the infantile spasms use; adult evidence is limited"
+      ],
+      [
+        "Related",
+        "[Cosyntropin](/peptides/cosyntropin), a synthetic fragment of ACTH used for adrenal testing"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "ACTH (adrenocorticotropic hormone) is a 39-amino-acid peptide made by the pituitary gland. It binds the melanocortin-2 receptor on the adrenal glands and switches on cortisol production. Cortisol is the body's own steroid hormone, and at high levels it calms inflammation and immune activity."
+          },
+          {
+            "type": "p",
+            "text": "Both US products are purified from pig pituitary glands and formulated in gelatin as a \"repository\" injection that is absorbed slowly.[^1][^5] Its makers propose extra direct effects on immune cells, but in practice its effects and risks closely track those of steroids."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Area",
+                "Approved uses (summarized)"
+              ],
+              [
+                "Infantile spasms",
+                "Used on its own in babies under 2 years (Acthar only)[^1]"
+              ],
+              [
+                "Nervous system",
+                "Acute flares of multiple sclerosis in adults"
+              ],
+              [
+                "Rheumatology",
+                "Short-term add-on for rheumatoid, psoriatic and juvenile arthritis and ankylosing spondylitis; lupus and dermatomyositis"
+              ],
+              [
+                "Other",
+                "Severe eye inflammation, symptomatic sarcoidosis, nephrotic syndrome, serum sickness, severe erythema multiforme and Stevens-Johnson syndrome"
+              ]
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Purified Cortrophin Gel has a similar adult list (it adds gout flares and severe psoriasis) but is not approved for infantile spasms.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The infantile spasms approval leans heavily on a 1996 blinded trial of 29 infants. After two weeks, 87% of babies on high-dose ACTH had both stopped spasms and lost the chaotic brain-wave pattern typical of the condition, versus 29% on prednisone.[^2] ACTH remains one of a few first-line choices, alongside oral steroids and the seizure drug vigabatrin."
+          },
+          {
+            "type": "p",
+            "text": "Evidence for adult uses is much weaker. Most indications date back decades, and newer company-funded trials are small. In a 169-person placebo-controlled trial in persistently active lupus, the share of responders at 16 weeks was similar with corticotropin (48%) and placebo (44%).[^3]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "For infantile spasms, the label calls for twice-daily muscle injections from a vial for two weeks, followed by a two-week taper. Adults with MS flares typically receive 80-120 units a day for 2-3 weeks, and for other conditions 40-80 units every 24-72 hours is common, adjusted to the person.[^1] Acthar also comes in a prefilled SelfJect injector for adults, and Purified Cortrophin Gel in prefilled syringes, both used under the skin.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Steroid-like effects:** fluid retention, high blood pressure, high blood sugar, low potassium, mood changes and trouble sleeping",
+              "**Infections:** higher risk, including reactivation of dormant infections, with symptoms that may be masked",
+              "**Adrenal suppression:** stopping suddenly after long use can leave the adrenal glands underactive, so courses are tapered",
+              "**Longer term:** stomach ulcers and bleeding, cataracts, glaucoma, bone loss and slowed growth in children",
+              "**In infants:** infections, high blood pressure, irritability and fever were the most common problems"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "It is not used in people with scleroderma, osteoporosis, systemic fungal infections, herpes infection of the eye, recent surgery, peptic ulcers, heart failure, uncontrolled high blood pressure or allergy to pig proteins, and live vaccines are avoided during immunosuppressive doses.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status and cost",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Acthar Gel was first approved in 1952, which is why its label lists many uses supported mainly by older, smaller studies. Purified Cortrophin Gel, another long-approved product, returned to the market in 2021 as its first US competitor in years.[^5]"
+          },
+          {
+            "type": "p",
+            "text": "Cost has been a long-running concern. Medicare drug-plan spending on corticotropin rose about tenfold, from $49 million in 2011 to $504 million in 2015, or roughly $162,000 per patient treated that year.[^4]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Solid for infantile spasms, thin for most adult uses",
+      "text": "A randomized trial and decades of use support corticotropin for infantile spasms.[^2] For most adult indications, the evidence comes from old approvals, small or uncontrolled studies and company-funded trials, one of which missed its main goal.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Is Acthar Gel just an expensive steroid?",
+        "a": "Not exactly. It makes the body produce its own cortisol, and its makers argue it has extra immune effects. Convincing evidence that it beats standard steroids for most adult conditions is lacking, so it is usually reserved for cases where usual treatments failed or cannot be used."
+      },
+      {
+        "q": "How is Acthar different from Purified Cortrophin Gel?",
+        "a": "Both are purified pig ACTH in a slow-release gel. Acthar is the only one approved for infantile spasms, while Cortrophin has a similar list of adult uses.[^5]"
+      },
+      {
+        "q": "Can corticotropin be given at home?",
+        "a": "Yes. Adults usually learn to inject it under the skin, and prefilled injectors are available. Babies with infantile spasms receive muscle injections from a vial.[^1]"
+      },
+      {
+        "q": "Is ACTH allowed in sport?",
+        "a": "No. Corticotrophins are banned at all times under the WADA Prohibited List, which US athletes follow through USADA, so competitive athletes need an approved therapeutic use exemption.[^6]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "ACTHAR (repository corticotropin) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7b48ddec-e815-45f4-9ca0-5c0daaf56f30",
+        "note": "Current Acthar label: indications, dosing, contraindications and warnings"
+      },
+      {
+        "n": 2,
+        "title": "High-dose corticotropin (ACTH) versus prednisone for infantile spasms: a prospective, randomized, blinded study.",
+        "source": "Pediatrics",
+        "year": 1996,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8604274/",
+        "pmid": "8604274",
+        "note": "Randomized trial of ACTH versus prednisone in 29 infants"
+      },
+      {
+        "n": 3,
+        "title": "Repository Corticotropin Injection for Persistently Active Systemic Lupus Erythematosus: Results from a Phase 4, Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial.",
+        "source": "Rheumatol Ther",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32996096/",
+        "pmid": "32996096",
+        "doi": "10.1007/s40744-020-00236-1",
+        "note": "Company-funded lupus trial that missed its primary endpoint"
+      },
+      {
+        "n": 4,
+        "title": "Trends and Characteristics of US Medicare Spending on Repository Corticotropin.",
+        "source": "JAMA Intern Med",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28892525/",
+        "pmid": "28892525",
+        "doi": "10.1001/jamainternmed.2017.3631",
+        "note": "Medicare Part D spending on corticotropin, 2011-2015"
+      },
+      {
+        "n": 5,
+        "title": "PURIFIED CORTROPHIN GEL (repository corticotropin) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f27544ee-a0e2-4d84-b193-1c9efdf9e34c",
+        "note": "Competing corticotropin product: indications and dosage forms"
+      },
+      {
+        "n": 6,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "Anti-doping rules covering corticotrophins and peptide hormones"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

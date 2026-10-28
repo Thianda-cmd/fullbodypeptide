@@ -1,0 +1,241 @@
+{
+  "slug": "dsip",
+  "name": "DSIP",
+  "zone": "brain",
+  "category": "wellness",
+  "aliases": [
+    "Delta sleep-inducing peptide",
+    "Emideltide",
+    "Trp-Ala-Gly-Gly-Asp-Ala-Ser-Gly-Glu"
+  ],
+  "brands": [],
+  "class": "Neuromodulatory nonapeptide",
+  "route": "Usually injected under the skin (unapproved products)",
+  "status": "Not FDA-approved; FDA advisers voted against allowing compounding in July 2026",
+  "evidence": 1,
+  "mechanism": "Unclear; first reported to promote deep slow-wave sleep in rabbits, but no gene, precursor or receptor for it has been found",
+  "uses": [
+    "Sleep and insomnia",
+    "Stress",
+    "Withdrawal symptoms (historical studies)"
+  ],
+  "popular": 18,
+  "related": [
+    "epitalon",
+    "selank",
+    "semax",
+    "oxytocin"
+  ],
+  "article": {
+    "summary": "DSIP is a nine-amino-acid peptide discovered in 1977 and sold online for sleep. Its role in sleep was never confirmed, human trials were weak, and it is not FDA-approved.",
+    "takeaway": "DSIP (delta sleep-inducing peptide) was isolated in 1977 from the blood of rabbits kept asleep by brain stimulation, and infusing it into rabbit brains increased deep slow-wave EEG activity.[^1] Nearly 50 years later, scientists still have not found a gene, protein precursor or receptor for it, and its link to natural sleep is considered weak.[^2] Small human studies in the 1980s reported better sleep, but a double-blind trial in chronic insomnia found only weak effects and judged it unlikely to be of major benefit.[^3] In July 2026 an FDA advisory committee voted against allowing compounding pharmacies to use it.[^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; advisers voted against compounding (2026)"
+      ],
+      [
+        "Marketed for",
+        "Deeper sleep, stress relief and recovery"
+      ],
+      [
+        "Forms sold",
+        "Freeze-dried vials for injection from research-peptide vendors"
+      ],
+      [
+        "Drug class",
+        "Neuromodulatory nonapeptide"
+      ],
+      [
+        "Research",
+        "Rabbit studies and small, mostly 1980s human studies"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Swiss researchers collected blood from the brains of rabbits whose sleep was induced by electrical stimulation, purified a nine-amino-acid peptide and named it delta sleep-inducing peptide. When infused into the brain fluid of other rabbits, it increased delta waves, the slow EEG pattern of deep sleep.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "The idea that DSIP is a natural sleep signal never firmed up. No gene or larger protein that produces it has been identified, no receptor has been found, and its structure resembles no other known peptide family. A 2006 review called it \"a still unresolved riddle\" and suggested that a related, still unidentified peptide may explain some findings.[^2] Early researchers also proposed that it acts on opioid pathways, which led to studies in withdrawal.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "What was found"
+              ],
+              [
+                "Early insomnia studies (1981-1984)",
+                "Small studies of IV injections reported better sleep[^6]"
+              ],
+              [
+                "Double-blind study, 16 people with chronic insomnia",
+                "Slightly shorter time to fall asleep, but effects were weak and subjective sleep did not change[^3]"
+              ],
+              [
+                "107 inpatients in alcohol or opioid withdrawal",
+                "Most improved, but there was no control group[^5]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "All of these studies gave DSIP intravenously in hospital or sleep-lab settings. None tested the under-the-skin injections now sold online, and research largely stopped after the early 1990s."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Little modern safety data:** the FDA cited a possible immune-reaction risk and no safety information for the routes people use[^7]",
+              "**Headaches** were reported by a few patients in the withdrawal study[^5]",
+              "**Unknown long-term effects** of repeated injections",
+              "**Product quality:** gray-market vials are not made to drug standards; dose, purity and sterility are unverified"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Persistent insomnia has effective, well-studied treatments, including cognitive behavioral therapy for insomnia, and can signal conditions such as sleep apnea or depression that deserve evaluation."
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "DSIP is not an FDA-approved drug. Under the name emideltide, it had been on the FDA's list of compounding substances that may pose significant safety risks until the nomination was withdrawn in 2026.[^7]"
+          },
+          {
+            "type": "p",
+            "text": "On July 24, 2026, the FDA's Pharmacy Compounding Advisory Committee reviewed it for opioid withdrawal, chronic insomnia and narcolepsy.[^8] The panel voted 6-7, with one abstention, against adding it to the list of substances compounding pharmacies may use; members cited weak and dated efficacy evidence, poor characterization and the availability of approved treatments.[^4] DSIP sold online as a \"research peptide\" remains an unapproved drug when marketed for people."
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "DSIP's name promises more than the science delivers. Its role in natural sleep was never established, the best human trial was disappointing, and FDA advisers declined to support compounding it. Gray-market vials add quality risks on top of that uncertainty."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Low: dated, small and inconsistent studies",
+      "text": "Rabbit experiments started the story,[^1] but the only double-blind human trial in chronic insomnia found weak effects.[^3] Other human studies were small or uncontrolled, and research largely stopped decades ago.[^2]"
+    },
+    "faq": [
+      {
+        "q": "Does DSIP help you sleep?",
+        "a": "Evidence is weak. Early small studies were positive, but a double-blind trial in chronic insomnia concluded it was unlikely to offer major benefit.[^3]"
+      },
+      {
+        "q": "Is DSIP a natural hormone?",
+        "a": "It was isolated from rabbit blood, but no gene, precursor protein or receptor has been found, so its natural role is uncertain.[^2]"
+      },
+      {
+        "q": "Is DSIP legal in the US?",
+        "a": "It is not FDA-approved, and in July 2026 FDA advisers voted against allowing compounding pharmacies to use it.[^4] Online \"research\" products are not legal to sell for human use."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Characterization of a delta-electroencephalogram (-sleep)-inducing peptide",
+        "source": "Proc Natl Acad Sci U S A",
+        "year": 1977,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/265572/",
+        "pmid": "265572",
+        "doi": "10.1073/pnas.74.3.1282",
+        "note": "Original isolation and rabbit EEG experiments"
+      },
+      {
+        "n": 2,
+        "title": "Delta sleep-inducing peptide (DSIP): a still unresolved riddle",
+        "source": "J Neurochem",
+        "year": 2006,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16539679/",
+        "pmid": "16539679",
+        "doi": "10.1111/j.1471-4159.2006.03693.x",
+        "note": "Review of why DSIP's role in sleep remains unproven"
+      },
+      {
+        "n": 3,
+        "title": "Effects of delta sleep-inducing peptide on sleep of chronic insomniac patients. A double-blind study",
+        "source": "Neuropsychobiology",
+        "year": 1992,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1299794/",
+        "pmid": "1299794",
+        "doi": "10.1159/000118919",
+        "note": "Double-blind trial in 16 people with chronic insomnia"
+      },
+      {
+        "n": 4,
+        "title": "The PEPTIDE-L Wave Rolls On! PCAC Adds Two More Bulk Drug Substances for the 503A List",
+        "source": "FDA Law Blog (Hyman, Phelps & McNamara)",
+        "year": 2026,
+        "url": "https://www.thefdalawblog.com/2026/07/the-peptide-l-wave-rolls-on-pcac-adds-two-more-bulk-drug-substances-for-the-503a-list/",
+        "note": "Vote count and reasons at the July 2026 advisory meeting"
+      },
+      {
+        "n": 5,
+        "title": "DSIP in the treatment of withdrawal syndromes from alcohol and opiates",
+        "source": "Eur Neurol",
+        "year": 1984,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6548969/",
+        "pmid": "6548969",
+        "doi": "10.1159/000115715",
+        "note": "Uncontrolled study in 107 inpatients in withdrawal"
+      },
+      {
+        "n": 6,
+        "title": "DSIP in insomnia",
+        "source": "Eur Neurol",
+        "year": 1984,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/6391925/",
+        "pmid": "6391925",
+        "doi": "10.1159/000115714",
+        "note": "Summary of early insomnia studies"
+      },
+      {
+        "n": 7,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA's stated safety concerns about emideltide (DSIP)"
+      },
+      {
+        "n": 8,
+        "title": "July 23-24, 2026 Meeting of the Pharmacy Compounding Advisory Committee",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+        "note": "Official meeting page listing DSIP and its proposed uses"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

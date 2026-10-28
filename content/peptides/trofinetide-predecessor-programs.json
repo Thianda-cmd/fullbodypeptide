@@ -1,0 +1,244 @@
+{
+  "slug": "trofinetide-predecessor-programs",
+  "name": "Trofinetide (investigational uses)",
+  "zone": "brain",
+  "category": "clinical",
+  "aliases": [
+    "NNZ-2566",
+    "G-2-MePE"
+  ],
+  "brands": [],
+  "class": "IGF-1-derived tripeptide analog",
+  "route": "Tested as an IV infusion (brain injury) and as an oral liquid (fragile X)",
+  "status": "Approved only for Rett syndrome (Daybue); brain injury, concussion and fragile X programs stalled, with no active trials",
+  "evidence": 2,
+  "mechanism": "A stabilized copy of GPE, an IGF-1 fragment that limited inflammation and nerve-cell death after brain injury in animal studies",
+  "uses": [
+    "Traumatic brain injury (phase 2, unsuccessful)",
+    "Concussion (trial stopped)",
+    "Fragile X syndrome (phase 2)"
+  ],
+  "popular": null,
+  "related": [
+    "trofinetide",
+    "nnz-2591",
+    "davunetide",
+    "cerebrolysin"
+  ],
+  "article": {
+    "summary": "Before trofinetide was approved for Rett syndrome, it was tested for brain injury, concussion and fragile X syndrome. Those programs stalled, and none is active in 2026.",
+    "takeaway": "Trofinetide started life as a brain-protection drug: a stabilized copy of GPE, a tiny fragment of IGF-1 that limited damage in animal models of stroke and brain injury.[^1][^2] Given by IV infusion to about 260 people with moderate to severe traumatic brain injury, in a trial run with the US Army, it was safe but did not beat placebo on recovery measures.[^3][^4] A small oral study in males with fragile X syndrome showed encouraging signals at the higher dose,[^5] but development focused on Rett syndrome, where it was approved in 2023 as [Daybue](/peptides/trofinetide). As of October 2026, no trials outside Rett syndrome are active.",
+    "glance": [
+      [
+        "Status",
+        "Investigational outside Rett syndrome; programs inactive"
+      ],
+      [
+        "Uses tested",
+        "Moderate to severe brain injury, concussion, fragile X syndrome"
+      ],
+      [
+        "How it was given",
+        "72-hour IV infusion after brain injury; twice-daily liquid in fragile X"
+      ],
+      [
+        "Drug class",
+        "IGF-1-derived tripeptide analog"
+      ],
+      [
+        "Research",
+        "Two phase 2 brain injury trials, one phase 2 fragile X trial, many animal studies"
+      ],
+      [
+        "Approved form",
+        "[Trofinetide (Daybue)](/peptides/trofinetide) for Rett syndrome"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "IGF-1 (insulin-like growth factor 1) protects nerve cells and improves recovery after brain injury in animals, but as a large protein it enters the brain poorly and can spur unwanted cell growth. In the brain, enzymes clip off its first three amino acids, glycine-proline-glutamate (GPE), and that small fragment turned out to be protective on its own in ischemic injury models.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "Natural GPE breaks down quickly and had to be infused continuously. Trofinetide adds a methyl group to the proline, which lengthened its half-life and allowed oral use. In rats it shrank stroke damage and reduced brain inflammation and inflammatory signaling after a penetrating, ballistic-like brain injury.[^2][^6]"
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Program",
+                "What was tested",
+                "Outcome"
+              ],
+              [
+                "Moderate to severe brain injury",
+                "72-hour IV infusion started within 7 hours of injury, about 260 men",
+                "Safe, but no benefit on main recovery measures (reported 2016)[^3][^4]"
+              ],
+              [
+                "Concussion",
+                "Oral treatment, 32 people at one US Army site",
+                "Terminated in 2016[^7]"
+              ],
+              [
+                "Fragile X syndrome",
+                "Oral liquid, 72 adolescent and adult males, 28 days",
+                "Higher dose met prespecified success criteria[^5]"
+              ],
+              [
+                "Rett syndrome",
+                "Oral liquid, phase 2 then phase 3",
+                "FDA approval in March 2023[^8]"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The brain injury trial, called INTREPID2566, enrolled men aged 18-70 with Glasgow Coma Scale scores of 4-12, randomized to placebo or one of three infusion rates.[^3] Neuren, the developer, reported no drug-related safety trends but no difference from placebo on a functional outcome scale, a disability inventory or deaths. An exploratory cognitive test battery favored the drug. The company pointed to more severely injured patients than expected, uneven randomization and drug levels as possible reasons.[^4]"
+          },
+          {
+            "type": "p",
+            "text": "Fragile X syndrome is the most common inherited cause of intellectual disability. In a four-week exploratory trial, the 70 mg/kg twice-daily dose met a prespecified composite definition of success, and the group improved on three fragile X-specific measures.[^5] The study was small and short, and no larger confirmatory trial has followed."
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "At the doses used in these programs, trofinetide was generally well tolerated: both fragile X doses were judged safe,[^5] and the brain injury trial found no dose-related trends in side effects or lab results.[^4] The much higher oral doses later used in Rett syndrome caused diarrhea in about 80% of patients,[^8] a tolerability problem that any future use in other conditions would also face."
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "As of October 2026, ClinicalTrials.gov lists no active trials of trofinetide for brain injury, concussion or fragile X syndrome, and the only active studies involve Rett syndrome. The IGF-1 fragment strategy continues through [NNZ-2591](/peptides/nnz-2591), a related compound that mimics another IGF-1 breakdown product and is in phase 3 testing for Phelan-McDermid syndrome."
+          },
+          {
+            "type": "note",
+            "text": "Daybue can legally be prescribed off-label, but there is no evidence that it helps people with fragile X syndrome or brain injury, and its side effects are substantial."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Limited: phase 2 trials with mixed results",
+      "text": "The brain injury trial was randomized and reasonably large but missed its efficacy goals,[^3][^4] and the fragile X trial was small, short and exploratory.[^5] Solid evidence exists only for Rett syndrome, the approved use."
+    },
+    "faq": [
+      {
+        "q": "Why did the brain injury trial fail?",
+        "a": "The company cited more severe injuries than expected, imbalanced groups and drug levels.[^4] It is also possible the drug does not help human brain injury; many treatments that protect neurons in animals have failed in people."
+      },
+      {
+        "q": "Could trofinetide still help fragile X syndrome?",
+        "a": "The phase 2 signal was encouraging but preliminary.[^5] Without a larger placebo-controlled trial, its value in fragile X remains unknown."
+      },
+      {
+        "q": "How is trofinetide related to NNZ-2591?",
+        "a": "Both come from the same IGF-1 fragment research. [NNZ-2591](/peptides/nnz-2591) mimics cyclic glycine-proline, another IGF-1 breakdown product, and is being tested in rare genetic disorders such as Phelan-McDermid syndrome."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "IGF-1 derived small neuropeptides and analogues: a novel strategy for the development of pharmaceuticals for neurological conditions",
+        "source": "Br J Pharmacol",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19438508/",
+        "pmid": "19438508",
+        "doi": "10.1111/j.1476-5381.2009.00256.x",
+        "note": "Review of GPE and its analogs as brain-protective agents"
+      },
+      {
+        "n": 2,
+        "title": "NNZ-2566: a Gly-Pro-Glu analogue with neuroprotective efficacy in a rat model of acute focal stroke",
+        "source": "J Neurol Sci",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19157421/",
+        "pmid": "19157421",
+        "doi": "10.1016/j.jns.2008.12.003",
+        "note": "Stroke model study describing the modified, longer-lasting analog"
+      },
+      {
+        "n": 3,
+        "title": "Study of NNZ-2566 in Patients With Traumatic Brain Injury (INTREPID2566)",
+        "source": "ClinicalTrials.gov",
+        "year": 2016,
+        "url": "https://clinicaltrials.gov/study/NCT00805818",
+        "note": "Design of the phase 2 IV trial in moderate to severe brain injury"
+      },
+      {
+        "n": 4,
+        "title": "Neuren updates on results of Phase 2 trofinetide trial",
+        "source": "Biotech Dispatch",
+        "year": 2016,
+        "url": "https://biotechdispatch.com.au/news/neuren-updates-on-results-of-phase-2-trofinetide-trial",
+        "note": "Company-reported top-line results of the brain injury trial"
+      },
+      {
+        "n": 5,
+        "title": "A Double-Blind, Randomized, Placebo-Controlled Clinical Study of Trofinetide in the Treatment of Fragile X Syndrome",
+        "source": "Pediatr Neurol",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32660869/",
+        "pmid": "32660869",
+        "doi": "10.1016/j.pediatrneurol.2020.04.019",
+        "note": "Phase 2 trial in adolescent and adult males with fragile X"
+      },
+      {
+        "n": 6,
+        "title": "NNZ-2566 treatment inhibits neuroinflammation and pro-inflammatory cytokine expression induced by experimental penetrating ballistic-like brain injury in rats",
+        "source": "J Neuroinflammation",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19656406/",
+        "pmid": "19656406",
+        "doi": "10.1186/1742-2094-6-19",
+        "note": "US Army rat study of brain inflammation after injury"
+      },
+      {
+        "n": 7,
+        "title": "A Safety and Efficacy Study of NNZ-2566 in Patients With Mild Traumatic Brain Injury (mTBI)",
+        "source": "ClinicalTrials.gov",
+        "year": 2016,
+        "url": "https://clinicaltrials.gov/study/NCT02100150",
+        "note": "Concussion trial record (terminated)"
+      },
+      {
+        "n": 8,
+        "title": "Trofinetide for the treatment of Rett syndrome: a randomized phase 3 study",
+        "source": "Nat Med",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37291210/",
+        "pmid": "37291210",
+        "doi": "10.1038/s41591-023-02398-1",
+        "note": "LAVENDER trial that led to approval in Rett syndrome"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

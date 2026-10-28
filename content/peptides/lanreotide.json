@@ -1,0 +1,222 @@
+{
+  "slug": "lanreotide",
+  "name": "Lanreotide",
+  "zone": "digestive",
+  "category": "fda",
+  "aliases": [
+    "Lanreotide acetate",
+    "Lanreotide Autogel"
+  ],
+  "brands": [
+    "Somatuline Depot"
+  ],
+  "class": "Somatostatin analog",
+  "route": "Deep injection under the skin of the buttock every 4 weeks",
+  "status": "FDA-approved: acromegaly (2007), neuroendocrine tumors (2014), carcinoid syndrome (2017)",
+  "evidence": 4,
+  "mechanism": "Mimics somatostatin, the body's hormone brake, to hold back growth hormone and gut hormones and slow the growth of neuroendocrine tumors",
+  "uses": [
+    "Acromegaly",
+    "Gastroenteropancreatic neuroendocrine tumors",
+    "Carcinoid syndrome (flushing and diarrhea)"
+  ],
+  "popular": null,
+  "related": [
+    "octreotide",
+    "lutetium-lu-177-dotatate",
+    "ga-68-dotatate",
+    "pasireotide"
+  ],
+  "article": {
+    "summary": "Lanreotide (Somatuline Depot) is a monthly somatostatin analog injection, FDA-approved for acromegaly, gastroenteropancreatic neuroendocrine tumors and carcinoid syndrome.",
+    "takeaway": "Lanreotide is a long-acting, lab-made version of somatostatin, a hormone that switches off the release of many other hormones. A single injection lasts about a month. In the CLARINET trial it **cut the risk of tumor progression or death by about half** in people with slow-growing neuroendocrine tumors.[^1] It also reduces hormone-driven flushing and diarrhea, and it lowers growth hormone in acromegaly.[^2] Gallstones, diarrhea and blood sugar changes are the main side effects to watch.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved (Somatuline Depot, 2007); other lanreotide injections also approved"
+      ],
+      [
+        "Main uses",
+        "Acromegaly, GEP neuroendocrine tumors, carcinoid syndrome"
+      ],
+      [
+        "How it's taken",
+        "Deep injection under the skin every 4 weeks, usually given by a health professional"
+      ],
+      [
+        "Drug class",
+        "Somatostatin analog"
+      ],
+      [
+        "Research",
+        "Placebo-controlled phase 3 trials in tumors (CLARINET) and carcinoid syndrome (ELECT)"
+      ],
+      [
+        "Related",
+        "[Octreotide](/peptides/octreotide), [lutetium Lu-177 dotatate](/peptides/lutetium-lu-177-dotatate)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Somatostatin is a hormone made in the brain, gut and pancreas that acts as a general brake. It slows the release of growth hormone from the pituitary and of insulin, glucagon, serotonin and other hormones in the gut. Natural somatostatin lasts only a few minutes in the blood."
+          },
+          {
+            "type": "p",
+            "text": "Lanreotide is a short, ring-shaped peptide that copies somatostatin's active core and binds mainly to receptor subtypes 2 and 5. Its depot form is a concentrated gel that forms a slow-release reservoir under the skin, so one dose works for about four weeks. Many neuroendocrine tumors carry these receptors, and switching them on slows both hormone output and tumor growth."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Acromegaly:** long-term control of excess growth hormone when surgery or radiation has not worked or is not possible",
+              "**Gastroenteropancreatic neuroendocrine tumors (GEP-NETs):** well or moderately differentiated tumors of the gut or pancreas that cannot be removed, to delay progression",
+              "**Carcinoid syndrome:** flushing and diarrhea caused by hormones released from these tumors"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Lanreotide is often used alongside [Ga-68 dotatate](/peptides/ga-68-dotatate) scans, which confirm that a tumor carries somatostatin receptors, and before or with [lutetium Lu-177 dotatate](/peptides/lutetium-lu-177-dotatate) radioligand therapy."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "CLARINET",
+                "204 adults with advanced, slow-growing GEP-NETs",
+                "Progression-free at 2 years: 65.1% vs 33.0% on placebo; risk of progression or death cut 53%[^1]"
+              ],
+              [
+                "ELECT",
+                "115 adults with carcinoid syndrome",
+                "Rescue octreotide needed on 33.7% of days vs 48.5% on placebo over 16 weeks[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "CLARINET did not show a difference in overall survival or quality of life.[^1] In acromegaly, a 2026 network meta-analysis of 18 randomized trials found that lanreotide achieved biochemical control (normal growth hormone and IGF-1) about as often as long-acting octreotide and other standard injectable options.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Lanreotide comes in prefilled syringes and is injected deep under the skin of the upper outer buttock every four weeks, alternating sides. For tumors and carcinoid syndrome the dose is 120 mg. For acromegaly treatment starts at 90 mg and is then adjusted between 60 and 120 mg based on growth hormone and IGF-1 levels, with lower starting doses in people with kidney or liver impairment.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** diarrhea, belly pain, nausea, loose or pale stools, and lumps or pain where the injection was given",
+              "**Gallstones:** somatostatin drugs slow the gallbladder, so stones and their complications can develop",
+              "**Blood sugar:** can rise or fall, so people with diabetes may need closer monitoring",
+              "**Slow heart rate** and reduced thyroid function in some people",
+              "**Fat malabsorption:** new greasy stools or weight loss can signal reduced pancreatic enzyme output"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In CLARINET, diarrhea linked to treatment affected 26% of people on lanreotide versus 9% on placebo.[^1] Allergic reactions, including rare anaphylaxis, mean anyone who has reacted to lanreotide before should not receive it.[^3]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved: placebo-controlled phase 3 evidence",
+      "text": "Lanreotide's tumor and symptom benefits come from randomized, double-blind, placebo-controlled trials.[^1][^4] Like other somatostatin analogs, it slows tumors rather than shrinking them, and it has not been shown to extend overall survival."
+    },
+    "faq": [
+      {
+        "q": "What is the difference between lanreotide and octreotide?",
+        "a": "Both are somatostatin analogs with similar effects. Lanreotide is given as a deep injection under the skin, while long-acting [octreotide](/peptides/octreotide) is usually given into muscle; octreotide also comes in short-acting and oral forms."
+      },
+      {
+        "q": "Does lanreotide cure neuroendocrine tumors?",
+        "a": "No. It slows growth and controls symptoms. In CLARINET, it roughly halved the risk of progression over two years.[^1]"
+      },
+      {
+        "q": "Can I give lanreotide injections myself?",
+        "a": "The current Somatuline Depot label says it is intended to be given by a health care provider.[^3] Ask the care team about the options where you are treated."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Lanreotide in metastatic enteropancreatic neuroendocrine tumors",
+        "source": "N Engl J Med",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25014687/",
+        "pmid": "25014687",
+        "doi": "10.1056/NEJMoa1316158",
+        "note": "CLARINET: progression-free survival versus placebo"
+      },
+      {
+        "n": 2,
+        "title": "LANREOTIDE injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e240b3b9-7a07-46b5-bacc-04e915d4ebd4",
+        "note": "Label for a non-brand lanreotide injection with the same three indications"
+      },
+      {
+        "n": 3,
+        "title": "SOMATULINE DEPOT (lanreotide) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2024,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e4a41fd-a753-4362-87ee-8cc56ed3660d",
+        "note": "Indications, dosing, warnings and side effects"
+      },
+      {
+        "n": 4,
+        "title": "Evaluation of lanreotide depot/autogel efficacy and safety as a carcinoid syndrome treatment (ELECT): a randomized, double-blind, placebo-controlled trial",
+        "source": "Endocr Pract",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27214300/",
+        "pmid": "27214300",
+        "doi": "10.4158/EP151172.OR",
+        "note": "ELECT: carcinoid syndrome symptom control"
+      },
+      {
+        "n": 5,
+        "title": "Efficacy and safety of pharmacologic therapies in acromegaly: a systematic literature review and network meta-analysis",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41773305/",
+        "pmid": "41773305",
+        "doi": "10.1210/clinem/dgag085",
+        "note": "Comparison of acromegaly drugs across 18 randomized trials"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

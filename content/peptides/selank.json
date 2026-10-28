@@ -1,0 +1,226 @@
+{
+  "slug": "selank",
+  "name": "Selank",
+  "zone": "brain",
+  "category": "wellness",
+  "aliases": [
+    "TP-7",
+    "Thr-Lys-Pro-Arg-Pro-Gly-Pro",
+    "Selank acetate"
+  ],
+  "brands": [],
+  "class": "Synthetic tuftsin-analog peptide (anxiolytic)",
+  "route": "Nasal drops or spray; sometimes injected (unapproved products in the US)",
+  "status": "Not FDA-approved and not eligible for US compounding; registered as an anxiety drug in Russia",
+  "evidence": 1,
+  "mechanism": "A stabilized version of the immune peptide tuftsin that, in Russian studies, slows enkephalin breakdown and shifts GABA-related gene activity",
+  "uses": [
+    "Anxiety and stress",
+    "Focus and mental fatigue"
+  ],
+  "popular": 11,
+  "related": [
+    "semax",
+    "dsip",
+    "cerebrolysin",
+    "epitalon",
+    "oxytocin"
+  ],
+  "article": {
+    "summary": "Selank is a Russian nasal peptide promoted online for anxiety and focus. Evidence comes from small Russian studies, and it is not FDA-approved or legally compounded in the US.",
+    "takeaway": "Selank is a seven-amino-acid peptide that joins tuftsin, a small immune-system peptide, to a stabilizing tail. Russian researchers developed it as an anxiety treatment without the sedation and dependence of benzodiazepines, and it is registered for that use in Russia. The main clinical study compared it with a benzodiazepine in 62 patients and found similar anxiety relief, but it was small and had no placebo group.[^1] In the US, selank is not FDA-approved, the FDA has flagged safety unknowns,[^2] and it cannot legally be compounded or sold for human use.",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; not on any list of substances allowed for compounding"
+      ],
+      [
+        "Marketed for",
+        "Anxiety, stress, focus and mood"
+      ],
+      [
+        "Forms sold",
+        "Nasal sprays and freeze-dried powders from research-peptide vendors"
+      ],
+      [
+        "Drug class",
+        "Synthetic tuftsin-analog peptide"
+      ],
+      [
+        "Research",
+        "Small Russian clinical studies and rodent experiments"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Tuftsin (Thr-Lys-Pro-Arg) is a fragment of an antibody protein that stimulates immune cells.[^3] Selank adds the same proline-glycine-proline tail used in [semax](/peptides/semax) to make it last longer in the body. It was developed in Moscow and is given mainly as nasal drops."
+          },
+          {
+            "type": "p",
+            "text": "Several mechanisms have been proposed, all from Russian laboratories. Selank slowed the breakdown of enkephalins, the body's own calming opioid peptides, in blood samples.[^4] In rats it changed the activity of dozens of genes involved in GABA signaling, the same calming system targeted by benzodiazepines, leading researchers to suggest it modulates GABA receptors indirectly.[^5] How much of this applies to people is not established."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Evidence",
+                "What was found"
+              ],
+              [
+                "62 patients with generalized anxiety or neurasthenia",
+                "Anxiety relief similar to medazepam, a benzodiazepine; no placebo arm[^1]"
+              ],
+              [
+                "Lab and rat studies",
+                "Slower enkephalin breakdown and changes in GABA-related genes[^4][^5]"
+              ],
+              [
+                "Healthy people seeking calm or focus",
+                "No controlled trials"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Without a placebo group, the anxiety study cannot separate the drug's effect from expectation and natural improvement, which are large in anxiety disorders. No independent or Western randomized trial has tested selank."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Unknown safety profile:** the FDA cited a possible immune-reaction risk and said safety issues are unknown[^2]",
+              "**No long-term data** on repeated use, and no information on use in pregnancy or alongside other psychiatric drugs",
+              "**Product quality:** gray-market sprays and powders are not made to drug standards; dose, purity and sterility are unverified",
+              "**Delayed care:** using an unproven product can postpone effective treatment for anxiety disorders, which respond to therapy and approved medicines"
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Selank is not named on the World Anti-Doping Agency's 2026 Prohibited List, but unlabeled gray-market products can contain other substances."
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Selank has never been approved by the FDA. Selank acetate was nominated for use by compounding pharmacies, and the FDA listed it among substances that may pose significant safety risks before the nomination was withdrawn.[^2] It is not on the list of bulk substances that 503A pharmacies may use, and it was not among the peptides the FDA's advisory committee reviewed in July 2026.[^6]"
+          },
+          {
+            "type": "p",
+            "text": "That leaves no lawful US route to selank as a medicine. Products sold online \"for research use only\" are unapproved drugs when marketed for people, and the FDA has issued warning letters to peptide sellers on that basis."
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Selank is a real drug in Russia with an interesting proposed mechanism, but the evidence for anxiety relief rests on small studies without placebo controls, and safety data are thin. In the US it is unapproved and sold only through gray markets, so buyers carry both the uncertainty about whether it works and the risks of unregulated products."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Low: small Russian studies, no placebo trials",
+      "text": "Human evidence consists of small Russian clinical studies, the main one comparing selank with a benzodiazepine rather than placebo.[^1] Mechanistic studies in rats and blood samples are suggestive but unconfirmed in people.[^4][^5]"
+    },
+    "faq": [
+      {
+        "q": "Does selank work for anxiety?",
+        "a": "One small Russian study found anxiety relief similar to a benzodiazepine, but without a placebo group and with no independent confirmation, its effectiveness remains unproven.[^1]"
+      },
+      {
+        "q": "Is selank addictive like benzodiazepines?",
+        "a": "Developers say it lacks the sedation and dependence of benzodiazepines, but no rigorous studies have tested dependence or withdrawal in people."
+      },
+      {
+        "q": "Is selank legal in the US?",
+        "a": "It is not FDA-approved and cannot be compounded by US pharmacies. Online \"research\" products are not legal to sell for human use.[^2]"
+      },
+      {
+        "q": "How is selank related to semax?",
+        "a": "Both are Russian nasal peptides with the same stabilizing tail. [Semax](/peptides/semax) is based on an ACTH fragment and marketed for cognition; selank is based on tuftsin and marketed for anxiety."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Efficacy and possible mechanisms of action of a new peptide anxiolytic selank in the therapy of generalized anxiety disorders and neurasthenia",
+        "source": "Zh Nevrol Psikhiatr Im S S Korsakova",
+        "year": 2008,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18454096/",
+        "pmid": "18454096",
+        "note": "Russian study comparing selank with medazepam in 62 patients"
+      },
+      {
+        "n": 2,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA's stated safety concerns about selank acetate"
+      },
+      {
+        "n": 3,
+        "title": "Tuftsin - Properties and Analogs",
+        "source": "Curr Med Chem",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28745220/",
+        "pmid": "28745220",
+        "doi": "10.2174/0929867324666170725140826",
+        "note": "Background on tuftsin and its derivatives"
+      },
+      {
+        "n": 4,
+        "title": "The inhibitory effect of Selank on enkephalin-degrading enzymes as a possible mechanism of its anxiolytic activity",
+        "source": "Bull Exp Biol Med",
+        "year": 2001,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11550013/",
+        "pmid": "11550013",
+        "doi": "10.1023/a:1017979514274",
+        "note": "Proposed enkephalin-related mechanism"
+      },
+      {
+        "n": 5,
+        "title": "Selank Administration Affects the Expression of Some Genes Involved in GABAergic Neurotransmission",
+        "source": "Front Pharmacol",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26924987/",
+        "pmid": "26924987",
+        "doi": "10.3389/fphar.2016.00031",
+        "note": "Rat study of GABA-related gene expression"
+      },
+      {
+        "n": 6,
+        "title": "July 23-24, 2026 Meeting of the Pharmacy Compounding Advisory Committee",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+        "note": "Peptides reviewed at the July 2026 meeting (selank not included)"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

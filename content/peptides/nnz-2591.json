@@ -1,0 +1,246 @@
+{
+  "slug": "nnz-2591",
+  "name": "NNZ-2591",
+  "zone": "brain",
+  "category": "clinical",
+  "aliases": [
+    "Cyclo-L-glycyl-L-2-allylproline",
+    "cG-2-AllylP"
+  ],
+  "brands": [],
+  "class": "Cyclic dipeptide analog of an IGF-1 metabolite",
+  "route": "Oral liquid taken twice daily (in trials)",
+  "status": "Investigational; phase 3 trial in Phelan-McDermid syndrome under way since late 2025; not FDA-approved",
+  "evidence": 2,
+  "mechanism": "Mimics cyclic glycine-proline, a small IGF-1 breakdown product thought to keep IGF-1 activity in the brain within a healthy range",
+  "uses": [
+    "Phelan-McDermid syndrome (phase 3)",
+    "Angelman syndrome (phase 2)",
+    "Pitt Hopkins syndrome (phase 2)"
+  ],
+  "popular": null,
+  "related": [
+    "trofinetide",
+    "trofinetide-predecessor-programs",
+    "mecasermin",
+    "davunetide"
+  ],
+  "article": {
+    "summary": "NNZ-2591 is an oral, experimental IGF-1-related drug from the makers of trofinetide, now in a phase 3 trial for Phelan-McDermid syndrome. It is not approved.",
+    "takeaway": "NNZ-2591 is a small, ring-shaped molecule built from two amino acids that copies cyclic glycine-proline (cGP), a natural breakdown product of insulin-like growth factor 1 (IGF-1).[^1] In a 13-week open-label study in 18 children with **Phelan-McDermid syndrome**, clinicians rated 16 of them as improved and the drug was generally well tolerated.[^2] Because that study had no placebo group, a randomized, placebo-controlled phase 3 trial of about 160 children began in late 2025.[^3] Smaller open-label studies have also been run in Angelman and Pitt Hopkins syndromes, but NNZ-2591 is not approved for any use.",
+    "glance": [
+      [
+        "Status",
+        "Investigational; phase 3 in Phelan-McDermid syndrome"
+      ],
+      [
+        "Conditions studied",
+        "Phelan-McDermid, Angelman and Pitt Hopkins syndromes"
+      ],
+      [
+        "How it's given",
+        "Oral liquid twice a day in trials"
+      ],
+      [
+        "Drug class",
+        "Synthetic analog of cyclic glycine-proline (an IGF-1 metabolite)"
+      ],
+      [
+        "Developer",
+        "Neuren Pharmaceuticals, which also discovered [trofinetide](/peptides/trofinetide)"
+      ],
+      [
+        "Research",
+        "Open-label phase 2 studies; first placebo-controlled trial running into 2027"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "IGF-1 helps brain cells grow and form connections, but its activity has to be balanced: too little impairs development and repair, while too much can drive abnormal growth. Most IGF-1 in the body is held by binding proteins that control how much is free to act. Lab and animal work suggests that cGP, a tiny cyclic peptide made as IGF-1 is broken down, shifts that binding so that IGF-1 activity rises when it is low and falls when it is excessive.[^4]"
+          },
+          {
+            "type": "p",
+            "text": "NNZ-2591 is cGP with an added allyl group that makes it resistant to enzymes and able to reach the brain after being given outside it.[^1] In rats it reduced brain damage and improved movement after oxygen deprivation.[^5] Several rare genetic disorders that cause intellectual disability are thought to involve faulty IGF-1 signaling at synapses, which is the rationale for testing it in them."
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Condition",
+                "Stage",
+                "Status (late 2026)"
+              ],
+              [
+                "Phelan-McDermid syndrome",
+                "Phase 3, randomized vs placebo, about 160 children aged 3-12",
+                "Recruiting; main results expected after late 2027[^3]"
+              ],
+              [
+                "Phelan-McDermid syndrome",
+                "Phase 3 open-label extension",
+                "Recruiting since 2026[^6]"
+              ],
+              [
+                "Angelman syndrome",
+                "Phase 2, open-label, 17 children",
+                "Completed[^7]"
+              ],
+              [
+                "Pitt Hopkins syndrome",
+                "Phase 2, open-label, 28 children",
+                "Completed[^8]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Phelan-McDermid syndrome usually results from loss of one copy of the SHANK3 gene, which helps build the scaffolding of synapses. It causes intellectual disability, limited or absent speech, low muscle tone and autism features, and has no approved treatment.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The published phase 2 study gave twice-daily NNZ-2591 to 18 children aged 3-12 with Phelan-McDermid syndrome for 13 weeks, raising the dose over the first six weeks. Ten of 14 efficacy measures improved from baseline, including clinician and caregiver global ratings, behavior, sleep, quality of life and gut symptoms. Children with higher drug exposure tended to improve more on the clinician rating.[^2]"
+          },
+          {
+            "type": "p",
+            "text": "Open-label results are encouraging but easy to over-read: families and clinicians knew the child was on the drug, and rare-disease symptoms can fluctuate. The developer has reported similar improvements in its Angelman and Pitt Hopkins studies, but those results had not appeared in peer-reviewed journals as of October 2026."
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In the Phelan-McDermid study NNZ-2591 was generally well tolerated, and most side effects were mild or moderate.[^2] The total number of children treated is still small, and treatment periods have been short, so uncommon or long-term risks are unknown. Because it acts on growth-factor signaling, long-term monitoring will matter."
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The phase 3 trial compares 13 weeks of NNZ-2591 with placebo, using a Phelan-McDermid-specific change scale and a receptive communication score as its two main outcomes, with primary completion estimated for late 2027.[^3] If it succeeds, the company could seek FDA approval; failure would be a setback for the whole IGF-1 fragment approach outside Rett syndrome."
+          },
+          {
+            "type": "note",
+            "text": "NNZ-2591 is available only through clinical trials. Families interested in participating can search ClinicalTrials.gov or ask a genetics or neurodevelopmental clinic."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Early: small open-label studies only",
+      "text": "All human efficacy data so far come from small, uncontrolled phase 2 studies, the largest published one with 18 children.[^2] The ongoing placebo-controlled phase 3 trial will be the first rigorous test.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Is NNZ-2591 the same as trofinetide?",
+        "a": "No. Both come from the same research on IGF-1 fragments, but [trofinetide](/peptides/trofinetide) mimics the three-amino-acid fragment GPE and is approved for Rett syndrome, while NNZ-2591 mimics the two-amino-acid cyclic peptide cGP."
+      },
+      {
+        "q": "Can my child get NNZ-2591 outside a trial?",
+        "a": "No. It is an investigational drug available only through clinical trials, and supplements sold as cGP are not the same product."
+      },
+      {
+        "q": "When might it be approved?",
+        "a": "Not before the phase 3 trial reports. Its primary completion is estimated for late 2027, and an FDA review would follow only if results are positive.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "IGF-1 derived small neuropeptides and analogues: a novel strategy for the development of pharmaceuticals for neurological conditions",
+        "source": "Br J Pharmacol",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19438508/",
+        "pmid": "19438508",
+        "doi": "10.1111/j.1476-5381.2009.00256.x",
+        "note": "Background on cyclic glycine-proline and NNZ-2591"
+      },
+      {
+        "n": 2,
+        "title": "NNZ-2591 in Children and Adolescents With Phelan-McDermid Syndrome: Single-Group, Open-Label, Phase 2 Trial Results",
+        "source": "Neurol Genet",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41450730/",
+        "pmid": "41450730",
+        "doi": "10.1212/NXG.0000000000200338",
+        "note": "Phase 2 open-label study in 18 children"
+      },
+      {
+        "n": 3,
+        "title": "A Study of NNZ-2591 in Pediatric Participants With Phelan-McDermid Syndrome",
+        "source": "ClinicalTrials.gov",
+        "year": 2026,
+        "url": "https://clinicaltrials.gov/study/NCT07281079",
+        "note": "Phase 3 randomized placebo-controlled trial (NCT07281079)"
+      },
+      {
+        "n": 4,
+        "title": "Cyclic glycine-proline regulates IGF-1 homeostasis by altering the binding of IGFBP-3 to IGF-1",
+        "source": "Sci Rep",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24633053/",
+        "pmid": "24633053",
+        "doi": "10.1038/srep04388",
+        "note": "How cGP is thought to balance IGF-1 activity"
+      },
+      {
+        "n": 5,
+        "title": "Peripheral administration of a novel diketopiperazine, NNZ 2591, prevents brain injury and improves somatosensory-motor function following hypoxia-ischemia in adult rats",
+        "source": "Neuropharmacology",
+        "year": 2007,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17904590/",
+        "pmid": "17904590",
+        "doi": "10.1016/j.neuropharm.2007.08.010",
+        "note": "Early animal study of brain protection"
+      },
+      {
+        "n": 6,
+        "title": "An Open-label Study of NNZ-2591 in Pediatric Participants With Phelan-McDermid Syndrome",
+        "source": "ClinicalTrials.gov",
+        "year": 2026,
+        "url": "https://clinicaltrials.gov/study/NCT07593391",
+        "note": "Phase 3 open-label extension (NCT07593391)"
+      },
+      {
+        "n": 7,
+        "title": "An Open-Label Study of the Safety, Tolerability, and Pharmacokinetics of Oral NNZ-2591 in Angelman Syndrome",
+        "source": "ClinicalTrials.gov",
+        "year": 2024,
+        "url": "https://clinicaltrials.gov/study/NCT05011851",
+        "note": "Phase 2 Angelman syndrome study (NCT05011851)"
+      },
+      {
+        "n": 8,
+        "title": "An Open-Label Study of Oral NNZ-2591 in Pitt Hopkins Syndrome (PTHS-001)",
+        "source": "ClinicalTrials.gov",
+        "year": 2024,
+        "url": "https://clinicaltrials.gov/study/NCT05025332",
+        "note": "Phase 2 Pitt Hopkins syndrome study (NCT05025332)"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "slug": "octreotide",
+  "name": "Octreotide",
+  "zone": "digestive",
+  "category": "fda",
+  "aliases": [
+    "Octreotide acetate",
+    "SMS 201-995"
+  ],
+  "brands": [
+    "Sandostatin",
+    "Sandostatin LAR Depot",
+    "Bynfezia Pen",
+    "Mycapssa"
+  ],
+  "class": "Somatostatin analog",
+  "route": "Injection under the skin or IV, monthly muscle depot, or twice-daily capsules",
+  "status": "FDA-approved since 1988 for acromegaly and hormone-driven diarrhea from carcinoid tumors and VIPomas",
+  "evidence": 4,
+  "mechanism": "Mimics somatostatin to block release of growth hormone, insulin, glucagon, serotonin and other gut hormones, and reduces blood flow to the gut",
+  "uses": [
+    "Acromegaly",
+    "Carcinoid syndrome diarrhea and flushing",
+    "Watery diarrhea from VIP-secreting tumors",
+    "Bleeding esophageal varices (off-label)"
+  ],
+  "popular": null,
+  "related": [
+    "lanreotide",
+    "pasireotide",
+    "ga-68-dotatate",
+    "lutetium-lu-177-dotatate"
+  ],
+  "article": {
+    "summary": "Octreotide (Sandostatin, Mycapssa) is a somatostatin analog used for acromegaly and hormone-secreting gut tumors, available as short-acting shots, monthly depots and oral capsules.",
+    "takeaway": "Octreotide was the first lab-made somatostatin analog and is still a workhorse in endocrinology and gastroenterology. It suppresses growth hormone in acromegaly and calms the severe diarrhea and flushing caused by some neuroendocrine tumors.[^1] In the PROMID trial it also slowed tumor growth, with **median time to progression of 14.3 versus 6 months** on placebo.[^2] An oral capsule now offers an injection-free option for some people with acromegaly.[^3] Gallstones, digestive upset and blood sugar swings are the main side effects.[^1]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved; first US approval 1988, depot 1998, oral capsule 2020"
+      ],
+      [
+        "Main uses",
+        "Acromegaly, carcinoid syndrome, VIPoma diarrhea"
+      ],
+      [
+        "How it's taken",
+        "Injection 2-4 times a day, a monthly depot into muscle, or capsules twice a day"
+      ],
+      [
+        "Drug class",
+        "Somatostatin analog"
+      ],
+      [
+        "Research",
+        "Decades of clinical use plus randomized trials in tumors and acromegaly"
+      ],
+      [
+        "Related",
+        "[Lanreotide](/peptides/lanreotide), [Ga-68 dotatate](/peptides/ga-68-dotatate)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Somatostatin is a natural \"off switch\" for many hormones, but it lasts only a few minutes in the blood. Octreotide is an eight-amino-acid ring that keeps somatostatin's active core and resists breakdown, so a single shot works for hours. It binds mostly to somatostatin receptor subtype 2, which is abundant on pituitary tumors that make growth hormone and on many neuroendocrine tumors."
+          },
+          {
+            "type": "p",
+            "text": "By switching those receptors on, octreotide lowers growth hormone and IGF-1, cuts serotonin and VIP release from gut tumors, slows bowel secretion and narrows blood vessels supplying the gut. The last effect is why hospitals also use it for some types of gastrointestinal bleeding."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Form",
+                "Approved uses"
+              ],
+              [
+                "Sandostatin and generic injections, Bynfezia Pen",
+                "Acromegaly; severe diarrhea and flushing from metastatic carcinoid tumors; watery diarrhea from VIPomas"
+              ],
+              [
+                "Sandostatin LAR Depot",
+                "The same three uses, once people have responded to short-acting octreotide[^1]"
+              ],
+              [
+                "Mycapssa capsules",
+                "Long-term acromegaly maintenance after response to octreotide or lanreotide injections[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Common off-label uses include acute bleeding from esophageal varices in cirrhosis, where guidelines recommend a vasoactive drug such as octreotide alongside endoscopic treatment.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "PROMID",
+                "85 people with metastatic midgut NETs",
+                "Time to tumor progression 14.3 vs 6 months on placebo[^2]"
+              ],
+              [
+                "OPTIMAL",
+                "56 people with acromegaly controlled on injections",
+                "IGF-1 stayed normal in 58% on oral octreotide vs 19% on placebo at 36 weeks[^5]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "PROMID was too small to show a survival difference, and slowing tumor growth is not part of the US label for octreotide, unlike [lanreotide](/peptides/lanreotide).[^2]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Short-acting injection:** under the skin two to four times a day, or IV in the hospital",
+              "**Sandostatin LAR Depot:** 10-30 mg injected deep into the buttock muscle every 4 weeks by a health professional, after a trial of the short-acting form[^1]",
+              "**Mycapssa:** capsules twice a day on an empty stomach, at least 1 hour before or 2 hours after a meal, starting at 20 mg twice daily and adjusted by IGF-1 levels[^3]"
+            ]
+          },
+          {
+            "type": "note",
+            "text": "A once-monthly octreotide depot that patients inject under the skin themselves (CAM2029) is approved in Europe and was under FDA review in late 2026, with a decision expected in December.[^6]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** diarrhea, nausea, belly pain, gas and injection-site pain",
+              "**Gallstones:** reduced gallbladder emptying can cause stones and, rarely, inflammation",
+              "**Blood sugar:** can go up or down; diabetes treatment may need adjusting",
+              "**Thyroid and heart:** may cause hypothyroidism and a slow or irregular heartbeat",
+              "**Fat malabsorption:** new greasy or pale stools can signal reduced pancreatic enzymes[^1]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved: long clinical record and randomized trials",
+      "text": "Octreotide has more than 35 years of clinical use. Randomized trials support its tumor-slowing effect in midgut NETs and the oral form for acromegaly maintenance.[^2][^5]"
+    },
+    "faq": [
+      {
+        "q": "How is octreotide different from lanreotide?",
+        "a": "They work the same way. Octreotide comes in more forms (short-acting injection, monthly muscle depot and oral capsules), while [lanreotide](/peptides/lanreotide) is a monthly deep injection under the skin and carries a label for slowing tumor growth."
+      },
+      {
+        "q": "Can octreotide be taken by mouth?",
+        "a": "Yes, as Mycapssa capsules for acromegaly in people already controlled on injections.[^3] The capsules must be taken on an empty stomach to be absorbed."
+      },
+      {
+        "q": "Why do I need a short-acting test before the monthly depot?",
+        "a": "The label calls for showing that octreotide works and is tolerated before committing to a month-long dose that cannot be removed.[^1]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "SANDOSTATIN LAR DEPOT (octreotide acetate) for injectable suspension: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d0b7fe9e-7000-4b79-ba3b-291ce92c14f9",
+        "note": "Indications, dosing and warnings for long-acting octreotide"
+      },
+      {
+        "n": 2,
+        "title": "Placebo-controlled, double-blind, prospective, randomized study on the effect of octreotide LAR in the control of tumor growth in patients with metastatic neuroendocrine midgut tumors: a report from the PROMID Study Group",
+        "source": "J Clin Oncol",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19704057/",
+        "pmid": "19704057",
+        "doi": "10.1200/JCO.2009.22.8510",
+        "note": "PROMID: effect on tumor growth versus placebo"
+      },
+      {
+        "n": 3,
+        "title": "MYCAPSSA (octreotide) delayed-release capsules: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=58d80bc6-bdfb-4908-93e7-aace447c8d1a",
+        "note": "Oral octreotide for acromegaly maintenance"
+      },
+      {
+        "n": 4,
+        "title": "AASLD Practice Guidance on risk stratification and management of portal hypertension and varices in cirrhosis",
+        "source": "Hepatology",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37870298/",
+        "pmid": "37870298",
+        "doi": "10.1097/HEP.0000000000000647",
+        "note": "US liver society guidance on variceal bleeding care"
+      },
+      {
+        "n": 5,
+        "title": "Maintenance of Acromegaly Control in Patients Switching From Injectable Somatostatin Receptor Ligands to Oral Octreotide",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32882036/",
+        "pmid": "32882036",
+        "doi": "10.1210/clinem/dgaa526",
+        "note": "OPTIMAL: oral octreotide versus placebo in acromegaly"
+      },
+      {
+        "n": 6,
+        "title": "Camurus' NDA resubmission for CAM2029 in acromegaly accepted for review by the US FDA",
+        "source": "Camurus (press release)",
+        "year": 2026,
+        "url": "https://www.camurus.com/media/press-releases/2026/camurus-nda-resubmission-for-cam2029-in-acromegaly-accepted-for-review-by-the-us-fda/",
+        "note": "Status of a monthly self-injected octreotide depot in the US"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

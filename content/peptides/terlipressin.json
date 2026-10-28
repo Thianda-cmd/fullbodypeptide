@@ -1,0 +1,212 @@
+{
+  "slug": "terlipressin",
+  "name": "Terlipressin",
+  "zone": "digestive",
+  "category": "fda",
+  "aliases": [
+    "Triglycyl-lysine vasopressin"
+  ],
+  "brands": [
+    "Terlivaz"
+  ],
+  "class": "Vasopressin receptor agonist",
+  "route": "IV injection every 6 hours in the hospital, for up to 14 days",
+  "status": "FDA-approved in 2022 for hepatorenal syndrome with rapidly worsening kidney function",
+  "evidence": 4,
+  "mechanism": "A long-acting vasopressin prodrug that tightens blood vessels in the gut, shifting blood back into circulation and restoring flow to the kidneys",
+  "uses": [
+    "Hepatorenal syndrome in adults with cirrhosis"
+  ],
+  "popular": null,
+  "related": [
+    "vasopressin",
+    "octreotide",
+    "selepressin"
+  ],
+  "article": {
+    "summary": "Terlipressin (Terlivaz) is a hospital IV drug that improves kidney function in hepatorenal syndrome, a kidney failure caused by advanced liver disease. FDA-approved in 2022.",
+    "takeaway": "Terlipressin is the first FDA-approved drug for hepatorenal syndrome (HRS), a form of kidney failure driven by severe cirrhosis. It narrows blood vessels in the abdomen so more blood reaches the kidneys. In the CONFIRM trial, HRS reversed in **32% on terlipressin versus 17% on placebo**.[^1] It carries a **boxed warning for serious or fatal respiratory failure**, so oxygen levels are monitored closely and it is avoided in people with fluid overload or the sickest liver failure.[^2]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved September 2022 (Terlivaz)"
+      ],
+      [
+        "Main use",
+        "Hepatorenal syndrome with rapid loss of kidney function in adults"
+      ],
+      [
+        "How it's taken",
+        "IV every 6 hours in the hospital, for up to 14 days, with albumin"
+      ],
+      [
+        "Drug class",
+        "Vasopressin receptor agonist (vasopressin analog)"
+      ],
+      [
+        "Research",
+        "Randomized placebo-controlled trials, led by the 300-person CONFIRM trial"
+      ],
+      [
+        "Related",
+        "[Vasopressin](/peptides/vasopressin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In advanced cirrhosis, blood vessels in the gut and abdomen widen and pool blood. The body senses low effective blood volume and clamps down on the kidneys' blood supply. The kidneys themselves are not damaged at first, but filtration falls quickly. This is hepatorenal syndrome."
+          },
+          {
+            "type": "p",
+            "text": "Terlipressin is a synthetic peptide that the body slowly converts into lysine vasopressin. It mainly activates V1 receptors on blood vessel muscle, especially in the splanchnic (gut) circulation. Narrowing those vessels returns blood to the central circulation, raises blood pressure and improves kidney perfusion. It is given with albumin, which helps expand blood volume."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Terlivaz is approved to improve kidney function in adults with HRS and a rapid fall in kidney function. People with a serum creatinine above 5 mg/dL are unlikely to benefit.[^2] It has been used in Europe and elsewhere for decades, and liver society guidance recommends a vasoconstrictor plus albumin as first-line treatment for HRS.[^3]"
+          },
+          {
+            "type": "p",
+            "text": "For many patients, the goal is to stabilize the kidneys as a bridge to liver transplantation, which is the only definitive cure for HRS."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Outcome in CONFIRM",
+                "Terlipressin",
+                "Placebo"
+              ],
+              [
+                "Verified HRS reversal",
+                "32%",
+                "17%[^1]"
+              ],
+              [
+                "Any HRS reversal within 14 days",
+                "39%",
+                "18%[^1]"
+              ],
+              [
+                "Deaths by day 90",
+                "51%",
+                "45%[^1]"
+              ],
+              [
+                "Deaths from respiratory disorders by day 90",
+                "11%",
+                "2%[^1]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Terlipressin improved kidney function but did not improve survival, and it increased serious breathing problems. In a later analysis of CONFIRM patients who received a liver transplant, those treated with terlipressin beforehand needed dialysis less often, both before and in the year after transplant.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Terlipressin is given by IV injection in the hospital. The label dose is 0.85 mg every 6 hours for the first three days. On day 4, the team checks creatinine: if it has dropped by at least 30% the dose continues; if it has dropped less, the dose may be doubled; if it has not improved, treatment stops. Treatment ends 24 hours after kidney function recovers, or after 14 days at most.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Boxed warning:** serious or fatal respiratory failure; risk is higher with fluid overload or grade 3 acute-on-chronic liver failure",
+              "**Oxygen checks:** not started if oxygen saturation is below 90%, monitored continuously, and stopped if it falls below 90%",
+              "**Not for** people with ongoing heart, limb or intestinal ischemia, because it narrows blood vessels",
+              "**Common:** belly pain, nausea, diarrhea and shortness of breath",
+              "**Fluid management:** albumin and other fluids may need to be reduced to avoid overload[^2]"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved: placebo-controlled phase 3 evidence",
+      "text": "CONFIRM, a 300-patient randomized trial, showed terlipressin roughly doubles the rate of HRS reversal.[^1] It did not show a survival benefit, and the respiratory risk means careful patient selection matters."
+    },
+    "faq": [
+      {
+        "q": "Does terlipressin cure hepatorenal syndrome?",
+        "a": "It can reverse the kidney failure in some patients, but the underlying liver disease remains. Liver transplantation is the definitive treatment, and terlipressin may help patients reach it in better shape.[^4]"
+      },
+      {
+        "q": "Why is terlipressin given with albumin?",
+        "a": "Albumin helps restore effective blood volume, which works together with the vessel-narrowing effect of terlipressin. Liver guidelines pair vasoconstrictors with albumin for HRS.[^3]"
+      },
+      {
+        "q": "Who should not receive terlipressin?",
+        "a": "People with low oxygen levels or worsening breathing, fluid overload, very severe liver failure, or active ischemia of the heart, limbs or gut are generally not candidates.[^2]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Terlipressin plus Albumin for the Treatment of Type 1 Hepatorenal Syndrome",
+        "source": "N Engl J Med",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33657294/",
+        "pmid": "33657294",
+        "doi": "10.1056/NEJMoa2008290",
+        "note": "CONFIRM: pivotal phase 3 trial"
+      },
+      {
+        "n": 2,
+        "title": "TERLIVAZ (terlipressin) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3a35b86c-f451-4fac-8499-43019e4da354",
+        "note": "Indication, dosing, boxed warning and contraindications"
+      },
+      {
+        "n": 3,
+        "title": "Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome: 2021 Practice Guidance by the American Association for the Study of Liver Diseases",
+        "source": "Hepatology",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33942342/",
+        "pmid": "33942342",
+        "doi": "10.1002/hep.31884",
+        "note": "US liver society guidance on hepatorenal syndrome"
+      },
+      {
+        "n": 4,
+        "title": "Decreased need for RRT in liver transplant recipients after pretransplant treatment of hepatorenal syndrome-type 1 with terlipressin",
+        "source": "Liver Transpl",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37801553/",
+        "pmid": "37801553",
+        "doi": "10.1097/LVT.0000000000000277",
+        "note": "Post hoc CONFIRM analysis in transplant recipients"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "liraglutide",
+  "name": "Liraglutide",
+  "zone": "digestive",
+  "category": "fda",
+  "aliases": [
+    "NN2211"
+  ],
+  "brands": [
+    "Victoza",
+    "Saxenda",
+    "Xultophy (with insulin degludec)"
+  ],
+  "class": "GLP-1 receptor agonist",
+  "route": "Daily injection under the skin with a pen",
+  "status": "FDA-approved: type 2 diabetes (2010) and weight management (2014); generic versions now available",
+  "evidence": 4,
+  "mechanism": "Mimics the gut hormone GLP-1 to release insulin when blood sugar is high, slow stomach emptying and reduce appetite",
+  "uses": [
+    "Type 2 diabetes in adults and children 10 and older",
+    "Chronic weight management from age 12",
+    "Lowering heart risk in type 2 diabetes with heart disease"
+  ],
+  "popular": null,
+  "related": [
+    "semaglutide",
+    "tirzepatide",
+    "exenatide",
+    "dulaglutide"
+  ],
+  "article": {
+    "summary": "Liraglutide (Victoza, Saxenda) is a once-daily GLP-1 injection, FDA-approved for type 2 diabetes and for weight management in adults and teens. Generic versions are available.",
+    "takeaway": "Liraglutide was one of the first long-acting GLP-1 drugs and remains widely used, now also as lower-cost generics. At the 3 mg weight-loss dose, adults lost an average of **8.4 kg versus 2.8 kg** on placebo over a year.[^1] In people with type 2 diabetes and heart disease, it cut major cardiovascular events by **13%**.[^2] It needs a daily shot and produces less weight loss than newer weekly drugs such as semaglutide.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved (Victoza 2010, Saxenda 2014); generics since 2024"
+      ],
+      [
+        "Main uses",
+        "Type 2 diabetes, cardiovascular risk reduction, chronic weight management"
+      ],
+      [
+        "How it's taken",
+        "Injection under the skin once a day, at any time, with or without food"
+      ],
+      [
+        "Drug class",
+        "GLP-1 receptor agonist"
+      ],
+      [
+        "Research",
+        "SCALE weight trials, the LEADER heart outcomes trial and pediatric trials"
+      ],
+      [
+        "Related",
+        "[Semaglutide](/peptides/semaglutide), [tirzepatide](/peptides/tirzepatide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GLP-1 (glucagon-like peptide-1) is a hormone released by the intestine after eating. It prompts insulin release when glucose is high, curbs glucagon, slows stomach emptying and signals fullness to the brain. The body's own GLP-1 is cleared within minutes."
+          },
+          {
+            "type": "p",
+            "text": "Liraglutide is 97% identical to human GLP-1, with a fatty-acid chain that lets it bind albumin in the blood and resist breakdown. That stretches its action to about a day, enough for one injection daily. Weekly drugs that came later, such as [semaglutide](/peptides/semaglutide), built on the same idea with a longer-lasting design."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Product",
+                "Approved for"
+              ],
+              [
+                "Victoza (up to 1.8 mg daily)",
+                "Type 2 diabetes in adults and children 10 and older; lowering cardiovascular risk in adults with type 2 diabetes and heart disease[^4]"
+              ],
+              [
+                "Saxenda (3 mg daily)",
+                "Long-term weight management in adults with obesity or overweight plus a related condition, and in teens 12 and older with obesity who weigh more than 60 kg[^5]"
+              ],
+              [
+                "Xultophy",
+                "Fixed combination with long-acting insulin for type 2 diabetes"
+              ]
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Generic liraglutide matching both Victoza and Saxenda is sold by several manufacturers."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "SCALE Obesity",
+                "3,731 adults with obesity, no diabetes",
+                "Lost 8.4 kg vs 2.8 kg on placebo at 56 weeks; 63% lost at least 5% of body weight[^1]"
+              ],
+              [
+                "LEADER",
+                "9,340 adults with type 2 diabetes and high heart risk",
+                "Heart attack, stroke or cardiovascular death in 13.0% vs 14.9% on placebo[^2]"
+              ],
+              [
+                "Teen trial",
+                "251 adolescents with obesity",
+                "BMI fell at least 5% in 43% vs 19% on placebo[^6]"
+              ],
+              [
+                "STEP 8",
+                "338 adults with obesity",
+                "Weight fell 6.4% vs 15.8% with weekly semaglutide over 68 weeks[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "A 2025 trial in children aged 6-11 also found meaningful drops in BMI, but as of 2026 the US label for weight management starts at age 12.[^7][^5]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Both products start at 0.6 mg a day. For diabetes, adults move to 1.2 mg after a week and to 1.8 mg if needed.[^4] For weight management, the dose rises by weekly steps to the 3 mg target; teens can step up more slowly and may stay at 2.4 mg if 3 mg is not tolerated.[^5] Injections go under the skin of the belly, thigh or upper arm."
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** nausea, diarrhea, constipation, vomiting and reduced appetite, mostly early on",
+              "**Serious but less common:** pancreatitis, gallbladder disease, kidney injury from dehydration and serious allergic reactions",
+              "**Boxed warning:** thyroid C-cell tumors in rodents; not for people with a personal or family history of medullary thyroid cancer or MEN 2",
+              "**Low blood sugar** when combined with insulin or sulfonylureas",
+              "**Before surgery:** slowed stomach emptying can raise aspiration risk under anesthesia"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In the adolescent trial, BMI crept back up after treatment stopped, a pattern also seen in adults.[^6]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: large randomized and outcome trials",
+      "text": "Liraglutide has more than 15 years of use and large randomized trials behind it, including a cardiovascular outcomes trial with nearly 9,400 people.[^2] For weight loss it is less potent than newer weekly options.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Are Victoza and Saxenda the same drug?",
+        "a": "Yes. Both are liraglutide. Victoza is dosed up to 1.8 mg for diabetes, and Saxenda goes up to 3 mg for weight management."
+      },
+      {
+        "q": "Is liraglutide as effective as semaglutide?",
+        "a": "Not for weight loss. In the STEP 8 head-to-head trial, average weight loss was 6.4% with daily liraglutide versus 15.8% with weekly [semaglutide](/peptides/semaglutide).[^3]"
+      },
+      {
+        "q": "Is there a generic version of liraglutide?",
+        "a": "Yes. Generic liraglutide equivalent to Victoza and to Saxenda is available from several manufacturers, which can lower the cost."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "A Randomized, Controlled Trial of 3.0 mg of Liraglutide in Weight Management",
+        "source": "N Engl J Med",
+        "year": 2015,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26132939/",
+        "pmid": "26132939",
+        "doi": "10.1056/NEJMoa1411892",
+        "note": "SCALE Obesity and Prediabetes: 56-week weight loss"
+      },
+      {
+        "n": 2,
+        "title": "Liraglutide and Cardiovascular Outcomes in Type 2 Diabetes",
+        "source": "N Engl J Med",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27295427/",
+        "pmid": "27295427",
+        "doi": "10.1056/NEJMoa1603827",
+        "note": "LEADER: cardiovascular outcomes versus placebo"
+      },
+      {
+        "n": 3,
+        "title": "Effect of Weekly Subcutaneous Semaglutide vs Daily Liraglutide on Body Weight in Adults With Overweight or Obesity Without Diabetes: The STEP 8 Randomized Clinical Trial",
+        "source": "JAMA",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35015037/",
+        "pmid": "35015037",
+        "doi": "10.1001/jama.2021.23619",
+        "note": "STEP 8: head-to-head with semaglutide"
+      },
+      {
+        "n": 4,
+        "title": "VICTOZA (liraglutide) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a9ef4ea-c76a-4d34-a604-27c5b505f5a4",
+        "note": "Diabetes and cardiovascular indications, dosing"
+      },
+      {
+        "n": 5,
+        "title": "SAXENDA (liraglutide) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3946d389-0926-4f77-a708-0acb8153b143",
+        "note": "Weight management indication, dose escalation and warnings"
+      },
+      {
+        "n": 6,
+        "title": "A Randomized, Controlled Trial of Liraglutide for Adolescents with Obesity",
+        "source": "N Engl J Med",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32233338/",
+        "pmid": "32233338",
+        "doi": "10.1056/NEJMoa1916038",
+        "note": "56-week trial in adolescents aged 12-17"
+      },
+      {
+        "n": 7,
+        "title": "Liraglutide for Children 6 to <12 Years of Age with Obesity - A Randomized Trial",
+        "source": "N Engl J Med",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39258838/",
+        "pmid": "39258838",
+        "doi": "10.1056/NEJMoa2407379",
+        "note": "SCALE Kids: children aged 6-11"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

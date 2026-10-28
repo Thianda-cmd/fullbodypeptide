@@ -1,0 +1,245 @@
+{
+  "slug": "glutathione",
+  "name": "Glutathione",
+  "zone": "skin",
+  "category": "wellness",
+  "aliases": [
+    "GSH",
+    "L-glutathione",
+    "Reduced glutathione",
+    "gamma-L-glutamyl-L-cysteinyl-glycine"
+  ],
+  "brands": [],
+  "class": "Antioxidant tripeptide",
+  "route": "Oral supplement; also IV drips, injections, inhaled and topical forms (not FDA-approved)",
+  "status": "Not an FDA-approved drug; sold as an oral dietary supplement; injectable forms are pharmacy-compounded, with FDA contamination alerts",
+  "evidence": 2,
+  "mechanism": "The body's main internal antioxidant: neutralizes reactive molecules, helps the liver tag toxins for removal, and in skin nudges pigment cells toward lighter melanin",
+  "uses": [
+    "Skin lightening (oral, topical, IV)",
+    "Antioxidant or detox wellness drips",
+    "Dietary supplement"
+  ],
+  "popular": 24,
+  "related": [
+    "carnosine",
+    "nonapeptide-1",
+    "ghk-cu"
+  ],
+  "article": {
+    "summary": "Glutathione is the body's main antioxidant tripeptide, sold as a supplement and given in IV wellness drips, often for skin lightening. Evidence is modest and IV products carry contamination risks.",
+    "takeaway": "Glutathione is a small peptide every cell makes to neutralize damaging oxidants and help clear toxins. It is popular for **skin lightening** and in IV wellness drips. Several small randomized trials found that oral or topical glutathione lightens skin modestly, while evidence for IV use is weak, and a 2025 review advised against IV glutathione.[^1] Oral supplements can raise body levels over months.[^2] In 2026 the FDA warned about **contaminated compounded IV glutathione** after at least 30 patients had fever, chills and shock-like reactions.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Not an approved drug; oral form sold as a dietary supplement"
+      ],
+      [
+        "Claimed uses",
+        "Skin lightening, antioxidant support, detox, immunity, healthy aging"
+      ],
+      [
+        "How it's used",
+        "Capsules or dissolving tablets; IV drips and injections from compounding pharmacies; creams"
+      ],
+      [
+        "Research",
+        "Small randomized trials for skin lightening; little evidence for IV wellness use"
+      ],
+      [
+        "Key caution",
+        "Endotoxin-contaminated IV products caused serious reactions in 2019 and 2026"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Glutathione is built from three amino acids: glutamate, cysteine and glycine. The sulfur in cysteine lets it donate electrons to unstable oxidants, and enzymes use it to attach toxins and drug byproducts so the body can excrete them. It is most concentrated in the liver, which is why the acetaminophen overdose antidote works by helping the body rebuild glutathione."
+          },
+          {
+            "type": "p",
+            "text": "In the skin, glutathione slows tyrosinase, the enzyme that starts melanin production, and shifts pigment cells from making dark brown-black eumelanin toward lighter, reddish-yellow pheomelanin. That is the basis for its use as a skin lightener.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Use",
+                "What studies found"
+              ],
+              [
+                "Oral, skin lightening",
+                "Five small randomized trials showed lower melanin readings than placebo; in one, 500 mg a day for 4 weeks beat placebo at 2 of 6 measured sites[^1][^5]"
+              ],
+              [
+                "Topical, skin lightening",
+                "A 0.5% formulation outperformed 0.1% and placebo; effects were local and modest[^1]"
+              ],
+              [
+                "IV, skin lightening",
+                "Only one placebo-controlled study (37.5% vs 18.7% responders, not statistically significant)[^1]"
+              ],
+              [
+                "Oral, body levels",
+                "6 months of 1,000 mg a day raised glutathione in red cells, plasma and lymphocytes by 30-35%; levels fell back within a month of stopping[^2]"
+              ],
+              [
+                "IV, Parkinson's disease",
+                "Pilot trial in 21 patients found no significant difference from placebo[^6]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Whatever lightening occurs fades after glutathione is stopped, and the trials were short and small. No good-quality trials support IV \"detox\" or immune-boosting drips in healthy people."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Oral and topical:** generally well tolerated in short trials; long-term effects of high-dose use are not well studied[^5]",
+              "**Contaminated IV products:** in 2019 and again in August 2026, the FDA linked IV glutathione compounded from dietary-supplement-grade powder to bacterial endotoxin, causing fever, chills, low blood pressure and hospitalizations[^7][^3]",
+              "**IV risks generally:** allergic reactions and infection risk from infusions; health authorities in the Philippines warned against IV glutathione for skin lightening after adverse events[^4]",
+              "**Sun protection:** in theory, shifting skin toward lighter pheomelanin could reduce its natural protection from UV light"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Oral glutathione is legally sold in the U.S. as a dietary supplement, which means it is not reviewed by the FDA for effectiveness before sale. No glutathione product is FDA-approved as a drug. Glutathione is on the FDA's list of bulk substances under evaluation for pharmacy compounding, which under the agency's interim policy generally allows licensed pharmacies to prepare it for individual prescriptions while the review continues.[^8] The FDA has repeatedly told compounders never to use supplement-grade ingredients for injections.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Glutathione is essential biology, and oral or topical forms may modestly lighten skin while they are used. IV drips add cost and real risks without good evidence of extra benefit. Anyone considering infusions should ask where the product comes from and discuss it with a clinician."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Moderate for oral skin use; weak for IV wellness",
+      "text": "A handful of small randomized trials support modest skin lightening with oral and topical glutathione, and one trial showed oral supplements raise body stores.[^1][^2] Evidence for IV glutathione, the most heavily marketed form, is thin, and reviewers advise against it.[^1]"
+    },
+    "faq": [
+      {
+        "q": "Does oral glutathione actually get absorbed?",
+        "a": "This was long doubted, but a 6-month randomized trial found daily supplements raised glutathione in blood and cells, with levels returning to baseline after stopping.[^2]"
+      },
+      {
+        "q": "Are glutathione IV drips safe?",
+        "a": "Quality varies. The FDA has issued alerts after IV glutathione made from supplement-grade powder caused fever, chills and shock-like reactions, including at least 30 cases in 2026.[^3] Ask where the product was made."
+      },
+      {
+        "q": "Is skin lightening from glutathione permanent?",
+        "a": "No. Studies show effects are modest and fade once it is stopped.[^1]"
+      },
+      {
+        "q": "Can glutathione treat melasma?",
+        "a": "Some small studies suggest topical or oral forms help, but standard melasma treatments have stronger evidence.[^1] A dermatologist can advise."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Glutathione as a skin-lightening agent and in melasma: a systematic review.",
+        "source": "Int J Dermatol",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39444151/",
+        "pmid": "39444151",
+        "doi": "10.1111/ijd.17535",
+        "note": "Systematic review of oral, topical and IV glutathione for skin"
+      },
+      {
+        "n": 2,
+        "title": "Randomized controlled trial of oral glutathione supplementation on body stores of glutathione.",
+        "source": "Eur J Nutr",
+        "year": 2015,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24791752/",
+        "pmid": "24791752",
+        "doi": "10.1007/s00394-014-0706-z",
+        "note": "6-month trial showing oral supplements raise body glutathione"
+      },
+      {
+        "n": 3,
+        "title": "FDA reminds compounders not to use dietary supplement grade glutathione for injectables",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-not-use-dietary-supplement-grade-glutathione-injectables",
+        "note": "August 2026 alert: at least 30 adverse events with IV glutathione"
+      },
+      {
+        "n": 4,
+        "title": "Glutathione as a skin whitening agent: Facts, myths, evidence and controversies.",
+        "source": "Indian J Dermatol Venereol Leprol",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27088927/",
+        "pmid": "27088927",
+        "doi": "10.4103/0378-6323.179088",
+        "note": "Review of how glutathione lightens skin and of IV safety concerns"
+      },
+      {
+        "n": 5,
+        "title": "Glutathione as an oral whitening agent: a randomized, double-blind, placebo-controlled study.",
+        "source": "J Dermatolog Treat",
+        "year": 2012,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20524875/",
+        "pmid": "20524875",
+        "doi": "10.3109/09546631003801619",
+        "note": "4-week oral glutathione trial in 60 adults"
+      },
+      {
+        "n": 6,
+        "title": "Randomized, double-blind, pilot evaluation of intravenous glutathione in Parkinson's disease.",
+        "source": "Mov Disord",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19230029/",
+        "pmid": "19230029",
+        "doi": "10.1002/mds.22401",
+        "note": "Pilot IV trial in Parkinson's disease"
+      },
+      {
+        "n": 7,
+        "title": "FDA highlights concerns with using dietary ingredient glutathione to compound sterile injectables",
+        "source": "U.S. FDA",
+        "year": 2019,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-highlights-concerns-using-dietary-ingredient-glutathione-compound-sterile-injectables",
+        "note": "2019 alert on endotoxin-contaminated glutathione powder"
+      },
+      {
+        "n": 8,
+        "title": "Bulk Drug Substances Nominated for Use in Compounding Under Section 503A of the Federal Food, Drug, and Cosmetic Act (updated May 14, 2026)",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/media/94155/download",
+        "note": "Glutathione listed in Category 1 (under evaluation)"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "slug": "melanotan-i",
+  "name": "Melanotan I",
+  "zone": "skin",
+  "category": "wellness",
+  "aliases": [
+    "MT-I",
+    "MT1",
+    "Afamelanotide (approved form)",
+    "[Nle4, D-Phe7]-alpha-MSH",
+    "NDP-MSH"
+  ],
+  "brands": [],
+  "class": "Melanocortin-1 receptor (MC1R) agonist",
+  "route": "Gray-market injections under the skin; the approved form is a clinician-placed implant",
+  "status": "Not approved for tanning; the same molecule is FDA-approved only as Scenesse (afamelanotide) for a rare light-sensitivity disease",
+  "evidence": 2,
+  "mechanism": "Copies the hormone alpha-MSH at the MC1R receptor on pigment cells, boosting dark eumelanin to produce a tan without sun exposure",
+  "uses": [
+    "Sunless tanning (unapproved)",
+    "Sunburn protection (unproven for gray-market use)"
+  ],
+  "popular": null,
+  "related": [
+    "afamelanotide",
+    "melanotan-ii",
+    "bremelanotide",
+    "setmelanotide"
+  ],
+  "article": {
+    "summary": "Melanotan I is the research name for afamelanotide, a synthetic tanning hormone. It is sold online as an unapproved injection; the only approved form is an implant for a rare disease.",
+    "takeaway": "Melanotan I is a lab-made version of alpha-MSH, the hormone that triggers tanning, developed at the University of Arizona in the 1980s. Small randomized trials showed injections darken skin without sun, and in fair-skinned volunteers it cut some markers of sunburn damage.[^1][^2] The molecule was later developed as **afamelanotide**, now an FDA-approved implant for erythropoietic protoporphyria.[^3] Powders sold online as \"Melanotan 1\" are a different matter: unregulated, of unknown purity and dose, and used without medical oversight.[^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved for tanning; approved only as Scenesse for EPP"
+      ],
+      [
+        "Claimed uses",
+        "Sunless tanning, protection from sunburn"
+      ],
+      [
+        "How it's used",
+        "Unregulated injectable powders bought online"
+      ],
+      [
+        "Research",
+        "Small randomized tanning trials in healthy volunteers; approved-drug trials in EPP"
+      ],
+      [
+        "Main risks",
+        "Unknown product quality, nausea, darkening and changing moles"
+      ],
+      [
+        "Approved form",
+        "[Afamelanotide](/peptides/afamelanotide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Melanotan I is a 13-amino-acid copy of alpha-melanocyte-stimulating hormone with two substitutions (norleucine at position 4 and a mirror-image phenylalanine at position 7) that make it more potent and longer-lasting than the natural hormone. It binds the melanocortin-1 receptor on melanocytes, which then produce more eumelanin, the brown-black pigment that absorbs light.[^5]"
+          },
+          {
+            "type": "p",
+            "text": "It is more focused on pigment than its cyclic cousin [Melanotan II](/peptides/melanotan-ii), which also acts strongly on brain receptors for appetite and sexual arousal. Melanotan I went on to become an approved medicine, while the melanotan II line led to the libido drug bremelanotide."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main finding"
+              ],
+              [
+                "Randomized trial (JAMA 1991)",
+                "28 healthy white men",
+                "Skin darkened in both poor and good tanners; none on placebo; peak 1-3 weeks after injections ended[^1]"
+              ],
+              [
+                "Biopsy study (2000)",
+                "7 volunteers",
+                "Eumelanin in forearm skin roughly doubled one week after treatment[^5]"
+              ],
+              [
+                "Randomized trial (2006)",
+                "65 volunteers, mostly fair-skinned",
+                "Melanin up 41% in those who burn easily; sunburn cells cut by over half and DNA damage markers by 59%[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "These were short, carefully supervised studies with pharmaceutical-grade drug. They do not tell us whether long-term cosmetic use is safe, or whether a drug-induced tan lowers skin cancer risk."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Known effects of the molecule:** nausea, tiredness, dizziness and darkening of skin, freckles and moles, as recorded with the approved implant[^3]",
+              "**Mole changes:** dermatologists have reported new or changing moles, and a few melanomas, in people using unregulated melanotan products; a direct causal link has not been established[^4]",
+              "**Gray-market risks:** uncertain preparation and dosing, possible contamination, and infection from non-sterile mixing and injection[^4]",
+              "**Unknowns:** long-term effects, use in pregnancy, and effects in people with many moles or a melanoma history"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The FDA has approved this molecule only as Scenesse, a 16 mg dissolving implant placed by a trained clinician, for adults with erythropoietic protoporphyria.[^3] No product is approved for cosmetic tanning, and selling injectable \"melanotan\" for human use is selling an unapproved drug. Several national health agencies have issued warnings about melanotan products.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Melanotan I is a real, well-studied molecule with a narrow medical use. Its tanning effect is genuine, but buying it online means injecting a product of unknown content without the monitoring that the approved implant requires, including regular skin checks. Sunless tanning lotions give a cosmetic tan without these risks."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Limited: small tanning trials, no long-term data",
+      "text": "Randomized trials in healthy volunteers show the molecule reliably darkens skin and may reduce some UV damage markers,[^1][^2] and it has a regulatory-grade record as an approved drug for one disease.[^3] There is no controlled evidence on long-term cosmetic use or on gray-market products."
+    },
+    "faq": [
+      {
+        "q": "Is Melanotan I the same as Scenesse?",
+        "a": "It is the same molecule. Scenesse is a manufactured, quality-controlled implant approved for one disease and given with skin monitoring, while online \"Melanotan 1\" is an unregulated powder."
+      },
+      {
+        "q": "Is Melanotan I safer than Melanotan II?",
+        "a": "The molecule is more selective and has been studied far more, so it causes fewer brain-related effects such as spontaneous erections. That says little about the safety of an unregulated product of unknown content.[^4]"
+      },
+      {
+        "q": "Does it protect against skin cancer?",
+        "a": "That has never been shown. One trial found fewer sunburn cells and less UV-related DNA damage after treatment,[^2] but no study has measured skin cancer rates."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Induction of skin tanning by subcutaneous administration of a potent synthetic melanotropin.",
+        "source": "JAMA",
+        "year": 1991,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1658407/",
+        "pmid": "1658407",
+        "note": "Early randomized tanning trial in 28 men"
+      },
+      {
+        "n": 2,
+        "title": "[Nle4-D-Phe7]-alpha-melanocyte-stimulating hormone significantly increased pigmentation and decreased UV damage in fair-skinned Caucasian volunteers.",
+        "source": "J Invest Dermatol",
+        "year": 2006,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16763547/",
+        "pmid": "16763547",
+        "doi": "10.1038/sj.jid.5700317",
+        "note": "65-person trial: pigmentation and UV damage markers"
+      },
+      {
+        "n": 3,
+        "title": "SCENESSE (afamelanotide) implant: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=94f53286-11dd-7fbb-e053-2a95a90a7c48",
+        "note": "The approved form of the molecule and its side effects"
+      },
+      {
+        "n": 4,
+        "title": "Risks of unregulated use of alpha-melanocyte-stimulating hormone analogues: a review.",
+        "source": "Int J Dermatol",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28266027/",
+        "pmid": "28266027",
+        "doi": "10.1111/ijd.13585",
+        "note": "Skin complications and warnings tied to unregulated melanotan use"
+      },
+      {
+        "n": 5,
+        "title": "Increased eumelanin expression and tanning is induced by a superpotent melanotropin [Nle4-D-Phe7]-alpha-MSH in humans.",
+        "source": "Photochem Photobiol",
+        "year": 2000,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11045725/",
+        "pmid": "11045725",
+        "doi": "10.1562/0031-8655(2000)072<0526:ieeati>2.0.co;2",
+        "note": "Biopsy study measuring eumelanin after treatment"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

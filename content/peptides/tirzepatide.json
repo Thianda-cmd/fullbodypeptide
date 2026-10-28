@@ -1,0 +1,286 @@
+{
+  "slug": "tirzepatide",
+  "name": "Tirzepatide",
+  "zone": "digestive",
+  "category": "fda",
+  "aliases": [
+    "LY3298176"
+  ],
+  "brands": [
+    "Mounjaro",
+    "Zepbound"
+  ],
+  "class": "Dual GIP and GLP-1 receptor agonist",
+  "route": "Weekly injection under the skin, from a pen or vial",
+  "status": "FDA-approved: type 2 diabetes (2022), weight management (2023), sleep apnea (2024), heart risk in diabetes (2026)",
+  "evidence": 4,
+  "mechanism": "Switches on receptors for two gut hormones, GIP and GLP-1, to boost insulin when glucose is high, slow digestion and quiet appetite",
+  "uses": [
+    "Type 2 diabetes",
+    "Chronic weight management",
+    "Obstructive sleep apnea with obesity",
+    "Heart attack and stroke risk in type 2 diabetes"
+  ],
+  "popular": 3,
+  "related": [
+    "semaglutide",
+    "retatrutide",
+    "liraglutide",
+    "survodutide",
+    "mazdutide"
+  ],
+  "article": {
+    "summary": "Tirzepatide (Mounjaro, Zepbound) is a once-weekly injection that acts on two gut-hormone receptors. It is FDA-approved for type 2 diabetes, weight management and sleep apnea.",
+    "takeaway": "Tirzepatide was the first approved drug to activate receptors for both GIP and GLP-1, two hormones the gut releases after eating. In its main obesity trial, people on the top dose lost an average of **about 21% of their body weight over 72 weeks**.[^1] In a head-to-head trial it beat semaglutide, with **20.2% versus 13.7%** average weight loss.[^2] Side effects are mostly digestive and cluster around dose increases, and much of the weight tends to return if the drug is stopped.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved (Mounjaro 2022, Zepbound 2023)"
+      ],
+      [
+        "Main uses",
+        "Type 2 diabetes, weight management, obstructive sleep apnea, lowering cardiovascular risk in type 2 diabetes"
+      ],
+      [
+        "How it's taken",
+        "Injection under the skin once a week, with doses stepped up every 4 weeks or more"
+      ],
+      [
+        "Drug class",
+        "Dual GIP and GLP-1 receptor agonist"
+      ],
+      [
+        "Research",
+        "The SURPASS and SURMOUNT trial programs, including head-to-head and heart-outcome trials"
+      ],
+      [
+        "Related",
+        "[Semaglutide](/peptides/semaglutide), [retatrutide](/peptides/retatrutide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "After a meal the intestine releases two \"incretin\" hormones: GIP (glucose-dependent insulinotropic polypeptide) and GLP-1 (glucagon-like peptide-1). Both prompt the pancreas to release insulin, but only while blood sugar is rising. GLP-1 also slows stomach emptying and signals fullness to the brain, and GIP appears to add to the appetite effect and to change how fat tissue stores energy."
+          },
+          {
+            "type": "p",
+            "text": "Tirzepatide is a 39-amino-acid peptide built on the GIP sequence and tuned to activate both receptors. A fatty-acid chain lets it cling to albumin in the blood, so it lasts about five days and needs only one injection a week."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Brand",
+                "Approved for"
+              ],
+              [
+                "Mounjaro",
+                "Type 2 diabetes in adults and children 10 and older; lowering the risk of heart attack, stroke and cardiovascular death in adults with type 2 diabetes at high risk[^4]"
+              ],
+              [
+                "Zepbound",
+                "Long-term weight management in adults with obesity, or overweight plus a weight-related condition; moderate to severe obstructive sleep apnea in adults with obesity[^5]"
+              ]
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Both brands contain the same molecule. The labels advise against combining tirzepatide with any other GLP-1 drug."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "SURMOUNT-1",
+                "2,539 adults with obesity, no diabetes",
+                "Weight fell 15.0-20.9% depending on dose, vs 3.1% on placebo, at 72 weeks[^1]"
+              ],
+              [
+                "SURMOUNT-5",
+                "751 adults with obesity",
+                "20.2% weight loss vs 13.7% with semaglutide at 72 weeks[^2]"
+              ],
+              [
+                "SURMOUNT-OSA",
+                "Adults with obesity and moderate to severe sleep apnea",
+                "About 20-24 fewer breathing pauses per hour than placebo after a year[^6]"
+              ],
+              [
+                "SURPASS-CVOT",
+                "13,165 adults with type 2 diabetes and heart disease",
+                "Heart attack, stroke or cardiovascular death in 12.2% vs 13.1% on dulaglutide[^7]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "SURPASS-CVOT was designed to show tirzepatide was no worse than dulaglutide, an older GLP-1 drug with proven heart benefit. It met that goal; the 8% lower event rate fell just short of proving superiority.[^7]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Tirzepatide is injected under the skin of the belly, thigh or upper arm once a week, at any time of day and with or without food. Adults start at 2.5 mg and step up by 2.5 mg no sooner than every four weeks. Maintenance doses are 5, 10 or 15 mg, and 15 mg is the ceiling.[^5] It comes in single-dose pens, single-dose and multi-dose vials, and a four-dose KwikPen."
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Common:** nausea, diarrhea, vomiting, constipation, indigestion and belly pain, mostly during dose increases",
+              "**Less common but serious:** pancreatitis, gallbladder disease, kidney injury from dehydration, severe allergic reactions, and worsening eye disease in people with diabetic retinopathy",
+              "**Boxed warning:** thyroid C-cell tumors in rats; not for people with a personal or family history of medullary thyroid cancer or MEN 2",
+              "**Birth control pills** may work less well for four weeks after starting and after each dose increase, so a backup method is advised",
+              "**Before surgery or sedation:** tell the care team, because slowed stomach emptying can raise the risk of inhaling stomach contents"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In SURMOUNT-4, people who switched to placebo after 36 weeks of treatment regained 14% of their body weight over the following year, while those who stayed on tirzepatide kept losing.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Tirzepatide sat on the FDA shortage list from 2022 to late 2024, which temporarily let pharmacies make copies. With the shortage declared over, that allowance has ended. The FDA has logged hundreds of adverse event reports tied to compounded tirzepatide and warns against products sold \"for research use only\", which are not tested for purity or dose accuracy.[^8]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: large randomized and outcome trials",
+      "text": "Tirzepatide has been studied in tens of thousands of people, including head-to-head trials against semaglutide and dulaglutide and a cardiovascular outcomes trial.[^2][^7] Its effects on long-term heart events in people without diabetes are still being studied."
+    },
+    "faq": [
+      {
+        "q": "Are Mounjaro and Zepbound the same drug?",
+        "a": "Yes. Both are tirzepatide made by Eli Lilly, with the same dose steps. Mounjaro carries the diabetes and heart-risk labeling, while Zepbound carries the weight management and sleep apnea labeling."
+      },
+      {
+        "q": "Does tirzepatide work better than semaglutide for weight loss?",
+        "a": "In the SURMOUNT-5 head-to-head trial, average weight loss at 72 weeks was 20.2% with tirzepatide and 13.7% with [semaglutide](/peptides/semaglutide).[^2] Individual results vary, and the side effects of the two drugs are similar."
+      },
+      {
+        "q": "What happens if I stop taking tirzepatide?",
+        "a": "Appetite usually returns and most people regain a large share of the weight within a year.[^3] Any decision to stop or switch is best made with the prescriber."
+      },
+      {
+        "q": "Is compounded tirzepatide the same as Zepbound?",
+        "a": "No. Compounded and \"research\" products are not FDA-approved, and the agency has received reports of dosing errors and adverse events linked to them.[^8]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Tirzepatide Once Weekly for the Treatment of Obesity",
+        "source": "N Engl J Med",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35658024/",
+        "pmid": "35658024",
+        "doi": "10.1056/NEJMoa2206038",
+        "note": "SURMOUNT-1: 72-week weight loss versus placebo"
+      },
+      {
+        "n": 2,
+        "title": "Tirzepatide as Compared with Semaglutide for the Treatment of Obesity",
+        "source": "N Engl J Med",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40353578/",
+        "pmid": "40353578",
+        "doi": "10.1056/NEJMoa2416394",
+        "note": "SURMOUNT-5: head-to-head weight loss versus semaglutide"
+      },
+      {
+        "n": 3,
+        "title": "Continued Treatment With Tirzepatide for Maintenance of Weight Reduction in Adults With Obesity: The SURMOUNT-4 Randomized Clinical Trial",
+        "source": "JAMA",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38078870/",
+        "pmid": "38078870",
+        "doi": "10.1001/jama.2023.24945",
+        "note": "SURMOUNT-4: weight regain after switching to placebo"
+      },
+      {
+        "n": 4,
+        "title": "MOUNJARO (tirzepatide) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d2d7da5d-ad07-4228-955f-cf7e355c8cc0",
+        "note": "Current Mounjaro label: diabetes and cardiovascular indications"
+      },
+      {
+        "n": 5,
+        "title": "ZEPBOUND (tirzepatide) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=487cd7e7-434c-4925-99fa-aa80b1cc776b",
+        "note": "Current Zepbound label: dosing, warnings and indications"
+      },
+      {
+        "n": 6,
+        "title": "Tirzepatide for the Treatment of Obstructive Sleep Apnea and Obesity",
+        "source": "N Engl J Med",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38912654/",
+        "pmid": "38912654",
+        "doi": "10.1056/NEJMoa2404881",
+        "note": "SURMOUNT-OSA: two 52-week sleep apnea trials"
+      },
+      {
+        "n": 7,
+        "title": "Cardiovascular Outcomes with Tirzepatide versus Dulaglutide in Type 2 Diabetes",
+        "source": "N Engl J Med",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41406444/",
+        "pmid": "41406444",
+        "doi": "10.1056/NEJMoa2505928",
+        "note": "SURPASS-CVOT: heart attack, stroke and cardiovascular death"
+      },
+      {
+        "n": 8,
+        "title": "FDA's concerns with unapproved GLP-1 drugs used for weight loss",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss",
+        "note": "Compounded and research-labeled GLP-1 products: adverse events and warnings"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}

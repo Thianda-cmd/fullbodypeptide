@@ -1,0 +1,265 @@
+{
+  "slug": "ziconotide",
+  "name": "Ziconotide",
+  "zone": "brain",
+  "category": "fda",
+  "aliases": [
+    "SNX-111",
+    "Omega-conotoxin MVIIA"
+  ],
+  "brands": [
+    "Prialt"
+  ],
+  "class": "N-type calcium channel blocker (conotoxin)",
+  "route": "Slow continuous infusion into the spinal fluid through an implanted pump",
+  "status": "FDA-approved in 2004 for severe chronic pain when other treatments fail or are not tolerated",
+  "evidence": 4,
+  "mechanism": "Blocks N-type calcium channels on pain nerve endings in the spinal cord, so they release less of the chemicals that relay pain to the brain",
+  "uses": [
+    "Severe chronic pain not controlled by other treatments"
+  ],
+  "popular": null,
+  "related": [
+    "difelikefalin",
+    "davunetide",
+    "trofinetide"
+  ],
+  "article": {
+    "summary": "Ziconotide (Prialt) is a synthetic cone-snail toxin infused into the spinal fluid for severe chronic pain. It is not an opioid but has serious psychiatric warnings.",
+    "takeaway": "Ziconotide is a lab-made copy of a peptide from the venom of the cone snail Conus magus. It blocks N-type calcium channels that pain-carrying nerves need to pass signals into the spinal cord, and it is delivered straight into the spinal fluid through an implanted pump.[^1] It is reserved for adults with severe chronic pain that other treatments, including spinal morphine, have not controlled.[^1] It does not act on opioid receptors, cause respiratory depression or lead to withdrawal, but it carries a **boxed warning** for severe psychiatric and neurological side effects.[^1][^2]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved in 2004 (Prialt)"
+      ],
+      [
+        "Main use",
+        "Severe chronic pain when other treatments fail or are not tolerated"
+      ],
+      [
+        "How it's given",
+        "Continuous intrathecal infusion via an implanted or external pump"
+      ],
+      [
+        "Drug class",
+        "N-type calcium channel blocker derived from cone snail venom"
+      ],
+      [
+        "Research",
+        "Three placebo-controlled trials in about 590 people, plus a 2025 meta-analysis"
+      ],
+      [
+        "Key warning",
+        "Boxed warning for psychiatric and neurological effects"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Cone snails hunt with venom made of many small peptides called conotoxins. Ziconotide is a synthetic version of one of them, a 25-amino-acid peptide first isolated from Conus magus in 1982.[^2]"
+          },
+          {
+            "type": "p",
+            "text": "When a pain signal arrives in the spinal cord, N-type (Cav2.2) calcium channels open at the nerve ending and trigger release of messengers such as glutamate and substance P. Ziconotide plugs those channels, so less of the signal is relayed toward the brain.[^2] It works independently of opioid receptors. Because it does not reach the spinal cord well from the bloodstream, it has to be infused directly into the cerebrospinal fluid."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Prialt is approved for adults with severe chronic pain for whom spinal (intrathecal) therapy is appropriate and who cannot tolerate, or have not been helped by, other treatments such as oral or injected pain medicines, add-on therapies or intrathecal morphine.[^1] In practice it is used by pain specialists for cancer pain, nerve pain and other hard-to-treat pain, sometimes as an alternative for people who cannot take more opioids."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "Cancer and AIDS pain",
+                "111 adults with refractory pain, rapid titration",
+                "Pain scores improved 53% vs 18% on placebo[^3]"
+              ],
+              [
+                "Chronic non-cancer pain",
+                "255 adults, rapid titration to higher doses",
+                "Pain improved about 31% vs 6%, but side effects were frequent[^4]"
+              ],
+              [
+                "Slow titration study",
+                "220 adults with severe chronic pain, 3 weeks",
+                "Pain improved 14.7% vs 7.2%, with better tolerability[^5]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "A 2025 meta-analysis of 23 studies (1,531 participants) confirmed meaningful pain relief compared with placebo, but found side effects in about 95% of treated patients and serious adverse events at more than twice the placebo rate. Its effect on opioid use was inconsistent, and the overall certainty of evidence was low to moderate.[^6]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Ziconotide is given only by continuous infusion into the spinal fluid, using a programmable implanted pump or an external pump with a spinal catheter, managed by a pain specialist.[^1]"
+          },
+          {
+            "type": "ul",
+            "items": [
+              "Starts at **no more than 2.4 mcg per day**",
+              "Raised in small steps no more than two or three times a week",
+              "Maximum recommended dose: **19.2 mcg per day**",
+              "Can be stopped abruptly without withdrawal, but opioids being replaced must be tapered gradually"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Boxed warning:** severe psychiatric symptoms and neurological impairment can occur; patients need frequent monitoring, and treatment is stopped if serious signs appear[^1]",
+              "**Common (25% or more):** dizziness, nausea, confusion and nystagmus (involuntary eye movements)[^1]",
+              "**Psychiatric effects:** reported cases include hallucinations, paranoia and delirium[^7]",
+              "**Lowered alertness**, memory problems and unsteady walking, especially at higher doses",
+              "**Infection:** meningitis from the pump and catheter system; creatine kinase (a muscle enzyme) should be checked periodically[^1]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Slow dose increases reduce side effects, which was the main lesson of the later trials.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "who-should-avoid-it",
+        "title": "Who should avoid it",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "Anyone with a **history of psychosis**, for whom it is contraindicated",
+              "People with an infection at the pump or catheter site, uncontrolled bleeding problems, or a blockage of the spinal canal that obstructs spinal fluid flow[^1]",
+              "People who drive or operate machinery should be cautious, because it can impair alertness"
+            ]
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Approved; real benefit, narrow safety margin",
+      "text": "Three randomized placebo-controlled trials showed pain relief in people with severe, treatment-resistant pain.[^3][^4][^5] Side effects are common and sometimes serious, and a recent meta-analysis rated the certainty of evidence as low to moderate.[^6]"
+    },
+    "faq": [
+      {
+        "q": "Is ziconotide an opioid?",
+        "a": "No. It blocks calcium channels rather than opioid receptors, does not cause respiratory depression, and has not shown tolerance or withdrawal.[^2]"
+      },
+      {
+        "q": "Does it really come from snail venom?",
+        "a": "The drug is made synthetically, but its structure is identical to a peptide found in the venom of the cone snail Conus magus.[^2]"
+      },
+      {
+        "q": "Why can't it be taken as a pill or shot?",
+        "a": "It is a peptide that would be digested if swallowed and does not reach the spinal cord well from the blood, so it is infused directly into the spinal fluid."
+      },
+      {
+        "q": "Can it be combined with spinal morphine?",
+        "a": "Combinations are used by some specialists, but the label covers ziconotide on its own, and adding drugs to a pump brings its own risks. That decision rests with the pain team."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "PRIALT (ziconotide acetate) intrathecal infusion: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=57376a5b-4530-9018-e063-6394a90a9afe",
+        "note": "Current label: boxed warning, dosing and contraindications"
+      },
+      {
+        "n": 2,
+        "title": "A comprehensive review on ziconotide",
+        "source": "Heliyon",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38779019/",
+        "pmid": "38779019",
+        "doi": "10.1016/j.heliyon.2024.e31105",
+        "note": "Origin, mechanism and pharmacology review"
+      },
+      {
+        "n": 3,
+        "title": "Intrathecal ziconotide in the treatment of refractory pain in patients with cancer or AIDS: a randomized controlled trial",
+        "source": "JAMA",
+        "year": 2004,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14709577/",
+        "pmid": "14709577",
+        "doi": "10.1001/jama.291.1.63",
+        "note": "Pivotal trial in cancer and AIDS pain"
+      },
+      {
+        "n": 4,
+        "title": "Intrathecal ziconotide in the treatment of chronic nonmalignant pain: a randomized, double-blind, placebo-controlled clinical trial",
+        "source": "Neuromodulation",
+        "year": 2006,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22151630/",
+        "pmid": "22151630",
+        "doi": "10.1111/j.1525-1403.2006.00055.x",
+        "note": "Trial in chronic non-cancer pain with rapid titration"
+      },
+      {
+        "n": 5,
+        "title": "A randomized, double-blind, placebo-controlled study of intrathecal ziconotide in adults with severe chronic pain",
+        "source": "J Pain Symptom Manage",
+        "year": 2006,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16716870/",
+        "pmid": "16716870",
+        "doi": "10.1016/j.jpainsymman.2005.10.003",
+        "note": "Slow-titration trial that shaped current dosing"
+      },
+      {
+        "n": 6,
+        "title": "Efficacy and safety of the Ca(v)2.2 blocker Ziconotide in pain: a meta-analysis and systematic review",
+        "source": "Pain Rep",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41255849/",
+        "pmid": "41255849",
+        "doi": "10.1097/PR9.0000000000001363",
+        "note": "Meta-analysis of benefit and harms across 23 studies"
+      },
+      {
+        "n": 7,
+        "title": "Ziconotide and psychosis: from a case report to a scoping review",
+        "source": "Front Mol Neurosci",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39479264/",
+        "pmid": "39479264",
+        "doi": "10.3389/fnmol.2024.1412855",
+        "note": "Review of psychiatric reactions reported with ziconotide"
+      }
+    ],
+    "updated": "2026-10-27"
+  }
+}
