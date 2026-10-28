@@ -1,0 +1,224 @@
+{
+  "slug": "mk-677-ibutamoren",
+  "name": "MK-677 (ibutamoren)",
+  "zone": "bones",
+  "category": "wellness",
+  "aliases": [
+    "Ibutamoren",
+    "Ibutamoren mesylate",
+    "MK-0677"
+  ],
+  "brands": [],
+  "class": "Oral ghrelin-receptor agonist (not a peptide)",
+  "route": "Taken by mouth; no approved product",
+  "status": "Not FDA-approved; FDA lists ibutamoren in Category 2 (significant safety risks) for compounding; banned in sport",
+  "evidence": 2,
+  "mechanism": "A non-peptide drug that mimics the hunger hormone ghrelin to raise growth hormone and IGF-1 when swallowed",
+  "uses": [
+    "Lean mass and muscle (claimed)",
+    "Sleep and appetite (claimed)",
+    "Recovery after hip fracture (studied, unproven)"
+  ],
+  "popular": 21,
+  "related": [
+    "ipamorelin",
+    "ghrp-6",
+    "ghrp-2",
+    "hexarelin",
+    "somatropin-rhgh"
+  ],
+  "article": {
+    "summary": "MK-677 (ibutamoren) is an oral drug, not a peptide, that raises growth hormone and IGF-1. Trials showed more lean mass but weight gain, higher blood sugar and a heart failure signal; it is unapproved and banned in sport.",
+    "takeaway": "MK-677 is a small oral molecule that mimics ghrelin and raises growth hormone and IGF-1. In a 2-year trial in 65 healthy older adults it increased fat-free mass by about 1.1 kg versus a 0.5 kg loss on placebo, but body weight rose 2.7 kg, fasting blood sugar went up and insulin sensitivity fell.[^1] A hip-fracture trial was stopped early over a heart failure signal, and a 563-patient Alzheimer's trial found no benefit despite higher IGF-1.[^2][^3] The FDA lists it among substances raising significant safety risks, and WADA bans it.[^4][^5]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; FDA Category 2 (significant safety risks) for compounding[^4]"
+      ],
+      [
+        "Main uses claimed",
+        "Lean mass, sleep, appetite, recovery"
+      ],
+      [
+        "How it's taken",
+        "By mouth in research and gray-market products; no approved dosing"
+      ],
+      [
+        "Drug class",
+        "Non-peptide ghrelin mimetic (GH secretagogue)"
+      ],
+      [
+        "Research",
+        "Randomized trials in older adults, hip fracture and Alzheimer's disease[^1][^2][^3]"
+      ],
+      [
+        "Sport",
+        "Prohibited at all times; WADA names ibutamoren and MK-677[^5]"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Ghrelin is a stomach hormone that stimulates hunger and also triggers growth hormone release from the pituitary through the ghrelin (GH secretagogue) receptor. MK-677 is a small non-peptide molecule that activates the same receptor and, unlike peptides, works when swallowed.[^6] In the older-adult trial, daily use raised GH and IGF-1 to levels seen in healthy young adults.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "Older adults, 1 to 2 years",
+                "65 healthy adults aged 60 to 81",
+                "Fat-free mass +1.1 kg vs -0.5 kg on placebo, with no change in strength or function; weight +2.7 kg[^1]"
+              ],
+              [
+                "Hip fracture, 24 weeks",
+                "123 older patients",
+                "IGF-1 rose, but most function measures did not improve; stopped early for a heart failure signal[^2]"
+              ],
+              [
+                "Alzheimer's disease, 12 months",
+                "563 patients",
+                "IGF-1 rose 73%, with no benefit on cognition or daily function[^3]"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Heart failure signal:** the hip-fracture trial ended early because of a potential signal of congestive heart failure, which the FDA cites as a reason for its significant-risk listing[^2][^4]",
+              "**Blood sugar:** fasting glucose rose by about 5 mg/dL and insulin sensitivity fell in older adults[^1]",
+              "**Common effects:** increased appetite, temporary leg swelling and muscle pain, and higher cortisol[^1]",
+              "**Unknown long term:** no trial has followed healthy users beyond two years or measured cancer risk and survival, which reviews of GH-stimulating drugs call for[^6]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "MK-677 is not FDA-approved for any use. The FDA's May 2026 list of nominated bulk substances places ibutamoren mesylate in Category 2, substances raising significant safety concerns, and its safety page cites the heart failure signal.[^4][^7] WADA prohibits ibutamoren (MK-677) as a growth hormone secretagogue at all times.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "MK-677 reliably raises growth hormone and IGF-1 and adds lean mass, but the extra mass did not improve strength or function, and the trials show weight gain, higher blood sugar and a heart failure signal. It is unapproved and banned in sport."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Moderate human data, but safety signals, no proven benefit",
+      "text": "Randomized trials exist, including a 2-year study, but they showed hormone and lean-mass changes without functional benefit and with safety signals.[^1][^2][^3]"
+    },
+    "faq": [
+      {
+        "q": "Is MK-677 a peptide?",
+        "a": "No. It is a small non-peptide molecule that mimics ghrelin. It is grouped with GH secretagogues because it triggers the same receptor as peptides such as [ipamorelin](/peptides/ipamorelin).[^6]"
+      },
+      {
+        "q": "Does it build muscle?",
+        "a": "It increased fat-free mass in older adults, but the gain did not translate into greater strength or function in that trial.[^1]"
+      },
+      {
+        "q": "Is MK-677 banned in sport?",
+        "a": "Yes. WADA names ibutamoren (MK-677) as a prohibited growth hormone secretagogue at all times.[^5]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Effects of an oral ghrelin mimetic on body composition and clinical outcomes in healthy older adults: a randomized trial",
+        "source": "Ann Intern Med",
+        "year": 2008,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18981485/",
+        "pmid": "18981485",
+        "doi": "10.7326/0003-4819-149-9-200811040-00003",
+        "note": "Two-year placebo-controlled trial in 65 older adults"
+      },
+      {
+        "n": 2,
+        "title": "MK-0677 (ibutamoren mesylate) for the treatment of patients recovering from hip fracture: a multicenter, randomized, placebo-controlled phase IIb study",
+        "source": "Arch Gerontol Geriatr",
+        "year": 2011,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21067829/",
+        "pmid": "21067829",
+        "doi": "10.1016/j.archger.2010.10.004",
+        "note": "Stopped early for a heart failure safety signal"
+      },
+      {
+        "n": 3,
+        "title": "Growth hormone secretagogue MK-677: no clinical effect on AD progression in a randomized trial",
+        "source": "Neurology",
+        "year": 2008,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19015485/",
+        "pmid": "19015485",
+        "doi": "10.1212/01.wnl.0000335163.88054.e7",
+        "note": "563-patient Alzheimer's disease trial"
+      },
+      {
+        "n": 4,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA's stated concerns about ibutamoren mesylate"
+      },
+      {
+        "n": 5,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "Ibutamoren (MK-677) is a prohibited GH secretagogue"
+      },
+      {
+        "n": 6,
+        "title": "The Safety and Efficacy of Growth Hormone Secretagogues",
+        "source": "Sex Med Rev",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28400207/",
+        "pmid": "28400207",
+        "doi": "10.1016/j.sxmr.2017.02.004",
+        "note": "Review covering peptides and the oral drug ibutamoren"
+      },
+      {
+        "n": 7,
+        "title": "Bulk Drug Substances Nominated for Use in Compounding Under Section 503A of the Federal Food, Drug, and Cosmetic Act (updated May 14, 2026)",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/media/94155/download",
+        "note": "Ibutamoren mesylate listed in Category 2"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

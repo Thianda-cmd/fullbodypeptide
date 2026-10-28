@@ -59,7 +59,7 @@
         "blocks": [
           {
             "type": "p",
-            "text": "Hexarelin belongs to the family of synthetic GH-releasing peptides that act on specific receptors in the pituitary and hypothalamus and have no structural similarity to GHRH.[^5] Their GH-releasing activity is marked and dose-related, and the receptor's natural partner is the stomach hormone ghrelin.[^5]"
+            "text": "Hexarelin belongs to the family of synthetic GH-releasing peptides that act on specific receptors in the pituitary and hypothalamus and have no structural similarity to GHRH.[^5] Their GH-releasing activity is marked and dose-related.[^5]"
           }
         ]
       },
@@ -71,7 +71,7 @@
             "type": "ul",
             "items": [
               "**Dose-response:** in healthy men, intravenous hexarelin released GH, prolactin and cortisol in a dose-dependent way; a low amount combined with GHRH released a very large amount of GH with no cortisol rise[^1]",
-              "**Desensitization:** in adults given hexarelin twice daily for 16 weeks, the GH response fell from 19.1 to 10.5 units of area under the curve and returned to 19.4 four weeks after stopping[^2]"
+              "**Desensitization:** in adults given hexarelin twice daily for 16 weeks, the GH response (area under the curve) fell from 19.1 to 10.5 µg/L per hour and returned to 19.4 four weeks after stopping[^2]"
             ]
           },
           {
@@ -87,8 +87,8 @@
           {
             "type": "ul",
             "items": [
-              "**Other hormones:** prolactin rose up to about 180% and cortisol up to about 40% in men at higher doses[^1]",
-              "**Fading effect:** the falling GH response over weeks makes sustained benefit unlikely and is unexplained in healthy users[^2]",
+              "**Other hormones:** at higher doses in men, prolactin rose by up to about 180% and cortisol by about 40% over baseline[^1]",
+              "**Fading effect:** the falling GH response over weeks suggests any benefit may not be sustained[^2]",
               "**No regulatory safety review:** unlike GHRP-2, GHRP-6 and ibutamoren, hexarelin does not appear in the FDA's published compounding safety lists, which is not evidence that it is safe[^4]",
               "**Unknown long term:** no long-term safety, cancer or mortality data exist for healthy users",
               "**Quality:** illegally sold peptide drugs have shown highly variable amounts, low purity and toxic metals such as arsenic and lead[^6]"
