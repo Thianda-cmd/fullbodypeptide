@@ -1,0 +1,211 @@
+{
+  "slug": "compounded-gonadorelin",
+  "name": "Gonadorelin (compounded)",
+  "zone": "sex",
+  "category": "wellness",
+  "aliases": [
+    "GnRH",
+    "Gonadotropin-releasing hormone",
+    "LHRH"
+  ],
+  "brands": [],
+  "class": "Native GnRH (hypothalamic hormone)",
+  "route": "Injection under the skin (compounded); no approved human product",
+  "status": "No FDA-approved human gonadorelin product; compounded injections are sold as a testosterone-therapy add-on; banned in sport for men",
+  "evidence": 1,
+  "mechanism": "A copy of the brain's GnRH, which prompts the pituitary to release LH and FSH; only pulsed exposure stimulates, while constant exposure suppresses",
+  "uses": [
+    "Add-on to testosterone therapy (claimed)",
+    "Preserving testicular size and fertility (claimed)"
+  ],
+  "popular": 29,
+  "related": [
+    "human-chorionic-gonadotropin",
+    "kisspeptin-10",
+    "leuprolide",
+    "nafarelin",
+    "triptorelin"
+  ],
+  "article": {
+    "summary": "Compounded gonadorelin is a copy of the brain hormone GnRH, sold as an add-on to testosterone therapy. No human product is FDA-approved, controlled trials of this use are missing, and WADA bans it in men.",
+    "takeaway": "Gonadorelin is the same ten-amino-acid hormone, GnRH, that the hypothalamus releases to tell the pituitary to make LH and FSH, the signals that keep the testes producing testosterone and sperm. Testosterone therapy suppresses those signals, and clinics prescribe compounded gonadorelin alongside it to try to keep the testes active. The idea is plausible, but the searches for this entry found no controlled trial of gonadorelin for this purpose; the add-on that has been tested is hCG.[^1] GnRH stimulates only when it arrives in pulses, because steady exposure shuts the pituitary down, which is how GnRH agonist drugs work.[^2] No FDA-approved human product exists, and WADA bans it in men.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "No approved human product; the gonadorelin labels on DailyMed are veterinary[^4]"
+      ],
+      [
+        "Main uses claimed",
+        "Keeping the testes active during testosterone therapy"
+      ],
+      [
+        "How it's taken",
+        "Injection under the skin (compounded); no approved dosing"
+      ],
+      [
+        "Drug class",
+        "Native GnRH"
+      ],
+      [
+        "Research",
+        "Pulsed GnRH by pump is studied in hypogonadotropic hypogonadism; none found for the add-on use[^5]"
+      ],
+      [
+        "Sport",
+        "Prohibited in male athletes at all times (WADA)[^3]"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In men, the hypothalamus releases GnRH in pulses. Each pulse prompts the pituitary to release LH and FSH, which tell the testes to make testosterone and sperm. When a man takes testosterone, the brain senses plenty and cuts GnRH, LH and FSH. In healthy men given weekly testosterone, LH and FSH fell to about 5% and 3% of baseline and testosterone inside the testes fell 94% within 3 weeks.[^1] Gonadorelin is meant to replace the missing GnRH signal so the testes keep working."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Pulsed GnRH for hypogonadotropic hypogonadism:** in 28 men with congenital hypogonadotropic hypogonadism who had responded poorly to gonadotropin injections, switching to pulsatile GnRH produced sperm in 17 (61%), after about a year on average[^5]",
+              "**hCG as the tested add-on:** in a randomized study of 29 healthy men on weekly testosterone, low-dose hCG kept testicular testosterone in the normal range, while testosterone alone suppressed it[^1]",
+              "**Gonadorelin as an add-on:** the searches for this entry found no controlled trial of injected gonadorelin used alongside testosterone therapy"
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Studies of pulsed GnRH use a programmed pump in men who lack GnRH. That is a different setting from occasional clinic injections."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**No data for this use:** the benefit, safety and best regimen of gonadorelin alongside testosterone have not been established in trials",
+              "**Timing matters:** GnRH-type drugs stimulate LH and FSH at first, but repeated or steady exposure abolishes the stimulation, the opposite of the goal[^2]",
+              "**Fertility is not assured:** nothing here shows that gonadorelin protects sperm production in men on testosterone",
+              "**Quality:** compounded peptide injections are not FDA-reviewed for quality, and illegally sold peptide drugs have shown low purity and toxic metals such as arsenic and lead[^6]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "No gonadorelin product with a current FDA label for people turned up on DailyMed. The Factrel label is for use in cattle only, and the other gonadorelin labels come from animal-health sponsors.[^4] Gonadorelin does not appear in any category of the FDA's May 2026 list of substances nominated for 503A compounding.[^7] Pharmacies and outsourcing facilities nonetheless sell compounded injections, and whether a given product is lawful depends on FDA bulk-substance rules that this entry could not confirm for gonadorelin."
+          },
+          {
+            "type": "p",
+            "text": "WADA lists GnRH and gonadorelin, with agonist analogs such as nafarelin and leuprolide, as testosterone-stimulating peptides prohibited in males at all times.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Gonadorelin is a real hormone with a proven role when pumped in pulses to men who lack it. As a compounded injection add-on to testosterone therapy it has no controlled trials, no FDA-approved human product and an unsettled regulatory footing. Decisions about fertility and testosterone belong with an endocrinologist or urologist, and athletes subject to testing should treat it as banned."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Low: proven in pumps, untested as a testosterone add-on",
+      "text": "Pulsed GnRH works in men who lack it.[^5] For the wellness use, only hCG has randomized data, and none were found for gonadorelin.[^1]"
+    },
+    "faq": [
+      {
+        "q": "Is gonadorelin the same as hCG?",
+        "a": "No. Gonadorelin copies the brain's GnRH, which acts on the pituitary. [hCG](/peptides/human-chorionic-gonadotropin) acts like LH directly on the testes, and it is the add-on that has been tested in randomized work.[^1]"
+      },
+      {
+        "q": "Is gonadorelin FDA-approved?",
+        "a": "Not for people today. The gonadorelin labels on DailyMed are veterinary, and compounded versions are not FDA-approved products.[^4]"
+      },
+      {
+        "q": "Is it banned in sport?",
+        "a": "Yes, for male athletes. WADA lists GnRH and gonadorelin among prohibited testosterone-stimulating peptides.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Low-dose human chorionic gonadotropin maintains intratesticular testosterone in normal men with testosterone-induced gonadotropin suppression",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2005,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15713727/",
+        "pmid": "15713727",
+        "doi": "10.1210/jc.2004-0802",
+        "note": "Randomized study of hCG with weekly testosterone in 29 men"
+      },
+      {
+        "n": 2,
+        "title": "SYNAREL (nafarelin acetate) nasal solution: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d0aa57cb-d2f4-46d7-af43-7c8b06aa81a6",
+        "note": "Explains GnRH agonist stimulation followed by suppression"
+      },
+      {
+        "n": 3,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "GnRH and gonadorelin are prohibited in males at all times"
+      },
+      {
+        "n": 4,
+        "title": "FACTREL (gonadorelin hydrochloride) injection: prescribing information (for use in cattle only)",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1451663c-b85a-4b45-8b27-6d572d0032f9",
+        "note": "Veterinary label; no human gonadorelin label was found"
+      },
+      {
+        "n": 5,
+        "title": "Pulsatile gonadotropin releasing hormone therapy for spermatogenesis in congenital hypogonadotropic hypogonadism patients who had poor response to combined gonadotropin therapy",
+        "source": "Arch Endocrinol Metab",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38739523/",
+        "pmid": "38739523",
+        "doi": "10.20945/2359-4292-2023-0101",
+        "note": "Pump-delivered GnRH in 28 men"
+      },
+      {
+        "n": 6,
+        "title": "Impurity profiling of the most frequently encountered falsified polypeptide drugs on the Belgian market",
+        "source": "Talanta",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30029448/",
+        "pmid": "30029448",
+        "doi": "10.1016/j.talanta.2018.06.023",
+        "note": "Purity and metal contamination in illegally sold peptides"
+      },
+      {
+        "n": 7,
+        "title": "Bulk Drug Substances Nominated for Use in Compounding Under Section 503A of the Federal Food, Drug, and Cosmetic Act (updated May 14, 2026)",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/media/94155/download",
+        "note": "Current 503A categories; gonadorelin is not listed"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

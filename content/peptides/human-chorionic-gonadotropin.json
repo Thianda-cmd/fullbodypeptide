@@ -182,7 +182,7 @@
     "faq": [
       {
         "q": "Does hCG help with weight loss?",
-        "a": "No. The FDA states there is no substantial evidence that hCG increases weight loss, and it has never approved an hCG product for that use.[^3] Any loss on 'hCG diets' comes from the very low-calorie diet that accompanies them.[^3]"
+        "a": "No. The FDA states there is no substantial evidence that hCG increases weight loss, and it has never approved an hCG product for that use.[^3] The FDA attributes any loss on 'hCG diets' to the severe calorie restriction, around 500 calories a day, that accompanies them.[^8]"
       },
       {
         "q": "Why do some men on testosterone also use hCG?",
@@ -259,6 +259,14 @@
         "year": 2026,
         "url": "https://www.usada.org/substances/prohibited-list/",
         "note": "Chorionic gonadotrophin and LH are prohibited in males"
+      },
+      {
+        "n": 8,
+        "title": "Avoid Dangerous HCG Diet Products",
+        "source": "U.S. FDA",
+        "year": 2020,
+        "url": "https://www.fda.gov/consumers/consumer-updates/avoid-dangerous-hcg-diet-products",
+        "note": "Consumer warning: weight loss comes from calorie restriction, not hCG"
       }
     ],
     "updated": "2026-10-28"
