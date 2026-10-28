@@ -70,7 +70,7 @@
         "blocks": [
           {
             "type": "p",
-            "text": "Independent testing did not support the cell findings. Two pharmaceutical-company labs tried to reproduce them with the 24-amino-acid MGF peptide at up to 500 ng/ml. It did not increase the proliferation of mouse or human muscle precursor cells or primary mouse muscle stem cells, and it did not block their maturation, while mature IGF-1 and full-length IGF-1Eb did stimulate them.[^3]"
+            "text": "Independent testing did not support the cell findings. Two pharmaceutical-company labs tried to reproduce them with the 24-amino-acid MGF peptide at high concentrations. It did not increase the proliferation of mouse or human muscle precursor cells or primary mouse muscle stem cells, and it did not block their maturation, while mature IGF-1 and full-length IGF-1Eb did stimulate them.[^3]"
           },
           {
             "type": "p",

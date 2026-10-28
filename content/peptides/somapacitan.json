@@ -31,7 +31,7 @@
   ],
   "article": {
     "summary": "Somapacitan (Sogroya) is a once-weekly growth hormone for adults and children with growth hormone deficiency, and since 2026 for several other causes of short stature in children.",
-    "takeaway": "Somapacitan is human growth hormone with one amino acid change and a fatty side chain that sticks to albumin in the blood, which stretches its action to a week.[^1] In children with growth hormone deficiency, weekly somapacitan grew children as fast as daily injections (11.2 vs 11.7 cm a year).[^3] In adults it reduced trunk fat compared with placebo.[^2] In 2026 the FDA added short stature after being born small for gestational age, Noonan syndrome and idiopathic short stature.[^1] Its safety profile mirrors daily growth hormone, and it is not a wellness or anti-aging product.",
+    "takeaway": "Somapacitan is human growth hormone with one amino acid change and a fatty side chain that sticks to albumin in the blood, which stretches its action to a week.[^1] In children with growth hormone deficiency, weekly somapacitan grew children as fast as daily injections (11.2 vs 11.7 cm a year).[^2] In adults it reduced trunk fat compared with placebo.[^3] In 2026 the FDA added short stature after being born small for gestational age, Noonan syndrome and idiopathic short stature.[^1] Its safety profile mirrors daily growth hormone, and it is not a wellness or anti-aging product.",
     "glance": [
       [
         "FDA status",
@@ -106,12 +106,12 @@
               [
                 "REAL 1",
                 "Adults with GH deficiency",
-                "Less trunk fat than placebo at 34 weeks; benefits matched daily GH through 86 weeks[^2]"
+                "Less trunk fat than placebo at 34 weeks; benefits matched daily GH through 86 weeks[^3]"
               ],
               [
                 "REAL 4",
                 "Children with GH deficiency, new to treatment",
-                "Growth of 11.2 cm/year vs 11.7 with daily GH; noninferior at 52 weeks[^3]"
+                "Growth of 11.2 cm/year vs 11.7 with daily GH; noninferior at 52 weeks[^2]"
               ],
               [
                 "Noonan syndrome trial",
@@ -122,7 +122,7 @@
           },
           {
             "type": "p",
-            "text": "Injection-site reactions were uncommon in REAL 4 (5.3% with somapacitan, 5.9% with daily GH), and families reported a lower treatment burden with weekly dosing.[^3]"
+            "text": "Injection-site reactions were uncommon in REAL 4 (5.3% with somapacitan, 5.9% with daily GH), and families reported a lower treatment burden with weekly dosing.[^2]"
           }
         ]
       },
@@ -154,12 +154,12 @@
     ],
     "evidence": {
       "label": "Strong: phase 3 trials versus daily GH",
-      "text": "Randomized phase 3 trials in adults and children show weekly somapacitan works as well as daily growth hormone, with similar safety.[^2][^3] Long-term data beyond a few years are still accumulating, as with all long-acting growth hormones."
+      "text": "Randomized phase 3 trials in adults and children show weekly somapacitan works as well as daily growth hormone, with similar safety.[^3][^2] Long-term data beyond a few years are still accumulating, as with all long-acting growth hormones."
     },
     "faq": [
       {
         "q": "Is weekly growth hormone as effective as daily injections?",
-        "a": "In children with growth hormone deficiency, growth over a year was similar, and in Noonan syndrome it was slightly faster than daily growth hormone.[^3][^4]"
+        "a": "In children with growth hormone deficiency, growth over a year was similar, and in Noonan syndrome it was slightly faster than daily growth hormone.[^2][^4]"
       },
       {
         "q": "Can adults use somapacitan for anti-aging or muscle?",
@@ -181,16 +181,6 @@
       },
       {
         "n": 2,
-        "title": "Once-weekly Somapacitan is Effective and Well Tolerated in Adults with GH Deficiency: A Randomized Phase 3 Trial.",
-        "source": "J Clin Endocrinol Metab",
-        "year": 2020,
-        "url": "https://pubmed.ncbi.nlm.nih.gov/32022863/",
-        "pmid": "32022863",
-        "doi": "10.1210/clinem/dgaa049",
-        "note": "REAL 1: adult GH deficiency versus placebo and daily GH"
-      },
-      {
-        "n": 3,
         "title": "Weekly Somapacitan is Effective and Well Tolerated in Children With GH Deficiency: The Randomized Phase 3 REAL4 Trial.",
         "source": "J Clin Endocrinol Metab",
         "year": 2022,
@@ -198,6 +188,16 @@
         "pmid": "36062966",
         "doi": "10.1210/clinem/dgac513",
         "note": "REAL 4: children with GH deficiency versus daily GH"
+      },
+      {
+        "n": 3,
+        "title": "Once-weekly Somapacitan is Effective and Well Tolerated in Adults with GH Deficiency: A Randomized Phase 3 Trial.",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32022863/",
+        "pmid": "32022863",
+        "doi": "10.1210/clinem/dgaa049",
+        "note": "REAL 1: adult GH deficiency versus placebo and daily GH"
       },
       {
         "n": 4,

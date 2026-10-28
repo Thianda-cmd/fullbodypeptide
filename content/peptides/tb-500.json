@@ -70,7 +70,7 @@
         "blocks": [
           {
             "type": "p",
-            "text": "Human data exist for the full-length protein, not for TB-500. In a phase 1 trial, healthy volunteers received synthetic thymosin beta-4 intravenously, including daily for 14 days, with no dose-limiting toxicity or serious adverse events.[^6] Clinical development of the full-length protein has focused on skin wounds, corneal injuries, and heart and brain repair after ischemia.[^2]"
+            "text": "Human data exist for the full-length protein, not for TB-500. In a phase 1 trial, healthy volunteers received synthetic thymosin beta-4 intravenously, as single and then repeated doses over 14 days, with no dose-limiting toxicity or serious adverse events.[^6] Clinical development of the full-length protein has focused on skin wounds, corneal injuries, and heart and brain repair after ischemia.[^2]"
           },
           {
             "type": "note",

@@ -2,7 +2,7 @@
   "slug": "rusfertide",
   "name": "Rusfertide",
   "zone": "heart",
-  "category": "clinical",
+  "category": "fda",
   "aliases": [
     "PTG-300"
   ],
@@ -12,7 +12,7 @@
   "class": "Hepcidin mimetic peptide",
   "route": "Injection under the skin once weekly",
   "status": "FDA-approved August 28, 2026 (Mimrylo) for erythrocytosis in adults with polycythemia vera",
-  "evidence": 3,
+  "evidence": 4,
   "mechanism": "Mimics hepcidin, the liver hormone that controls iron, to limit the iron available for making red blood cells and so curb their overproduction",
   "uses": [
     "Erythrocytosis in polycythemia vera"

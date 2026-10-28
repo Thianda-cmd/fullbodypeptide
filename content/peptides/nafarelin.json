@@ -50,7 +50,7 @@
       ],
       [
         "Sport",
-        "Prohibited in male athletes at all times (WADA)[^6]"
+        "Prohibited in male athletes at all times (WADA)[^5]"
       ]
     ],
     "sections": [
@@ -109,7 +109,7 @@
           },
           {
             "type": "p",
-            "text": "For central precocious puberty, a consensus statement says the adult-height benefit of GnRH analogs is undisputed only in early-onset disease (girls under 6), and few controlled prospective studies exist in children.[^5]"
+            "text": "For central precocious puberty, a consensus statement says the adult-height benefit of GnRH analogs is undisputed only in early-onset disease (girls under 6), and few controlled prospective studies exist in children.[^6]"
           }
         ]
       },
@@ -142,7 +142,7 @@
     ],
     "evidence": {
       "label": "Strong for endometriosis and puberty suppression",
-      "text": "Randomized, double-blind trials support endometriosis symptom relief, though benefit fades after treatment ends.[^2][^3] Evidence for adult height in precocious puberty is strongest in early-onset girls.[^5]"
+      "text": "Randomized, double-blind trials support endometriosis symptom relief, though benefit fades after treatment ends.[^2][^3] Evidence for adult height in precocious puberty is strongest in early-onset girls.[^6]"
     },
     "faq": [
       {
@@ -155,7 +155,7 @@
       },
       {
         "q": "Is it banned in sport?",
-        "a": "WADA prohibits GnRH agonists, including nafarelin, in male athletes at all times as testosterone-stimulating peptides.[^6]"
+        "a": "WADA prohibits GnRH agonists, including nafarelin, in male athletes at all times as testosterone-stimulating peptides.[^5]"
       }
     ],
     "citations": [
@@ -197,6 +197,14 @@
       },
       {
         "n": 5,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "GnRH agonists such as nafarelin are prohibited in males"
+      },
+      {
+        "n": 6,
         "title": "Consensus statement on the use of gonadotropin-releasing hormone analogs in children",
         "source": "Pediatrics",
         "year": 2009,
@@ -204,14 +212,6 @@
         "pmid": "19332438",
         "doi": "10.1542/peds.2008-1783",
         "note": "Expert consensus on GnRH analogs in precocious puberty"
-      },
-      {
-        "n": 6,
-        "title": "World Anti-Doping Agency (WADA) Prohibited List",
-        "source": "USADA",
-        "year": 2026,
-        "url": "https://www.usada.org/substances/prohibited-list/",
-        "note": "GnRH agonists such as nafarelin are prohibited in males"
       }
     ],
     "updated": "2026-10-28"

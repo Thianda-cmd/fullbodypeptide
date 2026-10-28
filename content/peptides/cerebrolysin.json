@@ -1,0 +1,265 @@
+{
+  "slug": "cerebrolysin",
+  "name": "Cerebrolysin",
+  "zone": "brain",
+  "category": "wellness",
+  "aliases": [
+    "FPF 1070"
+  ],
+  "brands": [],
+  "class": "Porcine brain-derived peptide mixture",
+  "route": "Injection or IV infusion where it is licensed (not available in the US)",
+  "status": "Not FDA-approved; prescribed in some other countries for stroke, dementia and brain injury",
+  "evidence": 2,
+  "mechanism": "A mixture of small peptides and amino acids from pig brain, said to act like natural nerve growth factors, though its active components are not defined",
+  "uses": [
+    "Stroke recovery (studied)",
+    "Vascular dementia and Alzheimer's disease (studied)",
+    "Traumatic brain injury (studied)",
+    "Memory and focus (marketed online, unproven)"
+  ],
+  "popular": null,
+  "related": [
+    "semax",
+    "selank",
+    "dihexa",
+    "davunetide",
+    "nnz-2591"
+  ],
+  "article": {
+    "summary": "Cerebrolysin is a mixture of small peptides and amino acids made from pig brain tissue and prescribed in some countries. It is not FDA-approved, and trial results are mixed and often low quality.",
+    "takeaway": "Cerebrolysin is not a single peptide but a mixture of small peptides and amino acids made from pig brain tissue. It is used in parts of Europe and Asia for stroke, dementia and brain injury, but it is not approved by the FDA. A 2023 Cochrane review of stroke trials found moderate-certainty evidence of no benefit on deaths and a possible increase in non-fatal serious adverse events.[^1] Small trials in dementia and head injury report modest benefits, but many were short, industry-supported or at risk of bias.[^2][^3][^4] Vials sold online in the US are unapproved drugs of unknown quality.",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; no US label and not registered with the FDA"
+      ],
+      [
+        "Main uses studied",
+        "Stroke recovery, dementia, traumatic brain injury"
+      ],
+      [
+        "How it's given",
+        "Injection or IV infusion by clinicians where it is licensed"
+      ],
+      [
+        "Drug class",
+        "Porcine brain-derived peptide preparation"
+      ],
+      [
+        "Research",
+        "Human trials in stroke, dementia and brain injury, with mixed results and frequent bias concerns"
+      ],
+      [
+        "Related",
+        "[Semax](/peptides/semax), [selank](/peptides/selank), [dihexa](/peptides/dihexa)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Cerebrolysin is made by breaking down proteins from pig brain into short peptides and free amino acids, then purifying the result for injection. Reviews describe it as having properties similar to natural neurotrophic factors, the proteins that help nerve cells survive, grow and form connections.[^2] In animal and cell studies it appears to act in several ways at once, which is why it is called a multi-target drug.[^5]"
+          },
+          {
+            "type": "p",
+            "text": "Because it is a mixture, its active ingredients are not clearly defined. There is no single receptor or molecule to point to, and the neurotrophic label rests on laboratory findings rather than on a proven effect in people."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Condition",
+                "What the evidence says"
+              ],
+              [
+                "Acute ischemic stroke",
+                "Cochrane (7 trials, 1,773 people): probably no effect on all-cause death (RR 0.96); more non-fatal serious adverse events (RR 2.39)[^1]. In the 1,070-patient CASTA trial the main endpoint was neutral, with only a post hoc trend in severe strokes[^6]"
+              ],
+              [
+                "Vascular dementia",
+                "Cochrane (6 trials, 597 people): better cognition scores, but the evidence was very low quality[^3]"
+              ],
+              [
+                "Alzheimer's disease",
+                "Meta-analysis of 6 trials: better cognition at 4 weeks (not significant at 6 months) and better global clinical change; safety similar to placebo[^4]"
+              ],
+              [
+                "Moderate to severe brain injury",
+                "Combined CAPTAIN trials (185 patients): small-to-medium benefit on recovery scales at days 30 and 90[^7]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Reviewers repeatedly flag the same problems: small samples, short follow-up, unclear blinding and manufacturer involvement. For the stroke trials, Cochrane noted that the manufacturer supported three of the multicentre studies and that two studies were at high risk of other bias.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Serious events:** in stroke trials, Cochrane found moderate-certainty evidence that non-fatal serious adverse events were more common with Cerebrolysin, though deaths and total serious events were not different.[^1]",
+              "**Common effects:** dizziness or vertigo was the most frequent adverse event in dementia trials.[^2]",
+              "**Who should not use it:** the manufacturer's information lists hypersensitivity, epilepsy and severe kidney impairment as contraindications.[^8]",
+              "**Unknowns:** long-term safety, effects in healthy people, and the consistency of an animal-derived mixture between batches are not well studied. No dosing information is given here."
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Online sellers in the US offer vials that are unapproved and unverified. Identity, purity, sterility and animal-source safety cannot be assumed, and injecting a contaminated product carries infection risks."
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Cerebrolysin is not approved by the FDA for any use. The manufacturer's own information says it is not registered with the FDA and not approved for sale or distribution in the United States,[^8] and FDA's DailyMed label database has no Cerebrolysin product."
+          },
+          {
+            "type": "p",
+            "text": "It also does not appear among the bulk drug substances that the FDA lists as nominated for compounding in its categories 1 to 3 (list updated May 14, 2026),[^9] so it is not a recognized compounding ingredient. A product sold in the US as a wellness or research item is an unapproved drug. Elsewhere, it is a licensed prescription medicine in some countries, which is where most of the trials were run."
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Cerebrolysin has more human trial data than most peptides sold for the brain, but the data are mixed, often low quality and sometimes negative. The best-run stroke reviews do not show a survival or recovery benefit and hint at more serious non-fatal events. It is not a legal, regulated option in the US, and 'nootropic' claims for healthy people have no support in these trials."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Mixed: many trials, but low quality and conflicting",
+      "text": "Many human trials exist, yet Cochrane rates the stroke evidence as showing no benefit on death and the dementia evidence as very low quality.[^1][^3] Positive meta-analyses in Alzheimer's disease and brain injury rely on small, mostly short trials.[^4][^7]"
+    },
+    "faq": [
+      {
+        "q": "Is Cerebrolysin legal in the US?",
+        "a": "It is not FDA-approved and has no US label. The manufacturer says it is not approved for sale or distribution in the United States, so products sold online are unapproved drugs.[^8]"
+      },
+      {
+        "q": "Does Cerebrolysin help after a stroke?",
+        "a": "The evidence is not convincing. Cochrane found probably no effect on death and more non-fatal serious adverse events, and the largest trial, CASTA, had a neutral main result.[^1][^6]"
+      },
+      {
+        "q": "Is it a peptide or a protein?",
+        "a": "Neither exactly. It is a mixture of short peptides and free amino acids from pig brain, which is why it is hard to describe a single mechanism.[^2]"
+      },
+      {
+        "q": "Does it improve memory in healthy people?",
+        "a": "The trials above enrolled people with stroke, dementia or brain injury, not healthy adults, so they offer no support for 'brain boosting' claims."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Cerebrolysin for acute ischaemic stroke.",
+        "source": "Cochrane Database Syst Rev",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37818733/",
+        "pmid": "37818733",
+        "doi": "10.1002/14651858.CD007026.pub7",
+        "note": "7 trials, 1,773 participants: deaths and serious adverse events"
+      },
+      {
+        "n": 2,
+        "title": "Cerebrolysin: a review of its use in dementia.",
+        "source": "Drugs Aging",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19848437/",
+        "pmid": "19848437",
+        "doi": "10.2165/11203320-000000000-00000",
+        "note": "Composition, neurotrophic-like properties and dementia trials"
+      },
+      {
+        "n": 3,
+        "title": "Cerebrolysin for vascular dementia.",
+        "source": "Cochrane Database Syst Rev",
+        "year": 2019,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31710397/",
+        "pmid": "31710397",
+        "doi": "10.1002/14651858.CD008900.pub3",
+        "note": "6 trials, 597 participants: very low-quality evidence"
+      },
+      {
+        "n": 4,
+        "title": "Cerebrolysin in mild-to-moderate Alzheimer's disease: a meta-analysis of randomized controlled clinical trials.",
+        "source": "Dement Geriatr Cogn Disord",
+        "year": 2015,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25832905/",
+        "pmid": "25832905",
+        "doi": "10.1159/000377672",
+        "note": "Meta-analysis of 6 trials in Alzheimer's disease"
+      },
+      {
+        "n": 5,
+        "title": "Cerebrolysin: a multi-target drug for recovery after stroke.",
+        "source": "Expert Rev Neurother",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30004268/",
+        "pmid": "30004268",
+        "doi": "10.1080/14737175.2018.1500459",
+        "note": "Review of preclinical effects and stroke subgroup findings"
+      },
+      {
+        "n": 6,
+        "title": "Cerebrolysin in patients with acute ischemic stroke in Asia: results of a double-blind, placebo-controlled randomized trial.",
+        "source": "Stroke",
+        "year": 2012,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22282884/",
+        "pmid": "22282884",
+        "doi": "10.1161/STROKEAHA.111.628537",
+        "note": "CASTA: 1,070 patients; neutral main endpoint"
+      },
+      {
+        "n": 7,
+        "title": "Cerebrolysin after moderate to severe traumatic brain injury: prospective meta-analysis of the CAPTAIN trial series.",
+        "source": "Neurol Sci",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33620612/",
+        "pmid": "33620612",
+        "doi": "10.1007/s10072-020-04974-6",
+        "note": "Pooled analysis of 185 patients with brain injury"
+      },
+      {
+        "n": 8,
+        "title": "About Cerebrolysin",
+        "source": "Cerebrolysin.com (manufacturer)",
+        "year": 2026,
+        "url": "https://cerebrolysin.com/cerebrolysin/about-cerebrolysin",
+        "note": "Manufacturer information: contraindications and US status"
+      },
+      {
+        "n": 9,
+        "title": "Bulk Drug Substances Used in Compounding Under Section 503A of the FD&C Act",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/bulk-drug-substances-used-compounding-under-section-503a-fdc-act",
+        "note": "FDA categories of nominated bulk substances (updated May 14, 2026)"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}
