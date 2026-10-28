@@ -2,7 +2,7 @@
   "slug": "elamipretide",
   "name": "Elamipretide",
   "zone": "hormones",
-  "category": "clinical",
+  "category": "fda",
   "aliases": [
     "SS-31",
     "Bendavia",
@@ -14,7 +14,7 @@
   "class": "Mitochondria-targeting tetrapeptide",
   "route": "Daily injection under the skin",
   "status": "FDA accelerated approval (Sept 2025) for Barth syndrome; other uses still in trials",
-  "evidence": 3,
+  "evidence": 4,
   "mechanism": "Binds cardiolipin, a lipid in the inner membrane of mitochondria, to steady the cell's energy-producing machinery",
   "uses": [
     "Barth syndrome (approved)",
