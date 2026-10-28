@@ -196,12 +196,12 @@ export function BodyViewer({ zone, pinned, model, paused = false, mobile = false
                 )}
                 <span
                   aria-hidden="true"
-                  className={`relative rounded-full border-[1.5px] border-white bg-accent shadow-[0_0_0_4px_rgb(18_184_134/0.18)] transition-transform duration-300 ${
+                  className={`relative rounded-full border-[1.5px] border-paper bg-accent shadow-[0_0_0_4px_rgb(47_73_255/0.16)] transition-transform duration-300 ${
                     isActive ? "size-3 scale-110" : "size-2.5 group-hover/dot:scale-125"
                   }`}
                 />
                 <span
-                  className={`type-body-xs pointer-events-none absolute top-1/2 left-9 -translate-y-1/2 rounded-full border border-line bg-white/85 px-2.5 py-1 whitespace-nowrap text-ink shadow-[0_2px_10px_rgb(0_0_0/0.06)] backdrop-blur-md transition-[opacity,translate] duration-300 ${
+                  className={`type-body-xs pointer-events-none absolute top-1/2 left-9 -translate-y-1/2 rounded-full border border-line bg-paper/85 px-2.5 py-1 whitespace-nowrap text-ink shadow-[0_2px_10px_rgb(0_0_0/0.06)] backdrop-blur-md transition-[opacity,translate] duration-300 ${
                     isActive ? "translate-x-0 opacity-100" : "-translate-x-1 opacity-0 group-hover/dot:translate-x-0 group-hover/dot:opacity-100 group-focus-visible/dot:translate-x-0 group-focus-visible/dot:opacity-100"
                   }`}
                 >

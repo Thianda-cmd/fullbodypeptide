@@ -317,7 +317,7 @@ export function ArticleView({ slug, article }: { slug: string; article: Article 
 
   return (
     <div>
-      <div className="sticky top-16 z-10 mb-10 bg-white/90 pt-6 backdrop-blur-xl">
+      <div className="sticky top-16 z-10 mb-10 bg-paper/90 pt-6 backdrop-blur-xl">
         <div role="tablist" aria-label="Sections" className={`flex gap-7 border-b ${rule}`}>
           {tabs.map((t) => (
             <button

@@ -29,7 +29,6 @@ interface Props {
   label?: string;
 }
 
-const artFor = (p: Peptide) => `/art/wide/${String(p.art).padStart(2, "0")}.webp`;
 
 export const Shelf = forwardRef<ShelfApi, Props>(function Shelf(
   {
@@ -64,7 +63,6 @@ export const Shelf = forwardRef<ShelfApi, Props>(function Shelf(
       fit,
       driven,
       reducedMotion: reduced,
-      artSrc: artFor,
       onOpen: (p) => cb.current.onOpen(p),
       onHoverBook: (p) => cb.current.onHoverBook?.(p),
       onUserZone: (z) => cb.current.onUserZone?.(z),

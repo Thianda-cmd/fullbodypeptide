@@ -10,9 +10,6 @@ const root = join(import.meta.dirname, "..");
 const index = JSON.parse(readFileSync(join(root, "content/index.json"), "utf8"));
 const zones = JSON.parse(readFileSync(join(root, "content/zones.json"), "utf8"));
 
-// Art is assigned from a fixed pool so neighbours on a shelf rarely repeat.
-const ART_POOL = 48;
-
 let missing = 0;
 const peptides = index.map((entry, i) => {
   const file = join(root, "content/peptides", `${entry.slug}.json`);
@@ -39,7 +36,7 @@ const peptides = index.map((entry, i) => {
     uses: d?.uses ?? [],
     related: d?.related ?? [],
     summary: d?.article?.summary ?? "",
-    art: (i * 17) % ART_POOL,
+    no: i + 1,
     ready: Boolean(d),
   };
 });

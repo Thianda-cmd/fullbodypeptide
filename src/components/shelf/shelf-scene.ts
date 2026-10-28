@@ -7,6 +7,7 @@ import {
   type Zone,
   type ZoneId,
 } from "@/lib/catalog";
+import { drawGlyph, glyph } from "@/lib/glyph";
 import type { Measure } from "@/lib/store";
 import { artWidthFraction } from "./geometry";
 
@@ -20,9 +21,14 @@ const HEAD_H = 48;
 const HEAD_BEFORE = 26;
 const HEAD_AFTER = 30;
 const FIT_PAD = 72;
-const NAME_PX = 16;
-const NAME_TOP = 12;
-const META_PX = 11;
+const NAME_PX = 21;
+const NAME_TOP = 10;
+const META_PX = 9;
+
+const INK = "#16171d";
+const CARD = "#fbfaf6";
+
+type Fonts = { serif: string; mono: string };
 const FOV = 50;
 const HOVER_SHIFT = -18;
 
@@ -39,11 +45,6 @@ const rand = (n: number) => {
   return t - Math.floor(t);
 };
 
-function mixWhite(hex: string, amount: number) {
-  const c = new THREE.Color(hex);
-  return c.lerp(new THREE.Color(1, 1, 1), 1 - amount);
-}
-
 function insets(fit: boolean, driven: boolean) {
   if (driven) return { l: 36, r: 0 };
   const l = fit ? 36 : 58;
@@ -53,28 +54,6 @@ function insets(fit: boolean, driven: boolean) {
 
 // ---------------------------------------------------------------- textures
 
-const artCache = new Map<string, HTMLImageElement>();
-export function loadArt(src: string) {
-  let img = artCache.get(src);
-  if (!img) {
-    img = new Image();
-    img.decoding = "async";
-    img.src = src;
-    artCache.set(src, img);
-  }
-  return img.complete ? Promise.resolve(img) : img.decode().then(() => img!, () => img!);
-}
-
-function drawCover(ctx: CanvasRenderingContext2D, img: HTMLImageElement, w: number, h: number, seed: number) {
-  const s = Math.max(w / img.naturalWidth, h / img.naturalHeight);
-  const dw = img.naturalWidth * s;
-  const dh = img.naturalHeight * s;
-  // pick a different slice of the artwork per book
-  const ox = (w - dw) * rand(seed + 3);
-  const oy = (h - dh) * rand(seed + 9);
-  ctx.drawImage(img, ox, oy, dw, dh);
-}
-
 /** Text shortened with an ellipsis to fit maxW in the current font. */
 function clip(ctx: CanvasRenderingContext2D, text: string, maxW: number) {
   if (ctx.measureText(text).width <= maxW) return text;
@@ -83,7 +62,7 @@ function clip(ctx: CanvasRenderingContext2D, text: string, maxW: number) {
   return `${t.trimEnd()}…`;
 }
 
-function spineTexture(p: Peptide, w: number, dpr: number, font: string, art: HTMLImageElement | null) {
+function spineTexture(p: Peptide, w: number, dpr: number, fonts: Fonts) {
   const canvas = document.createElement("canvas");
   canvas.width = Math.round(w * dpr);
   canvas.height = Math.round(BOOK_H * dpr);
@@ -92,28 +71,22 @@ function spineTexture(p: Peptide, w: number, dpr: number, font: string, art: HTM
   const colors = CATEGORY_COLOR[p.category];
   const panel = Math.round(w * artWidthFraction(w));
 
-  ctx.fillStyle = "#ffffff";
+  ctx.fillStyle = CARD;
   ctx.fillRect(0, 0, w, BOOK_H);
-  ctx.save();
-  ctx.beginPath();
-  ctx.rect(0, 0, panel, BOOK_H);
-  ctx.clip();
+  // the specimen plate: dot grid over the category tint, with the entry's glyph
   ctx.fillStyle = colors.tint;
   ctx.fillRect(0, 0, panel, BOOK_H);
-  if (art?.complete && art.naturalWidth) {
-    ctx.globalCompositeOperation = "overlay";
-    drawCover(ctx, art, panel, BOOK_H, p.art);
-  }
-  ctx.restore();
-  ctx.globalCompositeOperation = "source-over";
+  ctx.fillStyle = "rgba(22,23,29,0.17)";
+  for (let y = 5; y < BOOK_H; y += 12) for (let x = 6; x < panel; x += 12) ctx.fillRect(x - 0.6, y - 0.6, 1.2, 1.2);
+  drawGlyph(ctx, glyph(p.slug, panel, BOOK_H), { ink: INK, mark: colors.solid, fill: colors.tint });
   ctx.fillStyle = colors.line;
-  ctx.fillRect(panel, 0, 4, BOOK_H);
+  ctx.fillRect(panel, 0, 3, BOOK_H);
 
   const x = textLeft(w);
   const maxW = w - x - 14;
   ctx.textBaseline = "top";
-  ctx.fillStyle = "#17171a";
-  ctx.font = `400 ${NAME_PX}px ${font}`;
+  ctx.fillStyle = INK;
+  ctx.font = `400 ${NAME_PX}px ${fonts.serif}`;
   const { base, qualifier } = splitName(p.name);
   const full = qualifier ? `${base} (${qualifier})` : base;
   const fits = ctx.measureText(full).width <= maxW;
@@ -121,15 +94,22 @@ function spineTexture(p: Peptide, w: number, dpr: number, font: string, art: HTM
   ctx.fillText(name, x, NAME_TOP);
   const nameW = ctx.measureText(name).width;
 
-  ctx.font = `400 ${META_PX}px ${font}`;
-  ctx.fillStyle = "rgba(23,23,26,0.5)";
-  // a qualifier that does not fit beside the name takes the line below, so
-  // "Trofinetide" and "Trofinetide (investigational uses)" stay distinguishable
-  const label = CATEGORY_LABEL[p.category];
-  const note = !fits && qualifier ? qualifier[0].toUpperCase() + qualifier.slice(1) : null;
-  const options = note ? [`${note}  ·  ${label}`, note] : p.cls ? [`${label}  ·  ${p.cls}`, label] : [label];
-  const meta = options.find((o) => ctx.measureText(o).width <= maxW) ?? clip(ctx, options[options.length - 1], maxW);
-  ctx.fillText(meta, x, NAME_TOP + NAME_PX * 1.2 + 4);
+  // entry number at the right, the status (or the qualifier that did not fit) beside it
+  ctx.font = `400 ${META_PX}px ${fonts.mono}`;
+  ctx.letterSpacing = "0.06em";
+  const metaY = NAME_TOP + NAME_PX + 9;
+  const no = `No.${String(p.no).padStart(3, "0")}`;
+  const noW = ctx.measureText(no).width;
+  ctx.fillStyle = "rgba(22,23,29,0.38)";
+  ctx.fillText(no, w - 14 - noW, metaY);
+  ctx.fillStyle = "rgba(22,23,29,0.55)";
+  const room = maxW - noW - 12;
+  const label = CATEGORY_LABEL[p.category].toUpperCase();
+  const note = !fits && qualifier ? qualifier.toUpperCase() : null;
+  const options = note ? [`${note} · ${label}`, note] : [label];
+  const meta = options.find((o) => ctx.measureText(o).width <= room) ?? clip(ctx, options[options.length - 1], room);
+  ctx.fillText(meta, x, metaY);
+  ctx.letterSpacing = "0px";
 
   const tex = new THREE.CanvasTexture(canvas);
   tex.colorSpace = THREE.SRGBColorSpace;
@@ -138,19 +118,22 @@ function spineTexture(p: Peptide, w: number, dpr: number, font: string, art: HTM
   return { tex, nameW };
 }
 
-function headingTexture(zone: Zone, count: number, w: number, dpr: number, font: string) {
+function headingTexture(zone: Zone, count: number, w: number, dpr: number, fonts: Fonts) {
   const canvas = document.createElement("canvas");
   canvas.width = Math.round(w * dpr);
   canvas.height = Math.round(HEAD_H * dpr);
   const ctx = canvas.getContext("2d")!;
   ctx.scale(dpr, dpr);
   ctx.textBaseline = "alphabetic";
-  ctx.fillStyle = "#17171a";
-  ctx.font = `400 24px ${font}`;
-  ctx.fillText(zone.name, 2, 34);
+  ctx.fillStyle = INK;
+  ctx.font = `400 32px ${fonts.serif}`;
+  ctx.fillText(zone.name, 2, 36);
   const nw = ctx.measureText(zone.name).width;
-  ctx.fillStyle = "rgba(23,23,26,0.38)";
-  ctx.fillText(`(${count})`, nw + 8, 34);
+  ctx.font = `400 10px ${fonts.mono}`;
+  ctx.letterSpacing = "0.06em";
+  ctx.fillStyle = "rgba(22,23,29,0.42)";
+  ctx.fillText(`${count} ENTRIES`, nw + 12, 35);
+  ctx.letterSpacing = "0px";
   const tex = new THREE.CanvasTexture(canvas);
   tex.colorSpace = THREE.SRGBColorSpace;
   tex.minFilter = THREE.LinearFilter;
@@ -177,7 +160,6 @@ export interface ShelfOptions {
   fit?: boolean;
   driven?: boolean;
   reducedMotion?: boolean;
-  artSrc: (p: Peptide) => string;
   onOpen: (p: Peptide) => void;
   onHoverBook?: (p: Peptide | null) => void;
   onUserZone?: (zone: ZoneId) => void;
@@ -239,7 +221,9 @@ export class ShelfScene {
       this.fontsReady = true;
       this.build();
     };
-    (document.fonts?.ready ?? Promise.resolve()).then(ready);
+    const root = getComputedStyle(document.documentElement);
+    const faces = [`${NAME_PX}px ${root.getPropertyValue("--font-instrument-serif")}`, `${META_PX}px ${root.getPropertyValue("--font-geist-mono")}`];
+    Promise.all([document.fonts?.ready, ...faces.map((f) => document.fonts?.load(f))]).then(ready, ready);
     setTimeout(ready, 1200);
 
     canvas.addEventListener("pointermove", this.onPointerMove);
@@ -387,39 +371,34 @@ export class ShelfScene {
     const { l, r } = insets(!!this.opts.fit, !!this.opts.driven);
     const width = this.w - l - r;
     const dpr = Math.min(window.devicePixelRatio, 1.75);
-    const font = getComputedStyle(this.canvas).fontFamily || "sans-serif";
+    const root = getComputedStyle(document.documentElement);
+    const fonts: Fonts = {
+      serif: root.getPropertyValue("--font-instrument-serif").trim() || "serif",
+      mono: root.getPropertyValue("--font-geist-mono").trim() || "monospace",
+    };
     let top = this.opts.fit ? FIT_PAD : 0;
-    let pendingArt = 0;
 
     this.entries.forEach((entry, i) => {
       if (entry.kind === "zone") {
         if (i > 0) top += HEAD_BEFORE;
-        const mat = new THREE.MeshBasicMaterial({ map: headingTexture(entry.zone, entry.count, width, dpr, font), transparent: true });
+        const mat = new THREE.MeshBasicMaterial({ map: headingTexture(entry.zone, entry.count, width, dpr, fonts), transparent: true });
         const mesh = new THREE.Mesh(new THREE.PlaneGeometry(width, HEAD_H), mat);
         this.items.push({ entry, top, h: HEAD_H, mesh, mats: [mat], offX: 0, dim: 1, nameW: 0, lag: this.scroll, hidden: 1 });
         this.stack.add(mesh);
         top += HEAD_H + HEAD_AFTER;
         return;
       }
-      const src = this.opts.artSrc(entry.p);
-      const img = artCache.get(src);
-      const art = img?.complete ? img : null;
-      if (!art) {
-        pendingArt++;
-        loadArt(src).then(() => {
-          if (--pendingArt === 0) this.build();
-        });
-      }
-      const { tex, nameW } = spineTexture(entry.p, width, dpr, font, art);
+      const { tex, nameW } = spineTexture(entry.p, width, dpr, fonts);
       const front = new THREE.MeshBasicMaterial({ map: tex, transparent: true });
-      const tint = mixWhite(CATEGORY_COLOR[entry.p.category].tint, 0.55);
-      const shade = (k: number) => new THREE.MeshBasicMaterial({ color: tint.clone().multiplyScalar(k), transparent: true });
-      const faces = [shade(0.9), shade(0.9), shade(0.97), shade(0.85), front, shade(0.9)];
+      // card stock with a hint of the category tint; the top catches the light
+      const stock = new THREE.Color("#f3efe6").lerp(new THREE.Color(CATEGORY_COLOR[entry.p.category].tint), 0.35);
+      const shade = (k: number) => new THREE.MeshBasicMaterial({ color: stock.clone().multiplyScalar(k), transparent: true });
+      const faces = [shade(0.92), shade(0.92), shade(1.02), shade(0.84), front, shade(0.92)];
       const mesh = new THREE.Mesh(new THREE.BoxGeometry(width, BOOK_H, BOOK_DEPTH), faces);
       const mats: THREE.Material[] = [...faces];
       mesh.userData.slug = entry.p.slug;
       const edgeMat = new THREE.LineBasicMaterial({
-        color: new THREE.Color(CATEGORY_COLOR[entry.p.category].solid).lerp(new THREE.Color(1, 1, 1), 0.6),
+        color: new THREE.Color(INK).lerp(stock, 0.78),
         transparent: true,
       });
       mesh.add(new THREE.LineSegments(new THREE.EdgesGeometry(mesh.geometry), edgeMat));

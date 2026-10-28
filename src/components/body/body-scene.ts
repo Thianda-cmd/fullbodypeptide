@@ -28,8 +28,8 @@ const FRAMES: Record<ZoneId, { y: number; zoom: number }> = {
 };
 
 const FOV = 24;
-const GLOW_CORE = new THREE.Color("#34cf95");
-const GLOW_EDGE = new THREE.Color("#cdf5e1");
+const GLOW_CORE = new THREE.Color("#2f49ff");
+const GLOW_EDGE = new THREE.Color("#c9d1ff");
 
 function heartbeat(t: number) {
   const period = 0.92;

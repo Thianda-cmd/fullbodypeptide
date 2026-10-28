@@ -35,7 +35,7 @@ function PanelBody({ zone, dir, onOpen, onPickZone }: { zone: ZoneId; dir: numbe
     >
       <div className="flex items-start justify-between gap-6 px-6 pt-5 pb-4">
         <div className="flex min-w-0 flex-col gap-1">
-          <p className="type-body-lg text-ink">
+          <p className="type-heading-xs text-ink">
             {z.name}
             <Count n={ZONE_COUNT[zone]} />
           </p>
@@ -114,11 +114,11 @@ export function Header({ active, pinned, onPickZone, onOpen, onHome }: Props) {
 
   return (
     <header className="fixed inset-x-0 top-0 z-40" onPointerLeave={(e) => e.pointerType === "mouse" && hidePanel()}>
-      <div className="relative z-[1] border-b border-[rgb(9_9_11/0.06)] bg-white/80 backdrop-blur-xl">
+      <div className="relative z-[1] border-b border-line bg-paper/85 backdrop-blur-xl">
         <span
           ref={bar}
           aria-hidden="true"
-          className="pointer-events-none absolute inset-x-0 -bottom-px h-0.5 origin-left bg-ink"
+          className="pointer-events-none absolute inset-x-0 -bottom-px h-px origin-left bg-ink/70"
           style={{ transform: "scaleX(0)" }}
         />
         <div className="mx-auto flex h-16 w-full max-w-[96rem] items-center gap-6 px-6 md:px-10">
@@ -129,15 +129,15 @@ export function Header({ active, pinned, onPickZone, onOpen, onHome }: Props) {
               onHome();
             })}
             className="flex shrink-0 items-center gap-3 text-ink"
-            aria-label="Full Body Peptide Library, home"
+            aria-label="fullbody Peptide Atlas, home"
           >
             <Logo />
-            <span aria-hidden="true" className="h-4 w-px bg-ink/15" />
-            <span className="text-[1.125rem] leading-none tracking-[-0.02em] whitespace-nowrap">Peptide Library</span>
+            <span aria-hidden="true" className="h-4 w-px bg-ink/20" />
+            <span className="type-label whitespace-nowrap text-ink/55">Peptide atlas</span>
           </a>
           <nav aria-label="Categories" className="min-w-0 flex-1 max-lg:hidden">
             <ul className="flex items-center justify-center">
-              {ZONES.map((z) => {
+              {ZONES.map((z, i) => {
                 const on = shown === z.id;
                 return (
                   <li key={z.id} className="relative">
@@ -145,7 +145,7 @@ export function Header({ active, pinned, onPickZone, onOpen, onHome }: Props) {
                       <motion.span
                         layoutId="nav-pill"
                         aria-hidden="true"
-                        className="absolute inset-0 rounded-full bg-mist"
+                        className="absolute inset-x-3 -bottom-[14px] h-[2px] bg-accent"
                         transition={{ duration: 0.45, ease: EASE }}
                       />
                     )}
@@ -162,12 +162,14 @@ export function Header({ active, pinned, onPickZone, onOpen, onHome }: Props) {
                         closeNow();
                         onPickZone(z.id);
                       }}
-                      className={`type-body-sm relative z-[1] flex h-9 items-center rounded-full px-3 whitespace-nowrap transition-colors duration-300 ${
+                      className={`type-body-sm relative z-[1] flex h-9 items-baseline gap-1.5 px-3 whitespace-nowrap transition-colors duration-300 ${
                         on ? "text-ink" : "text-ink/55 hover:text-ink"
                       }`}
                     >
+                      <span className={`font-mono text-[0.625rem] tabular-nums ${on ? "text-accent" : "text-ink/35"}`}>
+                        {String(i + 1).padStart(2, "0")}
+                      </span>
                       {z.short}
-                      <Count n={ZONE_COUNT[z.id]} className="ml-[0.25em]" />
                     </button>
                   </li>
                 );
@@ -204,7 +206,7 @@ export function Header({ active, pinned, onPickZone, onOpen, onHome }: Props) {
                 <motion.div
                   layout
                   transition={{ layout: { duration: 0.42, ease: EASE } }}
-                  className="grid overflow-hidden rounded-[0.5rem] border border-line bg-white shadow-[0_30px_60px_-20px_rgb(0_0_0/0.22),0_8px_20px_-12px_rgb(0_0_0/0.12)]"
+                  className="grid overflow-hidden rounded-[0.5rem] border border-line bg-card shadow-[0_30px_60px_-20px_rgb(0_0_0/0.22),0_8px_20px_-12px_rgb(0_0_0/0.12)]"
                 >
                   <AnimatePresence initial={false}>
                     <PanelBody

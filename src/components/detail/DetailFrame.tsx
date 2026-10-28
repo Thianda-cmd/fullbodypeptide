@@ -47,7 +47,7 @@ function ShelfTicks({ p }: { p: Peptide }) {
               }`}
             />
             <span
-              className={`type-body-xs pointer-events-none absolute left-7 rounded-full bg-white/90 px-2 py-0.5 whitespace-nowrap text-ink shadow-[0_2px_10px_rgb(0_0_0/0.06)] backdrop-blur-md transition-[opacity,translate] duration-300 ${
+              className={`type-body-xs pointer-events-none absolute left-7 rounded-full bg-paper/90 px-2 py-0.5 whitespace-nowrap text-ink shadow-[0_2px_10px_rgb(0_0_0/0.06)] backdrop-blur-md transition-[opacity,translate] duration-300 ${
                 on ? "translate-x-0 opacity-100" : "-translate-x-1 opacity-0"
               }`}
             >
@@ -61,7 +61,7 @@ function ShelfTicks({ p }: { p: Peptide }) {
 }
 
 const FADE_STOPS = [0, 0.04, 0.11, 0.2, 0.31, 0.43, 0.56, 0.68, 0.79, 0.88, 0.95, 1]
-  .map((a, i, arr) => `rgb(255 255 255 / ${a}) ${Math.round((i / (arr.length - 1)) * 100)}%`)
+  .map((a, i, arr) => `rgb(241 238 230 / ${a}) ${Math.round((i / (arr.length - 1)) * 100)}%`)
   .join(", ");
 
 /** Soft white fade along the bottom of the reading column; disappears near the page end. */
@@ -150,7 +150,7 @@ export function DetailFrame({ p, ready, closing, flight, children }: Props) {
             <ol className="type-body-sm flex flex-wrap items-center gap-x-2 gap-y-1 text-ink/50">
               <li>
                 <a href="/" onClick={inAppClick(() => lib.closeDetail(null))} className="transition-colors duration-300 hover:text-ink">
-                  Peptide Library
+                  Peptide Atlas
                 </a>
               </li>
               <li aria-hidden="true">/</li>

@@ -2,24 +2,27 @@
 
 @theme inline {
   --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-instrument-serif), ui-serif, Georgia, serif;
   --font-mono: var(--font-geist-mono), ui-monospace, monospace;
 
-  --color-ink: #17171a;
-  --color-paper: #ffffff;
-  --color-mist: #f4f4f5;
-  --color-haze: #f8f8f9;
-  --color-line: rgb(9 9 11 / 0.08);
-  --color-accent: #12b886;
-  --color-accent-soft: #c4f2dc;
+  /* paper and ink, with one cobalt signal colour */
+  --color-ink: #16171d;
+  --color-paper: #f1eee6;
+  --color-card: #fbfaf6;
+  --color-mist: #e6e2d7;
+  --color-haze: #ebe7de;
+  --color-line: rgb(48 40 24 / 0.13);
+  --color-accent: #2f49ff;
+  --color-accent-soft: #d6dcff;
 
-  --color-fda: #3dba80;
-  --color-fda-tint: #c3f0d8;
-  --color-clinical: #d6c437;
-  --color-clinical-tint: #efe9a6;
-  --color-wellness: #e173d2;
-  --color-wellness-tint: #f6d0ef;
-  --color-cosmetic: #a2a4ad;
-  --color-cosmetic-tint: #e4e5e9;
+  --color-fda: #2a9461;
+  --color-fda-tint: #d5e8da;
+  --color-clinical: #c9930c;
+  --color-clinical-tint: #efe2bf;
+  --color-wellness: #d4603f;
+  --color-wellness-tint: #f1d9cf;
+  --color-cosmetic: #8f8a7e;
+  --color-cosmetic-tint: #e3dfd4;
 
   --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
   --ease-out-quart: cubic-bezier(0.25, 1, 0.5, 1);
@@ -31,16 +34,20 @@
 }
 
 html {
-  background: #fff;
+  background: var(--color-paper);
   color: var(--color-ink);
   -webkit-tap-highlight-color: transparent;
   text-rendering: optimizeLegibility;
+  font-synthesis-weight: none;
 }
 
 body {
   font-family: var(--font-sans);
   font-feature-settings: "ss01", "cv11";
-  background: #fff;
+  /* paper with a faint fibre grain */
+  background: var(--color-paper)
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.19  0 0 0 0 0.16  0 0 0 0 0.09  0 0 0 0.07 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+  background-size: 220px 220px;
 }
 
 ::selection {
@@ -49,51 +56,64 @@ body {
 
 /* ---------------------------------------------------------------- type scale */
 
+/* headings are set in the serif; it runs small, so sizes sit a step above the sans */
 @utility type-display {
-  font-size: clamp(2.75rem, 6vw, 4.5rem);
-  line-height: 1.02;
-  letter-spacing: -0.035em;
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: clamp(3.1rem, 6.6vw, 5.25rem);
+  line-height: 0.98;
+  letter-spacing: -0.02em;
 }
 @utility type-heading-xl {
-  font-size: 2.5rem;
-  line-height: 1.05;
-  letter-spacing: -0.03em;
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 2.875rem;
+  line-height: 1;
+  letter-spacing: -0.02em;
   @media (width >= 64rem) {
-    font-size: 4.25rem;
-    line-height: 1.04;
+    font-size: 4.75rem;
+    line-height: 0.98;
   }
 }
 @utility type-heading-lg {
-  font-size: 2.125rem;
-  line-height: 1.08;
-  letter-spacing: -0.03em;
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 2.375rem;
+  line-height: 1.04;
+  letter-spacing: -0.018em;
   @media (width >= 64rem) {
-    font-size: 3.25rem;
+    font-size: 3.5rem;
   }
 }
 @utility type-heading-md {
-  font-size: 1.75rem;
-  line-height: 1.12;
-  letter-spacing: -0.025em;
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 1.08;
+  letter-spacing: -0.015em;
   @media (width >= 64rem) {
-    font-size: 2.5rem;
+    font-size: 2.75rem;
   }
 }
 @utility type-heading-sm {
-  font-size: 1.625rem;
-  line-height: 1.18;
-  letter-spacing: -0.025em;
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 1.875rem;
+  line-height: 1.12;
+  letter-spacing: -0.012em;
   @media (width >= 64rem) {
-    font-size: 2rem;
-    line-height: 1.2;
+    font-size: 2.25rem;
+    line-height: 1.12;
   }
 }
 @utility type-heading-xs {
-  font-size: 1.3125rem;
-  line-height: 1.3;
-  letter-spacing: -0.02em;
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
   @media (width >= 64rem) {
-    font-size: 1.5rem;
+    font-size: 1.75rem;
   }
 }
 @utility type-body-lg {
@@ -131,6 +151,13 @@ body {
   &::-webkit-scrollbar {
     display: none;
   }
+}
+
+/* a specimen plate: fine dot grid over the category tint */
+@utility plate {
+  background-image: radial-gradient(rgb(22 23 29 / 0.17) 0.75px, transparent 1.1px);
+  background-size: 12px 12px;
+  background-position: 6px 6px;
 }
 
 @utility fade-x {

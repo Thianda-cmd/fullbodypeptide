@@ -1,21 +1,16 @@
-import { CATEGORY_COLOR, artSrc, type Peptide } from "@/lib/catalog";
+import { CATEGORY_COLOR, type Peptide } from "@/lib/catalog";
+import { GlyphArt } from "./Glyph";
 
-/** Small art tile with the category stripe, used in lists and search. */
+/** Small glyph tile on the category tint, used in lists and search. */
 export function Thumb({ p, className = "size-9" }: { p: Peptide; className?: string }) {
-  const c = CATEGORY_COLOR[p.category];
   return (
-    <span aria-hidden="true" className={`relative flex shrink-0 flex-col overflow-hidden rounded-[4px] bg-white ${className}`}>
-      <span className="relative min-h-0 flex-1" style={{ backgroundColor: c.tint }}>
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img
-          src={artSrc(p, "thumb")}
-          alt=""
-          loading="lazy"
-          draggable={false}
-          className="absolute inset-0 size-full object-cover mix-blend-overlay"
-        />
-      </span>
-      <span className="h-[3px] shrink-0" style={{ background: c.line }} />
+    <span
+      aria-hidden="true"
+      className={`relative flex shrink-0 overflow-hidden rounded-[3px] shadow-[inset_0_0_0_1px_rgb(48_40_24/0.1)] ${className}`}
+      style={{ backgroundColor: CATEGORY_COLOR[p.category].tint }}
+    >
+      {/* a close crop of the strip layout keeps the beads legible at icon size */}
+      <GlyphArt p={p} w={190} h={100} crop className="size-full" />
     </span>
   );
 }

@@ -51,7 +51,7 @@ export class SilhouetteGlow {
   readonly composite = new THREE.ShaderMaterial({
     vertexShader: quadVertex,
     fragmentShader: compositeFragment,
-    uniforms: { tMap: { value: null }, uColor: { value: new THREE.Color("#79dfb1") }, uStrength: { value: 0 } },
+    uniforms: { tMap: { value: null }, uColor: { value: new THREE.Color("#7d8fff") }, uStrength: { value: 0 } },
     transparent: true,
     depthTest: false,
     depthWrite: false,

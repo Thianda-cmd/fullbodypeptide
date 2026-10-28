@@ -33,6 +33,25 @@ function setChipFade(el: HTMLElement) {
   el.style.setProperty("--fade-r", el.scrollLeft < max - 2 ? "2rem" : "0px");
 }
 
+const HEADLINE = (
+  <>
+    Every peptide, <em className="text-accent italic">mapped</em> to the body.
+  </>
+);
+
+/** Registration marks at the corners of the figure, as on a printed plate. */
+function CropMarks() {
+  const mark = "absolute size-3 border-ink/25";
+  return (
+    <span aria-hidden="true" className="pointer-events-none absolute inset-x-2 top-2 bottom-0 max-lg:hidden">
+      <span className={`${mark} top-0 left-0 border-t border-l`} />
+      <span className={`${mark} top-0 right-0 border-t border-r`} />
+      <span className={`${mark} bottom-0 left-0 border-b border-l`} />
+      <span className={`${mark} right-0 bottom-0 border-r border-b`} />
+    </span>
+  );
+}
+
 function BodyToggle({ model }: { model: BodyModel }) {
   const set = (m: BodyModel) => {
     ui.set({ model: m });
@@ -42,7 +61,7 @@ function BodyToggle({ model }: { model: BodyModel }) {
   };
   return (
     <div data-body-toggle className="pointer-events-auto absolute right-0 bottom-3 z-[3] flex items-center gap-3 max-lg:right-1 max-lg:bottom-2 lg:bottom-10">
-      <span className="type-body-xs hidden items-center gap-1.5 text-ink/40 xl:inline-flex">
+      <span className="type-label hidden items-center gap-1.5 text-ink/40 xl:inline-flex">
         <Rotate className="size-3.5" />
         Drag to rotate
       </span>
@@ -57,7 +76,7 @@ function BodyToggle({ model }: { model: BodyModel }) {
             className={`type-body-xs relative h-7 rounded-full px-3 capitalize transition-colors duration-300 ${model === m ? "text-ink" : "text-ink/45 hover:text-ink/70"}`}
           >
             {model === m && (
-              <motion.span layoutId="body-pill" className="absolute inset-0 rounded-full bg-white shadow-[0_1px_3px_rgb(0_0_0/0.08)]" transition={{ duration: 0.35, ease: EASE }} />
+              <motion.span layoutId="body-pill" className="absolute inset-0 rounded-full bg-card shadow-[0_1px_3px_rgb(0_0_0/0.08)]" transition={{ duration: 0.35, ease: EASE }} />
             )}
             <span className="relative">{m}</span>
           </button>
@@ -180,7 +199,7 @@ export function HomeView({ visible, active, openSlug, mobile, onHoverZone, onPic
       initial={false}
       animate={visible ? { opacity: 1, filter: "blur(0px)" } : { opacity: 0, filter: "blur(12px)" }}
       transition={{ duration: visible ? 0.6 : 0.5, ease: EASE }}
-      className={`no-scrollbar fixed inset-0 z-0 overflow-y-auto bg-white lg:overflow-hidden ${visible ? "" : "pointer-events-none"}`}
+      className={`no-scrollbar fixed inset-0 z-0 overflow-y-auto lg:overflow-hidden ${visible ? "" : "pointer-events-none"}`}
     >
       <div
         ref={grid}
@@ -190,12 +209,12 @@ export function HomeView({ visible, active, openSlug, mobile, onHoverZone, onPic
 
         <div className="relative z-[3] flex flex-col gap-4 pb-6 lg:justify-center lg:pb-0">
           <div className="flex flex-col gap-4">
-            <p className="type-label text-ink/40">Peptide library · {total} entries</p>
+            <p className="type-label text-ink/45">Fig. 01 — The peptide atlas · {total} entries</p>
             {/* only the home view's heading is the page h1; under a peptide page the card name is */}
             {visible ? (
-              <h1 className="type-heading-sm max-w-[18rem] font-normal text-ink">Where every peptide works in the body.</h1>
+              <h1 className="type-heading-lg max-w-[20rem] text-ink">{HEADLINE}</h1>
             ) : (
-              <p className="type-heading-sm max-w-[18rem] font-normal text-ink">Where every peptide works in the body.</p>
+              <p className="type-heading-lg max-w-[20rem] text-ink">{HEADLINE}</p>
             )}
             <p className="type-body-md max-w-[19.5rem] text-ink/55">
               {total} peptides, from FDA-approved drugs to trial candidates, gray-market compounds and skincare actives, sorted by
@@ -205,7 +224,7 @@ export function HomeView({ visible, active, openSlug, mobile, onHoverZone, onPic
           <Legend filter={filter} onChange={(f) => ui.set({ filter: f })} className="lg:absolute lg:bottom-0 lg:left-0" />
         </div>
 
-        <div className="sticky top-16 z-[4] -mx-6 bg-white px-6 md:-mx-10 md:px-10 lg:static lg:mx-0 lg:flex lg:min-h-0 lg:flex-col lg:bg-transparent lg:px-0">
+        <div className="sticky top-16 z-[4] -mx-6 bg-paper px-6 md:-mx-10 md:px-10 lg:static lg:mx-0 lg:flex lg:min-h-0 lg:flex-col lg:bg-transparent lg:px-0">
           <ul
             ref={chips}
             aria-label="Zones"
@@ -221,7 +240,7 @@ export function HomeView({ visible, active, openSlug, mobile, onHoverZone, onPic
                     aria-pressed={pinned === z.id}
                     onClick={() => onPickZone(z.id, false)}
                     className={`type-body-sm inline-flex h-9 items-center rounded-full border px-3.5 whitespace-nowrap transition-colors duration-300 ${
-                      on ? "border-transparent bg-ink text-white" : "border-[rgb(9_9_11/0.1)] bg-white text-ink"
+                      on ? "border-transparent bg-ink text-white" : "border-[rgb(9_9_11/0.1)] bg-card text-ink"
                     }`}
                   >
                     {z.short}
@@ -244,6 +263,7 @@ export function HomeView({ visible, active, openSlug, mobile, onHoverZone, onPic
                 className="absolute inset-0"
               />
             </div>
+            <CropMarks />
             <BodyToggle model={model} />
           </div>
           <div className="-mx-2 py-2 lg:hidden">

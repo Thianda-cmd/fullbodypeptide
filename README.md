@@ -1,12 +1,18 @@
-# Full Body · Peptide Library
+# fullbody · The Peptide Atlas
 
-An interactive 3D map of 152 peptides — FDA-approved drugs, clinical-trial candidates,
+An interactive 3D atlas of 152 peptides — FDA-approved drugs, clinical-trial candidates,
 gray-market compounds and skincare actives — placed on the part of the body they act on.
 
-- **3D body** (female and male) with eight body zones. Hover or pick a zone to fly the camera
+- **Design**: a printed-atlas look of warm paper, ink and one cobalt signal colour, with
+  Instrument Serif headings and mono figure labels.
+- **3D body** (female and male), rendered as an engraving whose contour lines thicken in shadow,
+  with eight body zones. Hover or pick a zone to fly the camera
   there; each zone has its own animated highlight (neural pulses, heartbeat and circulation,
   lymph nodes, thyroid, joints, skin aura…). Drag to rotate.
-- **3D shelf** of every peptide as a book in perspective, with an elastic scroll, staggered
+- **Sequence glyphs**: every peptide has its own ball-and-stick drawing of a residue chain,
+  generated from its slug (`src/lib/glyph.ts`) and drawn on canvas and as SVG. The glyphs are
+  decorative and do not encode real sequences.
+- **3D shelf** of every peptide as an index card in perspective, with an elastic scroll, staggered
   reveal and a flight animation that turns a spine into the detail card.
 - **Detail pages** with a guide (takeaway, at a glance, mechanism, research, safety, regulatory
   status, FAQ) and verified citations, statically generated for every peptide.
@@ -43,7 +49,6 @@ against PubMed, ClinicalTrials.gov, DailyMed or the linked source.
 | Asset | Script | Source |
 | --- | --- | --- |
 | `public/models/{female,male}.glb` | `node scripts/build-body.mjs` | MakeHuman base mesh, targets and skeleton ([CC0 1.0](https://github.com/makehumancommunity/makehuman/blob/master/LICENSE.md)), posed, subdivided, with baked ambient occlusion |
-| `public/art/**` | `node scripts/build-art.cjs` | Procedural liquid-glass shader rendered in headless Chromium |
 | `src/data/catalog.json` | `node scripts/build-catalog.mjs` | Compiled from `content/` |
 
-The body models and artwork are original to this project; no third-party imagery is used.
+The body models, glyphs and brand are original to this project; no third-party imagery is used.

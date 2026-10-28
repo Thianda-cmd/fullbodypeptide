@@ -93,15 +93,16 @@ export const bodyFragment = /* glsl */ `
     vec3 V = normalize(uCamPos - vPosW);
     float ndv = max(dot(N, V), 0.0);
 
-    // ---- porcelain base: wrapped key + fill, sky/ground ambient, baked occlusion
+    // ---- plaster base: wrapped key + fill, sky/ground ambient, baked occlusion
     vec3 L1 = normalize(vec3(-0.45, 0.85, 0.75));
     vec3 L2 = normalize(vec3(0.8, 0.15, 0.45));
     float key = clamp((dot(N, L1) + 0.4) / 1.4, 0.0, 1.0);
     float fill = clamp((dot(N, L2) + 0.6) / 1.6, 0.0, 1.0);
     float sky = 0.5 + 0.5 * N.y;
     float ao = mix(0.5, 1.0, smoothstep(0.05, 0.95, vAO));
-    vec3 base = vec3(0.972, 0.972, 0.968);
-    vec3 col = base * (0.58 + 0.30 * key + 0.10 * fill + 0.06 * sky) * ao;
+    vec3 base = vec3(0.968, 0.958, 0.935);
+    float light = 0.62 + 0.27 * key + 0.08 * fill + 0.05 * sky;
+    vec3 col = base * light * ao;
     // soft translucency where the body is thin (fingers, ears), facing away from the key light
     float face = smoothstep(0.82, 0.9, hgt) * smoothstep(0.035, 0.07, abs(p.x));
     float thinMask = max(face, 1.0 - smoothstep(0.75, 0.9, hgt));
@@ -109,7 +110,22 @@ export const bodyFragment = /* glsl */ `
     vec3 H = normalize(L1 + V);
     col += pow(max(dot(N, H), 0.0), 48.0) * 0.045;
     float fres = pow(1.0 - ndv, 3.0);
-    col = mix(col, vec3(1.0), fres * 0.35);
+    col = mix(col, vec3(0.99, 0.985, 0.97), fres * 0.35);
+
+    // ---- engraving: contour lines around the body, finer in light, heavier in shadow.
+    // When the camera is close, a second set fills in between to keep the density even.
+    float iso = hgt * 190.0;
+    float fw = max(fwidth(iso), 1e-4);
+    float near = smoothstep(0.12, 0.07, fw);
+    float isoN = iso * (1.0 + near);
+    float fwN = fw * (1.0 + near);
+    float dpx = abs(fract(isoN + 0.5) - 0.5) / fwN;
+    float shadow = smoothstep(0.1, 0.9, 1.0 - clamp(key * 0.8 + 0.2 * ao, 0.0, 1.0));
+    float wpx = mix(0.3, 1.25, shadow);
+    float legible = smoothstep(0.45, 0.2, fwN) * (1.0 - vEye);
+    float lines = clamp(wpx * 0.5 + 0.5 - dpx, 0.0, 1.0) * legible;
+    vec3 inkC = vec3(0.09, 0.095, 0.13);
+    col = mix(col, inkC, lines * mix(0.1, 0.3, shadow));
 
     // ---- zone highlights
     float g = 0.0;      // glow amount
@@ -176,7 +192,7 @@ export const bodyFragment = /* glsl */ `
       float m = smoothstep(1.6, 0.45, e);
       float beat = 0.55 + 0.45 * uPulse;
       float ring = smoothstep(0.25, 0.0, abs(e - (0.6 + uPulse * 0.9))) * uPulse;
-      float flow = sparkle(p, 1.4, 120.0) * 0.55;
+      float flow = sparkle(p, 1.4, 120.0) * 0.35;
       g += uW[6] * (m * beat + ring * 0.5 + flow);
       core += uW[6] * (smoothstep(1.1, 0.45, e) * beat + flow * 0.4);
     }
@@ -190,11 +206,15 @@ export const bodyFragment = /* glsl */ `
     }
 
     g = clamp(g, 0.0, 1.25) * (1.0 - vEye * 0.7);
+    float gg = clamp(g, 0.0, 1.0);
     vec3 glow = mix(uGlowEdge, uGlowCore, clamp(core, 0.0, 1.0));
     // keep the form readable under the glow
-    glow *= (0.8 + 0.2 * key) * mix(0.85, 1.0, ao);
-    col = mix(col, glow, clamp(g, 0.0, 1.0) * 0.86);
-    col += uGlowCore * max(g - 1.0, 0.0) * 0.5;
+    glow *= (0.84 + 0.16 * key) * mix(0.88, 1.0, ao);
+    col = mix(col, glow, gg * 0.7);
+    col += uGlowCore * max(g - 1.0, 0.0) * 0.4;
+    // inside a highlight the contour lines turn cobalt and thicken
+    float hl = clamp((wpx + gg * 1.1) * 0.5 + 0.5 - dpx, 0.0, 1.0) * legible;
+    col = mix(col, uGlowCore * 0.72, hl * gg * 0.8);
 
     // ---- intro scan line
     float scan = smoothstep(0.012, 0.0, abs(hgt - uReveal)) * step(uReveal, 0.999);
@@ -212,7 +232,7 @@ export const shadowFragment = /* glsl */ `
     float d = length(c);
     float a = smoothstep(1.0, 0.0, d);
     a = a * a * (0.6 + 0.4 * smoothstep(0.55, 0.0, d));
-    gl_FragColor = vec4(vec3(0.09, 0.09, 0.11), a * uOpacity);
+    gl_FragColor = vec4(vec3(0.16, 0.13, 0.08), a * uOpacity);
   }
 `;
 

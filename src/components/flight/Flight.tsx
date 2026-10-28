@@ -2,7 +2,8 @@
 
 import { motion } from "motion/react";
 import { useEffect, useRef } from "react";
-import { BY_SLUG, CATEGORY_COLOR, artSrc } from "@/lib/catalog";
+import { BY_SLUG, CATEGORY_COLOR } from "@/lib/catalog";
+import { GlyphArt } from "@/components/art/Glyph";
 import type { Flight, Measure } from "@/lib/store";
 import { artWidthFraction } from "@/components/shelf/geometry";
 import { CARD_SHADOW, CARD_SHADOW_FLAT } from "@/components/detail/PeptideCard";
@@ -40,7 +41,7 @@ export function FlightLayer({ flight, onDone }: { flight: Flight & { to: Measure
   return (
     <motion.div
       aria-hidden="true"
-      className="pointer-events-none fixed z-[5] overflow-hidden bg-white"
+      className="pointer-events-none fixed z-[5] overflow-hidden bg-card"
       initial={{ ...frame(flight.from), boxShadow: open ? CARD_SHADOW_FLAT : CARD_SHADOW }}
       animate={{ ...frame(flight.to), boxShadow: open ? CARD_SHADOW : CARD_SHADOW_FLAT }}
       transition={{ duration: FLIGHT_SECONDS, ease: EASE }}
@@ -62,14 +63,17 @@ export function FlightLayer({ flight, onDone }: { flight: Flight & { to: Measure
             }
           >
             <div
-              className="relative shrink-0 overflow-hidden"
+              className="plate relative shrink-0 overflow-hidden"
               style={{
                 backgroundColor: colors.tint,
                 ...(isSpine ? { width: `${artWidthFraction(spine.box.w) * 100}%` } : { height: `${(card.photo ?? 0.62) * 100}%` }),
               }}
             >
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={artSrc(p)} alt="" draggable={false} className="absolute inset-0 size-full object-cover mix-blend-overlay" />
+              {isSpine ? (
+                <GlyphArt p={p} w={Math.round(spine.box.w * artWidthFraction(spine.box.w))} h={Math.round(spine.box.h)} className="absolute inset-0 size-full" />
+              ) : (
+                <GlyphArt p={p} w={400} h={400} className="absolute inset-0 size-full p-[6%]" />
+              )}
             </div>
             <span className="shrink-0" style={{ background: colors.line, ...(isSpine ? { width: 4 } : { height: 5 }) }} />
           </motion.div>

@@ -202,7 +202,7 @@ export function LibraryShell({ children }: { children: React.ReactNode }) {
 
   return (
     <LibraryContext.Provider value={actions}>
-      <main className="min-h-svh bg-white text-ink">
+      <main className="min-h-svh text-ink">
         <Header active={active} pinned={pinnedZone} onPickZone={(z) => pickZone(z, false)} onOpen={openPeptide} onHome={goHome} />
         <HomeView
           visible={homeVisible}

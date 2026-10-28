@@ -82,7 +82,7 @@ export function SearchBox({ onOpen, onPickZone }: Actions) {
     <div className="relative ml-auto h-10 w-[17rem] shrink-0 max-md:hidden lg:ml-0 xl:w-[18rem]" data-wheel-ignore>
       <label
         className={`absolute top-0 right-0 flex h-10 items-center gap-2.5 rounded-[0.5rem] border px-3.5 transition-[width,background-color,border-color] duration-300 ease-[cubic-bezier(.16,1,.3,1)] ${
-          focused ? "w-[21rem] border-[rgb(9_9_11/0.14)] bg-white" : "w-full border-transparent bg-mist"
+          focused ? "w-[21rem] border-[rgb(9_9_11/0.14)] bg-card" : "w-full border-transparent bg-mist"
         }`}
       >
         <SearchIcon className="size-4 shrink-0 text-ink/45" />
@@ -118,7 +118,7 @@ export function SearchBox({ onOpen, onPickZone }: Actions) {
           className="type-body-sm min-w-0 flex-1 bg-transparent text-ink outline-none placeholder:text-ink/40"
         />
         {!focused && (
-          <kbd className="type-label hidden rounded-[4px] border border-line bg-white px-1.5 py-1 text-ink/40 lg:inline-block">/</kbd>
+          <kbd className="type-label hidden rounded-[4px] border border-line bg-card px-1.5 py-1 text-ink/40 lg:inline-block">/</kbd>
         )}
       </label>
       <AnimatePresence>
@@ -127,7 +127,7 @@ export function SearchBox({ onOpen, onPickZone }: Actions) {
             initial={{ opacity: 0, y: -4 }}
             animate={{ opacity: 1, y: 0, transition: { duration: 0.2, ease: EASE } }}
             exit={{ opacity: 0, y: -4, transition: { duration: 0.12 } }}
-            className="absolute top-12 right-0 z-50 w-[21rem] overflow-hidden rounded-[0.5rem] border border-line bg-white shadow-[0_30px_60px_-20px_rgb(0_0_0/0.22),0_8px_20px_-12px_rgb(0_0_0/0.12)]"
+            className="absolute top-12 right-0 z-50 w-[21rem] overflow-hidden rounded-[0.5rem] border border-line bg-card shadow-[0_30px_60px_-20px_rgb(0_0_0/0.22),0_8px_20px_-12px_rgb(0_0_0/0.12)]"
           >
             {!has && <p className="type-body-xs px-4.5 pt-3.5 pb-1 text-ink/45">Popular searches</p>}
             {has && hits.length === 0 ? (
@@ -313,7 +313,7 @@ export function MobileSearch({ onOpen, onPickZone, variant = "icon", className =
                   animate={{ x: 0, y: 0, scaleX: 1, scaleY: 1, borderRadius: 0, opacity: 1, transition: { duration: 0.38, ease: [0.25, 1, 0.5, 1] } }}
                   exit={{ ...collapsed, transition: { duration: 0.3, ease: [0.25, 1, 0.5, 1] } }}
                   style={{ originX: 0, originY: 0 }}
-                  className="absolute inset-0 bg-white"
+                  className="absolute inset-0 bg-card"
                 />
                 <motion.div
                   initial={{ opacity: 0, y: -8 }}

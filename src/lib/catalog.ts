@@ -26,7 +26,8 @@ export interface Peptide {
   uses: string[];
   related: string[];
   summary: string;
-  art: number;
+  /** entry number in the atlas, 1-based */
+  no: number;
   ready: boolean;
 }
 
@@ -46,10 +47,10 @@ export const CATEGORY_LABEL: Record<Category, string> = {
 
 /** Strong dot/stripe colour and the pale tint behind card art, per category. */
 export const CATEGORY_COLOR: Record<Category, { solid: string; tint: string; line: string }> = {
-  fda: { solid: "#3dba80", tint: "#c3f0d8", line: "#3dba80" },
-  clinical: { solid: "#d6c437", tint: "#efe9a6", line: "#d6c437" },
-  wellness: { solid: "#e173d2", tint: "#f6d0ef", line: "#e173d2" },
-  cosmetic: { solid: "#a2a4ad", tint: "#e4e5e9", line: "#d4d5da" },
+  fda: { solid: "#2a9461", tint: "#d5e8da", line: "#2a9461" },
+  clinical: { solid: "#c9930c", tint: "#efe2bf", line: "#c9930c" },
+  wellness: { solid: "#d4603f", tint: "#f1d9cf", line: "#d4603f" },
+  cosmetic: { solid: "#8f8a7e", tint: "#e3dfd4", line: "#b5b0a3" },
 };
 
 export const EVIDENCE_LABEL: Record<number, string> = {
@@ -100,6 +101,3 @@ export function isZoneId(v: unknown): v is ZoneId {
   return typeof v === "string" && v in ZONE_BY_ID;
 }
 
-export const ART_POOL = 48;
-export const artSrc = (p: Pick<Peptide, "art">, size: "tall" | "thumb" = "tall") =>
-  `/art/${size}/${String(p.art).padStart(2, "0")}.webp`;

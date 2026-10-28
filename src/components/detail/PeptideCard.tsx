@@ -2,7 +2,8 @@
 
 import { AnimatePresence, animate, motion } from "motion/react";
 import { useEffect, useLayoutEffect, useRef, useState } from "react";
-import { CATEGORY_COLOR, CATEGORY_LABEL, EVIDENCE_LABEL, ZONE_BY_ID, artSrc, splitName, type Peptide } from "@/lib/catalog";
+import { CATEGORY_COLOR, CATEGORY_LABEL, EVIDENCE_LABEL, ZONE_BY_ID, splitName, type Peptide } from "@/lib/catalog";
+import { GlyphArt } from "@/components/art/Glyph";
 import { Dot } from "@/components/ui/Dot";
 
 const EASE_FLIGHT = [0.22, 1, 0.36, 1] as const;
@@ -84,12 +85,12 @@ export function PeptideCard({ p, flight, closing }: { p: Peptide; flight: CardFl
       >
         <div
           data-card={p.slug}
-          className={`relative flex h-full flex-col rounded-[6px] ${flying ? "overflow-visible" : "overflow-hidden bg-white"}`}
+          className={`relative flex h-full flex-col rounded-[6px] ${flying ? "overflow-visible" : "overflow-hidden bg-card"}`}
           style={flying ? undefined : { boxShadow: CARD_SHADOW }}
         >
           <div
             data-card-photo=""
-            className={`relative min-h-0 flex-1 overflow-hidden transition-colors duration-500 ${art}`}
+            className={`plate relative min-h-0 flex-1 overflow-hidden transition-colors duration-500 ${art}`}
             style={{ backgroundColor: colors.tint }}
           >
             <AnimatePresence initial={false}>
@@ -101,8 +102,8 @@ export function PeptideCard({ p, flight, closing }: { p: Peptide; flight: CardFl
                 transition={{ duration: 0.4 }}
                 className="absolute inset-0"
               >
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={artSrc(p)} alt="" draggable={false} className="absolute inset-0 size-full object-cover mix-blend-overlay" />
+                <GlyphArt p={p} w={400} h={400} className="absolute inset-0 size-full p-[6%]" />
+                <span className="type-label absolute top-4 left-4 text-ink/45">No. {String(p.no).padStart(3, "0")}</span>
               </motion.div>
             </AnimatePresence>
           </div>
