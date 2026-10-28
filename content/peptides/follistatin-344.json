@@ -1,0 +1,229 @@
+{
+  "slug": "follistatin-344",
+  "name": "Follistatin-344",
+  "zone": "bones",
+  "category": "wellness",
+  "aliases": [
+    "FST-344",
+    "FS344"
+  ],
+  "brands": [],
+  "class": "Myostatin-binding protein (not a small peptide)",
+  "route": "Injection in gray-market use; virus-delivered gene therapy in trials",
+  "status": "Not FDA-approved in any form; only experimental gene therapy has been tested in people; banned in sport by WADA",
+  "evidence": 1,
+  "mechanism": "Binds myostatin and related activin signals that restrain muscle growth, so blocking them increases muscle mass in animals",
+  "uses": [
+    "Muscle growth (claimed)",
+    "Muscle-wasting diseases (gene therapy studied)"
+  ],
+  "popular": null,
+  "related": [
+    "mechano-growth-factor",
+    "igf-1-lr3",
+    "igf-1-des",
+    "somatropin-rhgh"
+  ],
+  "article": {
+    "summary": "Follistatin-344 is a large protein that blocks myostatin, a brake on muscle growth. Engineered mice grow huge muscles, but human data are limited to gene therapy trials; it is unapproved and banned in sport.",
+    "takeaway": "Follistatin is a natural protein that binds and blocks myostatin, a signal that limits muscle size. In mice engineered to overproduce it, muscle mass rose dramatically, reaching about four times normal when myostatin was also removed.[^1] In people, the main data come from small gene-therapy trials in which a virus delivered the FS344 gene into thigh muscles, not from injected protein; a six-patient study in inclusion body myositis reported better walking distance, a claim a published letter challenged.[^2][^3] A related activin-blocking drug was stopped in boys with Duchenne muscular dystrophy after nosebleeds and dilated blood vessels.[^4] WADA bans follistatin.[^5]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved in any form; only experimental gene therapy has been tested in people[^2]"
+      ],
+      [
+        "Main uses claimed",
+        "Muscle growth; muscle-wasting diseases (experimental)"
+      ],
+      [
+        "How it's taken",
+        "Injection in gray-market use; gene therapy in trials; no approved dosing"
+      ],
+      [
+        "Drug class",
+        "Myostatin-binding protein"
+      ],
+      [
+        "Research",
+        "Mouse genetics and small gene-therapy trials in people[^1][^2]"
+      ],
+      [
+        "Sport",
+        "Prohibited at all times as a myostatin-binding protein[^5]"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Myostatin is a member of the TGF-beta family that normally limits skeletal muscle growth. Follistatin is a natural binding protein that captures myostatin before it reaches its receptor.[^1] 'FS344' names one form of follistatin; it is a protein of several hundred amino acids, not a small peptide.[^2] Follistatin also binds related signals such as activins, so blocking it affects more than muscle."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "Transgenic mice",
+                "Mice overproducing follistatin",
+                "Dramatic muscle growth; about four times normal mass when myostatin was also absent[^1]"
+              ],
+              [
+                "Gene therapy, inclusion body myositis",
+                "6 treated adults vs 8 untreated matched controls",
+                "Walking distance +56.0 m per year vs -25.8 m; a published letter called the benefit claims unfounded[^2][^3]"
+              ],
+              [
+                "ACE-031 (activin receptor decoy), Duchenne",
+                "Boys in a randomized placebo-controlled trial",
+                "Trends toward more lean mass; stopped over nosebleeds and dilated small vessels[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "None of these tests injected follistatin protein of the kind sold online."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**No safety data for injected follistatin:** the human work used virus-delivered genes in muscle, a different treatment from vials sold online[^2]",
+              "**Off-target effects:** blocking activins and related signals with ACE-031 caused nosebleeds and dilated small blood vessels, so broader risks are unclear[^4]",
+              "**Identity and quality:** large recombinant proteins are hard to make and verify; in one analysis of confiscated black-market products, an unlabeled preparation turned out to come from an empty expression vector with no target protein[^6]",
+              "**Long term:** the effects of suppressing these growth signals in healthy people over months or years have not been studied"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "No follistatin protein is FDA-approved. WADA lists follistatin as a myostatin-binding protein under agents that prevent activin receptor IIB activation, prohibited at all times.[^5] Anti-doping laboratories have built detection methods for follistatin-derived and other myostatin-inhibiting peptides because such agents are available as research chemicals and on the black market.[^7]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Follistatin shows that muscle size can be dramatically changed in engineered mice, but that does not make injected follistatin safe or effective for people. Human experience is limited to a few gene-therapy studies, one of them disputed. Athletes subject to testing should treat it as banned."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Preclinical; only gene therapy tested in people",
+      "text": "The strongest data are genetically engineered mice.[^1] Human studies used gene therapy in small groups, and a related drug was stopped for safety.[^2][^4]"
+    },
+    "faq": [
+      {
+        "q": "Is follistatin 344 a peptide?",
+        "a": "Not really. It is a large protein, which is why it is harder to make and verify than short peptides."
+      },
+      {
+        "q": "Does injected follistatin build muscle in people?",
+        "a": "That has not been shown. The human studies delivered the gene into muscle with a virus, and even those were small.[^2]"
+      },
+      {
+        "q": "Is it banned in sport?",
+        "a": "Yes. WADA names follistatin as a prohibited myostatin-binding protein.[^5]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Quadrupling muscle mass in mice by targeting TGF-beta signaling pathways",
+        "source": "PLoS One",
+        "year": 2007,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17726519/",
+        "pmid": "17726519",
+        "doi": "10.1371/journal.pone.0000789",
+        "note": "Mouse genetics: follistatin and myostatin"
+      },
+      {
+        "n": 2,
+        "title": "Follistatin Gene Therapy for Sporadic Inclusion Body Myositis Improves Functional Outcomes",
+        "source": "Mol Ther",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28279643/",
+        "pmid": "28279643",
+        "doi": "10.1016/j.ymthe.2017.02.015",
+        "note": "Six-patient FS344 gene therapy study"
+      },
+      {
+        "n": 3,
+        "title": "Unfounded Claims of Improved Functional Outcomes Attributed to Follistatin Gene Therapy in Inclusion Body Myositis",
+        "source": "Mol Ther",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28927986/",
+        "pmid": "28927986",
+        "doi": "10.1016/j.ymthe.2017.09.002",
+        "note": "Published critique of the gene therapy results"
+      },
+      {
+        "n": 4,
+        "title": "Myostatin inhibitor ACE-031 treatment of ambulatory boys with Duchenne muscular dystrophy: Results of a randomized, placebo-controlled clinical trial",
+        "source": "Muscle Nerve",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27462804/",
+        "pmid": "27462804",
+        "doi": "10.1002/mus.25268",
+        "note": "Related activin-blocking drug stopped over bleeding signs"
+      },
+      {
+        "n": 5,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "Follistatin is a prohibited myostatin-binding protein"
+      },
+      {
+        "n": 6,
+        "title": "Detection of an unknown fusion protein in confiscated black market products",
+        "source": "Drug Test Anal",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25219942/",
+        "pmid": "25219942",
+        "doi": "10.1002/dta.1713",
+        "note": "Black-market protein products that lacked the intended protein"
+      },
+      {
+        "n": 7,
+        "title": "Myostatin inhibitory peptides in sports drug testing",
+        "source": "Drug Test Anal",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36946003/",
+        "pmid": "36946003",
+        "doi": "10.1002/dta.3473",
+        "note": "Anti-doping detection of myostatin inhibitors including follistatin-derived peptides"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

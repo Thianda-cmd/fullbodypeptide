@@ -1,0 +1,232 @@
+{
+  "slug": "kpv",
+  "name": "KPV",
+  "zone": "digestive",
+  "category": "wellness",
+  "aliases": [
+    "Lys-Pro-Val",
+    "alpha-MSH(11-13)"
+  ],
+  "brands": [],
+  "class": "Anti-inflammatory tripeptide",
+  "route": "Oral, injected or topical in unregulated products; no approved form",
+  "status": "Not FDA-approved. FDA advisers voted 8-6 in July 2026 to allow compounding; the FDA has not yet acted",
+  "evidence": 1,
+  "mechanism": "A three-amino-acid fragment of alpha-MSH that dampens NF-kappaB inflammatory signaling in cells and mouse colitis models",
+  "uses": [
+    "Gut inflammation (unproven)",
+    "Skin and wound conditions (unproven)"
+  ],
+  "popular": 13,
+  "related": [
+    "bpc-157",
+    "tb-500",
+    "melanotan-ii",
+    "ll-37",
+    "larazotide-acetate"
+  ],
+  "article": {
+    "summary": "KPV is a three-amino-acid fragment of the hormone alpha-MSH that calms inflammation in cells and mouse colitis. Human trial data are essentially absent, and it is not FDA-approved.",
+    "takeaway": "KPV is the last three amino acids (lysine-proline-valine) of alpha-MSH, a hormone that helps control inflammation and skin pigmentation. In cell experiments it blocks inflammatory signaling, and in mouse models of colitis it reduced colon inflammation, whether given by mouth or in targeted nanoparticles.[^1][^2][^3] No clinical trials in people have been published, and the FDA states it has not identified any human exposure data on KPV drug products.[^4] In July 2026 FDA advisers voted 8-6 to recommend allowing compounding of KPV, against the advice of FDA staff, but no final decision has been made.[^5]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; July 2026 advisory vote favored compounding, no final FDA action"
+      ],
+      [
+        "Main claims",
+        "Calming gut, skin and wound inflammation (unproven in people)"
+      ],
+      [
+        "How it's sold",
+        "Capsules, injectables and creams from unregulated sellers"
+      ],
+      [
+        "Drug class",
+        "Alpha-MSH-derived tripeptide (Lys-Pro-Val)"
+      ],
+      [
+        "Research",
+        "Cell and mouse studies only; no published human trials"
+      ],
+      [
+        "Sport",
+        "Falls under WADA's non-approved substances rule (S0), banned at all times"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Alpha-MSH (alpha-melanocyte-stimulating hormone) is a natural hormone best known for skin pigmentation that also dampens inflammation. Its last three amino acids are KPV. In laboratory experiments KPV kept the NF-kappaB and MAP kinase signaling pathways from switching on and lowered the release of inflammatory messengers.[^1] A gut transporter protein called PepT1 can carry KPV into intestinal and immune cells, which is one reason it has been studied for bowel inflammation.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "In mice with chemically induced colitis, KPV reduced inflammation and helped body weight recover. Those effects appeared to be at least partly independent of the melanocortin-1 receptor, the usual alpha-MSH receptor.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Evidence",
+                "What it shows"
+              ],
+              [
+                "Human cells",
+                "Nanomolar KPV reduced inflammatory signaling and cytokine release in intestinal lining cells and T cells[^1]"
+              ],
+              [
+                "Mouse colitis (two chemical models)",
+                "KPV in drinking water reduced the incidence of colitis and inflammatory markers[^1]"
+              ],
+              [
+                "Mouse colitis (other models)",
+                "Faster weight recovery and less inflammation in DSS and T-cell transfer colitis[^2]"
+              ],
+              [
+                "Nanoparticle delivery in mice",
+                "KPV in hyaluronic acid nanoparticles worked better than the same particles without hyaluronic acid[^3]"
+              ],
+              [
+                "People",
+                "No published clinical trials; FDA has identified no human exposure data[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "All of this comes from cells and mice. Mouse colitis models respond to many compounds that later fail in people, so these results are a starting point, not evidence of benefit."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**No human safety data:** FDA says it has not identified human exposure data on KPV products and lacks important information on its safety[^4]",
+              "**Unknown effects in people:** how much is absorbed, how long effects last and what side effects occur have not been established",
+              "**Gray-market quality:** FDA reviewers stressed that identity and characterization of these peptides are unsettled, and online products are not made to drug standards, so identity, purity, sterility and amount are unverified[^5]",
+              "**Unstudied groups:** pregnancy, children, people with infections or cancer, and long-term use have not been studied"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "KPV is not an FDA-approved drug. In 2023 the FDA placed it among the peptides barred from compounding for significant safety risks (Category 2), and the agency's safety page now lists it among substances whose nominations were later withdrawn.[^4]"
+          },
+          {
+            "type": "p",
+            "text": "On July 23, 2026, the FDA's Pharmacy Compounding Advisory Committee reviewed KPV for wound healing and inflammatory conditions.[^6] It voted 8-6, with one abstention, to recommend adding it to the list of bulk substances that 503A compounding pharmacies may use, against the recommendation of FDA's own reviewers.[^5] The vote is advisory. The FDA must still propose and finalize a rule, so KPV is not yet legally available from compounding pharmacies, and products sold online as research chemicals remain unapproved drugs when marketed for people."
+          },
+          {
+            "type": "p",
+            "text": "KPV is not named on the World Anti-Doping Agency's 2026 Prohibited List, but the list's S0 class bans, at all times, any pharmacological substance without government approval for human therapeutic use, which would cover it."
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "KPV is a plausible anti-inflammatory idea supported by cell and mouse experiments and little else. The July 2026 advisory vote does not change that evidence. With no human data, anyone using it is relying on an unverified product for an unknown effect. People with bowel inflammation, who have effective approved treatments and need monitoring, should discuss options with a gastroenterologist."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Very low: cell and mouse studies only",
+      "text": "The best data are cell studies and mouse colitis experiments from 2008 to 2017.[^1][^2][^3] No human trials have been published, and FDA has identified no human exposure data on KPV drug products.[^4]"
+    },
+    "faq": [
+      {
+        "q": "Does KPV treat inflammatory bowel disease?",
+        "a": "That has not been tested in people. KPV reduced colitis in mice and calmed inflammatory signaling in cells, but no clinical trials have been reported.[^1][^2][^4]"
+      },
+      {
+        "q": "Is KPV legal?",
+        "a": "It is not FDA-approved. FDA advisers recommended in July 2026 that compounding pharmacies be allowed to use it, but the FDA has not finalized that, and online research-labeled products are unapproved drugs when marketed for people.[^5]"
+      },
+      {
+        "q": "Is KPV related to melanotan?",
+        "a": "Both relate to the melanocortin system. KPV is a fragment of alpha-MSH, the natural hormone that melanotan drugs imitate. [Melanotan II](/peptides/melanotan-ii) is a synthetic analog meant to act strongly on melanocortin receptors, whereas KPV's effect against colitis in mice was at least partly independent of the main alpha-MSH receptor.[^2]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "PepT1-mediated tripeptide KPV uptake reduces intestinal inflammation.",
+        "source": "Gastroenterology",
+        "year": 2008,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18061177/",
+        "pmid": "18061177",
+        "doi": "10.1053/j.gastro.2007.10.026",
+        "note": "Cell experiments and two mouse colitis models"
+      },
+      {
+        "n": 2,
+        "title": "Melanocortin-derived tripeptide KPV has anti-inflammatory potential in murine models of inflammatory bowel disease.",
+        "source": "Inflamm Bowel Dis",
+        "year": 2008,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18092346/",
+        "pmid": "18092346",
+        "doi": "10.1002/ibd.20334",
+        "note": "Mouse colitis models; receptor-independent effect"
+      },
+      {
+        "n": 3,
+        "title": "Orally Targeted Delivery of Tripeptide KPV via Hyaluronic Acid-Functionalized Nanoparticles Efficiently Alleviates Ulcerative Colitis.",
+        "source": "Mol Ther",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28143741/",
+        "pmid": "28143741",
+        "doi": "10.1016/j.ymthe.2016.11.020",
+        "note": "Nanoparticle delivery in a mouse colitis model"
+      },
+      {
+        "n": 4,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA's stated safety concerns about KPV"
+      },
+      {
+        "n": 5,
+        "title": "PEPTIDE-L WAVE! PCAC Approves Four Bulk Drug Substances for the 503A List",
+        "source": "FDA Law Blog (Hyman, Phelps & McNamara)",
+        "year": 2026,
+        "url": "https://www.thefdalawblog.com/2026/07/peptide-l-wave-pcac-approves-four-bulk-drug-substances-for-the-503a-list/",
+        "note": "July 23, 2026 vote count and FDA staff concerns"
+      },
+      {
+        "n": 6,
+        "title": "July 23-24, 2026 Meeting of the Pharmacy Compounding Advisory Committee",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+        "note": "Official meeting page: KPV reviewed for wound healing and inflammation"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

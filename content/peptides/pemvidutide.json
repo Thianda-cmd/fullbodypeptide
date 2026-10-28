@@ -1,0 +1,213 @@
+{
+  "slug": "pemvidutide",
+  "name": "Pemvidutide",
+  "zone": "digestive",
+  "category": "clinical",
+  "aliases": [
+    "ALT-801"
+  ],
+  "brands": [],
+  "class": "GLP-1 / glucagon dual agonist",
+  "route": "Once-weekly injection under the skin in trials",
+  "status": "Not FDA-approved. Phase 2 trials in MASH are complete; a phase 3 MASH trial began recruiting in July 2026",
+  "evidence": 2,
+  "mechanism": "Balanced GLP-1 and glucagon receptor agonist that lowers appetite and acts on the liver to reduce fat and inflammation",
+  "uses": [
+    "MASH (fatty liver inflammation)",
+    "Obesity (investigational)",
+    "Alcohol-related liver disease (phase 2)"
+  ],
+  "popular": null,
+  "related": [
+    "survodutide",
+    "mazdutide",
+    "semaglutide",
+    "retatrutide"
+  ],
+  "article": {
+    "summary": "Pemvidutide is an investigational once-weekly GLP-1 and glucagon dual agonist aimed at fatty liver disease with inflammation (MASH). Phase 2 trials cut liver fat sharply, and a phase 3 trial began in 2026.",
+    "takeaway": "Pemvidutide (ALT-801) is a once-weekly injection that activates the GLP-1 and glucagon receptors, with the glucagon part aimed at burning fat in the liver. In a 12-week randomized trial of 94 adults with fatty liver disease, liver fat fell by 47% to 69% across doses versus 4% on placebo.[^1] A 24-week extension of 64 completers reported reductions of 56% to 76%, with weight loss of about 6%.[^2] A phase 2b trial in MASH has been published in The Lancet,[^3] and a phase 3 MASH trial began in July 2026.[^4] Pemvidutide is not approved.",
+    "glance": [
+      [
+        "Status",
+        "Investigational; not approved by the FDA"
+      ],
+      [
+        "Developer",
+        "Altimmune"
+      ],
+      [
+        "How it's given",
+        "Once-weekly injection under the skin (in trials)"
+      ],
+      [
+        "Drug class",
+        "Balanced GLP-1 / glucagon dual agonist"
+      ],
+      [
+        "Research",
+        "Phase 1-2 randomized trials published; phase 3 MASH trial recruiting since 2026"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "MASH (metabolic dysfunction-associated steatohepatitis) is a form of fatty liver disease with inflammation that can progress to scarring. GLP-1 lowers appetite and body weight. Glucagon, usually known for raising blood sugar, acts directly on the liver to burn fatty acids and reduce fat production, which may lower liver fat by more than weight loss alone.[^1] Pemvidutide combines both actions in one molecule, with the two signals designed to be roughly balanced."
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Altimmune has run phase 1 and phase 2 studies, including the IMPACT trial in MASH, which enrolled 212 adults and finished in November 2025.[^5] A phase 3 trial in MASH, planned for 1,800 participants, began recruiting in July 2026 and is expected to run until about 2028.[^4] The company is also testing pemvidutide in alcohol-related liver disease[^6] and in alcohol use disorder with obesity, where a phase 2 trial has completed.[^7]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "12-week randomized trial",
+                "94 adults with fatty liver disease and a BMI of 28 or more",
+                "Liver fat -46.6% to -68.5% vs -4.4% on placebo; weight loss up to 4.3%[^1]"
+              ],
+              [
+                "24-week extension",
+                "64 adults who completed the 12-week trial",
+                "Liver fat -56.3% to -76.4% vs -14.0%; weight -6.2%[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Liver fat was measured by MRI, a good marker of fat content but not a direct measure of scarring or of outcomes such as cirrhosis. Biopsy-based results from a phase 2b trial in MASH are reported in The Lancet.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**12-week trial:** pemvidutide was described as well tolerated at all doses, with no severe or serious adverse events.[^1]",
+              "**24-week extension:** well tolerated, with low rates of side effects.[^2]",
+              "**Unknown:** long-term safety, effects on heart rate and blood sugar over time, and side-effect rates in the larger phase 3 population."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The phase 3 MASH trial is titled to assess efficacy, safety and clinical outcomes, and it is the first test of whether the liver-fat reductions translate into fewer liver complications.[^4] Results are not expected before it finishes."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Promising liver-fat results; outcome proof pending",
+      "text": "Randomized trials show large drops in liver fat with few safety signals,[^1][^2] but liver fat is a marker, not proof of fewer liver complications. A phase 3 trial with clinical outcomes has only just begun.[^4]"
+    },
+    "faq": [
+      {
+        "q": "What is MASH?",
+        "a": "Metabolic dysfunction-associated steatohepatitis is fatty liver disease with inflammation and liver cell injury. It was formerly called NASH and can progress to scarring."
+      },
+      {
+        "q": "Is pemvidutide approved?",
+        "a": "No. It is investigational, and a phase 3 MASH trial has been recruiting since July 2026.[^4]"
+      },
+      {
+        "q": "Can I buy pemvidutide online?",
+        "a": "Not legally for human use. It is an unapproved investigational drug, and products sold online as pemvidutide have unverified contents."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Effect of pemvidutide, a GLP-1/glucagon dual receptor agonist, on MASLD: A randomized, double-blind, placebo-controlled study.",
+        "source": "J Hepatol",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39002641/",
+        "pmid": "39002641",
+        "doi": "10.1016/j.jhep.2024.07.006",
+        "note": "12-week randomized trial in 94 adults"
+      },
+      {
+        "n": 2,
+        "title": "Safety and efficacy of 24 weeks of pemvidutide in metabolic dysfunction-associated steatotic liver disease: A randomized, controlled clinical trial.",
+        "source": "JHEP Rep",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41113119/",
+        "pmid": "41113119",
+        "doi": "10.1016/j.jhepr.2025.101483",
+        "note": "24-week extension: liver fat and weight"
+      },
+      {
+        "n": 3,
+        "title": "The dual GLP-1-glucagon agonist pemvidutide in MASH: a phase 2b trial.",
+        "source": "Lancet",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41352959/",
+        "pmid": "41352959",
+        "doi": "10.1016/S0140-6736(25)02304-9",
+        "note": "Phase 2b trial in MASH"
+      },
+      {
+        "n": 4,
+        "title": "Phase 3 Study of the Efficacy, Safety, and Clinical Outcomes of Pemvidutide in MASH",
+        "source": "ClinicalTrials.gov",
+        "year": 2026,
+        "url": "https://clinicaltrials.gov/study/NCT07795164",
+        "note": "NCT07795164: phase 3 trial, recruiting since July 2026"
+      },
+      {
+        "n": 5,
+        "title": "IMPACT TRIAL: Efficacy and Safety of Pemvidutide in Subjects With Nonalcoholic Steatohepatitis (NASH)",
+        "source": "ClinicalTrials.gov",
+        "year": 2025,
+        "url": "https://clinicaltrials.gov/study/NCT05989711",
+        "note": "NCT05989711: phase 2 trial, 212 participants, completed"
+      },
+      {
+        "n": 6,
+        "title": "RESTORE TRIAL: Study of the Efficacy and Safety of Pemvidutide in the Treatment of Alcohol-Associated Liver Disease (ALD)",
+        "source": "ClinicalTrials.gov",
+        "year": 2025,
+        "url": "https://clinicaltrials.gov/study/NCT07009860",
+        "note": "NCT07009860: phase 2 trial in alcohol-related liver disease"
+      },
+      {
+        "n": 7,
+        "title": "RECLAIM STUDY: Phase 2 Study of the Efficacy and Safety of Pemvidutide in the Treatment of Alcohol Use Disorder (AUD) in Subjects With Obesity or Overweight",
+        "source": "ClinicalTrials.gov",
+        "year": 2025,
+        "url": "https://clinicaltrials.gov/study/NCT06987513",
+        "note": "NCT06987513: phase 2 trial in alcohol use disorder, completed"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

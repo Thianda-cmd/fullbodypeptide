@@ -1,0 +1,232 @@
+{
+  "slug": "aviptadil",
+  "name": "Aviptadil",
+  "zone": "immune",
+  "category": "clinical",
+  "aliases": [
+    "Vasoactive intestinal peptide (VIP)",
+    "RLF-100",
+    "Zyesami (proposed name)"
+  ],
+  "brands": [],
+  "class": "Synthetic vasoactive intestinal peptide",
+  "route": "IV infusion in trials; inhaled forms in smaller studies",
+  "status": "Investigational; not FDA-approved. COVID-19 trials did not show a clear survival benefit",
+  "evidence": 2,
+  "mechanism": "Synthetic copy of vasoactive intestinal peptide, a natural signal that relaxes blood vessels and calms inflammation, tested to protect the lungs",
+  "uses": [
+    "COVID-19 respiratory failure (studied)",
+    "Acute respiratory distress syndrome (studied)",
+    "Pulmonary hypertension (early studies)"
+  ],
+  "popular": null,
+  "related": [
+    "secretin",
+    "glucagon",
+    "nangibotide"
+  ],
+  "article": {
+    "summary": "Aviptadil is synthetic vasoactive intestinal peptide, studied for lung failure in COVID-19. Two large randomized trials did not show a clear survival benefit, and it is not approved in the US.",
+    "takeaway": "Aviptadil is a lab-made copy of vasoactive intestinal peptide (VIP), a 28-amino-acid hormone that relaxes blood vessels, calms inflammation and is found in the lungs. It was tested as a 3-day intravenous infusion for COVID-19 respiratory failure. A 196-patient trial missed its main goal, being alive and free of respiratory failure at day 60,[^1] and the larger NIH-funded TESICO trial found no significant improvement in outcomes at day 90.[^2] A 2025 meta-analysis of the two randomized trials also found no survival benefit.[^3] **It is not FDA-approved for any use.**",
+    "glance": [
+      [
+        "FDA status",
+        "Investigational; not approved"
+      ],
+      [
+        "Studied for",
+        "COVID-19 respiratory failure, ARDS, pulmonary hypertension"
+      ],
+      [
+        "How it's given",
+        "Intravenous infusion over 3 days in trials; inhaled forms in smaller studies"
+      ],
+      [
+        "Drug class",
+        "Synthetic vasoactive intestinal peptide (VIP)"
+      ],
+      [
+        "Research",
+        "Randomized trials of 196, 461 and 80 patients, plus case series"
+      ],
+      [
+        "Related",
+        "[Secretin](/peptides/secretin), [nangibotide](/peptides/nangibotide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "VIP is a hormone and nerve messenger found throughout the body, including the lungs. It widens blood vessels and, in lab studies, increases production of surfactant (the coating that keeps air sacs open), lowers inflammatory signals and may block the coronavirus from replicating in lung cells.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "Natural VIP is cleared from the blood within minutes, so a drug version has to be given as a continuous infusion or inhaled. Aviptadil is the drug name for synthetic VIP, the same peptide sequence."
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Aviptadil has no FDA approval. Its most advanced work was in COVID-19: a company-sponsored trial of the IV form, the NIH-run TESICO study, and smaller inhaled-form studies. Interest in lung-vessel disease is older: in 2003 researchers reported that VIP lowered pulmonary artery pressure in eight patients with primary pulmonary hypertension and called for further study.[^4]"
+          },
+          {
+            "type": "p",
+            "text": "As of May 2026 the FDA lists vasoactive intestinal peptide among bulk substances under evaluation for pharmacy compounding (category 1). That is not an approval, and it does not make products sold outside trials safe or effective.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Result"
+              ],
+              [
+                "Phase 2/3 trial (2022)",
+                "196 patients with critical COVID-19 respiratory failure; 3 days IV vs placebo",
+                "Main goal not met (odds ratio 1.6, 95% CI 0.86-3.11); a secondary survival analysis favored aviptadil (odds ratio 2.0)[^1]"
+              ],
+              [
+                "TESICO / ACTIV-3b (2023)",
+                "461 patients analyzed at 28 US hospitals",
+                "No significant gain at day 90 (odds ratio 1.11, 0.80-1.55); death by day 90 was 38% vs 36%[^2]"
+              ],
+              [
+                "Inhaled aviptadil (2025)",
+                "80 hospitalized COVID-19 patients, 9 centers",
+                "Average time to discharge 7.8 vs 10 days (p=0.049); a small trial[^6]"
+              ],
+              [
+                "Meta-analysis (2025)",
+                "Two randomized trials plus seven case series",
+                "Pooled survival odds ratio 1.01 (0.72-1.42) in the randomized trials: no significant benefit[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The favorable survival result in the first trial came from a secondary analysis after the main goal was missed, so it needed confirmation. The larger NIH trial did not confirm it."
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The first trial's authors reported no drug-related serious adverse events.[^1] In TESICO, the early safety composite (death, serious adverse events, organ failure, serious infection or grade 3-4 events up to day 5) occurred in 63% on aviptadil and 56% on placebo, a difference that was not statistically significant.[^2] The inhaled trial reported no dropouts from side effects.[^6]"
+          },
+          {
+            "type": "p",
+            "text": "Safety outside critical illness, with longer or repeated use, is largely unknown. Aviptadil sold online or compounded outside a trial is an unapproved product of uncertain quality."
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Interest in COVID-19 has faded as the pandemic eased. Whether aviptadil helps other forms of acute respiratory distress syndrome remains unproven, and a 2025 review called for larger, well-designed trials.[^3] Any approval would require a positive confirmatory trial."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Mixed: several trials, no clear benefit",
+      "text": "Two large randomized IV trials and a 2025 meta-analysis found no significant survival benefit,[^1][^2][^3] and a small inhaled trial needs confirmation.[^6] Evidence outside COVID-19 is limited to early studies.[^4]"
+    },
+    "faq": [
+      {
+        "q": "Is aviptadil FDA-approved?",
+        "a": "No. It has been studied in trials but has no FDA approval for any use. The FDA lists VIP as a bulk substance under evaluation for compounding, which is not an approval.[^5]"
+      },
+      {
+        "q": "Why did a promising survival signal not lead to approval?",
+        "a": "In the 196-patient trial the main goal was missed and the survival result was a secondary finding. The larger NIH trial later found no benefit.[^1][^2]"
+      },
+      {
+        "q": "Is VIP the same as aviptadil?",
+        "a": "Aviptadil is the drug name for synthetic VIP, so they are the same peptide.[^1]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "The Use of IV Vasoactive Intestinal Peptide (Aviptadil) in Patients With Critical COVID-19 Respiratory Failure: Results of a 60-Day Randomized Controlled Trial.",
+        "source": "Crit Care Med",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36044317/",
+        "pmid": "36044317",
+        "doi": "10.1097/CCM.0000000000005660",
+        "note": "196-patient IV aviptadil trial"
+      },
+      {
+        "n": 2,
+        "title": "Intravenous aviptadil and remdesivir for treatment of COVID-19-associated hypoxaemic respiratory failure in the USA (TESICO): a randomised, placebo-controlled trial.",
+        "source": "Lancet Respir Med",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37348524/",
+        "pmid": "37348524",
+        "doi": "10.1016/S2213-2600(23)00147-9",
+        "note": "NIH-funded trial, 461 patients analyzed for aviptadil"
+      },
+      {
+        "n": 3,
+        "title": "Aviptadil Therapy in Acute Respiratory Distress Syndrome Patients: A Systematic Review and Meta-analysis.",
+        "source": "Indian J Crit Care Med",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41368449/",
+        "pmid": "41368449",
+        "doi": "10.5005/jp-journals-10071-25084",
+        "note": "Pooled analysis: no significant survival benefit"
+      },
+      {
+        "n": 4,
+        "title": "Vasoactive intestinal peptide as a new drug for treatment of primary pulmonary hypertension.",
+        "source": "J Clin Invest",
+        "year": 2003,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12727925/",
+        "pmid": "12727925",
+        "doi": "10.1172/JCI17500",
+        "note": "Early study in eight patients with pulmonary hypertension"
+      },
+      {
+        "n": 5,
+        "title": "Bulk Drug Substances Nominated for Use in Compounding Under Section 503A of the Federal Food, Drug, and Cosmetic Act",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/media/94155/download",
+        "note": "FDA category list updated May 14, 2026"
+      },
+      {
+        "n": 6,
+        "title": "Inhaled Aviptadil Is a New Hope for Recovery of Lung Damage due to COVID-19.",
+        "source": "Med Princ Pract",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39870064/",
+        "pmid": "39870064",
+        "doi": "10.1159/000543773",
+        "note": "80-patient randomized trial of inhaled aviptadil"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

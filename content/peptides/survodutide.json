@@ -1,0 +1,234 @@
+{
+  "slug": "survodutide",
+  "name": "Survodutide",
+  "zone": "digestive",
+  "category": "clinical",
+  "aliases": [
+    "BI 456906"
+  ],
+  "brands": [],
+  "class": "Glucagon / GLP-1 dual agonist",
+  "route": "Once-weekly injection under the skin in trials",
+  "status": "Not FDA-approved. Phase 3 obesity results reported in 2026; MASH phase 3 trials are under way",
+  "evidence": 3,
+  "mechanism": "Activates glucagon and GLP-1 receptors to lower appetite and act directly on the liver to reduce fat and inflammation",
+  "uses": [
+    "Obesity (investigational)",
+    "MASH with fibrosis (phase 3)",
+    "Obesity with type 2 diabetes"
+  ],
+  "popular": null,
+  "related": [
+    "mazdutide",
+    "pemvidutide",
+    "retatrutide",
+    "semaglutide",
+    "tirzepatide"
+  ],
+  "article": {
+    "summary": "Survodutide is an investigational once-weekly glucagon and GLP-1 dual agonist from Boehringer Ingelheim. Phase 3 trials showed 12-13% weight loss and large liver-fat drops, but it is not FDA-approved.",
+    "takeaway": "Survodutide (BI 456906) is a once-weekly injection that activates the glucagon and GLP-1 receptors, developed by Boehringer Ingelheim for obesity and fatty liver disease. In the 725-person phase 3 trial SYNCHRONIZE-1, adults with obesity lost **12.2% to 13.0%** of body weight over 76 weeks versus 5.4% on placebo.[^1] In people who also had type 2 diabetes, the top dose gave 9.8% versus 3.9% on placebo.[^2] In a phase 2 trial in MASH with fibrosis, 62% on the middle dose improved liver inflammation without worsening scarring, versus 14% on placebo.[^3] It is not FDA-approved.",
+    "glance": [
+      [
+        "Status",
+        "Investigational; not approved by the FDA"
+      ],
+      [
+        "Developer",
+        "Boehringer Ingelheim"
+      ],
+      [
+        "How it's given",
+        "Once-weekly injection under the skin (in trials)"
+      ],
+      [
+        "Drug class",
+        "Glucagon receptor / GLP-1 receptor dual agonist"
+      ],
+      [
+        "Research",
+        "Phase 2 trials; phase 3 obesity and MASLD results in 2026; MASH phase 3 trials running"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Survodutide pairs two hormone signals. GLP-1 lowers appetite, slows stomach emptying and raises insulin when blood sugar is high. Glucagon, better known for raising blood sugar, also acts directly on the liver, where it promotes fat burning and reduces fat production. That liver action is why the drug is also studied in fatty liver disease with inflammation, called MASH (metabolic dysfunction-associated steatohepatitis). Other dual agonists in development include [mazdutide](/peptides/mazdutide) and [pemvidutide](/peptides/pemvidutide)."
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Boehringer Ingelheim ran phase 2 trials in obesity[^4] and MASH[^3] before launching a phase 3 program. SYNCHRONIZE-1 and SYNCHRONIZE-2 (obesity without and with type 2 diabetes) and SYNCHRONIZE-MASLD have reported in 2026.[^1][^2][^5] Two phase 3 trials in MASH with fibrosis or cirrhosis (LIVERAGE) are recruiting,[^6] and a cardiovascular safety trial has completed.[^7] Survodutide is not approved."
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result vs placebo"
+              ],
+              [
+                "Phase 2, 46 weeks",
+                "387 adults with obesity",
+                "-14.9% (4.8 mg) vs -2.8% body weight[^4]"
+              ],
+              [
+                "SYNCHRONIZE-1, 76 weeks",
+                "725 adults with obesity",
+                "-13.0% (6.0 mg) vs -5.4%[^1]"
+              ],
+              [
+                "SYNCHRONIZE-2, 76 weeks",
+                "752 adults with obesity and type 2 diabetes",
+                "-9.8% (6.0 mg) vs -3.9%[^2]"
+              ],
+              [
+                "Phase 2 MASH, 48 weeks",
+                "293 adults with MASH and fibrosis",
+                "MASH improved without worse scarring in 62% (4.8 mg) vs 14%[^3]"
+              ],
+              [
+                "SYNCHRONIZE-MASLD, 48 weeks",
+                "216 adults with obesity and at-risk MASLD",
+                "At least 30% less liver fat in 84.2% vs 24.3% (efficacy estimand)[^5]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In the phase 2 MASH trial, scarring improved by at least one stage in 34% to 36% of survodutide groups versus 22% on placebo. That was a secondary endpoint, and the phase 3 trials are testing whether it holds up.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Digestive effects** dominate: in SYNCHRONIZE-1, 80.9% to 89.7% on survodutide had gastrointestinal events versus 47.9% on placebo, usually mild to moderate.[^1]",
+              "**Phase 2 MASH trial:** nausea (66% vs 23%), diarrhea (49% vs 23%) and vomiting (41% vs 4%) were more frequent; serious adverse events were similar (8% vs 7%).[^3]",
+              "**No deaths** were reported in SYNCHRONIZE-1.[^1]",
+              "**Unknown:** long-term safety, cardiovascular outcomes and use in people with cirrhosis are still being studied.[^6]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The LIVERAGE trials will test whether survodutide improves liver scarring and clinical outcomes in MASH.[^6] Decisions about regulatory filings will follow their results and the remaining SYNCHRONIZE data."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong in phase 3 for weight; liver outcomes pending",
+      "text": "Large randomized phase 3 trials show consistent weight loss of about 10% to 13% and large liver-fat reductions.[^1][^2][^5] Whether this lowers liver scarring and complications is being tested in the LIVERAGE phase 3 trials.[^6]"
+    },
+    "faq": [
+      {
+        "q": "Is survodutide approved?",
+        "a": "No. It is investigational, with phase 3 trials continuing in MASH.[^6]"
+      },
+      {
+        "q": "How does it differ from semaglutide?",
+        "a": "[Semaglutide](/peptides/semaglutide) activates only GLP-1. Survodutide also activates the glucagon receptor, which acts on the liver, so it is being developed for fatty liver disease as well as obesity.[^5]"
+      },
+      {
+        "q": "Can I buy survodutide online?",
+        "a": "Not legally for human use. Online products sold as survodutide are unapproved, and their contents are unverified."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Survodutide Once Weekly for the Treatment of Adults with Obesity.",
+        "source": "N Engl J Med",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42253238/",
+        "pmid": "42253238",
+        "doi": "10.1056/NEJMoa2600751",
+        "note": "SYNCHRONIZE-1: 76-week phase 3 weight loss"
+      },
+      {
+        "n": 2,
+        "title": "Survodutide Once Weekly in Adults with Obesity and Type 2 Diabetes.",
+        "source": "N Engl J Med",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42820639/",
+        "pmid": "42820639",
+        "doi": "10.1056/NEJMoa2607219",
+        "note": "SYNCHRONIZE-2: obesity with type 2 diabetes"
+      },
+      {
+        "n": 3,
+        "title": "A Phase 2 Randomized Trial of Survodutide in MASH and Fibrosis.",
+        "source": "N Engl J Med",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38847460/",
+        "pmid": "38847460",
+        "doi": "10.1056/NEJMoa2401755",
+        "note": "Phase 2 MASH trial: histology and side effects"
+      },
+      {
+        "n": 4,
+        "title": "Glucagon and GLP-1 receptor dual agonist survodutide for obesity: a randomised, double-blind, placebo-controlled, dose-finding phase 2 trial.",
+        "source": "Lancet Diabetes Endocrinol",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38330987/",
+        "pmid": "38330987",
+        "doi": "10.1016/S2213-8587(23)00356-X",
+        "note": "Phase 2 obesity trial, 387 adults"
+      },
+      {
+        "n": 5,
+        "title": "Survodutide in adults with obesity and metabolic dysfunction-associated steatotic liver disease: SYNCHRONIZE-MASLD, a randomized, double-blind, placebo-controlled phase 3 trial.",
+        "source": "Nat Med",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42252333/",
+        "pmid": "42252333",
+        "doi": "10.1038/s41591-026-04479-3",
+        "note": "Phase 3 liver-fat and weight results"
+      },
+      {
+        "n": 6,
+        "title": "LIVERAGE: A Study to Test Whether Survodutide Helps People With a Liver Disease Called NASH/MASH Who Have Moderate or Advanced Liver Fibrosis",
+        "source": "ClinicalTrials.gov",
+        "year": 2024,
+        "url": "https://clinicaltrials.gov/study/NCT06632444",
+        "note": "NCT06632444: phase 3 MASH trial, recruiting"
+      },
+      {
+        "n": 7,
+        "title": "A Study to Test the Effect of Survodutide (BI 456906) on Cardiovascular Safety in People With Overweight or Obesity (SYNCHRONIZE - CVOT)",
+        "source": "ClinicalTrials.gov",
+        "year": 2023,
+        "url": "https://clinicaltrials.gov/study/NCT06077864",
+        "note": "NCT06077864: cardiovascular safety trial, completed"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

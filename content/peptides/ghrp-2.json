@@ -1,0 +1,229 @@
+{
+  "slug": "ghrp-2",
+  "name": "GHRP-2",
+  "zone": "bones",
+  "category": "wellness",
+  "aliases": [
+    "Pralmorelin",
+    "Growth hormone-releasing peptide-2"
+  ],
+  "brands": [],
+  "class": "Ghrelin-receptor agonist (GH-releasing peptide)",
+  "route": "Injection under the skin in research and gray-market use",
+  "status": "Not FDA-approved (used as a diagnostic test in Japan); FDA Category 3: nominated without adequate support; banned in sport",
+  "evidence": 1,
+  "mechanism": "A six-amino-acid peptide that activates the ghrelin receptor to trigger a strong growth hormone surge and raise appetite",
+  "uses": [
+    "GH release and recovery (claimed)",
+    "Appetite stimulation (claimed)"
+  ],
+  "popular": null,
+  "related": [
+    "ghrp-6",
+    "hexarelin",
+    "ipamorelin",
+    "mk-677-ibutamoren",
+    "cjc-1295"
+  ],
+  "article": {
+    "summary": "GHRP-2 (pralmorelin) is a six-amino-acid peptide that triggers growth hormone release and hunger. It has no FDA approval, the FDA cites serious safety reports, and WADA bans it.",
+    "takeaway": "GHRP-2 (pralmorelin) is a synthetic six-amino-acid peptide that activates the ghrelin receptor and triggers a strong burst of growth hormone. In seven healthy men, a GHRP-2 infusion raised growth hormone sharply and made them eat about 36% more at a buffet.[^1] It has been used as a diagnostic test for growth hormone deficiency and tested by nasal spray in short children, but it has no FDA approval.[^2][^3] The FDA has cited serious adverse events in people who received it, though causality was not established, and WADA bans it.[^4][^5]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; FDA Category 3 for compounding, with safety concerns cited[^4][^6]"
+      ],
+      [
+        "Main uses claimed",
+        "GH release, recovery, appetite"
+      ],
+      [
+        "How it's taken",
+        "Injection in research and gray-market use; no approved dosing"
+      ],
+      [
+        "Drug class",
+        "GH-releasing peptide and ghrelin agonist"
+      ],
+      [
+        "Research",
+        "Short hormone and appetite studies, a diagnostic test and a small pediatric study[^1][^2][^3]"
+      ],
+      [
+        "Sport",
+        "Prohibited at all times; WADA names GHRP-2 (pralmorelin)[^5]"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Ghrelin, a stomach hormone, stimulates both growth hormone release and appetite by activating the GH secretagogue receptor. GHRP-2 is a synthetic hexapeptide that acts on that receptor, with no structural similarity to GHRH.[^7] Its GH-releasing effect is marked and dose-related.[^7]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Appetite:** in 7 lean men, a GHRP-2 infusion increased intake at a buffet meal by about 36% and raised GH sharply[^1]",
+              "**Diagnosis:** a single intravenous GHRP-2 test, validated in 77 healthy people and 58 patients, separated severe adult GH deficiency from normal[^2]",
+              "**Short stature:** 15 children received intranasal GHRP-2 in a small pediatric study; it is not an established treatment[^3]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The searches for this entry found no trial showing that GHRP-2 builds muscle, burns fat or speeds recovery in healthy adults."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**FDA concerns:** immune-reaction risk from aggregation and impurities, and reports of serious adverse events in patients who received GHRP-2, including increased insulin need, deaths of critically ill study subjects, infection and pancreatitis, though causality was not established[^4]",
+              "**Hormone effects:** in pigs, GHRP-2 and GHRP-6 raised ACTH and cortisol, which ipamorelin did not[^8]",
+              "**Appetite:** increased hunger and food intake are expected effects[^1]",
+              "**Unknown long term:** no long-term safety, cancer or mortality data exist for healthy users",
+              "**Quality:** illegally sold peptide drugs have shown highly variable amounts, low purity and toxic metals such as arsenic and lead[^9]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GHRP-2 is not FDA-approved; a diagnostic use has been approved in Japan. The FDA's May 2026 list places GHRP-2 in Category 3, nominated without adequate support, which is not an endorsement for compounding.[^6] The FDA's safety page also describes concerns about GHRP-2 for injectable and nasal use in outsourcing facilities.[^4] WADA lists GHRP-2 (pralmorelin) as a prohibited GH-releasing peptide at all times.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GHRP-2 is a potent GH-release trigger with a legitimate diagnostic role, but that does not support injecting it for muscle or recovery. The FDA has cited serious adverse events, and long-term safety is unknown. Athletes subject to testing should treat it as banned."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Low: short studies, none for claimed uses",
+      "text": "Human studies are short hormone, appetite and diagnostic tests.[^1][^2] No outcome trials of the wellness claims were found."
+    },
+    "faq": [
+      {
+        "q": "Is GHRP-2 the same as GHRP-6?",
+        "a": "They are related six-amino-acid peptides acting on the same receptor. See [GHRP-6](/peptides/ghrp-6). Both raised cortisol and ACTH in pig studies, unlike ipamorelin.[^8]"
+      },
+      {
+        "q": "Does GHRP-2 increase appetite?",
+        "a": "Yes. Healthy men ate about 36% more after a GHRP-2 infusion.[^1]"
+      },
+      {
+        "q": "Is it banned in sport?",
+        "a": "Yes. WADA lists GHRP-2 (pralmorelin) as prohibited at all times.[^5]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Growth hormone releasing peptide-2 (GHRP-2), like ghrelin, increases food intake in healthy men",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2005,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15699539/",
+        "pmid": "15699539",
+        "doi": "10.1210/jc.2004-1719",
+        "note": "Seven-man infusion study of GH and meal intake"
+      },
+      {
+        "n": 2,
+        "title": "A simple diagnostic test using GH-releasing peptide-2 in adult GH deficiency",
+        "source": "Eur J Endocrinol",
+        "year": 2007,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17609397/",
+        "pmid": "17609397",
+        "doi": "10.1530/EJE-07-0066",
+        "note": "Validation of GHRP-2 as a diagnostic test"
+      },
+      {
+        "n": 3,
+        "title": "Treatment effects of intranasal growth hormone releasing peptide-2 in children with short stature",
+        "source": "J Endocrinol",
+        "year": 1997,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9390009/",
+        "pmid": "9390009",
+        "doi": "10.1677/joe.0.1550079",
+        "note": "Small pediatric study with a nasal spray"
+      },
+      {
+        "n": 4,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA's stated concerns about GHRP-2"
+      },
+      {
+        "n": 5,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "GHRP-2 (pralmorelin) is a prohibited GH-releasing peptide"
+      },
+      {
+        "n": 6,
+        "title": "Bulk Drug Substances Nominated for Use in Compounding Under Section 503A of the Federal Food, Drug, and Cosmetic Act (updated May 14, 2026)",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/media/94155/download",
+        "note": "GHRP-2 listed in Category 3"
+      },
+      {
+        "n": 7,
+        "title": "Growth hormone-releasing peptides",
+        "source": "Eur J Endocrinol",
+        "year": 1997,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9186261/",
+        "pmid": "9186261",
+        "doi": "10.1530/eje.0.1360445",
+        "note": "Review of GHRP-6, GHRP-2 and hexarelin"
+      },
+      {
+        "n": 8,
+        "title": "Ipamorelin, the first selective growth hormone secretagogue",
+        "source": "Eur J Endocrinol",
+        "year": 1998,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9849822/",
+        "pmid": "9849822",
+        "doi": "10.1530/eje.0.1390552",
+        "note": "Pig data on ACTH and cortisol with GHRP-2 and GHRP-6"
+      },
+      {
+        "n": 9,
+        "title": "Impurity profiling of the most frequently encountered falsified polypeptide drugs on the Belgian market",
+        "source": "Talanta",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30029448/",
+        "pmid": "30029448",
+        "doi": "10.1016/j.talanta.2018.06.023",
+        "note": "Purity and metal contamination in illegally sold peptides"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

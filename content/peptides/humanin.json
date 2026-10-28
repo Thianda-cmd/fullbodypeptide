@@ -1,0 +1,213 @@
+{
+  "slug": "humanin",
+  "name": "Humanin",
+  "zone": "hormones",
+  "category": "wellness",
+  "aliases": [
+    "HN"
+  ],
+  "brands": [],
+  "class": "Mitochondrial-derived peptide",
+  "route": "Injection in research and gray-market use",
+  "status": "Not FDA-approved and not on FDA compounding lists; no human trials; WADA bans non-approved drugs like it",
+  "evidence": 1,
+  "mechanism": "A short peptide encoded in mitochondrial DNA that protects cells from stress-induced death and, in animals, improves insulin sensitivity",
+  "uses": [
+    "Longevity and brain protection (claimed)",
+    "Insulin sensitivity (claimed)"
+  ],
+  "popular": 27,
+  "related": [
+    "mots-c",
+    "elamipretide",
+    "epitalon"
+  ],
+  "article": {
+    "summary": "Humanin is a short mitochondrial peptide first found in a screen for Alzheimer's protection. Evidence comes from cells and animals, no human trials exist, and it is not FDA-approved.",
+    "takeaway": "Humanin is a peptide of about two dozen amino acids, encoded in mitochondrial DNA, that protected cultured nerve cells from Alzheimer's-related toxicity when it was discovered in 2001.[^1] In rodents, humanin and more potent analogs improved insulin action, and in aged mice it improved cognition.[^2][^3] In people, researchers have only measured natural levels and gene variants; the searches for this entry found no controlled trial of injected humanin. It is not FDA-approved, and WADA's ban on non-approved substances would apply to it.[^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; no human efficacy trials"
+      ],
+      [
+        "Main uses claimed",
+        "Longevity, brain protection, metabolic health"
+      ],
+      [
+        "How it's taken",
+        "Injection in research and gray-market use; no approved dosing"
+      ],
+      [
+        "Drug class",
+        "Mitochondrial-derived peptide"
+      ],
+      [
+        "Research",
+        "Cell and rodent studies; human data are observational[^3]"
+      ],
+      [
+        "Sport",
+        "Not named by WADA, but unapproved drugs are banned under S0[^4]"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In 2001 researchers screening for genes that rescue nerve cells from toxicity tied to familial Alzheimer's disease found one that encodes a short secreted polypeptide, which they named Humanin.[^1] It is also made from the mitochondrial genome, and it belongs to a small family of mitochondrial-derived peptides.[^5] In cell and animal work it protects cells under stress and affects insulin signaling, partly through the hypothalamus in the brain.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Cells:** humanin blocked the death of nerve cells exposed to Alzheimer's-related toxins[^1]",
+              "**Rodents:** infusions of humanin or potent analogs improved insulin sensitivity, and one analog lowered blood glucose in diabetic rats[^2]; in aged mice humanin improved cognition[^3]",
+              "**People:** a variant in the humanin-coding region of mitochondrial DNA lowers circulating humanin and was linked to faster cognitive aging in older adults, which suggests a role but does not show that injections help[^3]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**No human trial data:** safety, effective amounts and long-term effects of injected humanin are unknown",
+              "**Context-dependent effects:** a review reported that in senescent cells humanin and MOTS-c raised inflammatory signaling, so cell protection is not simply beneficial[^6]",
+              "**Open question:** because humanin blocks cell death, it is unknown whether it could also help damaged cells survive in people; this has not been studied",
+              "**Quality:** illegally sold peptide drugs have shown highly variable amounts, low purity and toxic metals such as arsenic and lead[^7]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Humanin is not an FDA-approved drug, and it does not appear on the FDA's May 2026 list of bulk substances nominated for pharmacy compounding.[^8] WADA does not name it, but its S0 class prohibits at all times any pharmacological substance with no approval for human therapeutic use, which would cover humanin.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Humanin is interesting mitochondrial biology with good animal data. No human trials of the peptide exist, so claims about longevity, brain protection or diabetes are speculation. It has no approved use, and athletes subject to testing should treat it as banned."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Preclinical: cell and animal studies only",
+      "text": "The evidence is cell culture and rodent work, plus observational human genetics.[^1][^2][^3] No controlled human study of the peptide itself was found."
+    },
+    "faq": [
+      {
+        "q": "Is humanin an anti-aging peptide?",
+        "a": "That is a hypothesis. Natural levels and gene variants connect to cognitive aging in observational data, but there are no trials showing injections slow aging.[^3]"
+      },
+      {
+        "q": "How is humanin different from MOTS-c?",
+        "a": "Both are mitochondrial-derived peptides. [MOTS-c](/peptides/mots-c) acts mainly on muscle metabolism, while humanin was found as a neuroprotective factor.[^1]"
+      },
+      {
+        "q": "Is it sold legally?",
+        "a": "It is sold online 'for research use only'. That label does not mean it is approved, tested for people or made to pharmaceutical standards.[^7]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "A rescue factor abolishing neuronal cell death by a wide spectrum of familial Alzheimer's disease genes and Abeta",
+        "source": "Proc Natl Acad Sci U S A",
+        "year": 2001,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11371646/",
+        "pmid": "11371646",
+        "doi": "10.1073/pnas.101133498",
+        "note": "Discovery of humanin in nerve-cell protection experiments"
+      },
+      {
+        "n": 2,
+        "title": "Humanin: a novel central regulator of peripheral insulin action",
+        "source": "PLoS One",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19623253/",
+        "pmid": "19623253",
+        "doi": "10.1371/journal.pone.0006334",
+        "note": "Rodent insulin-sensitivity experiments"
+      },
+      {
+        "n": 3,
+        "title": "Humanin Prevents Age-Related Cognitive Decline in Mice and is Associated with Improved Cognitive Age in Humans",
+        "source": "Sci Rep",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30242290/",
+        "pmid": "30242290",
+        "doi": "10.1038/s41598-018-32616-7",
+        "note": "Mouse cognition data and a human gene-variant association"
+      },
+      {
+        "n": 4,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "Non-approved substances are prohibited at all times"
+      },
+      {
+        "n": 5,
+        "title": "Mitochondrial-derived peptides in aging and age-related diseases",
+        "source": "Geroscience",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32910336/",
+        "pmid": "32910336",
+        "doi": "10.1007/s11357-020-00262-5",
+        "note": "Review of humanin, MOTS-c and gene variants"
+      },
+      {
+        "n": 6,
+        "title": "Mitochondrial-Derived Peptides Exacerbate Senescence",
+        "source": "Rejuvenation Res",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30058454/",
+        "pmid": "30058454",
+        "doi": "10.1089/rej.2018.2114",
+        "note": "Review noting inflammatory effects in senescent cells"
+      },
+      {
+        "n": 7,
+        "title": "Impurity profiling of the most frequently encountered falsified polypeptide drugs on the Belgian market",
+        "source": "Talanta",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30029448/",
+        "pmid": "30029448",
+        "doi": "10.1016/j.talanta.2018.06.023",
+        "note": "Purity and metal contamination in illegally sold peptides"
+      },
+      {
+        "n": 8,
+        "title": "Bulk Drug Substances Nominated for Use in Compounding Under Section 503A of the Federal Food, Drug, and Cosmetic Act (updated May 14, 2026)",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/media/94155/download",
+        "note": "Current 503A categories; humanin is not listed"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

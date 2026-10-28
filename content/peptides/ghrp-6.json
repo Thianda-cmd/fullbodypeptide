@@ -1,0 +1,224 @@
+{
+  "slug": "ghrp-6",
+  "name": "GHRP-6",
+  "zone": "bones",
+  "category": "wellness",
+  "aliases": [
+    "Growth hormone-releasing peptide-6"
+  ],
+  "brands": [],
+  "class": "Ghrelin-receptor agonist (GH-releasing peptide)",
+  "route": "Injection under the skin in research and gray-market use",
+  "status": "Not FDA-approved; FDA Category 3 (nominated without adequate support) and safety concerns cited; banned in sport",
+  "evidence": 1,
+  "mechanism": "A six-amino-acid peptide, the first of its family studied widely in people, that activates the ghrelin receptor to release growth hormone",
+  "uses": [
+    "GH release and recovery (claimed)",
+    "Appetite stimulation (claimed)"
+  ],
+  "popular": null,
+  "related": [
+    "ghrp-2",
+    "hexarelin",
+    "ipamorelin",
+    "mk-677-ibutamoren",
+    "cjc-1295"
+  ],
+  "article": {
+    "summary": "GHRP-6 is a six-amino-acid peptide that triggers growth hormone release and hunger. Human data are short hormone studies; it is unapproved, the FDA cites safety concerns, and WADA bans it.",
+    "takeaway": "GHRP-6 is a synthetic six-amino-acid peptide that triggers growth hormone release by acting on a receptor later found to be the target of ghrelin, the stomach hunger hormone.[^1][^2] In 18 healthy men it released growth hormone strongly and worked synergistically with GHRH, but at the highest dose it also doubled prolactin and cortisol.[^1] It has no FDA approval; the FDA has cited possible effects on cortisol and blood sugar, and WADA bans it.[^3][^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; FDA Category 3 for compounding, with safety concerns cited[^3][^5]"
+      ],
+      [
+        "Main uses claimed",
+        "GH release, recovery, appetite"
+      ],
+      [
+        "How it's taken",
+        "Injection in research and gray-market use; no approved dosing"
+      ],
+      [
+        "Drug class",
+        "GH-releasing peptide and ghrelin agonist"
+      ],
+      [
+        "Research",
+        "Short hormone-response studies in volunteers[^1][^6]"
+      ],
+      [
+        "Sport",
+        "Prohibited at all times; WADA names GHRP-6[^4]"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GHRP-6 was the first synthetic GH-releasing peptide studied extensively in people. It acts on a receptor unrelated to the GHRH receptor, and the body's own partner for that receptor, ghrelin, was identified in the stomach in 1999.[^6][^2] Combined with GHRH, GHRP-6 released more GH than either alone, which suggests the two signals work independently.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The human data are short hormone-response studies. In 18 healthy men, single intravenous doses released GH in a dose-dependent way, and low doses combined with GHRH acted synergistically. Prolactin and cortisol rose about twofold only at the highest dose, and no adverse clinical effects were observed with GHRP-6 in that study.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "The searches for this entry found no trial showing that GHRP-6 builds muscle, burns fat, heals tissue or slows aging. Its close relative GHRP-2 increased food intake in healthy men, and appetite stimulation is a known effect of ghrelin-receptor agonists.[^7]"
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**FDA concerns:** immune-reaction risk from aggregation and impurities; limited data show a possible effect on cortisol and higher blood glucose from reduced insulin sensitivity[^3]",
+              "**Hormone effects:** prolactin and cortisol roughly doubled at the highest dose in men,[^1] and GHRP-6 raised ACTH and cortisol in pigs[^8]",
+              "**Appetite:** can increase hunger and food intake",
+              "**Unknown long term:** no long-term safety, cancer or mortality data exist for healthy users",
+              "**Quality:** illegally sold peptide drugs have shown highly variable amounts, low purity and toxic metals such as arsenic and lead[^9]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GHRP-6 is not FDA-approved. The FDA's May 2026 list places it in Category 3, nominated without adequate support, which is not an endorsement for compounding.[^5] The FDA's safety page also describes concerns about GHRP-6 for outsourcing facilities, first listed in September 2023.[^3] WADA lists GHRP-6 as a prohibited GH-releasing peptide at all times.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "GHRP-6 is a historically important research peptide that reliably triggers GH release in short studies. That does not show benefits for muscle, fat loss or healing, and the FDA has flagged safety concerns. Athletes subject to testing should treat it as banned."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Low: short hormone studies only",
+      "text": "Human work is short and measures hormone responses.[^1][^6] No outcome trials of the wellness claims were found."
+    },
+    "faq": [
+      {
+        "q": "What is the difference between GHRP-6 and ghrelin?",
+        "a": "Ghrelin is the natural hormone made in the stomach.[^2] GHRP-6 is a synthetic peptide that acts on the same system, which explains the appetite effects seen in this drug family."
+      },
+      {
+        "q": "Is GHRP-6 the same as ipamorelin?",
+        "a": "No. Both release GH through the ghrelin receptor, but in pigs GHRP-6 raised ACTH and cortisol while ipamorelin did not.[^8] See [ipamorelin](/peptides/ipamorelin)."
+      },
+      {
+        "q": "Is it banned in sport?",
+        "a": "Yes. WADA lists GHRP-6 as prohibited at all times.[^4]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Growth hormone (GH)-releasing peptide stimulates GH release in normal men and acts synergistically with GH-releasing hormone",
+        "source": "J Clin Endocrinol Metab",
+        "year": 1990,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2108187/",
+        "pmid": "2108187",
+        "doi": "10.1210/jcem-70-4-975",
+        "note": "Human dose-response study in 18 men"
+      },
+      {
+        "n": 2,
+        "title": "Ghrelin is a growth-hormone-releasing acylated peptide from stomach",
+        "source": "Nature",
+        "year": 1999,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10604470/",
+        "pmid": "10604470",
+        "doi": "10.1038/45230",
+        "note": "Discovery of ghrelin"
+      },
+      {
+        "n": 3,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA's stated concerns about GHRP-6"
+      },
+      {
+        "n": 4,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "GHRP-6 is a prohibited GH-releasing peptide"
+      },
+      {
+        "n": 5,
+        "title": "Bulk Drug Substances Nominated for Use in Compounding Under Section 503A of the Federal Food, Drug, and Cosmetic Act (updated May 14, 2026)",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/media/94155/download",
+        "note": "GHRP-6 listed in Category 3"
+      },
+      {
+        "n": 6,
+        "title": "Growth hormone-releasing peptides",
+        "source": "Eur J Endocrinol",
+        "year": 1997,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9186261/",
+        "pmid": "9186261",
+        "doi": "10.1530/eje.0.1360445",
+        "note": "Review of GHRP-6, GHRP-2 and hexarelin"
+      },
+      {
+        "n": 7,
+        "title": "Growth hormone releasing peptide-2 (GHRP-2), like ghrelin, increases food intake in healthy men",
+        "source": "J Clin Endocrinol Metab",
+        "year": 2005,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15699539/",
+        "pmid": "15699539",
+        "doi": "10.1210/jc.2004-1719",
+        "note": "Appetite effect of a GHRP-6 relative"
+      },
+      {
+        "n": 8,
+        "title": "Ipamorelin, the first selective growth hormone secretagogue",
+        "source": "Eur J Endocrinol",
+        "year": 1998,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9849822/",
+        "pmid": "9849822",
+        "doi": "10.1530/eje.0.1390552",
+        "note": "Pig data on ACTH and cortisol with GHRP-6 and GHRP-2"
+      },
+      {
+        "n": 9,
+        "title": "Impurity profiling of the most frequently encountered falsified polypeptide drugs on the Belgian market",
+        "source": "Talanta",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30029448/",
+        "pmid": "30029448",
+        "doi": "10.1016/j.talanta.2018.06.023",
+        "note": "Purity and metal contamination in illegally sold peptides"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

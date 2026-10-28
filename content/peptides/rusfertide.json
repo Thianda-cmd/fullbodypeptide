@@ -1,0 +1,200 @@
+{
+  "slug": "rusfertide",
+  "name": "Rusfertide",
+  "zone": "heart",
+  "category": "clinical",
+  "aliases": [
+    "PTG-300"
+  ],
+  "brands": [
+    "Mimrylo"
+  ],
+  "class": "Hepcidin mimetic peptide",
+  "route": "Injection under the skin once weekly",
+  "status": "FDA-approved August 28, 2026 (Mimrylo) for erythrocytosis in adults with polycythemia vera",
+  "evidence": 3,
+  "mechanism": "Mimics hepcidin, the liver hormone that controls iron, to limit the iron available for making red blood cells and so curb their overproduction",
+  "uses": [
+    "Erythrocytosis in polycythemia vera"
+  ],
+  "popular": null,
+  "related": [
+    "pegcetacoplan",
+    "motixafortide"
+  ],
+  "article": {
+    "summary": "Rusfertide (Mimrylo) is a weekly under-the-skin peptide that mimics hepcidin. The FDA approved it in August 2026 to control the excess red blood cells of polycythemia vera.",
+    "takeaway": "Rusfertide is an injectable peptide that copies hepcidin, the hormone that controls how much iron reaches the bone marrow. By limiting iron, it holds back the overproduction of red blood cells that defines polycythemia vera (PV). The FDA approved it as Mimrylo on August 28, 2026, for erythrocytosis (too many red blood cells) in adults with PV.[^1][^2] In the phase 3 VERIFY trial, **76.9%** of patients on rusfertide needed no phlebotomy between weeks 20 and 32, versus **32.9%** on placebo.[^2] The most common side effects are injection-site reactions and anemia.[^2]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved August 28, 2026 (Mimrylo) for erythrocytosis in adults with polycythemia vera"
+      ],
+      [
+        "Main use",
+        "Keeping hematocrit below 45% and reducing the need for blood removal"
+      ],
+      [
+        "How it's given",
+        "Weekly injection under the skin, taught to patients or caregivers by a clinician"
+      ],
+      [
+        "Drug class",
+        "Hepcidin mimetic peptide"
+      ],
+      [
+        "Research",
+        "Phase 2 REVIVE and phase 3 VERIFY randomized trials"
+      ],
+      [
+        "Related",
+        "[Pegcetacoplan](/peptides/pegcetacoplan), [motixafortide](/peptides/motixafortide)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Polycythemia vera is a chronic blood cancer (a myeloproliferative neoplasm) in which the bone marrow makes too many red blood cells. The thickened blood raises the risk of clots, so treatment aims to keep the hematocrit, the share of blood made up of red cells, below 45%. Care has relied on regular blood removal (phlebotomy) and drugs that suppress the marrow."
+          },
+          {
+            "type": "p",
+            "text": "Hepcidin is a peptide hormone made in the liver that acts as the body's iron gatekeeper. Rusfertide mimics it, which restricts the iron available to developing red cells.[^3] It treats the excess of red cells rather than the underlying mutations that drive the disease."
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Mimrylo is approved for the treatment of erythrocytosis in adults with polycythemia vera. Safety and effectiveness in children have not been established.[^2] The FDA described it as the first approved PV treatment that mimics hepcidin.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Main result"
+              ],
+              [
+                "REVIVE (phase 2)",
+                "70 adults needing frequent phlebotomy; 59 entered a randomized withdrawal",
+                "Phlebotomies fell from 8.7 to 0.6 per year; in the 12-week withdrawal, 60% responded on rusfertide vs 17% on placebo (P=0.002)[^3]"
+              ],
+              [
+                "VERIFY (phase 3)",
+                "293 adults with PV needing frequent phlebotomy",
+                "No phlebotomy eligibility in weeks 20 to 32: 76.9% vs 32.9% on placebo; hematocrit kept below 45% through week 32: 62.6% vs 14.4%[^2]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Both trials measured hematocrit control and the need for phlebotomy. They were not designed to show fewer clots or longer survival, and the VERIFY registry record shows follow-up is continuing.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The label starts at 19 mg injected under the skin once weekly, with the dose adjusted to keep hematocrit below 45% and a maximum of 108 mg weekly. Increases come no sooner than every 2 weeks, and blood counts are checked every 2 to 4 weeks. It is supplied as single-dose vials of powder with a prefilled diluent syringe, and a healthcare provider must first show patients or caregivers how to prepare and inject it.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Injection-site reactions** were the most common adverse reaction (56% during the randomized period) and are a labeled warning.[^2]",
+              "**Anemia** occurred in 16%, consistent with the drug's iron-limiting effect, so blood counts are monitored.[^2]",
+              "**New or worsening thrombocytosis** (a high platelet count) is a labeled warning.[^2]",
+              "**Embryo-fetal toxicity** is also a labeled warning.[^2]"
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The label has no boxed warning and lists no contraindications.[^2] In the phase 2 trial, grade 3 adverse events occurred in 13% of patients, none had a grade 4 or 5 event, and injection-site reactions were mostly grade 1 or 2.[^3]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: randomized phase 3 trial supported approval",
+      "text": "Approval rests on the double-blind phase 3 VERIFY trial, backed by the randomized-withdrawal phase 2 REVIVE trial.[^2][^3] Longer-term safety and any effect on clots or disease course remain to be shown."
+    },
+    "faq": [
+      {
+        "q": "Does rusfertide treat the cause of polycythemia vera?",
+        "a": "No. PV is driven by mutations in blood-forming cells, most often in the JAK2 gene. Rusfertide limits iron to restrain red blood cell production but does not target those mutations."
+      },
+      {
+        "q": "Will people still need phlebotomy?",
+        "a": "Many needed none during the key window of the VERIFY trial (76.9% vs 32.9% on placebo), but not everyone. Doses are adjusted to keep the hematocrit below 45%.[^2]"
+      },
+      {
+        "q": "Is it injected at home?",
+        "a": "Yes, once a clinician has shown the patient or a caregiver how to mix and inject the vials.[^2]"
+      },
+      {
+        "q": "How is it different from other PV treatments?",
+        "a": "Other PV drugs, such as hydroxyurea, ruxolitinib or interferon, act on the marrow or its overactive signaling. Rusfertide works by limiting iron, a different mechanism.[^1]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "FDA Approves First Drug of Its Kind for Polycythemia Vera, a Rare Blood Disorder",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-its-kind-polycythemia-vera-rare-blood-disorder",
+        "note": "August 28, 2026 approval announcement"
+      },
+      {
+        "n": 2,
+        "title": "MIMRYLO (rusfertide) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=101aff01-31ed-4841-a8b6-0a5a8503189b",
+        "note": "Indication, dosing, warnings and VERIFY results"
+      },
+      {
+        "n": 3,
+        "title": "Rusfertide, a Hepcidin Mimetic, for Control of Erythrocytosis in Polycythemia Vera.",
+        "source": "N Engl J Med",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38381675/",
+        "pmid": "38381675",
+        "doi": "10.1056/NEJMoa2308809",
+        "note": "REVIVE phase 2: phlebotomy and response rates"
+      },
+      {
+        "n": 4,
+        "title": "A Study of Rusfertide in Adults With Polycythemia Vera (PV)",
+        "source": "ClinicalTrials.gov",
+        "year": 2026,
+        "url": "https://clinicaltrials.gov/study/NCT05210790",
+        "note": "VERIFY phase 3 registry record"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

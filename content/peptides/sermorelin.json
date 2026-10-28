@@ -1,0 +1,236 @@
+{
+  "slug": "sermorelin",
+  "name": "Sermorelin",
+  "zone": "bones",
+  "category": "wellness",
+  "aliases": [
+    "GHRH(1-29)",
+    "GRF 1-29",
+    "Sermorelin acetate"
+  ],
+  "brands": [
+    "Geref (discontinued)"
+  ],
+  "class": "GHRH analog",
+  "route": "Injection under the skin (compounded products)",
+  "status": "Not currently FDA-approved: Geref was approved in 1990 and 1997, discontinued in 2008; compounded versions are unapproved",
+  "evidence": 2,
+  "mechanism": "The first 29 amino acids of growth hormone-releasing hormone, which tell the pituitary to release growth hormone in pulses",
+  "uses": [
+    "Anti-aging and body composition (claimed)",
+    "Sleep and GH support (claimed)",
+    "Pediatric GH deficiency (former approved use)"
+  ],
+  "popular": 17,
+  "related": [
+    "tesamorelin",
+    "cjc-1295",
+    "ipamorelin",
+    "somatropin-rhgh",
+    "compounded-tesamorelin"
+  ],
+  "article": {
+    "summary": "Sermorelin is the first 29 amino acids of GHRH. The FDA approved it as Geref until the maker discontinued it in 2008; today compounding pharmacies sell it for anti-aging with limited adult evidence.",
+    "takeaway": "Sermorelin is the first 29 amino acids of growth hormone-releasing hormone (GHRH), enough to prompt the pituitary to release growth hormone. The FDA approved it as Geref in 1990 (as a diagnostic test) and in 1997 (for children with idiopathic growth hormone deficiency); the maker discontinued it in 2008, and the FDA later determined this was not for safety or effectiveness reasons.[^1] It sped growth in GH-deficient children,[^2] but evidence for adult anti-aging use is limited to small studies of related analogs.[^3] Compounding pharmacies now supply unapproved versions, and WADA bans sermorelin.[^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Not currently approved; Geref was approved in 1990 and 1997 and discontinued in 2008[^1]"
+      ],
+      [
+        "Main uses claimed",
+        "Anti-aging, body composition, sleep, GH support"
+      ],
+      [
+        "How it's taken",
+        "Injection under the skin (compounded products); no approved current dosing"
+      ],
+      [
+        "Drug class",
+        "GHRH analog"
+      ],
+      [
+        "Research",
+        "Pediatric trials; small adult studies of GHRH analogs[^2][^3]"
+      ],
+      [
+        "Sport",
+        "Prohibited at all times; WADA names sermorelin[^4]"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The hypothalamus releases GHRH in pulses, and each pulse triggers a burst of growth hormone from the pituitary. Sermorelin copies the first 29 amino acids of GHRH, the shortest synthetic piece that keeps full biological activity.[^5] Because it works through the pituitary's own control system, the body's feedback loops still operate, which is the main argument for using it instead of injecting growth hormone. Long-term comparisons between the two are lacking."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "Geref trial, 1 year (open label)",
+                "110 GH-deficient children",
+                "Height velocity rose from 4.1 to about 7.2 cm per year; well tolerated[^2]"
+              ],
+              [
+                "Close GHRH(1-29) analog, 4 months",
+                "19 adults aged 55 to 71",
+                "Skin thickness rose in both sexes; lean mass, insulin sensitivity and well-being improved in men only; the only adverse effect was a temporary rise in blood fats[^3]"
+              ],
+              [
+                "GHRH, 6 months",
+                "89 healthy older adults",
+                "Better scores on several cognitive tests than placebo[^6]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The adult studies were small, short and used GHRH analogs. They do not show that compounded sermorelin changes how older adults feel, function or live."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Pediatric record:** in the year-long Geref trial there were no adverse changes in routine blood and hormone tests, no change in fasting glucose and no excessive IGF-1[^2]",
+              "**Adults:** the studies lasted only 4 to 6 months, so the effects of years of raised IGF-1 on cancer, heart disease or survival are unknown[^3][^6]",
+              "**Mixed benefit:** in the adult trial, benefits seen in men did not appear in women[^3]",
+              "**Quality:** compounded and gray-market products are not FDA-reviewed for quality; illegally sold peptide drugs have shown low purity and toxic metals[^7]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Geref was approved in the US in 1990 (diagnostic use) and 1997 (children with idiopathic GH deficiency). EMD Serono discontinued it in 2008, and in 2013 the FDA determined it had not been withdrawn for reasons of safety or effectiveness.[^1] A DailyMed search found no current FDA label for any sermorelin product; compounding pharmacies supply unapproved versions."
+          },
+          {
+            "type": "p",
+            "text": "WADA lists sermorelin as a prohibited GHRH analog at all times.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Sermorelin has a real history as an approved pediatric drug, but the anti-aging claims rest on small adult studies of related molecules. Its long-term safety in healthy adults is unknown. Athletes subject to drug testing should treat it as banned."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Moderate for children; thin for adult anti-aging",
+      "text": "Pediatric trials supported the old approval, though the key one was open label.[^2] Adult studies are small, short and used related analogs.[^3][^6]"
+    },
+    "faq": [
+      {
+        "q": "Why did Geref disappear from the market?",
+        "a": "EMD Serono discontinued it in 2008, and the FDA later found it was not withdrawn for safety or effectiveness reasons.[^1]"
+      },
+      {
+        "q": "Is sermorelin the same as tesamorelin?",
+        "a": "No. Both are GHRH analogs, but [tesamorelin](/peptides/tesamorelin) is a stabilized analog approved for HIV-related belly fat, while sermorelin is the plain 1-29 fragment."
+      },
+      {
+        "q": "Is it banned in sport?",
+        "a": "Yes. WADA lists sermorelin among prohibited GHRH analogs at all times.[^4]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Determination That GEREF (Sermorelin Acetate) Injection, 0.5 Milligrams Base/Vial and 1.0 Milligrams Base/Vial, and GEREF (Sermorelin Acetate) Injection, 0.05 Milligrams Base/Amp, Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness",
+        "source": "Federal Register",
+        "year": 2013,
+        "url": "https://public-inspection.federalregister.gov/2013-04827.pdf",
+        "note": "FDA notice with Geref approval dates and the 2008 discontinuation"
+      },
+      {
+        "n": 2,
+        "title": "Once daily subcutaneous growth hormone-releasing hormone therapy accelerates growth in growth hormone-deficient children during the first year of therapy. Geref International Study Group",
+        "source": "J Clin Endocrinol Metab",
+        "year": 1996,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8772599/",
+        "pmid": "8772599",
+        "doi": "10.1210/jcem.81.3.8772599",
+        "note": "Pediatric trial behind the 1997 approval"
+      },
+      {
+        "n": 3,
+        "title": "Endocrine and metabolic effects of long-term administration of [Nle27]growth hormone-releasing hormone-(1-29)-NH2 in age-advanced men and women",
+        "source": "J Clin Endocrinol Metab",
+        "year": 1997,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9141536/",
+        "pmid": "9141536",
+        "doi": "10.1210/jcem.82.5.3943",
+        "note": "Four-month adult trial of a close GHRH(1-29) analog"
+      },
+      {
+        "n": 4,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "Sermorelin is a prohibited GHRH analog"
+      },
+      {
+        "n": 5,
+        "title": "Sermorelin: a review of its use in the diagnosis and treatment of children with idiopathic growth hormone deficiency",
+        "source": "BioDrugs",
+        "year": 1999,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18031173/",
+        "pmid": "18031173",
+        "doi": "10.2165/00063030-199912020-00007",
+        "note": "Review of the approved pediatric uses"
+      },
+      {
+        "n": 6,
+        "title": "Growth hormone releasing hormone improves the cognition of healthy older adults",
+        "source": "Neurobiol Aging",
+        "year": 2006,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16399214/",
+        "pmid": "16399214",
+        "doi": "10.1016/j.neurobiolaging.2005.01.010",
+        "note": "Six-month GHRH trial in 89 healthy older adults"
+      },
+      {
+        "n": 7,
+        "title": "Impurity profiling of the most frequently encountered falsified polypeptide drugs on the Belgian market",
+        "source": "Talanta",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30029448/",
+        "pmid": "30029448",
+        "doi": "10.1016/j.talanta.2018.06.023",
+        "note": "Purity and metal contamination in illegally sold peptides"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

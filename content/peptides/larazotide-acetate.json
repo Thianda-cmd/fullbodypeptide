@@ -100,7 +100,7 @@
           },
           {
             "type": "p",
-            "text": "The authors of the phase 2b trial called their results mixed, because only one of three doses worked.[^1] In the pooled analysis, gluten-related diarrhea was reduced during gluten challenge, but a lactulose-to-mannitol permeability test showed no difference from placebo.[^2]"
+            "text": "The authors described the phase 2b results as mixed: only one of the three doses worked.[^1] In the pooled analysis, gluten-related diarrhea was reduced during gluten challenge, but a lactulose-to-mannitol permeability test showed no difference from placebo.[^2]"
           }
         ]
       },
@@ -110,7 +110,7 @@
         "blocks": [
           {
             "type": "p",
-            "text": "In the phase 2b trial, safety was comparable with placebo.[^1] The pooled analysis found other adverse events were similar between larazotide and placebo, and called the drug largely well tolerated.[^2] Long-term safety was not established because the program ended before a large phase 3 dataset could be collected."
+            "text": "In the phase 2b trial, safety was comparable with placebo.[^1] The pooled analysis found other adverse events were similar between larazotide and placebo, and called the drug largely well tolerated.[^2] Long-term safety was not established."
           }
         ]
       },

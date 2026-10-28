@@ -1,0 +1,207 @@
+{
+  "slug": "ipamorelin",
+  "name": "Ipamorelin",
+  "zone": "bones",
+  "category": "wellness",
+  "aliases": [],
+  "brands": [],
+  "class": "Selective GH secretagogue (ghrelin mimetic)",
+  "route": "Injection under the skin in research and gray-market use",
+  "status": "Not FDA-approved; FDA cited safety concerns in 2023 and removed its 503A Category 2 listing in April 2026; banned in sport",
+  "evidence": 1,
+  "mechanism": "A five-amino-acid peptide that activates the ghrelin receptor to trigger growth hormone release, with little effect on cortisol in early animal studies",
+  "uses": [
+    "Recovery and body composition (claimed)",
+    "Sleep and anti-aging (claimed)"
+  ],
+  "popular": 6,
+  "related": [
+    "cjc-1295",
+    "ghrp-2",
+    "ghrp-6",
+    "hexarelin",
+    "mk-677-ibutamoren"
+  ],
+  "article": {
+    "summary": "Ipamorelin is a five-amino-acid peptide that triggers growth hormone release. Human data are limited and show no clear benefit for the claimed uses; it is unapproved and banned in sport.",
+    "takeaway": "Ipamorelin is a five-amino-acid peptide that stimulates the ghrelin receptor, one of the pituitary's triggers for growth hormone release. It was designed to be more selective than older GH-releasing peptides, and in pigs it did not raise cortisol the way GHRP-2 and GHRP-6 did.[^1] The only large controlled trial in people, in bowel paralysis after surgery, found it well tolerated but not significantly better than placebo.[^2] The FDA has raised immune-reaction and safety concerns, WADA bans it, and long-term effects are unknown.[^3][^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; FDA safety concerns cited in 2023, with a 503A Category 2 listing removed in April 2026[^3]"
+      ],
+      [
+        "Main uses claimed",
+        "Recovery, body composition, sleep, anti-aging"
+      ],
+      [
+        "How it's taken",
+        "Injection in research and gray-market use; no approved dosing"
+      ],
+      [
+        "Drug class",
+        "Ghrelin-receptor agonist and GH secretagogue"
+      ],
+      [
+        "Research",
+        "Animal studies, a pharmacology study in volunteers and one phase 2 trial in surgery patients[^1][^2][^5]"
+      ],
+      [
+        "Sport",
+        "Prohibited at all times; WADA names ipamorelin[^4]"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Ghrelin, a hormone made in the stomach, binds a receptor on the pituitary and triggers growth hormone release. Ipamorelin was developed from an older peptide, GHRP-1, to act on the same receptor. In rats and pigs it released GH about as strongly as GHRP-6, and unlike GHRP-6 and GHRP-2 it did not raise ACTH or cortisol in pigs.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Human data are thin. A pharmacology study in healthy volunteers modeled how ipamorelin raises GH after dosing.[^5] A phase 2 trial in 117 patients after bowel surgery found it well tolerated, but the median time to a first tolerated meal (25.3 vs 32.6 hours) did not differ significantly from placebo (P = 0.15).[^2]"
+          },
+          {
+            "type": "p",
+            "text": "None of these studies tested the claims made by sellers, such as muscle gain, fat loss, better sleep or faster recovery. A review of GH-stimulating drugs notes that few long-term, rigorously controlled studies exist.[^6]"
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**FDA concerns:** immune reactions from aggregation or impurities, unnatural amino acids that complicate quality testing, and a published report of serious adverse events, including death, when it was given intravenously to improve gut motility[^3]",
+              "**Missing data:** the FDA found no safety information for other injection routes and could not say whether they would cause harm[^3]",
+              "**Hormone effects:** raising GH and IGF-1 can affect blood sugar, and reviews call for studies of cancer incidence and mortality with long-term use[^6]",
+              "**Quality:** research-use vials carry no assurance of identity, amount or sterility; illegally sold peptide drugs have shown low purity and toxic metals[^7]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Ipamorelin is not FDA-approved. The FDA placed ipamorelin acetate on its list of compounding substances with significant safety concerns in September 2023 and removed it from the pharmacy (503A) version of that list in April 2026. That change did not approve it or make compounding it clearly legal, and the FDA's safety page, last updated in April 2026, still describes these concerns for outsourcing facilities (503B).[^3]"
+          },
+          {
+            "type": "p",
+            "text": "WADA prohibits ipamorelin as a growth hormone secretagogue at all times.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Ipamorelin is a well-characterized way to trigger growth hormone release in animals, but human evidence for muscle, sleep or recovery claims is absent and long-term safety is unknown. The FDA has voiced specific concerns. Athletes subject to drug testing should treat it as banned."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Low: little human data, none for claimed uses",
+      "text": "Animal pharmacology is solid.[^1] Human work is limited to a pharmacology study and one negative phase 2 trial in another condition.[^2][^5]"
+    },
+    "faq": [
+      {
+        "q": "Is ipamorelin safer than other GH peptides?",
+        "a": "It was designed to be more selective. In animals it did not raise cortisol like GHRP-2 and GHRP-6, but human long-term safety data are lacking and the FDA has raised concerns.[^1][^3]"
+      },
+      {
+        "q": "Is it banned in sport?",
+        "a": "Yes. WADA lists ipamorelin as a prohibited growth hormone secretagogue at all times.[^4]"
+      },
+      {
+        "q": "Is it legal to buy online?",
+        "a": "It is sold 'for research use only', which does not make it approved or tested for people. Compounding status remains unsettled after the FDA's April 2026 change.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Ipamorelin, the first selective growth hormone secretagogue",
+        "source": "Eur J Endocrinol",
+        "year": 1998,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9849822/",
+        "pmid": "9849822",
+        "doi": "10.1530/eje.0.1390552",
+        "note": "Original pharmacology in rats and pigs"
+      },
+      {
+        "n": 2,
+        "title": "Prospective, randomized, controlled, proof-of-concept study of the Ghrelin mimetic ipamorelin for the management of postoperative ileus in bowel resection patients",
+        "source": "Int J Colorectal Dis",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25331030/",
+        "pmid": "25331030",
+        "doi": "10.1007/s00384-014-2030-8",
+        "note": "Phase 2 trial in 117 surgery patients, no significant benefit"
+      },
+      {
+        "n": 3,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA's stated concerns about ipamorelin acetate"
+      },
+      {
+        "n": 4,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "Ipamorelin is a prohibited GH secretagogue"
+      },
+      {
+        "n": 5,
+        "title": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+        "source": "Pharm Res",
+        "year": 1999,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10496658/",
+        "pmid": "10496658",
+        "doi": "10.1023/a:1018955126402",
+        "note": "Human volunteer study of GH response"
+      },
+      {
+        "n": 6,
+        "title": "The Safety and Efficacy of Growth Hormone Secretagogues",
+        "source": "Sex Med Rev",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28400207/",
+        "pmid": "28400207",
+        "doi": "10.1016/j.sxmr.2017.02.004",
+        "note": "Review: limited long-term data on GH-stimulating drugs"
+      },
+      {
+        "n": 7,
+        "title": "Impurity profiling of the most frequently encountered falsified polypeptide drugs on the Belgian market",
+        "source": "Talanta",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30029448/",
+        "pmid": "30029448",
+        "doi": "10.1016/j.talanta.2018.06.023",
+        "note": "Purity and metal contamination in illegally sold peptides"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

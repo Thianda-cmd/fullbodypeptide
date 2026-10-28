@@ -1,0 +1,280 @@
+{
+  "slug": "leuprolide",
+  "name": "Leuprolide",
+  "zone": "sex",
+  "category": "fda",
+  "aliases": [
+    "leuprorelin",
+    "leuprolide acetate"
+  ],
+  "brands": [
+    "Lupron Depot",
+    "Eligard",
+    "Fensolvi",
+    "Camcevi"
+  ],
+  "class": "GnRH (LHRH) agonist",
+  "route": "Depot injection by a clinician every 1 to 6 months, into muscle or under the skin",
+  "status": "FDA-approved since 1985 for advanced prostate cancer, endometriosis, uterine fibroids and central precocious puberty",
+  "evidence": 4,
+  "mechanism": "Keeps the pituitary's GnRH receptors switched on, causing a brief surge and then a shutdown of LH and FSH release, which lowers testosterone and estrogen",
+  "uses": [
+    "Advanced prostate cancer",
+    "Endometriosis",
+    "Uterine fibroids with anemia",
+    "Central precocious puberty"
+  ],
+  "popular": null,
+  "related": [
+    "goserelin",
+    "triptorelin",
+    "degarelix",
+    "nafarelin",
+    "histrelin"
+  ],
+  "article": {
+    "summary": "Leuprolide (Lupron Depot, Eligard, Fensolvi, Camcevi) is a long-acting GnRH agonist injection that lowers testosterone or estrogen, used for prostate cancer, endometriosis, fibroids and early puberty.",
+    "takeaway": "Leuprolide is a modified copy of GnRH, the brain hormone that tells the pituitary gland to release LH and FSH. Given as a long-acting depot injection, it first causes a brief surge in sex hormones and then shuts the system down, cutting testosterone in men and estrogen in women. In the HERO trial, **88.8%** of men on leuprolide kept testosterone at castrate levels through 48 weeks, versus **96.7%** on the oral drug relugolix.[^1] It is also approved for endometriosis, fibroids and central precocious puberty.[^2][^3] Hot flashes, bone loss and a temporary hormone flare at the start are the main effects to know about.[^2]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved since 1985; several brands and depot strengths"
+      ],
+      [
+        "Main uses",
+        "Advanced prostate cancer; endometriosis and fibroids; central precocious puberty in children"
+      ],
+      [
+        "How it's given",
+        "Depot injection by a clinician every 1, 3, 4 or 6 months, depending on product"
+      ],
+      [
+        "Drug class",
+        "GnRH (LHRH) agonist"
+      ],
+      [
+        "Research",
+        "Decades of trials, including HERO against relugolix"
+      ],
+      [
+        "Anti-doping",
+        "Prohibited at all times in males (WADA S2.2.1)"
+      ],
+      [
+        "Related",
+        "[Goserelin](/peptides/goserelin), [triptorelin](/peptides/triptorelin), [degarelix](/peptides/degarelix)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The hypothalamus releases GnRH in short pulses. Each pulse prompts the pituitary to release LH and FSH, which in turn tell the testes or ovaries to make sex hormones. Leuprolide is a nine-amino-acid analog of GnRH that binds the same receptor but lingers. Constant stimulation first boosts LH and FSH, then desensitizes the receptors, and output falls to very low levels."
+          },
+          {
+            "type": "p",
+            "text": "Testosterone takes weeks to reach castrate levels: on day 4 of the HERO trial, none of the men on leuprolide were there yet. The effect is reversible. About 90 days after stopping, the average testosterone in a follow-up subgroup had risen only to 58.6 ng/dL on leuprolide, compared with 288.4 ng/dL after relugolix.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What it's used for",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Product",
+                "Approved for",
+                "Schedule"
+              ],
+              [
+                "Lupron Depot, Eligard (and Camcevi)",
+                "Advanced prostate cancer in adults[^2][^4]",
+                "Every 1, 3, 4 or 6 months depending on strength"
+              ],
+              [
+                "Lupron Depot 3.75 mg and 11.25 mg",
+                "Endometriosis; fibroid-related anemia before surgery, with iron[^5]",
+                "Every month (or every 3 months for the 11.25 mg form)"
+              ],
+              [
+                "Fensolvi, Lupron Depot-PED",
+                "Central precocious puberty in children (Fensolvi from age 2)[^3]",
+                "Every 6 months for Fensolvi"
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "HERO (2020)",
+                "930 men with advanced prostate cancer",
+                "Castrate testosterone through 48 weeks: 88.8% on leuprolide vs 96.7% on relugolix; major cardiovascular events 6.2% vs 2.9%[^1]"
+              ],
+              [
+                "Crawford (1989)",
+                "603 men with metastatic prostate cancer",
+                "Adding flutamide to leuprolide extended median survival to 35.6 vs 28.3 months[^6]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In children, a 2009 consensus statement found that GnRH analogs have undisputed benefit for adult height only in early-onset central precocious puberty (girls younger than 6). It did not endorse worries about weight gain or long-term bone loss, and it said other uses need more study.[^7]"
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How it's taken",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A clinician gives each dose by injection. Lupron Depot is injected into muscle every 4, 12, 16 or 24 weeks for prostate cancer, and the strengths cannot be swapped or combined.[^2] Eligard is injected under the skin on a similar 1-, 3-, 4- or 6-month schedule,[^4] and Fensolvi is injected under the skin every 6 months for children.[^3] For endometriosis, therapy with add-back hormone treatment should not exceed 12 months in total because of bone loss.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Tumor flare:** the early hormone surge can worsen bone pain or urinary problems in men with advanced prostate cancer, and the labels carry a warning.[^2][^4]",
+              "**Common effects:** hot flashes and sweats, fatigue, injection-site reactions and testicular shrinkage in men; hot flashes, headache, vaginitis, depression and lower libido in women.[^4][^5]",
+              "**Metabolic and heart risks:** labels warn about blood sugar changes, cardiovascular disease and QT prolongation in men on androgen deprivation.[^2][^4]",
+              "**Bone loss** with endometriosis treatment is why courses are limited.[^5]",
+              "**Children:** psychiatric events, convulsions and pseudotumor cerebri are labeled warnings for Fensolvi.[^3]",
+              "**Pregnancy:** contraindicated for the endometriosis and puberty products, and the prostate cancer labels warn of fetal harm.[^2][^3][^5]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "regulatory-status",
+        "title": "FDA status and anti-doping",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The leuprolide molecule has been FDA-approved since 1985, and newer depot and emulsion products have extended the dosing interval to as long as six months.[^5][^3] The World Anti-Doping Agency's 2026 Prohibited List names leuprorelin among the GnRH agonists banned at all times in male athletes, in the S2.2.1 group of testosterone-stimulating peptides.[^8]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Strong: decades of trials and labeled uses",
+      "text": "Leuprolide's effects on hormone levels are consistent, and its prostate cancer role is backed by randomized trials, including HERO.[^1][^6] Evidence for adult height gains is strongest in early-onset puberty, and use beyond labeled conditions is less established.[^7]"
+    },
+    "faq": [
+      {
+        "q": "Why does leuprolide cause a flare before it works?",
+        "a": "Initially it stimulates the pituitary, so LH and testosterone rise for a few days to weeks before the receptors desensitize. Labels warn about this tumor flare in prostate cancer.[^2]"
+      },
+      {
+        "q": "Is the effect permanent?",
+        "a": "No. Hormone production recovers after the drug is stopped, though recovery can take months. In HERO, testosterone recovery was slower after leuprolide than after relugolix.[^1]"
+      },
+      {
+        "q": "How is it different from degarelix?",
+        "a": "[Degarelix](/peptides/degarelix) blocks the GnRH receptor and lowers testosterone within days with no flare, whereas leuprolide stimulates it first and then shuts it down."
+      },
+      {
+        "q": "Is leuprolide banned in sports?",
+        "a": "For male athletes, yes. WADA lists leuprorelin among GnRH agonists prohibited at all times.[^8]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Oral Relugolix for Androgen-Deprivation Therapy in Advanced Prostate Cancer.",
+        "source": "N Engl J Med",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32469183/",
+        "pmid": "32469183",
+        "doi": "10.1056/NEJMoa2004325",
+        "note": "HERO: relugolix versus leuprolide in 930 men"
+      },
+      {
+        "n": 2,
+        "title": "LUPRON DEPOT (leuprolide acetate) for depot suspension, prostate cancer: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cbc8f94e-7330-4465-05ad-16d64493a5dd",
+        "note": "Prostate cancer indication, dosing schedules and warnings"
+      },
+      {
+        "n": 3,
+        "title": "FENSOLVI (leuprolide acetate) injectable suspension: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2c311700-edf4-4f2a-a468-9875489a6cc7",
+        "note": "Central precocious puberty indication, dosing and warnings"
+      },
+      {
+        "n": 4,
+        "title": "ELIGARD (leuprolide acetate) injectable suspension: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b7b679a9-6823-4ef8-8d31-3ab5058ffcfc",
+        "note": "Subcutaneous prostate cancer product: schedules and warnings"
+      },
+      {
+        "n": 5,
+        "title": "LUPRON DEPOT (leuprolide acetate) 3.75 mg: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2025,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=00c486b0-bd7b-4898-834d-8c656e5e73cb",
+        "note": "Endometriosis and fibroid indications, bone density limits"
+      },
+      {
+        "n": 6,
+        "title": "A controlled trial of leuprolide with and without flutamide in prostatic carcinoma.",
+        "source": "N Engl J Med",
+        "year": 1989,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2503724/",
+        "pmid": "2503724",
+        "doi": "10.1056/NEJM198908173210702",
+        "note": "Landmark trial in 603 men with metastatic prostate cancer"
+      },
+      {
+        "n": 7,
+        "title": "Consensus statement on the use of gonadotropin-releasing hormone analogs in children.",
+        "source": "Pediatrics",
+        "year": 2009,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19332438/",
+        "pmid": "19332438",
+        "doi": "10.1542/peds.2008-1783",
+        "note": "Expert consensus on puberty treatment"
+      },
+      {
+        "n": 8,
+        "title": "Prohibited List (WADA 2026): S2.2.1 testosterone-stimulating peptides in males",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "GnRH agonists including leuprorelin are prohibited in males"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

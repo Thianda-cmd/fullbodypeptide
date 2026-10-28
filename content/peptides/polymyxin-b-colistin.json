@@ -1,0 +1,281 @@
+{
+  "slug": "polymyxin-b-colistin",
+  "name": "Polymyxin B / Colistin",
+  "zone": "immune",
+  "category": "fda",
+  "aliases": [
+    "Colistin (polymyxin E)",
+    "Colistimethate sodium"
+  ],
+  "brands": [
+    "Coly-Mycin M"
+  ],
+  "class": "Polymyxin lipopeptide antibiotics",
+  "route": "Hospital injection (IV or IM); polymyxin B also in eye and skin products",
+  "status": "FDA-approved antibiotics for serious Gram-negative infections; polymyxin B injection carries a boxed warning",
+  "evidence": 4,
+  "mechanism": "Positively charged lipopeptides that bind lipopolysaccharide in the outer membrane of Gram-negative bacteria and disrupt their membranes",
+  "uses": [
+    "Multidrug-resistant Gram-negative infections",
+    "Pseudomonas aeruginosa infections",
+    "Last-resort treatment when other drugs fail"
+  ],
+  "popular": null,
+  "related": [
+    "murepavadin",
+    "bacitracin",
+    "daptomycin",
+    "vancomycin"
+  ],
+  "article": {
+    "summary": "Polymyxin B and colistin are old injectable antibiotics, now last-line options for multidrug-resistant Gram-negative infections. They can damage the kidneys and nerves, and resistance is spreading.",
+    "takeaway": "Polymyxin B and colistin (polymyxin E) are two closely related lipopeptide antibiotics, discovered in 1947 and in clinical use since the 1950s, that have returned as last-resort drugs for infections such as Pseudomonas aeruginosa and Acinetobacter baumannii that resist most other antibiotics.[^1][^2] Their weakness is toxicity: they can injure the kidneys and nerves, and polymyxin B injection carries an FDA boxed warning.[^3] In two large randomized trials, adding meropenem to colistin did not improve outcomes in carbapenem-resistant infections.[^4][^5] Transferable resistance genes such as mcr-1 are a growing worry.[^6]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved: polymyxin B for injection (generics) and colistimethate (Coly-Mycin M, generics)"
+      ],
+      [
+        "Main uses",
+        "Serious infections by susceptible Gram-negative bacteria, especially Pseudomonas aeruginosa"
+      ],
+      [
+        "How they're given",
+        "IV or IM injection in hospital; polymyxin B also into spinal fluid or the eye"
+      ],
+      [
+        "Drug class",
+        "Polymyxins (cationic cyclic lipopeptides)"
+      ],
+      [
+        "Research",
+        "Decades of use; recent randomized trials of combination therapy"
+      ],
+      [
+        "Related",
+        "[Murepavadin](/peptides/murepavadin), [bacitracin](/peptides/bacitracin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Gram-negative bacteria wear an outer membrane studded with lipopolysaccharide (LPS). Polymyxins are positively charged and carry a fatty tail, so they cling to the negatively charged LPS and disrupt the outer membrane. A 2021 study found that colistin kills by also reaching LPS in the inner (cytoplasmic) membrane.[^7]"
+          },
+          {
+            "type": "p",
+            "text": "Polymyxin B is given as the active drug. Colistin is given as colistimethate, an inactive prodrug that converts to colistin in the body, which complicates dosing. Doses are also described in different units depending on the product, one reason an international consensus guideline was written.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-its-used-for",
+        "title": "What they're used for",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Drug",
+                "Form",
+                "Labeled use"
+              ],
+              [
+                "Polymyxin B (generic injection)",
+                "Polymyxin B sulfate, active as given",
+                "Acute infections of the urinary tract, meninges and bloodstream by susceptible Pseudomonas aeruginosa; IV, IM, into spinal fluid or the eye[^3]"
+              ],
+              [
+                "Colistin (Coly-Mycin M, generic colistimethate)",
+                "Colistimethate sodium, converted to colistin",
+                "Acute or chronic infections by susceptible Gram-negative bacilli, particularly P. aeruginosa; IM or IV[^8]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "In hospitals both serve mainly as salvage therapy for carbapenem-resistant infections, such as Acinetobacter baumannii pneumonia and bloodstream infection.[^2] Polymyxin B is also an ingredient in over-the-counter antibiotic ointments for minor skin wounds."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Result"
+              ],
+              [
+                "Colistin vs colistin plus meropenem (2018)",
+                "406 adults with carbapenem-resistant infections",
+                "Clinical failure at 14 days 79% with colistin alone vs 73% with meropenem added; not significantly different[^4]"
+              ],
+              [
+                "OVERCOME trial (2023)",
+                "464 randomized, mostly Acinetobacter pneumonia or bloodstream infection",
+                "28-day mortality 43% with colistin alone vs 37% with meropenem (P=0.17); kidney injury 52% vs 49%[^5]"
+              ],
+              [
+                "Toxicity review (2006)",
+                "Older and newer studies",
+                "Kidney and nerve toxicity are real but less common and severe in recent reports; avoiding other toxic drugs helps[^1]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Neither trial showed a significant benefit from combining colistin with meropenem."
+          }
+        ]
+      },
+      {
+        "id": "how-its-taken",
+        "title": "How they're given",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Polymyxin B (label):** IV 15,000 to 25,000 units/kg/day with normal kidney function, not above 25,000 units/kg/day. Intramuscular and spinal-fluid doses only in hospitalized patients, and IM injection is not recommended routinely because of severe pain.[^3]",
+              "**Colistimethate (label):** 2.5 to 5 mg/kg/day of colistin base activity in 2 to 4 divided doses, IM or IV, lowered in kidney impairment.[^8]",
+              "**Monitoring:** kidney function is checked before and during treatment, and doses are reduced when it falls.[^3]",
+              "**Guidance:** a 2019 international consensus guideline covers agent choice, dosing, combination use, inhaled and spinal-fluid therapy, and kidney protection.[^2]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "side-effects-and-safety",
+        "title": "Side effects and safety",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Kidney damage:** the main limit. The polymyxin B boxed warning says falling urine output and a rising blood urea nitrogen are reasons to stop the drug.[^3]",
+              "**Nerve effects:** tingling around the mouth, dizziness and slurred speech are common; at high levels nerve-muscle blockade can stop breathing, especially soon after anesthesia or muscle relaxants.[^3][^8]",
+              "**Drug combinations:** the labels warn against combining with aminoglycosides and other kidney- or nerve-toxic drugs, and polymyxin B and colistin should not be used together.[^3]",
+              "**Boxed warning:** polymyxin B injection carries one; colistimethate does not, but lists similar cautions.[^3][^8]",
+              "**Other effects:** low potassium with alkalosis (pseudo-Bartter syndrome), drug fever, rash, severe pain at IM sites and vein inflammation at IV sites.[^3]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "who-should-avoid-it",
+        "title": "Who should avoid them",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Polymyxin B is contraindicated after a prior hypersensitivity reaction to polymyxins, and colistimethate after prior sensitivity to it or its components.[^3][^8] The safety of polymyxin B in human pregnancy has not been established, and colistimethate is used in pregnancy only if the benefit justifies the risk to the fetus.[^3][^8] People with reduced kidney function need lower doses and closer monitoring."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Established drugs, but modern trial evidence is thin",
+      "text": "Both drugs are decades old and were approved before modern trial standards, so much knowledge comes from observational data and newer pharmacology work.[^2] Recent randomized trials focus on combination therapy and found no added benefit from meropenem.[^4][^5]"
+    },
+    "faq": [
+      {
+        "q": "Are polymyxin B and colistin the same drug?",
+        "a": "No. They are close relatives with similar uses. Polymyxin B is given as the active drug, while colistin is given as a prodrug called colistimethate. Both can harm the kidneys and nerves.[^2][^3][^8]"
+      },
+      {
+        "q": "Why are such old antibiotics used now?",
+        "a": "Bacteria resistant to nearly everything else left few choices, so doctors revived them as last-line treatment despite their toxicity.[^2][^1]"
+      },
+      {
+        "q": "What is mcr-1?",
+        "a": "A gene that makes bacteria resistant to colistin and can pass between bacteria on a transferable piece of DNA called a plasmid. A 2016 study first described it in animals and people in China.[^6]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Toxicity of polymyxins: a systematic review of the evidence from old and recent studies.",
+        "source": "Crit Care",
+        "year": 2006,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16507149/",
+        "pmid": "16507149",
+        "doi": "10.1186/cc3995",
+        "note": "Kidney and nerve toxicity, old versus recent reports"
+      },
+      {
+        "n": 2,
+        "title": "International Consensus Guidelines for the Optimal Use of the Polymyxins",
+        "source": "Pharmacotherapy",
+        "year": 2019,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30710469/",
+        "pmid": "30710469",
+        "doi": "10.1002/phar.2209",
+        "note": "Consensus on selection, dosing, monitoring and toxicity"
+      },
+      {
+        "n": 3,
+        "title": "POLYMYXIN B for injection (polymyxin B sulfate): prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b56f18c0-ef5e-4ed9-a5af-f79f3cd189b6",
+        "note": "Boxed warning, indications, dosing and adverse reactions"
+      },
+      {
+        "n": 4,
+        "title": "Colistin alone versus colistin plus meropenem for treatment of severe infections caused by carbapenem-resistant Gram-negative bacteria: an open-label, randomised controlled trial.",
+        "source": "Lancet Infect Dis",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29456043/",
+        "pmid": "29456043",
+        "doi": "10.1016/S1473-3099(18)30099-9",
+        "note": "406-patient trial of adding meropenem"
+      },
+      {
+        "n": 5,
+        "title": "Colistin Monotherapy versus Combination Therapy for Carbapenem-Resistant Organisms.",
+        "source": "NEJM Evid",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37538951/",
+        "pmid": "37538951",
+        "doi": "10.1056/evidoa2200131",
+        "note": "OVERCOME double-blind trial, 464 patients"
+      },
+      {
+        "n": 6,
+        "title": "Emergence of plasmid-mediated colistin resistance mechanism MCR-1 in animals and human beings in China: a microbiological and molecular biological study.",
+        "source": "Lancet Infect Dis",
+        "year": 2016,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26603172/",
+        "pmid": "26603172",
+        "doi": "10.1016/S1473-3099(15)00424-7",
+        "note": "First report of transferable colistin resistance"
+      },
+      {
+        "n": 7,
+        "title": "Colistin kills bacteria by targeting lipopolysaccharide in the cytoplasmic membrane.",
+        "source": "Elife",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33821795/",
+        "pmid": "33821795",
+        "doi": "10.7554/eLife.65836",
+        "note": "How colistin kills bacteria"
+      },
+      {
+        "n": 8,
+        "title": "COLY-MYCIN M (colistimethate) injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6d6e13e2-dc33-4b7b-84d0-66146a57c552",
+        "note": "Indications, dosing, warnings and adverse reactions"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

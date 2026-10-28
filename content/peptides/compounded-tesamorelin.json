@@ -1,0 +1,237 @@
+{
+  "slug": "compounded-tesamorelin",
+  "name": "Tesamorelin (off-label)",
+  "zone": "hormones",
+  "category": "wellness",
+  "aliases": [
+    "Tesamorelin acetate"
+  ],
+  "brands": [
+    "Egrifta SV",
+    "Egrifta WR"
+  ],
+  "class": "GHRH analog (growth hormone-releasing factor)",
+  "route": "Injection under the skin; compounded copies are unapproved",
+  "status": "Approved as Egrifta only for abdominal fat in HIV lipodystrophy; compounded and wellness use is off-label and unapproved",
+  "evidence": 2,
+  "mechanism": "Stimulates the pituitary to release growth hormone, which raises IGF-1 and shrinks deep belly fat in people with HIV lipodystrophy",
+  "uses": [
+    "Visceral fat loss (approved only in HIV lipodystrophy)",
+    "Body composition and anti-aging (off-label)",
+    "Cognition in older adults (studied)"
+  ],
+  "popular": 15,
+  "related": [
+    "tesamorelin",
+    "sermorelin",
+    "cjc-1295",
+    "ipamorelin",
+    "somatropin-rhgh"
+  ],
+  "article": {
+    "summary": "Tesamorelin is FDA-approved as Egrifta only to cut belly fat in adults with HIV lipodystrophy. Clinics also sell off-label or compounded versions for anti-aging and fat loss, without approval or proof.",
+    "takeaway": "Tesamorelin is a lab-made version of growth hormone-releasing hormone (GHRH) that makes the pituitary release more growth hormone. The FDA approved it as Egrifta for one use, reducing excess abdominal fat in HIV-infected adults with lipodystrophy, where visceral fat fell 15% versus a 5% rise on placebo.[^1][^2] Using it for general weight loss, muscle or anti-aging is off-label, and the label says it is not for weight loss and that long-term cardiovascular safety is not established.[^2] Compounded copies are not FDA-approved products, and WADA bans tesamorelin.[^3]",
+    "glance": [
+      [
+        "FDA status",
+        "Approved as Egrifta SV and WR only for excess abdominal fat in HIV lipodystrophy[^2]"
+      ],
+      [
+        "Main uses claimed",
+        "Belly fat loss, body composition, anti-aging"
+      ],
+      [
+        "How it's taken",
+        "Daily injection under the skin for approved products; compounded versions are unapproved"
+      ],
+      [
+        "Drug class",
+        "GHRH analog"
+      ],
+      [
+        "Research",
+        "Phase 3 trials in HIV; small trials in fatty liver and in older adults' cognition[^4][^5]"
+      ],
+      [
+        "Sport",
+        "Prohibited at all times by WADA[^3]"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The hypothalamus releases GHRH, which tells the pituitary to release growth hormone in pulses. Growth hormone raises IGF-1, and together they reduce visceral fat, the deep belly fat around organs. Tesamorelin is a stabilized GHRH analog, so it works through the body's own pituitary rather than supplying growth hormone directly. In the main trial IGF-1 rose 81%.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "Who",
+                "Main result"
+              ],
+              [
+                "Phase 3, 26 weeks",
+                "HIV-infected adults with abdominal fat",
+                "Visceral fat down 15.2% vs up 5.0% on placebo; triglycerides fell[^1]"
+              ],
+              [
+                "Extension, 52 weeks",
+                "Same population",
+                "Fat loss held at 18% while treated, and fat returned after stopping[^6]"
+              ],
+              [
+                "Fatty liver, 12 months",
+                "61 people with HIV and fatty liver",
+                "Liver fat fell 4.1 percentage points more than on placebo[^4]"
+              ],
+              [
+                "Cognition, 20 weeks",
+                "152 older adults, with or without mild cognitive impairment",
+                "Favorable effect on cognition; IGF-1 rose 117%[^5]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Most controlled data are in people with HIV, plus small trials in older adults. Evidence for general fat loss or anti-aging in otherwise healthy people is thin."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Raised IGF-1:** the label says the effects of prolonged IGF-1 elevation are unknown and that IGF-1 should be monitored[^2]",
+              "**Tumors:** growth hormone is a growth factor, so active cancer is a reason not to use it[^2]",
+              "**Fluid and sugar:** swelling, joint pain, carpal tunnel syndrome, glucose intolerance and diabetes can occur[^2]",
+              "**Long term:** long-term cardiovascular safety is not established, and visceral fat returns after stopping[^2][^6]",
+              "**Compounded copies:** not reviewed by the FDA for safety, effectiveness or quality; illegally sold peptides have shown low purity and toxic metals[^7]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Egrifta SV and Egrifta WR are FDA-approved for reducing excess abdominal fat in HIV-infected adults with lipodystrophy and are not indicated for weight loss.[^2] A clinician can prescribe an approved drug off-label, but a compounded copy is not an approved product. WADA prohibits tesamorelin, as a GHRH analog, at all times.[^3] See [tesamorelin](/peptides/tesamorelin) for the approved drug."
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Tesamorelin works for the one thing it is approved for and clearly raises growth hormone and IGF-1. Off-label use for fat loss or anti-aging relies on small studies and on long-term effects that are unknown in healthy people. Athletes subject to testing should treat it as banned."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Mixed: solid for HIV belly fat, thin elsewhere",
+      "text": "Randomized phase 3 trials support the approved use.[^1] Other uses rest on small or short trials.[^4][^5]"
+    },
+    "faq": [
+      {
+        "q": "Is compounded tesamorelin the same as Egrifta?",
+        "a": "Egrifta SV and WR are the FDA-approved tesamorelin products. A compounded 'tesamorelin' is a pharmacy-made copy that the FDA has not reviewed for quality or effectiveness.[^2]"
+      },
+      {
+        "q": "Does it work for weight loss?",
+        "a": "No. The label says Egrifta is not indicated for weight loss because it has a weight-neutral effect; it targets visceral fat in a specific population.[^2]"
+      },
+      {
+        "q": "Can athletes use it?",
+        "a": "No. WADA prohibits GHRH analogs, including tesamorelin, at all times.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Metabolic effects of a growth hormone-releasing factor in patients with HIV",
+        "source": "N Engl J Med",
+        "year": 2007,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18057338/",
+        "pmid": "18057338",
+        "doi": "10.1056/NEJMoa072375",
+        "note": "Phase 3 trial: visceral fat, lipids and IGF-1 at 26 weeks"
+      },
+      {
+        "n": 2,
+        "title": "EGRIFTA SV (tesamorelin) for injection: prescribing information",
+        "source": "DailyMed (FDA label)",
+        "year": 2026,
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3d783378-b02d-4f19-99dd-0fc91a042224",
+        "note": "Approved use, limitations and warnings"
+      },
+      {
+        "n": 3,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "GHRH analogs including tesamorelin are prohibited at all times"
+      },
+      {
+        "n": 4,
+        "title": "Effects of tesamorelin on non-alcoholic fatty liver disease in HIV: a randomised, double-blind, multicentre trial",
+        "source": "Lancet HIV",
+        "year": 2019,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31611038/",
+        "pmid": "31611038",
+        "doi": "10.1016/S2352-3018(19)30338-8",
+        "note": "Liver fat in people with HIV"
+      },
+      {
+        "n": 5,
+        "title": "Effects of growth hormone-releasing hormone on cognitive function in adults with mild cognitive impairment and healthy older adults: results of a controlled trial",
+        "source": "Arch Neurol",
+        "year": 2012,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22869065/",
+        "pmid": "22869065",
+        "doi": "10.1001/archneurol.2012.1970",
+        "note": "20-week tesamorelin trial in older adults"
+      },
+      {
+        "n": 6,
+        "title": "Long-term safety and effects of tesamorelin, a growth hormone-releasing factor analogue, in HIV patients with abdominal fat accumulation",
+        "source": "AIDS",
+        "year": 2008,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18690162/",
+        "pmid": "18690162",
+        "doi": "10.1097/QAD.0b013e32830a5058",
+        "note": "52-week safety and fat loss that reverses after stopping"
+      },
+      {
+        "n": 7,
+        "title": "Impurity profiling of the most frequently encountered falsified polypeptide drugs on the Belgian market",
+        "source": "Talanta",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30029448/",
+        "pmid": "30029448",
+        "doi": "10.1016/j.talanta.2018.06.023",
+        "note": "Purity and metal contamination in illegally sold peptides"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

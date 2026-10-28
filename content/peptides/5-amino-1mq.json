@@ -1,0 +1,212 @@
+{
+  "slug": "5-amino-1mq",
+  "name": "5-Amino-1MQ",
+  "zone": "digestive",
+  "category": "wellness",
+  "aliases": [
+    "5-amino-1-methylquinolinium"
+  ],
+  "brands": [],
+  "class": "Small-molecule NNMT inhibitor (not a peptide)",
+  "route": "Mostly capsules from unregulated sellers; no approved form",
+  "status": "Not FDA-approved and not a peptide. Studied only in cells and mice; no human studies found",
+  "evidence": 1,
+  "mechanism": "Blocks NNMT, an enzyme in fat tissue, which in mice raised NAD+ and cellular energy use and reduced diet-induced obesity",
+  "uses": [
+    "Fat loss (unproven)",
+    "Metabolism support (unproven)"
+  ],
+  "popular": 28,
+  "related": [
+    "mots-c",
+    "aod-9604",
+    "fragment-176-191",
+    "semaglutide"
+  ],
+  "article": {
+    "summary": "5-Amino-1MQ is a small molecule, not a peptide, sold online as a fat-loss and metabolism booster. It blocks an enzyme called NNMT in mice, but no human studies exist and it is not FDA-approved.",
+    "takeaway": "5-Amino-1MQ (5-amino-1-methylquinolinium) is often marketed alongside peptides, but it is a small synthetic molecule that blocks an enzyme called NNMT. NNMT is overactive in the fat tissue of obese mice, and lowering it protected mice from diet-induced obesity in a 2014 Nature study.[^1] NNMT-blocking small molecules reversed high-fat-diet obesity in mice in 2018,[^2] and 5-amino-1MQ itself, paired with a low-fat diet, produced rapid fat loss in obese mice.[^3] No human studies were found, so whether it helps, harms or does nothing in people is unknown. It is not FDA-approved.",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; no approved medical use"
+      ],
+      [
+        "Main claims",
+        "Fat loss, higher NAD+ and metabolism (unproven in people)"
+      ],
+      [
+        "How it's sold",
+        "Mostly capsules from unregulated sellers"
+      ],
+      [
+        "Drug class",
+        "Small-molecule NNMT inhibitor, not a peptide"
+      ],
+      [
+        "Research",
+        "Cell and mouse studies only"
+      ],
+      [
+        "Sport",
+        "Falls under WADA's non-approved substances rule (S0), banned at all times"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "NNMT (nicotinamide N-methyltransferase) is an enzyme that uses up nicotinamide, a form of vitamin B3 that cells need to make NAD+, a molecule central to energy metabolism. NNMT activity is higher in the fat tissue and liver of obese and diabetic mice. Turning NNMT down in mice raised NAD+ and energy expenditure and protected against diet-induced obesity.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "5-Amino-1MQ is a small, cell-permeable molecule that inhibits NNMT. The idea is that a pill could imitate what genetic knockdown does in mice, helping fat cells burn more energy.[^2] Marketing often lumps it with peptides, but it is not one."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Evidence",
+                "What it shows"
+              ],
+              [
+                "Mice, NNMT knockdown (2014)",
+                "Lowering NNMT in fat and liver protected against diet-induced obesity by raising energy expenditure[^1]"
+              ],
+              [
+                "Mice, NNMT inhibitors (2018)",
+                "Membrane-permeable small molecules reversed high-fat-diet obesity[^2]"
+              ],
+              [
+                "Mice, 5-amino-1MQ plus diet change (2022)",
+                "With a switch to a low-fat diet, rapid loss of body fat in obese mice, and a distinct gut microbiome[^3]"
+              ],
+              [
+                "People",
+                "No clinical studies found in PubMed or ClinicalTrials.gov as of October 2026"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Findings in mice rarely carry over to people. A 2026 review noted that NNMT inhibitors have faced low target engagement, poor bioavailability and unknown safety profiles, although newer compounds look more promising.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**No human safety data:** doses, side effects, interactions and long-term effects in people have not been reported",
+              "**A widely used enzyme:** NNMT also works in the liver and other tissues and is tied to methylation and nicotinamide metabolism, so effects beyond fat cells are plausible but unmeasured in people[^1]",
+              "**Gray-market quality:** products sold as supplements or research chemicals are not made to drug standards, so identity, purity and amount are unverified",
+              "**Unstudied groups:** pregnancy, children, people with diabetes or liver disease, and long-term use"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "5-Amino-1MQ is not an FDA-approved drug and has no approved medical use. Sellers often label it for research, but products promoted for use in people are unapproved drugs."
+          },
+          {
+            "type": "p",
+            "text": "The World Anti-Doping Agency's S0 class prohibits, at all times, any pharmacological substance without government approval for human therapeutic use, including drugs in pre-clinical development. 5-Amino-1MQ is not named on the 2026 list, but it would fall under that rule."
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "5-Amino-1MQ is a mouse-stage idea sold as if it were proven. The biology of NNMT is real, and researchers are working toward clinical development of NNMT inhibitors,[^4] but this compound has no human data and no regulatory standing. For weight or metabolic health, options backed by large randomized trials, such as [semaglutide](/peptides/semaglutide) and [tirzepatide](/peptides/tirzepatide), can be discussed with a clinician."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Very low: mouse studies only",
+      "text": "The strongest data are 2014-2022 mouse experiments.[^1][^2][^3] No human study of 5-amino-1MQ was found, and a 2026 review describes the safety profiles of NNMT inhibitors as unknown.[^4]"
+    },
+    "faq": [
+      {
+        "q": "Is 5-amino-1MQ a peptide?",
+        "a": "No. It is a small synthetic molecule, a methylated quinolinium compound, that is often sold alongside peptides.[^3]"
+      },
+      {
+        "q": "Does 5-amino-1MQ burn fat in people?",
+        "a": "That is unknown. In obese mice it reduced body fat, especially together with a diet change,[^2][^3] but no human studies have been reported."
+      },
+      {
+        "q": "Is 5-amino-1MQ legal or allowed in sport?",
+        "a": "It has no approval for human use, and products sold for that purpose are unapproved. In sport, WADA's S0 rule bans non-approved substances at all times, which would cover it."
+      },
+      {
+        "q": "What is NNMT?",
+        "a": "An enzyme that helps regulate nicotinamide, NAD+ and methylation in cells. It is more active in fat tissue in obese mice.[^1]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Nicotinamide N-methyltransferase knockdown protects against diet-induced obesity.",
+        "source": "Nature",
+        "year": 2014,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24717514/",
+        "pmid": "24717514",
+        "doi": "10.1038/nature13198",
+        "note": "Mouse study of NNMT, NAD+ and energy expenditure"
+      },
+      {
+        "n": 2,
+        "title": "Selective and membrane-permeable small molecule inhibitors of nicotinamide N-methyltransferase reverse high fat diet-induced obesity in mice.",
+        "source": "Biochem Pharmacol",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29155147/",
+        "pmid": "29155147",
+        "doi": "10.1016/j.bcp.2017.11.007",
+        "note": "NNMT inhibitors in obese mice"
+      },
+      {
+        "n": 3,
+        "title": "Reduced calorie diet combined with NNMT inhibition establishes a distinct microbiome in DIO mice.",
+        "source": "Sci Rep",
+        "year": 2022,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35013352/",
+        "pmid": "35013352",
+        "doi": "10.1038/s41598-021-03670-5",
+        "note": "5-amino-1-methylquinolinium plus low-fat diet in mice"
+      },
+      {
+        "n": 4,
+        "title": "Emerging opportunities for nicotinamide N-methyltransferase (NNMT) inhibitor clinical translation.",
+        "source": "Trends Pharmacol Sci",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42067476/",
+        "pmid": "42067476",
+        "doi": "10.1016/j.tips.2026.04.002",
+        "note": "Review of NNMT inhibitor development and safety unknowns"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

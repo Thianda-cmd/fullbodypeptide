@@ -1,0 +1,213 @@
+{
+  "slug": "petrelintide",
+  "name": "Petrelintide",
+  "zone": "digestive",
+  "category": "clinical",
+  "aliases": [
+    "ZP8396"
+  ],
+  "brands": [],
+  "class": "Long-acting human amylin analog",
+  "route": "Once-weekly injection under the skin in trials",
+  "status": "Not FDA-approved. Phase 2 trials are complete; Roche began phase 3 trials in 2026",
+  "evidence": 2,
+  "mechanism": "Long-acting copy of human amylin, a hormone that signals fullness to the brain through a different pathway than GLP-1 drugs",
+  "uses": [
+    "Obesity (investigational)",
+    "Obesity with type 2 diabetes (investigational)"
+  ],
+  "popular": null,
+  "related": [
+    "cagrilintide",
+    "cagrisema",
+    "pramlintide",
+    "amycretin"
+  ],
+  "article": {
+    "summary": "Petrelintide is an investigational once-weekly amylin analog for obesity. A 2026 phase 2 trial showed up to about 10% weight loss with mostly mild nausea, and Roche has begun phase 3 trials. It is not FDA-approved.",
+    "takeaway": "Petrelintide is a long-acting version of human amylin, a fullness hormone released by the pancreas, developed by Zealand Pharma and now sponsored by Roche in phase 3. In the phase 2 trial ZUPREME-1, with 493 adults randomized, weight at 28 weeks fell 7.9% to 9.8% across doses versus 1.7% on placebo, and reached up to 10.7% by week 42.[^1] Nausea was the main side effect (20% versus 6% on placebo), and vomiting was uncommon.[^1] Roche has started phase 3 trials, and petrelintide is not FDA-approved.[^2][^3]",
+    "glance": [
+      [
+        "Status",
+        "Investigational; not approved by the FDA"
+      ],
+      [
+        "Developers",
+        "Zealand Pharma (phase 2) and Roche (phase 3)"
+      ],
+      [
+        "How it's given",
+        "Once-weekly injection under the skin (in trials)"
+      ],
+      [
+        "Drug class",
+        "Long-acting human amylin analog"
+      ],
+      [
+        "Research",
+        "Phase 2 trials in obesity and type 2 diabetes complete; phase 3 trials recruiting"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Amylin is a hormone made by the pancreas alongside insulin. It slows stomach emptying and acts on the brain's appetite centers, so meals feel more filling. Natural amylin degrades quickly and tends to clump, which limits its use. Petrelintide is a modified human amylin analog developed to be potent, stable and long-lasting enough for weekly injections.[^4] Because amylin works through a pathway distinct from incretin drugs such as [semaglutide](/peptides/semaglutide), it was developed as an alternative or complement to them.[^1]"
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Zealand Pharma completed two phase 2 trials: ZUPREME-1 in adults with obesity and ZUPREME-2 in adults with obesity and type 2 diabetes.[^1][^5] Roche now sponsors phase 3 trials, including studies in obesity, in obesity with type 2 diabetes, and in obesity with established cardiovascular disease.[^2][^3] Roche has also registered a phase 2 trial combining petrelintide with another of its candidates, enicepatide, which had not started recruiting at the time of writing.[^6]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "ZUPREME-1 weekly dose",
+                "Weight change at 28 weeks",
+                "Difference from placebo"
+              ],
+              [
+                "1.0 or 2.5 mg",
+                "-7.9%",
+                "-6.2 points"
+              ],
+              [
+                "5.0 mg",
+                "-9.8%",
+                "-8.1 points"
+              ],
+              [
+                "7.0 or 9.0 mg",
+                "-9.3% to -9.4%",
+                "-7.7 points"
+              ],
+              [
+                "Placebo",
+                "-1.7%",
+                "-"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "ZUPREME-1 randomized adults without type 2 diabetes at 32 sites in Poland, Romania and the USA. Weight kept falling to week 42, by up to 10.7%.[^1] The primary endpoint was measured at 28 weeks, so durability of weight loss is still being studied."
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Nausea** was the most common adverse event (20% vs 6% on placebo), mostly mild and during dose escalation.[^1]",
+              "**Vomiting, diarrhea and constipation** were infrequent and similar to placebo (vomiting 3% vs 6%, diarrhea 7% vs 7%, constipation 7% vs 4%).[^1]",
+              "**No deaths** were reported in the trial.[^1]",
+              "**Unknown:** long-term safety and weight regain after stopping, which phase 3 trials are meant to address."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Roche's phase 3 program is the next test. Key questions include how much weight loss is sustained beyond 42 weeks, how the drug performs in people with type 2 diabetes, and whether combining it with an incretin-based drug adds benefit.[^3][^6]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Promising: one published phase 2 trial, phase 3 starting",
+      "text": "ZUPREME-1 is a randomized, placebo-controlled phase 2 trial published in 2026, with consistent weight loss across doses and mostly mild nausea.[^1] Longer follow-up, diabetes results and phase 3 data are still to come."
+    },
+    "faq": [
+      {
+        "q": "How is petrelintide different from semaglutide?",
+        "a": "Semaglutide copies GLP-1. Petrelintide copies amylin, a different fullness hormone. In ZUPREME-1 it caused mainly mild nausea, with vomiting similar to placebo.[^1]"
+      },
+      {
+        "q": "Is petrelintide approved?",
+        "a": "No. It is investigational. Roche has begun phase 3 trials.[^2]"
+      },
+      {
+        "q": "What is the difference between petrelintide and cagrilintide?",
+        "a": "Both are long-acting amylin analogs. [Cagrilintide](/peptides/cagrilintide) comes from Novo Nordisk and is also tested with semaglutide as [CagriSema](/peptides/cagrisema). Petrelintide comes from Zealand Pharma and Roche."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Petrelintide, a human amylin analogue for the treatment of obesity (ZUPREME 1): a randomised, double-blind, placebo-controlled, phase 2 trial.",
+        "source": "Lancet Diabetes Endocrinol",
+        "year": 2026,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42810355/",
+        "pmid": "42810355",
+        "doi": "10.1016/S2213-8587(26)00213-5",
+        "note": "ZUPREME-1: 493 adults, weight and side effects"
+      },
+      {
+        "n": 2,
+        "title": "A Phase III Study to Evaluate the Efficacy and Safety of Petrelintide in Participants With Overweight or Obesity",
+        "source": "ClinicalTrials.gov",
+        "year": 2026,
+        "url": "https://clinicaltrials.gov/study/NCT07843498",
+        "note": "NCT07843498: Roche phase 3 trial in obesity"
+      },
+      {
+        "n": 3,
+        "title": "A Phase III Study to Evaluate the Efficacy and Safety of Petrelintide in Participants With Overweight or Obesity and Type 2 Diabetes",
+        "source": "ClinicalTrials.gov",
+        "year": 2026,
+        "url": "https://clinicaltrials.gov/study/NCT07843485",
+        "note": "NCT07843485: Roche phase 3 trial with type 2 diabetes"
+      },
+      {
+        "n": 4,
+        "title": "Development of Petrelintide: a Potent, Stable, Long-Acting Human Amylin Analogue.",
+        "source": "J Med Chem",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41217931/",
+        "pmid": "41217931",
+        "doi": "10.1021/acs.jmedchem.5c01185",
+        "note": "How the molecule was designed"
+      },
+      {
+        "n": 5,
+        "title": "Efficacy and Safety of Petrelintide in Participants With Overweight or Obesity and Type 2 Diabetes (ZUPREME 2)",
+        "source": "ClinicalTrials.gov",
+        "year": 2025,
+        "url": "https://clinicaltrials.gov/study/NCT06926842",
+        "note": "NCT06926842: phase 2 trial in type 2 diabetes, completed"
+      },
+      {
+        "n": 6,
+        "title": "A Dose-Finding Study of Petrelintide With Enicepatide (RO7795068) in Adults With Obesity or Overweight",
+        "source": "ClinicalTrials.gov",
+        "year": 2026,
+        "url": "https://clinicaltrials.gov/study/NCT07589686",
+        "note": "NCT07589686: phase 2 combination trial, not yet recruiting"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

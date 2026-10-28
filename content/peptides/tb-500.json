@@ -1,0 +1,217 @@
+{
+  "slug": "tb-500",
+  "name": "TB-500",
+  "zone": "bones",
+  "category": "wellness",
+  "aliases": [
+    "Thymosin beta-4 fragment",
+    "Ac-LKKTETQ"
+  ],
+  "brands": [],
+  "class": "Synthetic thymosin beta-4 fragment",
+  "route": "Injection under the skin in research and gray-market use",
+  "status": "Not FDA-approved; FDA advisers backed pharmacy compounding in July 2026, decision pending; banned in sport by WADA",
+  "evidence": 1,
+  "mechanism": "A short synthetic piece of thymosin beta-4 that binds actin and is claimed to speed tissue repair, though human evidence is lacking",
+  "uses": [
+    "Tendon and muscle injury recovery (claimed)",
+    "Wound healing (claimed)"
+  ],
+  "popular": 1,
+  "related": [
+    "thymosin-beta-4",
+    "bpc-157",
+    "ghk-cu",
+    "thymosin-alpha-1"
+  ],
+  "article": {
+    "summary": "TB-500 is a synthetic fragment of thymosin beta-4 sold for injury recovery. No controlled human trials of it were found; it is not FDA-approved and WADA bans it at all times.",
+    "takeaway": "TB-500 is the name used for a short synthetic piece of thymosin beta-4, a natural actin-binding protein released after injury. Analyses of TB-500 products identified the fragment Ac-LKKTETQ.[^1] Laboratory and animal work suggests thymosin beta-4 promotes cell migration and tissue repair, but the searches for this entry found no controlled human trial of TB-500 itself.[^2] The FDA said it had identified no human exposure data for the fragment,[^3] the World Anti-Doping Agency bans it,[^4] and in July 2026 an FDA advisory committee voted to let compounding pharmacies use it, a step the FDA had not finalized by October 2026.[^5]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; a July 2026 advisory vote favored compounding, FDA decision pending[^5]"
+      ],
+      [
+        "Main uses claimed",
+        "Tendon, muscle and wound recovery"
+      ],
+      [
+        "How it's taken",
+        "Injection in research and gray-market use; no approved dosing"
+      ],
+      [
+        "Drug class",
+        "Synthetic fragment of thymosin beta-4"
+      ],
+      [
+        "Research",
+        "Lab and animal studies of thymosin beta-4; no controlled trials of the fragment[^2]"
+      ],
+      [
+        "Sport",
+        "Prohibited at all times; WADA names TB-500[^4]"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Thymosin beta-4 is a small natural protein of 43 amino acids found in most cells and released after injury. It binds actin, the protein that forms a cell's internal scaffolding, and in lab studies it promotes cell migration and new blood vessel growth while reducing inflammation and scarring.[^2] TB-500 is sold as a shortened version built around the actin-binding stretch, residues 17 to 23.[^1] Whether the fragment reproduces the whole protein's effects in people has not been tested."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Human data exist for the full-length protein, not for TB-500. In a phase 1 trial, healthy volunteers received synthetic thymosin beta-4 intravenously, including daily for 14 days, with no dose-limiting toxicity or serious adverse events.[^6] Clinical development of the full-length protein has focused on skin wounds, corneal injuries, and heart and brain repair after ischemia.[^2]"
+          },
+          {
+            "type": "note",
+            "text": "Claims that TB-500 heals tendons, muscle or joints have no controlled human trial behind them that the searches for this entry could find."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**No human exposure data:** the FDA said it found none for the fragment and lacks information on whether it would cause harm[^3]",
+              "**Immune reactions:** the FDA flagged a risk of immunogenicity from aggregation and peptide-related impurities[^3]",
+              "**Tumor biology:** in mouse melanoma experiments, thymosin beta-4 expression increased tumor growth, invasion, new blood vessels and spread; whether supplementation could affect an unrecognized cancer in people is unknown[^7]",
+              "**Quality:** TB-500 has been studied by anti-doping labs because of suspected misuse, and illegally sold peptide drugs have shown low purity, variable amounts and toxic metals such as arsenic and lead[^1][^8]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "TB-500 is not FDA-approved. The FDA's safety page lists the thymosin beta-4 fragment among substances with stated concerns, in its group of withdrawn nominations.[^3] On July 23, 2026 the FDA's Pharmacy Compounding Advisory Committee reviewed TB-500 for wound healing and voted in favor of allowing 503A pharmacies to compound it; the FDA had not finalized that decision as of October 2026.[^5]"
+          },
+          {
+            "type": "p",
+            "text": "WADA lists thymosin-beta 4 and its derivatives, such as TB-500, as prohibited at all times.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Thymosin beta-4 is a real repair-related protein, but TB-500 is a fragment with no controlled human data on safety or healing. Claims about tendon or muscle recovery rest on lab biology and anecdote. Athletes subject to drug testing should treat it as banned."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Preclinical: no controlled human trials of TB-500",
+      "text": "The biology comes from lab and animal studies of the full-length protein.[^2] The only human safety data are a small phase 1 trial of full-length thymosin beta-4 in healthy volunteers.[^6]"
+    },
+    "faq": [
+      {
+        "q": "Is TB-500 the same as thymosin beta-4?",
+        "a": "No. TB-500 is a short fragment, while [thymosin beta-4](/peptides/thymosin-beta-4) is the 43-amino-acid protein. Human safety data exist only for the full-length protein.[^6]"
+      },
+      {
+        "q": "Is TB-500 banned in sport?",
+        "a": "Yes. WADA lists thymosin-beta 4 and its derivatives, such as TB-500, as prohibited at all times.[^4]"
+      },
+      {
+        "q": "Can pharmacies compound it now?",
+        "a": "Not on a clearly settled basis. The advisory committee voted favorably in July 2026, but the FDA had not finalized a decision as of October 2026.[^5]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Synthesis and characterization of the N-terminal acetylated 17-23 fragment of thymosin beta 4 identified in TB-500, a product suspected to possess doping potential",
+        "source": "Drug Test Anal",
+        "year": 2012,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22962027/",
+        "pmid": "22962027",
+        "doi": "10.1002/dta.1402",
+        "note": "Identifies Ac-LKKTETQ in TB-500 products"
+      },
+      {
+        "n": 2,
+        "title": "Thymosin β4: a multi-functional regenerative peptide. Basic properties and clinical applications",
+        "source": "Expert Opin Biol Ther",
+        "year": 2012,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22074294/",
+        "pmid": "22074294",
+        "doi": "10.1517/14712598.2012.634793",
+        "note": "Review of thymosin beta-4 biology and planned clinical uses"
+      },
+      {
+        "n": 3,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA's stated concerns about the thymosin beta-4 fragment"
+      },
+      {
+        "n": 4,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "Thymosin-beta 4 and derivatives such as TB-500 are prohibited"
+      },
+      {
+        "n": 5,
+        "title": "July 23-24, 2026 Meeting of the Pharmacy Compounding Advisory Committee",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+        "note": "Official meeting page listing TB-500 for wound healing"
+      },
+      {
+        "n": 6,
+        "title": "A randomized, placebo-controlled, single and multiple dose study of intravenous thymosin beta4 in healthy volunteers",
+        "source": "Ann N Y Acad Sci",
+        "year": 2010,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20536472/",
+        "pmid": "20536472",
+        "doi": "10.1111/j.1749-6632.2010.05474.x",
+        "note": "Phase 1 safety study of full-length thymosin beta-4"
+      },
+      {
+        "n": 7,
+        "title": "Role of thymosin beta4 in tumor metastasis and angiogenesis",
+        "source": "J Natl Cancer Inst",
+        "year": 2003,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14625258/",
+        "pmid": "14625258",
+        "doi": "10.1093/jnci/djg100",
+        "note": "Mouse melanoma experiments linking thymosin beta-4 to spread"
+      },
+      {
+        "n": 8,
+        "title": "Impurity profiling of the most frequently encountered falsified polypeptide drugs on the Belgian market",
+        "source": "Talanta",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30029448/",
+        "pmid": "30029448",
+        "doi": "10.1016/j.talanta.2018.06.023",
+        "note": "Purity and metal contamination in illegally sold peptides"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

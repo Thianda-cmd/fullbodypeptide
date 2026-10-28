@@ -1,0 +1,224 @@
+{
+  "slug": "mots-c",
+  "name": "MOTS-c",
+  "zone": "hormones",
+  "category": "wellness",
+  "aliases": [
+    "Mitochondrial open reading frame of the 12S rRNA-c"
+  ],
+  "brands": [],
+  "class": "Mitochondrial-derived peptide",
+  "route": "Injection under the skin in research and gray-market use",
+  "status": "Not FDA-approved; FDA advisers backed pharmacy compounding in July 2026, decision pending; banned in sport by WADA",
+  "evidence": 1,
+  "mechanism": "A 16-amino-acid peptide encoded in mitochondrial DNA that, in mice, switches on the energy sensor AMPK and improves insulin sensitivity",
+  "uses": [
+    "Metabolic health (claimed)",
+    "Exercise capacity and healthy aging (claimed)"
+  ],
+  "popular": 7,
+  "related": [
+    "humanin",
+    "elamipretide",
+    "5-amino-1mq",
+    "aod-9604"
+  ],
+  "article": {
+    "summary": "MOTS-c is a 16-amino-acid peptide made by mitochondria. Mouse studies suggest metabolic benefits, but controlled human trials are lacking, and it is unapproved and banned in sport.",
+    "takeaway": "MOTS-c is a short peptide encoded in mitochondrial DNA that appears to act on muscle metabolism. In mice it prevented diet-induced obesity and insulin resistance and improved physical performance at every age tested.[^1][^2] The searches for this entry found no controlled trial of injected MOTS-c in people, and as of April 2026 the FDA said it had identified no human exposure data on drug products containing it.[^3] It is not FDA-approved, the World Anti-Doping Agency bans it at all times, and an FDA advisory committee voted in July 2026 to let pharmacies compound it, a step the agency had not finalized by October 2026.[^4][^5]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; a July 2026 advisory vote favored compounding, FDA decision pending[^5]"
+      ],
+      [
+        "Main uses claimed",
+        "Metabolic health, exercise capacity, healthy aging"
+      ],
+      [
+        "How it's taken",
+        "Injection in research and gray-market use; no approved dosing"
+      ],
+      [
+        "Drug class",
+        "Mitochondrial-derived peptide"
+      ],
+      [
+        "Research",
+        "Cell and mouse studies; exercise raises natural levels in people[^2]"
+      ],
+      [
+        "Sport",
+        "Prohibited at all times by WADA[^4]"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Mitochondria carry a small genome of their own. In 2015 researchers reported a short reading frame in the mitochondrial 12S rRNA gene that encodes a 16-amino-acid peptide, MOTS-c. In cells it appears to act mainly on skeletal muscle, inhibit the folate cycle and activate AMPK, an enzyme that senses low energy and shifts cells toward burning fuel.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "Exercise raises MOTS-c in human muscle and blood, which led to the idea that it works as an exercise-linked signal.[^2]"
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Mice, metabolism:** treatment prevented age-related and high-fat-diet insulin resistance and diet-induced obesity[^1]",
+              "**Mice, fitness:** it improved physical performance in young, middle-aged and old mice, and late-life treatment increased physical capacity and healthspan[^2]",
+              "**People:** exercise raises natural MOTS-c, and gene variants have been linked to age-related traits, but this does not show that injected MOTS-c helps[^2][^6]"
+            ]
+          },
+          {
+            "type": "note",
+            "text": "Mouse results often fail to carry over to people, and the key experiments came largely from the group that discovered the peptide."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**No human safety data:** the FDA said it had found no human exposure data on drug products containing MOTS-c and lacked information on whether it would cause harm[^3]",
+              "**Immune reactions:** the FDA flagged a possible significant risk of immunogenicity (antibodies against the peptide) and difficulty characterizing the peptide and its impurities[^3]",
+              "**Context matters:** a review noted that in senescent cells, MOTS-c and humanin increased inflammatory signaling, so effects may differ by tissue and age[^7]",
+              "**Quality:** studies of illegally sold peptide drugs found highly variable amounts, purities as low as 5% for some peptides, and toxic metals such as arsenic and lead[^8]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "MOTS-c is not an approved drug. The FDA had listed it among bulk substances raising significant safety concerns for compounding, and it moved to the agency's list of withdrawn nominations.[^3] On July 23, 2026 the FDA's Pharmacy Compounding Advisory Committee reviewed it for a possible place on the 503A bulks list and voted in favor, but the FDA had not finalized the decision as of October 2026.[^5] Vials sold online for 'research use only' remain unapproved either way."
+          },
+          {
+            "type": "p",
+            "text": "WADA prohibits MOTS-c at all times as an AMPK activator.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "MOTS-c is real, interesting mitochondrial biology with encouraging mouse data. No controlled human trials show that injecting it improves metabolism, body fat or aging, and its safety in people is untested. Athletes subject to drug testing should treat it as banned."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Preclinical: mouse studies, no human trials",
+      "text": "The best data are mouse experiments.[^1][^2] Human work shows that exercise raises natural MOTS-c, not that injections are safe or effective."
+    },
+    "faq": [
+      {
+        "q": "Is MOTS-c legal to buy?",
+        "a": "It is not an approved drug. Sellers label vials 'for research use only', which does not make them approved or tested for people. The FDA had not finalized a compounding pathway as of October 2026.[^5]"
+      },
+      {
+        "q": "Is MOTS-c banned in sport?",
+        "a": "Yes. WADA names it as an AMPK activator, prohibited at all times.[^4]"
+      },
+      {
+        "q": "How is it related to humanin?",
+        "a": "Both are peptides encoded in mitochondrial DNA.[^6] [Humanin](/peptides/humanin) is studied mainly for cell protection and brain health, while MOTS-c is studied mainly for muscle metabolism."
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "The mitochondrial-derived peptide MOTS-c promotes metabolic homeostasis and reduces obesity and insulin resistance",
+        "source": "Cell Metab",
+        "year": 2015,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25738459/",
+        "pmid": "25738459",
+        "doi": "10.1016/j.cmet.2015.02.009",
+        "note": "Discovery paper: muscle targeting, AMPK and mouse obesity data"
+      },
+      {
+        "n": 2,
+        "title": "MOTS-c is an exercise-induced mitochondrial-encoded regulator of age-dependent physical decline and muscle homeostasis",
+        "source": "Nat Commun",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33473109/",
+        "pmid": "33473109",
+        "doi": "10.1038/s41467-020-20790-0",
+        "note": "Mouse fitness data and exercise-induced MOTS-c in people"
+      },
+      {
+        "n": 3,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA's stated concerns about MOTS-c"
+      },
+      {
+        "n": 4,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "MOTS-c is a prohibited AMPK activator"
+      },
+      {
+        "n": 5,
+        "title": "July 23-24, 2026 Meeting of the Pharmacy Compounding Advisory Committee",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+        "note": "Official meeting page listing MOTS-c among substances reviewed"
+      },
+      {
+        "n": 6,
+        "title": "Mitochondrial-derived peptides in aging and age-related diseases",
+        "source": "Geroscience",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32910336/",
+        "pmid": "32910336",
+        "doi": "10.1007/s11357-020-00262-5",
+        "note": "Review of humanin, MOTS-c and gene variants"
+      },
+      {
+        "n": 7,
+        "title": "Mitochondrial-Derived Peptides Exacerbate Senescence",
+        "source": "Rejuvenation Res",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30058454/",
+        "pmid": "30058454",
+        "doi": "10.1089/rej.2018.2114",
+        "note": "Review noting inflammatory effects in senescent cells"
+      },
+      {
+        "n": 8,
+        "title": "Impurity profiling of the most frequently encountered falsified polypeptide drugs on the Belgian market",
+        "source": "Talanta",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30029448/",
+        "pmid": "30029448",
+        "doi": "10.1016/j.talanta.2018.06.023",
+        "note": "Purity and metal contamination in illegally sold peptides"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

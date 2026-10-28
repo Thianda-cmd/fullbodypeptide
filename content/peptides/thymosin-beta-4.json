@@ -1,0 +1,196 @@
+{
+  "slug": "thymosin-beta-4",
+  "name": "Thymosin beta-4",
+  "zone": "bones",
+  "category": "wellness",
+  "aliases": [
+    "Tβ4",
+    "Thymosin beta 4"
+  ],
+  "brands": [],
+  "class": "Actin-regulating peptide (43 amino acids)",
+  "route": "Injection, gel or eye drops in trials; injection in gray-market use",
+  "status": "Not FDA-approved; studied in eye, skin and heart conditions; banned in sport by WADA",
+  "evidence": 2,
+  "mechanism": "A natural 43-amino-acid peptide that binds actin and is thought to speed cell migration, new blood vessel growth and repair after injury",
+  "uses": [
+    "Wound and tissue healing (studied)",
+    "Corneal injury and dry eye (studied)",
+    "Heart tissue repair (studied)"
+  ],
+  "popular": 25,
+  "related": [
+    "tb-500",
+    "thymosin-alpha-1",
+    "bpc-157",
+    "ghk-cu",
+    "thymulin"
+  ],
+  "article": {
+    "summary": "Thymosin beta-4 is a natural 43-amino-acid repair peptide studied for wounds, eyes and the heart. No product is FDA-approved, human data are limited, and WADA bans it.",
+    "takeaway": "Thymosin beta-4 is a small natural protein released after injury that binds actin and helps cells move and tissues repair. Lab and animal work points to wound-healing, anti-scarring and blood-vessel effects, and trials of manufactured versions have targeted skin wounds, corneal injuries and heart damage.[^1] A phase 1 trial gave it intravenously to healthy volunteers for up to 14 days with no dose-limiting toxicity.[^2] No product is FDA-approved, and the same migration and blood-vessel biology has been linked to tumor spread in lab work.[^3] WADA bans it.[^4]",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; no thymosin beta-4 drug has completed FDA review"
+      ],
+      [
+        "Main uses studied",
+        "Wounds, corneal injury and dry eye, heart repair"
+      ],
+      [
+        "How it's taken",
+        "Injection, gel or eye drops in trials; no approved dosing"
+      ],
+      [
+        "Drug class",
+        "Actin-regulating peptide"
+      ],
+      [
+        "Research",
+        "Lab and animal studies, a phase 1 safety trial, and ongoing or planned trials in eye, skin and heart conditions[^1][^2]"
+      ],
+      [
+        "Sport",
+        "Prohibited at all times; WADA names thymosin-beta 4[^4]"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Thymosin beta-4 is present in most cells and is released by platelets, macrophages and other cells after injury. It binds actin, the protein that forms the cell's internal scaffolding, and in lab studies it promotes the movement of stem and progenitor cells, new blood vessel formation, and less inflammation and scarring.[^1] The shorter fragment sold as [TB-500](/peptides/tb-500) is a different molecule."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "A review of the field describes ongoing and planned clinical trials aimed at skin wounds, corneal injuries, and heart and brain repair after ischemia.[^1] The only controlled human safety data cited in this entry come from a phase 1 study: four groups of 10 healthy volunteers received a single intravenous dose of synthetic thymosin beta-4 or placebo, followed by daily dosing for 14 days. Adverse events were infrequent and mild or moderate, with no serious events.[^2]"
+          },
+          {
+            "type": "p",
+            "text": "None of these studies tested thymosin beta-4 for the recovery claims made by gray-market sellers, such as faster tendon, muscle or joint healing."
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**Tumor biology:** in mouse melanoma experiments, thymosin beta-4 expression increased tumor growth, invasion, new blood vessels and spread; whether supplementation could affect an unrecognized cancer in people is unknown[^3]",
+              "**Limited human data:** the safety studies were short and small, and the effects of repeated injections over months or years are unstudied[^2]",
+              "**Quality:** unregulated 'research' vials may not contain what is listed; illegally sold peptide drugs have shown low purity, variable amounts and toxic metals such as arsenic and lead[^5]"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "No thymosin beta-4 product is FDA-approved. The FDA's May 2026 list of substances nominated for pharmacy compounding does not include full-length thymosin beta-4; the shorter TB-500 fragment has its own regulatory history.[^6] WADA prohibits thymosin-beta 4 and its derivatives, such as TB-500, at all times.[^4]"
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Thymosin beta-4 is a genuine repair-related protein, with early-stage human trials aimed at eye, skin and heart problems. Those do not support injecting gray-market vials for sports injuries, and the long-term effects of doing so are unknown. Athletes subject to testing should treat it as banned."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Early human trials; none for injury-recovery claims",
+      "text": "There is consistent lab biology and a small phase 1 safety trial.[^1][^2] Controlled evidence for the injury-recovery use sold online is missing."
+    },
+    "faq": [
+      {
+        "q": "Is thymosin beta-4 the same as TB-500?",
+        "a": "No. Thymosin beta-4 is the 43-amino-acid protein, while [TB-500](/peptides/tb-500) is a short fragment of it. Human safety data exist only for the full-length protein.[^2]"
+      },
+      {
+        "q": "Is it approved for eye or wound treatment?",
+        "a": "No. It has been studied for those uses, but no thymosin beta-4 product is FDA-approved.[^1]"
+      },
+      {
+        "q": "Does it raise cancer risk?",
+        "a": "That is unknown. Lab work links thymosin beta-4 expression to tumor spread in mice, but no human study has tested whether supplementation changes cancer risk.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Thymosin β4: a multi-functional regenerative peptide. Basic properties and clinical applications",
+        "source": "Expert Opin Biol Ther",
+        "year": 2012,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22074294/",
+        "pmid": "22074294",
+        "doi": "10.1517/14712598.2012.634793",
+        "note": "Review of biology and planned clinical uses"
+      },
+      {
+        "n": 2,
+        "title": "A randomized, placebo-controlled, single and multiple dose study of intravenous thymosin beta4 in healthy volunteers",
+        "source": "Ann N Y Acad Sci",
+        "year": 2010,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20536472/",
+        "pmid": "20536472",
+        "doi": "10.1111/j.1749-6632.2010.05474.x",
+        "note": "Phase 1 safety study in 40 healthy volunteers"
+      },
+      {
+        "n": 3,
+        "title": "Role of thymosin beta4 in tumor metastasis and angiogenesis",
+        "source": "J Natl Cancer Inst",
+        "year": 2003,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14625258/",
+        "pmid": "14625258",
+        "doi": "10.1093/jnci/djg100",
+        "note": "Mouse melanoma experiments linking thymosin beta-4 to spread"
+      },
+      {
+        "n": 4,
+        "title": "World Anti-Doping Agency (WADA) Prohibited List",
+        "source": "USADA",
+        "year": 2026,
+        "url": "https://www.usada.org/substances/prohibited-list/",
+        "note": "Thymosin-beta 4 and derivatives such as TB-500 are prohibited"
+      },
+      {
+        "n": 5,
+        "title": "Impurity profiling of the most frequently encountered falsified polypeptide drugs on the Belgian market",
+        "source": "Talanta",
+        "year": 2018,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30029448/",
+        "pmid": "30029448",
+        "doi": "10.1016/j.talanta.2018.06.023",
+        "note": "Purity and metal contamination in illegally sold peptides"
+      },
+      {
+        "n": 6,
+        "title": "Bulk Drug Substances Nominated for Use in Compounding Under Section 503A of the Federal Food, Drug, and Cosmetic Act (updated May 14, 2026)",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/media/94155/download",
+        "note": "Current 503A categories; full-length thymosin beta-4 is not listed"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

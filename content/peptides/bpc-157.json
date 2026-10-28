@@ -1,0 +1,248 @@
+{
+  "slug": "bpc-157",
+  "name": "BPC-157",
+  "zone": "digestive",
+  "category": "wellness",
+  "aliases": [
+    "Body Protection Compound 157",
+    "BPC 157"
+  ],
+  "brands": [],
+  "class": "Synthetic 15-amino-acid peptide (gastric-derived)",
+  "route": "Injected or swallowed in unregulated products; no approved form",
+  "status": "Not FDA-approved. FDA advisers voted 8-6 in July 2026 to allow compounding; the FDA has not yet acted",
+  "evidence": 1,
+  "mechanism": "Animal studies suggest it boosts blood-vessel growth and tissue-repair signals, but how it works in people is not established",
+  "uses": [
+    "Tendon, ligament and gut healing (unproven)",
+    "Recovery from injury (unproven)"
+  ],
+  "popular": 0,
+  "related": [
+    "tb-500",
+    "kpv",
+    "thymosin-beta-4",
+    "ghk-cu",
+    "aod-9604"
+  ],
+  "article": {
+    "summary": "BPC-157 is a lab-made peptide sold online for healing tendons and gut injuries. Evidence is almost entirely from animals, human data are tiny, and it is not FDA-approved.",
+    "takeaway": "BPC-157 is a synthetic 15-amino-acid peptide modeled on a protein found in gastric juice, and it is among the most heavily marketed \"research peptides\" for tendon, joint and gut healing. A 2025 systematic review found 36 studies, 35 of them in animals and one a small human report in which 7 of 12 patients with knee pain reported relief lasting over six months, and it found no clinical safety data.[^1] In July 2026 FDA advisers voted 8-6 to recommend allowing compounding pharmacies to use BPC-157, against the advice of FDA staff, but the FDA has made no final decision.[^2] The peptide is prohibited in sport.",
+    "glance": [
+      [
+        "FDA status",
+        "Not approved; July 2026 advisory vote favored compounding, no final FDA action"
+      ],
+      [
+        "Main claims",
+        "Healing of tendons, ligaments, joints and the gut (unproven in people)"
+      ],
+      [
+        "How it's sold",
+        "Injectable or oral products from unregulated sellers"
+      ],
+      [
+        "Drug class",
+        "Synthetic pentadecapeptide based on a gastric protein"
+      ],
+      [
+        "Research",
+        "Mostly rodent studies; three small human pilot studies"
+      ],
+      [
+        "Sport",
+        "Prohibited by WADA at all times (S0, non-approved substances)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-its-thought-to-work",
+        "title": "How it's thought to work",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "BPC stands for \"body protection compound.\" BPC-157 is a synthetic pentadecapeptide, a chain of 15 amino acids, originally isolated from gastric juice. Laboratory and animal studies report that it protects the stomach lining and speeds repair in many tissues.[^3]"
+          },
+          {
+            "type": "p",
+            "text": "Proposed mechanisms include activating VEGFR2 and nitric oxide signaling to promote new blood vessel growth, stimulating fibroblasts (cells that build connective tissue) and dampening inflammation.[^3] These pathways come from cell and animal experiments, and human data to test them are extremely limited."
+          }
+        ]
+      },
+      {
+        "id": "what-the-research-shows",
+        "title": "What the research shows",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Evidence",
+                "What it shows"
+              ],
+              [
+                "Animal studies",
+                "35 of 36 studies in a 2025 systematic review; improved healing of muscle, tendon, ligament and bone injuries in rodents[^1]"
+              ],
+              [
+                "Knee pain, retrospective review",
+                "17 patients at one clinic; 11 of 12 given BPC-157 alone reported significant improvement, but there was no control group and no standardized outcome measures[^4]"
+              ],
+              [
+                "Other human reports",
+                "A small bladder-pain pilot and an intravenous safety and pharmacokinetics pilot; no rigorous trials[^3]"
+              ],
+              [
+                "Registered trials",
+                "A phase 2 trial in hamstring strain is listed as recruiting; no results are available[^5]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Animal results are an unreliable guide to human benefit, and the human literature on BPC-157 amounts to three pilot studies.[^3]"
+          }
+        ]
+      },
+      {
+        "id": "safety-and-unknowns",
+        "title": "Safety and unknowns",
+        "blocks": [
+          {
+            "type": "ul",
+            "items": [
+              "**No clinical safety data:** the 2025 systematic review found none, though animal studies reported no adverse effects across several organ systems[^1]",
+              "**Immune reactions:** FDA says compounded peptides of this type may cause immunogenicity (an immune response) with some routes, and that it has found little or no safety information on BPC-157 for the routes proposed[^6]",
+              "**Identity and purity:** FDA staff told advisers that BPC-157 is described in the literature with a variable number of amino acids and no settled salt or free-base form, so quality standards are hard to set[^2]",
+              "**Gray-market quality:** online vials are not made to drug standards; purity, sterility, contamination and dose are unverified[^1]",
+              "**Unstudied groups:** use in pregnancy, in children and in people with cancer has not been studied"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "legal-and-regulatory-status",
+        "title": "Legal and regulatory status",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "BPC-157 is not an FDA-approved drug. In 2023 the FDA placed it in Category 2 (substances raising significant safety risks) for compounding, which effectively barred pharmacies from using it. In April 2026 the FDA said it would remove a group of peptides, including those slated for committee review, from Category 2 because their nominations were withdrawn.[^7] That removal did not make compounding legal."
+          },
+          {
+            "type": "p",
+            "text": "On July 23, 2026, the FDA's Pharmacy Compounding Advisory Committee reviewed BPC-157 for ulcerative colitis.[^8] It voted 8-6, with one abstention, to recommend adding it to the list of bulk substances that 503A compounding pharmacies may use, against the recommendation of FDA's own reviewers.[^2] The vote is advisory. The FDA must still propose and finalize a rule, so BPC-157 is not yet legally available from compounding pharmacies, and vials sold online as research chemicals remain unapproved drugs when marketed for people."
+          },
+          {
+            "type": "p",
+            "text": "The World Anti-Doping Agency's 2026 Prohibited List names BPC-157 as an example of a non-approved substance banned at all times (class S0)."
+          }
+        ]
+      },
+      {
+        "id": "bottom-line",
+        "title": "Bottom line",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "BPC-157 has a large online reputation and a thin evidence base: dozens of rodent experiments, three small human pilot reports and no controlled human trial showing benefit. An advisory vote does not make it approved or proven. Anyone considering it should know that products may not contain what the label says, and should talk with a clinician about injuries or gut disease, where treatments with known risks and benefits exist."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Very low: animal studies and tiny human reports",
+      "text": "A 2025 systematic review found 35 animal studies and one small human study, with no human safety data.[^1] A later review counted only three human pilot studies and called for rigorous trials before any use.[^3]"
+    },
+    "faq": [
+      {
+        "q": "Does BPC-157 heal tendons and joints?",
+        "a": "It does in many rodent experiments, but there is no controlled human trial. The only human musculoskeletal data are a small retrospective review of knee injections.[^1][^4]"
+      },
+      {
+        "q": "Is BPC-157 legal?",
+        "a": "It is not FDA-approved. FDA advisers recommended in July 2026 that compounding pharmacies be allowed to use it, but the FDA has not finalized that, and online research-labeled products are unapproved drugs when marketed for people.[^2]"
+      },
+      {
+        "q": "Is BPC-157 banned in sports?",
+        "a": "Yes. It is a non-approved substance prohibited at all times under WADA rules.[^1]"
+      },
+      {
+        "q": "Is BPC-157 safe?",
+        "a": "That is not known. No human safety studies have been reported, and FDA has flagged possible immune reactions and quality problems.[^1][^6]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Emerging Use of BPC-157 in Orthopaedic Sports Medicine: A Systematic Review.",
+        "source": "HSS J",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40756949/",
+        "pmid": "40756949",
+        "doi": "10.1177/15563316251355551",
+        "note": "36 studies, 35 preclinical; no clinical safety data"
+      },
+      {
+        "n": 2,
+        "title": "PEPTIDE-L WAVE! PCAC Approves Four Bulk Drug Substances for the 503A List",
+        "source": "FDA Law Blog (Hyman, Phelps & McNamara)",
+        "year": 2026,
+        "url": "https://www.thefdalawblog.com/2026/07/peptide-l-wave-pcac-approves-four-bulk-drug-substances-for-the-503a-list/",
+        "note": "July 23, 2026 vote count and FDA staff concerns"
+      },
+      {
+        "n": 3,
+        "title": "Regeneration or Risk? A Narrative Review of BPC-157 for Musculoskeletal Healing.",
+        "source": "Curr Rev Musculoskelet Med",
+        "year": 2025,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40789979/",
+        "pmid": "40789979",
+        "doi": "10.1007/s12178-025-09990-7",
+        "note": "Mechanisms and the three human pilot studies"
+      },
+      {
+        "n": 4,
+        "title": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain.",
+        "source": "Altern Ther Health Med",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34324435/",
+        "pmid": "34324435",
+        "note": "Retrospective chart review of 17 patients at one clinic"
+      },
+      {
+        "n": 5,
+        "title": "BPC 157 for Acute Hamstring Muscle Strain Repair",
+        "source": "ClinicalTrials.gov",
+        "year": 2026,
+        "url": "https://clinicaltrials.gov/study/NCT07437547",
+        "note": "NCT07437547: phase 2 trial, recruiting"
+      },
+      {
+        "n": 6,
+        "title": "Certain Bulk Drug Substances for Use in Compounding that May Present Significant Safety Risks",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+        "note": "FDA's stated safety concerns about BPC-157"
+      },
+      {
+        "n": 7,
+        "title": "FDA's Pep(tide) Rally! What Compounders and Industry Need to Know (Post 1 of 2)",
+        "source": "FDA Law Blog (Hyman, Phelps & McNamara)",
+        "year": 2026,
+        "url": "https://www.thefdalawblog.com/2026/04/fdas-peptide-rally-what-compounders-and-industry-need-to-know-post-1-of-2/",
+        "note": "2023 Category 2 placement and April 2026 changes"
+      },
+      {
+        "n": 8,
+        "title": "July 23-24, 2026 Meeting of the Pharmacy Compounding Advisory Committee",
+        "source": "U.S. FDA",
+        "year": 2026,
+        "url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026",
+        "note": "Official meeting page: BPC-157 reviewed for ulcerative colitis"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

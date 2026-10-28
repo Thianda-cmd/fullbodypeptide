@@ -1,0 +1,212 @@
+{
+  "slug": "nangibotide",
+  "name": "Nangibotide",
+  "zone": "immune",
+  "category": "clinical",
+  "aliases": [
+    "LR12",
+    "MOTREM"
+  ],
+  "brands": [],
+  "class": "TREM-1 inhibitor peptide",
+  "route": "Continuous IV infusion in trials",
+  "status": "Investigational; phase 2 trials done; FDA-agreed phase 3 design announced Jan 2024; not approved",
+  "evidence": 2,
+  "mechanism": "A 12-amino-acid decoy peptide that traps the ligand of TREM-1, an immune-cell receptor that amplifies inflammation in septic shock",
+  "uses": [
+    "Septic shock (studied)",
+    "Severe COVID-19 respiratory failure (studied)"
+  ],
+  "popular": null,
+  "related": [
+    "angiotensin-ii",
+    "vasopressin",
+    "thymosin-alpha-1",
+    "aviptadil"
+  ],
+  "article": {
+    "summary": "Nangibotide is an experimental peptide that dampens TREM-1, an inflammation amplifier, in septic shock. Its phase 2b trial missed the main goal; a biomarker-guided phase 3 has been planned.",
+    "takeaway": "Nangibotide is a 12-amino-acid peptide that acts as a decoy for the ligand of TREM-1, a receptor on immune cells that amplifies inflammation and is switched on in septic shock.[^1] In the 355-patient phase 2b ASTONISH trial it did **not** meet its main goal, a change in organ-failure score (SOFA) by day 5, in the pre-set high-sTREM-1 group or overall, although higher sTREM-1 cutoffs hinted at a benefit that needs confirming.[^2] A phase 2 trial in 220 patients with COVID-19 reported better day-28 clinical status and lower mortality, but it was stopped early.[^3] In January 2024 the developer said the FDA had agreed the design of a single phase 3 trial.[^4] It is not FDA-approved.",
+    "glance": [
+      [
+        "FDA status",
+        "Investigational; not approved"
+      ],
+      [
+        "Studied for",
+        "Septic shock and severe COVID-19"
+      ],
+      [
+        "How it's given",
+        "Continuous IV infusion in intensive care trials"
+      ],
+      [
+        "Drug class",
+        "TREM-1 inhibitor (decoy peptide)"
+      ],
+      [
+        "Research",
+        "Three randomized phase 2 trials (49, 355 and 220 patients)"
+      ],
+      [
+        "Related",
+        "[Angiotensin II](/peptides/angiotensin-ii), [vasopressin](/peptides/vasopressin)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "TREM-1 is a receptor on infection-fighting cells. When it is activated it drives out inflammatory chemicals and boosts its own production, and a cleaved piece of it, soluble TREM-1 (sTREM-1), circulates in the blood. People with sepsis and septic shock have raised sTREM-1, which is why researchers see TREM-1 as a driver of the runaway immune response.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "Nangibotide, also called LR12, is a chemically made 12-amino-acid fragment derived from a related protein, TLT-1. It acts as a ligand-trapping decoy, meant to turn down TREM-1-driven amplification without shutting off the immune system altogether.[^1] As of a 2024 review, it was the only TREM-1 inhibitor to have entered clinical trials."
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Inotrem, a French company, has run three randomized phase 2 trials: a 49-patient phase 2a and the 355-patient ASTONISH phase 2b in septic shock, plus a 220-patient trial in COVID-19.[^5][^2][^3]"
+          },
+          {
+            "type": "p",
+            "text": "In January 2024 the company announced that, after end-of-phase-2 talks, the FDA had agreed the design of one phase 3 registration trial, ACCURATE: about 1,300 patients (900 in the primary analysis) with high sTREM-1, about 100 sites, and a primary endpoint of being alive and free of organ support at day 29. A Roche sTREM-1 blood test is planned as the companion diagnostic.[^4] ClinicalTrials.gov lists no phase 3 nangibotide trial as of this writing."
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Trial",
+                "Who",
+                "Result"
+              ],
+              [
+                "Phase 2a (2020)",
+                "49 patients with septic shock; three doses or placebo for up to 5 days",
+                "No significant increase in adverse events; no anti-drug antibodies; SOFA changes favored nangibotide but were not significant[^5]"
+              ],
+              [
+                "ASTONISH phase 2b (2023)",
+                "355 patients at 42 hospitals in 7 countries",
+                "Main SOFA goal not met; day-28 mortality overall 25% placebo, 32% low dose, 25% high dose; a benefit signal only at higher sTREM-1 cutoffs[^2]"
+              ],
+              [
+                "ESSENTIAL phase 2 (2023)",
+                "220 patients with COVID-19 on respiratory support; stopped early",
+                "Clinical status improved by day 28 in 64.7% vs 52.0% (odds ratio 1.79); day-28 mortality 16.0% vs 28.0%[^3]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "The COVID-19 trial stopped after 220 patients, so its encouraging findings are not definitive."
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "In ASTONISH, treatment-emergent adverse events occurred in 95-96% of patients in every arm and serious ones in 22-26%, typical for septic shock and similar across groups.[^2] The phase 2a trial found no anti-drug antibodies.[^5] Long-term and real-world safety are unknown, and the peptide has only been given in intensive care trials."
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Phase 3 aims to treat only septic shock patients with high sTREM-1, a precision approach that needs the blood test to be validated alongside the drug.[^4] Because the phase 2b trial missed its primary goal, success is uncertain. A positive, larger trial would be required before any approval."
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Early: three phase 2 trials with mixed results",
+      "text": "About 620 patients in total have been randomized across three phase 2 trials, with the main goal missed in septic shock and a more positive signal in COVID-19.[^2][^3] Efficacy is unproven until a phase 3 trial reports."
+    },
+    "faq": [
+      {
+        "q": "What is sTREM-1 and why does it matter?",
+        "a": "sTREM-1 is a fragment of the TREM-1 receptor shed into the blood during inflammation. Higher levels mark more TREM-1 activation, and the trials used it to try to pick patients more likely to benefit.[^1][^2]"
+      },
+      {
+        "q": "Is nangibotide available outside trials?",
+        "a": "No. It is investigational and has been given only in clinical trials."
+      },
+      {
+        "q": "Did the trials show it saves lives?",
+        "a": "Not in septic shock: ASTONISH missed its main goal and showed no overall mortality benefit,[^2] while the COVID-19 trial reported lower day-28 mortality but stopped early.[^3]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Triggering receptor expressed on myeloid cells-1 in sepsis, and current insights into clinical studies.",
+        "source": "Crit Care",
+        "year": 2024,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38191420/",
+        "pmid": "38191420",
+        "doi": "10.1186/s13054-024-04798-2",
+        "note": "Review of the TREM-1 pathway and nangibotide"
+      },
+      {
+        "n": 2,
+        "title": "Prospective evaluation of the efficacy, safety, and optimal biomarker enrichment strategy for nangibotide, a TREM-1 inhibitor, in patients with septic shock (ASTONISH): a double-blind, randomised, controlled, phase 2b trial.",
+        "source": "Lancet Respir Med",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37269870/",
+        "pmid": "37269870",
+        "doi": "10.1016/S2213-2600(23)00158-3",
+        "note": "355-patient phase 2b trial in septic shock"
+      },
+      {
+        "n": 3,
+        "title": "Evaluation of the efficacy and safety of TREM-1 inhibition with nangibotide in patients with COVID-19 receiving respiratory support: the ESSENTIAL randomised, double-blind trial.",
+        "source": "EClinicalMedicine",
+        "year": 2023,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37350989/",
+        "pmid": "37350989",
+        "doi": "10.1016/j.eclinm.2023.102013",
+        "note": "220-patient phase 2 trial in COVID-19"
+      },
+      {
+        "n": 4,
+        "title": "Inotrem Successfully Reaches Agreement with the FDA for a Phase 3 Registration Trial for Nangibotide in Septic Shock",
+        "source": "BioSpace (Inotrem press release)",
+        "year": 2024,
+        "url": "https://www.biospace.com/inotrem-successfully-reaches-agreement-with-the-fda-for-a-phase-3-registration-trial-for-nangibotide-in-septic-shock",
+        "note": "January 8, 2024 announcement of the planned phase 3 design"
+      },
+      {
+        "n": 5,
+        "title": "Nangibotide in patients with septic shock: a Phase 2a randomized controlled clinical trial.",
+        "source": "Intensive Care Med",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32468087/",
+        "pmid": "32468087",
+        "doi": "10.1007/s00134-020-06109-z",
+        "note": "49-patient phase 2a safety and dose-finding trial"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "slug": "murepavadin",
+  "name": "Murepavadin",
+  "zone": "immune",
+  "category": "clinical",
+  "aliases": [
+    "POL7080"
+  ],
+  "brands": [],
+  "class": "Antimicrobial peptidomimetic (LptD inhibitor)",
+  "route": "IV in phase 3 trials; an inhaled form has had early testing",
+  "status": "Investigational; IV phase 3 trials stopped in 2019 over kidney injury; no FDA approval",
+  "evidence": 2,
+  "mechanism": "A protegrin-inspired ring-shaped peptidomimetic that blocks LptD, the protein that ships lipopolysaccharide to the outer membrane of Pseudomonas aeruginosa",
+  "uses": [
+    "Pseudomonas aeruginosa pneumonia (studied)",
+    "Ventilator-associated pneumonia (studied)"
+  ],
+  "popular": null,
+  "related": [
+    "polymyxin-b-colistin",
+    "ll-37",
+    "daptomycin"
+  ],
+  "article": {
+    "summary": "Murepavadin is an experimental antibiotic aimed at Pseudomonas aeruginosa. Its IV phase 3 trials were halted in 2019 after kidney injury, and an inhaled version has had only early testing.",
+    "takeaway": "Murepavadin is an experimental antibiotic peptide that targets a single organism, Pseudomonas aeruginosa, by blocking LptD, a protein the bacterium needs to build its outer membrane.[^1] It reached two phase 3 trials of intravenous treatment for hospital-acquired and ventilator-associated pneumonia, but both were closed in July 2019 after a higher-than-expected rate of acute kidney injury, with only 43 patients enrolled in total.[^2][^3][^4] An inhaled form, which stays largely out of the bloodstream, has completed only a phase 1 study in healthy volunteers.[^5] **It is not approved anywhere in the US.**",
+    "glance": [
+      [
+        "FDA status",
+        "Investigational; not approved"
+      ],
+      [
+        "Studied for",
+        "Pseudomonas aeruginosa pneumonia in hospital patients"
+      ],
+      [
+        "How it's given",
+        "IV in phase 3 trials; inhaled form in early studies"
+      ],
+      [
+        "Drug class",
+        "Antimicrobial peptidomimetic (LptD inhibitor)"
+      ],
+      [
+        "Research",
+        "Phase 1 and 2 studies; two phase 3 trials stopped early"
+      ],
+      [
+        "Related",
+        "[Polymyxin B / colistin](/peptides/polymyxin-b-colistin), [LL-37](/peptides/ll-37)"
+      ]
+    ],
+    "sections": [
+      {
+        "id": "how-it-works",
+        "title": "How it works",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Pseudomonas aeruginosa is a common cause of hard-to-treat hospital infections, partly because its outer membrane keeps many antibiotics out. Murepavadin was designed from protegrin I, a natural antimicrobial peptide, into a ring-shaped peptidomimetic. It binds LptD, the protein that moves lipopolysaccharide to the outer membrane, and blocks that transport without punching holes in the membrane. It is active at nanomolar levels against Pseudomonas but largely inactive against other bacteria.[^1]"
+          },
+          {
+            "type": "p",
+            "text": "A 2021 study found that the lipopolysaccharide build-up caused by murepavadin made P. aeruginosa more susceptible to colistin in lab and animal tests, which hints at a role in combinations (see [polymyxin B / colistin](/peptides/polymyxin-b-colistin)).[^6] A separate study found that mutations in pmrB can make the bacterium resistant to both drugs at once.[^7]"
+          }
+        ]
+      },
+      {
+        "id": "where-it-is-in-development",
+        "title": "Where it is in development",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Polyphor ran phase 1 and 2 studies, including a 25-patient phase 2 trial in ventilator-associated pneumonia, then began two phase 3 trials in 2018, PRISM-MDR and PRISM-UDR.[^3][^4] The company paused them on May 9, 2019 and closed both on July 17, 2019 after rising serum creatinine pointed to more acute kidney injury than expected. It said 28-day mortality was not higher with murepavadin (30.0% vs 37.5% for control).[^2]"
+          },
+          {
+            "type": "p",
+            "text": "The stop applied to the IV form only. In January 2023 the developer, by then called Spexis, reported a phase 1 study of an inhaled form in 39 healthy volunteers, which was well tolerated with systemic absorption below 5% at the highest dose.[^5] No later-stage murepavadin trial is listed in ClinicalTrials.gov as of this writing."
+          }
+        ]
+      },
+      {
+        "id": "what-the-trials-show",
+        "title": "What the trials show",
+        "blocks": [
+          {
+            "type": "table",
+            "header": true,
+            "rows": [
+              [
+                "Study",
+                "What happened"
+              ],
+              [
+                "Phase 2, ventilator-associated P. aeruginosa pneumonia",
+                "25 participants; completed in 2016; detailed results were not found in the sources reviewed"
+              ],
+              [
+                "Phase 3 PRISM-MDR",
+                "Started March 2018; terminated July 2019 for a 'safety data review' after 41 patients[^3]"
+              ],
+              [
+                "Phase 3 PRISM-UDR",
+                "Started October 2018; terminated July 2019 after 2 patients[^4]"
+              ]
+            ]
+          },
+          {
+            "type": "p",
+            "text": "Because the phase 3 trials stopped so early, they cannot say whether murepavadin cures pneumonia. Its clinical benefit is unproven."
+          }
+        ]
+      },
+      {
+        "id": "safety-so-far",
+        "title": "Safety so far",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "The main safety signal is acute kidney injury. The company reported a higher-than-expected rate in the murepavadin arm of PRISM-MDR, based on rising serum creatinine, and this ended the IV program.[^2] Polymyxin antibiotics such as [colistin](/peptides/polymyxin-b-colistin) also carry a kidney risk."
+          },
+          {
+            "type": "p",
+            "text": "The inhaled study in healthy volunteers found no serious adverse events or airway narrowing, but it was small and preliminary and did not test patients with infection.[^5]"
+          }
+        ]
+      },
+      {
+        "id": "whats-next",
+        "title": "What's next",
+        "blocks": [
+          {
+            "type": "p",
+            "text": "Development now depends on the inhaled form, which was positioned for people with cystic fibrosis or non-CF bronchiectasis.[^5] No phase 2 start has been announced in the sources reviewed, and the company's plans may have changed since 2023. Kidney safety of any renewed IV program would need to be solved first, and cross-resistance with colistin is a further scientific hurdle.[^7]"
+          }
+        ]
+      }
+    ],
+    "evidence": {
+      "label": "Early: small studies and halted phase 3 trials",
+      "text": "Murepavadin has human data from phase 1 and 2 studies and two phase 3 trials that enrolled 43 patients before closing,[^3][^4] so efficacy is unproven. The best-documented finding is a kidney safety problem with the IV form.[^2]"
+    },
+    "faq": [
+      {
+        "q": "Why were the murepavadin trials stopped?",
+        "a": "Polyphor closed them in July 2019 after rising serum creatinine showed more acute kidney injury than expected in patients given IV murepavadin. Mortality was not higher than in the control group.[^2]"
+      },
+      {
+        "q": "Is murepavadin available to patients?",
+        "a": "No. It is not approved, and the IV program was closed. The inhaled form has only had early testing in healthy volunteers.[^5]"
+      },
+      {
+        "q": "How is it different from colistin?",
+        "a": "Colistin disrupts bacterial membranes broadly, while murepavadin blocks one protein, LptD, and mainly affects Pseudomonas.[^1] The two may interact: murepavadin raised colistin's effect in lab and animal tests.[^6]"
+      }
+    ],
+    "citations": [
+      {
+        "n": 1,
+        "title": "Peptidomimetic antibiotics target outer-membrane biogenesis in Pseudomonas aeruginosa.",
+        "source": "Science",
+        "year": 2010,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20167788/",
+        "pmid": "20167788",
+        "doi": "10.1126/science.1182749",
+        "note": "Discovery of the compound class and its LptD target"
+      },
+      {
+        "n": 2,
+        "title": "Polyphor closes the Phase III PRISM studies of murepavadin intravenous formulation and evaluates further product improvement options",
+        "source": "BioSpace (Polyphor press release)",
+        "year": 2019,
+        "url": "https://www.biospace.com/polyphor-closes-the-phase-iii-prism-studies-of-murepavadin-intravenous-formulation-and-evaluates-further-product-improvement-options",
+        "note": "July 17, 2019 closure after higher-than-expected kidney injury"
+      },
+      {
+        "n": 3,
+        "title": "Pivotal Study in VAP Suspected or Confirmed to be Due to Pseudomonas Aeruginosa",
+        "source": "ClinicalTrials.gov",
+        "year": 2019,
+        "url": "https://clinicaltrials.gov/study/NCT03409679",
+        "note": "Terminated 'safety data review'; 41 enrolled"
+      },
+      {
+        "n": 4,
+        "title": "Pivotal Study in Nosocomial Pneumonia Suspected or Confirmed to be Due to Pseudomonas",
+        "source": "ClinicalTrials.gov",
+        "year": 2019,
+        "url": "https://clinicaltrials.gov/study/NCT03582007",
+        "note": "Terminated; 2 enrolled"
+      },
+      {
+        "n": 5,
+        "title": "Spexis reports solid safety and pharmacokinetics results from first in human study with inhaled murepavadin, a novel macrocycle compound",
+        "source": "BEAM Alliance (Spexis announcement)",
+        "year": 2023,
+        "url": "https://beam-alliance.eu/spexis-reports-solid-safety-and-pharmacokinetics-results-from-first-in-human-study-with-inhaled-murepavadin-a-novel-macrocycle-compound",
+        "note": "Phase 1 of inhaled murepavadin in 39 healthy volunteers"
+      },
+      {
+        "n": 6,
+        "title": "Colistin kills bacteria by targeting lipopolysaccharide in the cytoplasmic membrane.",
+        "source": "Elife",
+        "year": 2021,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33821795/",
+        "pmid": "33821795",
+        "doi": "10.7554/eLife.65836",
+        "note": "Murepavadin increased colistin's effect in lab and animal tests"
+      },
+      {
+        "n": 7,
+        "title": "Mutations in pmrB Confer Cross-Resistance between the LptD Inhibitor POL7080 and Colistin in Pseudomonas aeruginosa.",
+        "source": "Antimicrob Agents Chemother",
+        "year": 2019,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31235628/",
+        "pmid": "31235628",
+        "doi": "10.1128/AAC.00511-19",
+        "note": "Shared resistance mechanism with colistin"
+      }
+    ],
+    "updated": "2026-10-28"
+  }
+}

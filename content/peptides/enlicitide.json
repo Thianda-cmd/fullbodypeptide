@@ -2,7 +2,7 @@
   "slug": "enlicitide",
   "name": "Enlicitide",
   "zone": "digestive",
-  "category": "clinical",
+  "category": "fda",
   "aliases": [
     "MK-0616",
     "enlicitide decanoate"
@@ -13,7 +13,7 @@
   "class": "Oral macrocyclic peptide PCSK9 inhibitor",
   "route": "One tablet by mouth daily, on an empty stomach",
   "status": "FDA-approved in July 2026 (Lipfendra) to lower LDL cholesterol; heart-outcome results are still awaited",
-  "evidence": 3,
+  "evidence": 4,
   "mechanism": "Blocks PCSK9, a liver protein that destroys LDL receptors, so the liver clears more LDL cholesterol from the blood",
   "uses": [
     "High LDL cholesterol in adults",
